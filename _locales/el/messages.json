@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Μετατρέψτε το γερμανικό κείμενο μεταξύ ανεπίσημου (Du) και επίσημου (Sie) εγγραφής χρησιμοποιώντας Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Είσοδος"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copied!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Open in Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Εμφάνισ��"
+  },
+  "hideKeyButton": {
+    "message": "Απόκρυψη"
+  },
+  "saveKeyButton": {
+    "message": "Αποθήκευση κλειδιού"
+  },
+  "keySavedConfirm": {
+    "message": "Το κλειδί αποθηκεύτηκε:"
+  },
+  "testKeyButton": {
+    "message": "Κλειδί δοκιμής"
+  },
+  "testKeyValid": {
+    "message": "✓ Έγκυρο"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Δοκιμή…"
+  },
+  "modelLabel": {
+    "message": "Μοντέλο"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ένταση τόνου"
+  },
+  "toneStandard": {
+    "message": "Τυπικό"
+  },
+  "tonePolished": {
+    "message": "Σοιλισμένο"
+  },
+  "toneStrictCorporate": {
+    "message": "Αυστηρό εταιρικό"
+  },
+  "noApiKeyWarning": {
+    "message": "Δεν αποθηκεύτηκε κλειδί API. Εισαγάγετε το κλειδί σας Anthropic API στις"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ρυθμίσεις"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Αυτό το κείμενο ενδέχεται να μην είναι στα γερμανικά. Τα αποτελέσματα ενδέχεται να είναι ανακριβή."
+  },
+  "charactersCount": {
+    "message": "$count$ χαρακτήρες",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Μη έγκυρο κλειδί API. Ελέγξτε το κλειδί σας στις Ρυθμίσεις."
+  },
+  "errorRateLimit": {
+    "message": "Συμπληρώθηκε το όριο τιμής. Περιμένετε και δοκιμάστε ξανά."
+  },
+  "errorApiServer": {
+    "message": "Σ��άλμα Anthropic API. Δοκιμάστε ξανά αργότερα."
+  },
+  "errorNetwork": {
+    "message": "Σφάλμα δικτύου. Ελέγξτε τη σύνδεσή σας."
+  },
+  "errorUnknown": {
+    "message": "Παρουσιάστηκε απροσδόκητο σφάλμα. Δοκιμάστε ξανά."
+  },
+  "errorNoKey": {
+    "message": "Δεν έχει διαμορφωθεί κλειδί API. Προσθέστε το κλειδί σας στις Ρυθμίσεις."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Επιλογή μετατροπής → επίσημη (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Επιλογή μετατροπής → άτυπη (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Μετατροπή…"
+  },
+  "floatingReplaceButton": {
+    "message": "Αντικατάσταση επιλογής"
+  },
+  "floatingCopyButton": {
+    "message": "Αντιγραφή"
+  },
+  "floatingCopiedButton": {
+    "message": "Αντιγράφηκε!"
+  },
+  "floatingDismissButton": {
+    "message": "Παράβλεψη"
+  },
+  "floatingRetryButton": {
+    "message": "Επανάληψη δοκιμής"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "Ιστορικό μετατροπών"
+  },
+  "historyClearButton": {
+    "message": "Εκκαθάριση ιστορικού"
+  },
+  "historyRestoreButton": {
+    "message": "Επαναφορά"
+  },
+  "historyEmpty": {
+    "message": "Δεν υπάρχουν ακόμη μετατροπές."
+  },
+  "historyModeLabel": {
+    "message": "Λειτουργία:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Τυπική"
+  },
+  "historyIntensityPolished": {
+    "message": "Γυαλισμένη"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Αυστηρή εταιρική"
+  },
+  "diffToggleButton": {
+    "message": "Εμφάνιση διαφοράς"
+  },
+  "diffToggleButtonOff": {
+    "message": "Απόκρυψη διαφοράς"
+  },
+  "diffInputLabel": {
+    "message": "Αρχικές ρυθμίσεις"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Απόκρυψη κλειδιού API"
+  },
+  "ariaConvertButton": {
+    "message": "Μετατροπή κειμένου"
+  },
+  "ariaCopyOutput": {
+    "message": "Αντιγραφή εξόδου στο πρόχειρο"
+  },
+  "ariaClearAll": {
+    "message": "Εκκαθάριση εισόδου και εξόδου"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Άνοιγμα πλήρους χώρου εργασίας στον πλαϊνό πίνακα"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "Το κλειδί API έχει αποθηκευτεί"
+  },
+  "keyStatusMissing": {
+    "message": "Δεν έχει αποθηκευτεί κλειδί API"
+  },
+  "converting": {
+    "message": "Μετατροπή…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

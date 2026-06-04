@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie vormindaja"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Teisendage saksakeelne tekst mitteametliku (Du) ja formaalse (Sie) registri vahel, kasutades Claude AI-d."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Sisend"
+  },
+  "outputLabel": {
+    "message": "Väljund"
+  },
+  "inputPlaceholder": {
+    "message": "Kleepige või tippige siia saksakeelne tekst…"
+  },
+  "outputPlaceholder": {
+    "message": "Teisendatud tekst kuvatakse siin…"
+  },
+  "convertButton": {
+    "message": "Teisenda"
+  },
+  "copyButton": {
+    "message": "Kopeeri"
+  },
+  "copiedButton": {
+    "message": "Kopeeritud!"
+  },
+  "clearButton": {
+    "message": "Selge"
+  },
+  "openSidePanelButton": {
+    "message": "Ava külgpaneelil"
+  },
+  "settingsTitle": {
+    "message": "Seaded"
+  },
+  "apiKeyLabel": {
+    "message": "Antroopiline API võti"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Näita"
+  },
+  "hideKeyButton": {
+    "message": "Peida"
+  },
+  "saveKeyButton": {
+    "message": "Salvesta võti"
+  },
+  "keySavedConfirm": {
+    "message": "Võti salvestatud:"
+  },
+  "testKeyButton": {
+    "message": "Testi võti"
+  },
+  "testKeyValid": {
+    "message": "✓ Kehtib"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Kehtetu"
+  },
+  "testKeyTesting": {
+    "message": "Testimine…"
+  },
+  "modelLabel": {
+    "message": "Mudel"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tooni intensiivsus"
+  },
+  "toneStandard": {
+    "message": "Standardne"
+  },
+  "tonePolished": {
+    "message": "Poleeritud"
+  },
+  "toneStrictCorporate": {
+    "message": "Range korporatsioon"
+  },
+  "noApiKeyWarning": {
+    "message": "API-võtit pole salvestatud. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Seaded"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "See tekst ei pruugi olla saksa keeles. "
+  },
+  "charactersCount": {
+    "message": "$count$ tähemärki",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kehtetu API võti. "
+  },
+  "errorRateLimit": {
+    "message": "Hindade limiit on täis. "
+  },
+  "errorApiServer": {
+    "message": "Antroopne API viga. "
+  },
+  "errorNetwork": {
+    "message": "Võrgu viga. "
+  },
+  "errorUnknown": {
+    "message": "Ilmnes ootamatu viga. "
+  },
+  "errorNoKey": {
+    "message": "API-võtit pole konfigureeritud. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie vormindaja"
+  },
+  "contextMenuToSie": {
+    "message": "Teisenda valik → formaalne (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Teisenda valik → mitteametlik (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie vormindaja"
+  },
+  "floatingCardLoading": {
+    "message": "Teisendamine…"
+  },
+  "floatingReplaceButton": {
+    "message": "Asenda valik"
+  },
+  "floatingCopyButton": {
+    "message": "Kopeeri"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopeeritud!"
+  },
+  "floatingDismissButton": {
+    "message": "Loobu"
+  },
+  "floatingRetryButton": {
+    "message": "Proovi uuesti"
+  },
+  "floatingErrorPrefix": {
+    "message": "Viga:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Selle lehe teksti ei saa asendada. "
+  },
+  "historyTitle": {
+    "message": "Konversioonide ajalugu"
+  },
+  "historyClearButton": {
+    "message": "Kustuta ajalugu"
+  },
+  "historyRestoreButton": {
+    "message": "Taasta"
+  },
+  "historyEmpty": {
+    "message": "Konversioone pole veel tehtud."
+  },
+  "historyModeLabel": {
+    "message": "Režiim:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiivsus:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standardne"
+  },
+  "historyIntensityPolished": {
+    "message": "Poleeritud"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Range korporatsioon"
+  },
+  "diffToggleButton": {
+    "message": "Näita erinevust"
+  },
+  "diffToggleButtonOff": {
+    "message": "Peida erinevus"
+  },
+  "diffInputLabel": {
+    "message": "Originaal"
+  },
+  "diffOutputLabel": {
+    "message": "Teisendatud"
+  },
+  "ariaSettingsToggle": {
+    "message": "Seadete paneeli sisse- ja väljalülitamine"
+  },
+  "ariaShowPassword": {
+    "message": "Kuva API võti"
+  },
+  "ariaHidePassword": {
+    "message": "Peida API võti"
+  },
+  "ariaConvertButton": {
+    "message": "Teisenda teksti"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopeeri väljund lõikepuhvrisse"
+  },
+  "ariaClearAll": {
+    "message": "Selge sisend ja väljund"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Avage külgpaneelil kogu tööruum"
+  },
+  "ariaDiffToggle": {
+    "message": "Diff-vaate sisse- ja väljalülitamine"
+  },
+  "ariaHistoryToggle": {
+    "message": "Ajaloo paneeli sisse- ja väljalülitamine"
+  },
+  "keyStatusPresent": {
+    "message": "API võti on salvestatud"
+  },
+  "keyStatusMissing": {
+    "message": "API-võtit pole salvestatud"
+  },
+  "converting": {
+    "message": "Teisendamine…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie vormistaja – tööruum"
+  }
+}

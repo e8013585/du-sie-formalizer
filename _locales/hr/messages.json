@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Pretvorite njemački tekst između neformalnog (Du) i formalnog (Sie) registra pomoću Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ulaz"
+  },
+  "outputLabel": {
+    "message": "Izlaz"
+  },
+  "inputPlaceholder": {
+    "message": "Zalijepite ili upišite njemački tekst ovdje…"
+  },
+  "outputPlaceholder": {
+    "message": "Konvertirani tekst pojavit će se ovdje…"
+  },
+  "convertButton": {
+    "message": "Pretvori"
+  },
+  "copyButton": {
+    "message": "Kopiraj"
+  },
+  "copiedButton": {
+    "message": "Kopirano!"
+  },
+  "clearButton": {
+    "message": "Izbriši"
+  },
+  "openSidePanelButton": {
+    "message": "Otvori na bočnoj ploči"
+  },
+  "settingsTitle": {
+    "message": "Postavke"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ključ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Prikaži"
+  },
+  "hideKeyButton": {
+    "message": "Sakrij"
+  },
+  "saveKeyButton": {
+    "message": "Spremi ključ"
+  },
+  "keySavedConfirm": {
+    "message": "Ključ spremljen:"
+  },
+  "testKeyButton": {
+    "message": "Testni ključ"
+  },
+  "testKeyValid": {
+    "message": "✓ Važeći"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Nevažeće"
+  },
+  "testKeyTesting": {
+    "message": "Testiranje…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intenzitet tona"
+  },
+  "toneStandard": {
+    "message": "Standardno"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strogo korporativno"
+  },
+  "noApiKeyWarning": {
+    "message": "API ključ nije spremljen. Unesite svoj Anthropic API ključ u"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Postavke"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ovaj tekst možda nije na njemačkom. Rezultati mogu biti netočni."
+  },
+  "charactersCount": {
+    "message": "$count$ znakova",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Nevažeći API ključ. Provjerite svoj ključ u Postavkama."
+  },
+  "errorRateLimit": {
+    "message": "Dosegnuto je ograničenje brzine. Pričekajte i pokušajte ponovno."
+  },
+  "errorApiServer": {
+    "message": "Greška Anthropic API-ja. Pokušajte ponovno kasnije."
+  },
+  "errorNetwork": {
+    "message": "Mrežna pogreška. Provjerite svoju vezu."
+  },
+  "errorUnknown": {
+    "message": "Došlo je do neočekivane pogreške. Pokušajte ponovo."
+  },
+  "errorNoKey": {
+    "message": "Ključ API-ja nije konfiguriran. Dodajte svoj ključ u Postavkama."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Pretvori odabir → formalno (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Pretvori odabir → neformalno (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Pretvori..."
+  },
+  "floatingReplaceButton": {
+    "message": "Zamijeni Odabir"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiraj"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopirano!"
+  },
+  "floatingDismissButton": {
+    "message": "Odbaci"
+  },
+  "floatingRetryButton": {
+    "message": "Pokušaj ponovno"
+  },
+  "floatingErrorPrefix": {
+    "message": "Pogreška:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Nije moguće zamijeniti tekst na ovoj stranici. Umjesto toga kopirajte."
+  },
+  "historyTitle": {
+    "message": "Povijest konverzija"
+  },
+  "historyClearButton": {
+    "message": "Izbriši povijest"
+  },
+  "historyRestoreButton": {
+    "message": "Vrati"
+  },
+  "historyEmpty": {
+    "message": "Još nema konverzija."
+  },
+  "historyModeLabel": {
+    "message": "Način:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intenzitet:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standardno"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Hide Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API tipka"
+  },
+  "ariaHidePassword": {
+    "message": "Sakrij tipku API-ja"
+  },
+  "ariaConvertButton": {
+    "message": "Pretvori tekst"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopiraj izlaz u međuspremnik"
+  },
+  "ariaClearAll": {
+    "message": "Izbriši ulaz i izlaz"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Otvori cijeli radni prostor na bočnoj ploči"
+  },
+  "ariaDiffToggle": {
+    "message": "Prikaži prikaz razlike"
+  },
+  "ariaHistoryToggle": {
+    "message": "Prikaži ploču povijesti"
+  },
+  "keyStatusPresent": {
+    "message": "Ključ API-ja je spremljeno"
+  },
+  "keyStatusMissing": {
+    "message": "Nijedan ključ API-ja nije spremljen"
+  },
+  "converting": {
+    "message": "Pretvaranje…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Radni prostor"
+  }
+}

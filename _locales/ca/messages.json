@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Formalitzador Du↔Sie"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Converteix text alemany entre registre informal (Du) i formal (Sie) amb Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Entrada"
+  },
+  "outputLabel": {
+    "message": "Sortida"
+  },
+  "inputPlaceholder": {
+    "message": "Enganxeu o escriviu text alemany aquí..."
+  },
+  "outputPlaceholder": {
+    "message": "El text convertit apareixerà aquí..."
+  },
+  "convertButton": {
+    "message": "Converteix"
+  },
+  "copyButton": {
+    "message": "Còpia"
+  },
+  "copiedButton": {
+    "message": "Copiat!"
+  },
+  "clearButton": {
+    "message": "Clar"
+  },
+  "openSidePanelButton": {
+    "message": "Obre al panell lateral"
+  },
+  "settingsTitle": {
+    "message": "Configuració"
+  },
+  "apiKeyLabel": {
+    "message": "Clau de l'API antròpica"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Mostra"
+  },
+  "hideKeyButton": {
+    "message": "Amaga"
+  },
+  "saveKeyButton": {
+    "message": "Desa la clau"
+  },
+  "keySavedConfirm": {
+    "message": "Clau desada:"
+  },
+  "testKeyButton": {
+    "message": "Clau de prova"
+  },
+  "testKeyValid": {
+    "message": "✓ Vàlid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ No vàlid"
+  },
+  "testKeyTesting": {
+    "message": "S'està provant…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensitat del to"
+  },
+  "toneStandard": {
+    "message": "Estàndard"
+  },
+  "tonePolished": {
+    "message": "Polit"
+  },
+  "toneStrictCorporate": {
+    "message": "Corporatiu estricte"
+  },
+  "noApiKeyWarning": {
+    "message": "No s'ha desat cap clau de l'API. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Configuració"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "És possible que aquest text no estigui en alemany. "
+  },
+  "charactersCount": {
+    "message": "$count$ caràcters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Clau API no vàlida. "
+  },
+  "errorRateLimit": {
+    "message": "S'ha arribat al límit de tarifa. "
+  },
+  "errorApiServer": {
+    "message": "Error de l'API antròpica. "
+  },
+  "errorNetwork": {
+    "message": "Error de xarxa. "
+  },
+  "errorUnknown": {
+    "message": "S'ha produït un error inesperat. "
+  },
+  "errorNoKey": {
+    "message": "No s'ha configurat cap clau d'API. "
+  },
+  "contextMenuRoot": {
+    "message": "Formalitzador Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Convertir selecció → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Converteix la selecció → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalitzador Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "S'està convertint…"
+  },
+  "floatingReplaceButton": {
+    "message": "Substitueix la selecció"
+  },
+  "floatingCopyButton": {
+    "message": "Còpia"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiat!"
+  },
+  "floatingDismissButton": {
+    "message": "Descartar"
+  },
+  "floatingRetryButton": {
+    "message": "Torna-ho a provar"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "No es pot substituir el text d'aquesta pàgina. "
+  },
+  "historyTitle": {
+    "message": "Historial de conversions"
+  },
+  "historyClearButton": {
+    "message": "Esborra l'historial"
+  },
+  "historyRestoreButton": {
+    "message": "Restaurar"
+  },
+  "historyEmpty": {
+    "message": "Encara no hi ha conversions."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitat:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estàndard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polit"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Corporatiu estricte"
+  },
+  "diffToggleButton": {
+    "message": "Mostra la diferència"
+  },
+  "diffToggleButtonOff": {
+    "message": "Amaga la diferència"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Convertit"
+  },
+  "ariaSettingsToggle": {
+    "message": "Canvia el panell de configuració"
+  },
+  "ariaShowPassword": {
+    "message": "Mostra la clau de l'API"
+  },
+  "ariaHidePassword": {
+    "message": "Amaga la clau de l'API"
+  },
+  "ariaConvertButton": {
+    "message": "Converteix text"
+  },
+  "ariaCopyOutput": {
+    "message": "Copia la sortida al porta-retalls"
+  },
+  "ariaClearAll": {
+    "message": "Neteja l'entrada i la sortida"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Obre l'espai de treball complet al tauler lateral"
+  },
+  "ariaDiffToggle": {
+    "message": "Canvia la vista de diferència"
+  },
+  "ariaHistoryToggle": {
+    "message": "Commuta el panell de l'historial"
+  },
+  "keyStatusPresent": {
+    "message": "La clau de l'API està desada"
+  },
+  "keyStatusMissing": {
+    "message": "No s'ha desat cap clau de l'API"
+  },
+  "converting": {
+    "message": "S'està convertint…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Espai de treball"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Преобразуйте немецкий текст между неформальным (Du) и формальным (Sie) регистром с помощью Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ввод"
+  },
+  "outputLabel": {
+    "message": "Вывод"
+  },
+  "inputPlaceholder": {
+    "message": "Вставьте или введите здесь немецкий текст…"
+  },
+  "outputPlaceholder": {
+    "message": "Появится преобразованный текст здесь…"
+  },
+  "convertButton": {
+    "message": "Конвертировать"
+  },
+  "copyButton": {
+    "message": "Копировать"
+  },
+  "copiedButton": {
+    "message": "Скопировано!"
+  },
+  "clearButton": {
+    "message": "Очистить"
+  },
+  "openSidePanelButton": {
+    "message": "Открыть на боковой панели"
+  },
+  "settingsTitle": {
+    "message": "Настройки"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ключ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Показать"
+  },
+  "hideKeyButton": {
+    "message": "Скрыть"
+  },
+  "saveKeyButton": {
+    "message": "Сохранить ключ"
+  },
+  "keySavedConfirm": {
+    "message": "Ключ сохранен:"
+  },
+  "testKeyButton": {
+    "message": "Тестовый ключ"
+  },
+  "testKeyValid": {
+    "message": "✓ Действителен"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Недействительно"
+  },
+  "testKeyTesting": {
+    "message": "Тестирование…"
+  },
+  "modelLabel": {
+    "message": "Модель"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Интенсивность тона"
+  },
+  "toneStandard": {
+    "message": "Стандартная"
+  },
+  "tonePolished": {
+    "message": "Полированная"
+  },
+  "toneStrictCorporate": {
+    "message": "Стро��о корпоративная"
+  },
+  "noApiKeyWarning": {
+    "message": "Ключ API не сохранен. Введите ключ Anthropic API в"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Настройки"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Этот текст может быть не на немецком языке. Результаты могут быть неточными."
+  },
+  "charactersCount": {
+    "message": "$count$ символов",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Неверный ключ API. Пожалуйста, проверьте свой ключ в настройках."
+  },
+  "errorRateLimit": {
+    "message": "Достигнут предел скорости. Пожалуйста, подождите и повторите попытку."
+  },
+  "errorApiServer": {
+    "message": "Ошибка Anthropic API. Повторите попытку позже."
+  },
+  "errorNetwork": {
+    "message": "Ошибка сети. Пожалуйста, проверьте подключение."
+  },
+  "errorUnknown": {
+    "message": "Произошла непредвиденная ошибка. Повторите попытку."
+  },
+  "errorNoKey": {
+    "message": "Ключ API не настроен. Добавьте свой ключ в Настройках."
+  },
+  "contextMenuRoot": {
+    "message": "Формализатор Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Преобразо��ать выделение → формальный (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Преобразовать выделение → неформальный (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Формализатор Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Преобразование…"
+  },
+  "floatingReplaceButton": {
+    "message": "Заменить Выделенное"
+  },
+  "floatingCopyButton": {
+    "message": "Копировать"
+  },
+  "floatingCopiedButton": {
+    "message": "Скопировано!"
+  },
+  "floatingDismissButton": {
+    "message": "Закрыть"
+  },
+  "floatingRetryButton": {
+    "message": "Повторить"
+  },
+  "floatingErrorPrefix": {
+    "message": "Ошибка:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Невозможно заменить текст на этой странице. Вместо этого скопируйте."
+  },
+  "historyTitle": {
+    "message": "История конверсий"
+  },
+  "historyClearButton": {
+    "message": "Очистить историю"
+  },
+  "historyRestoreButton": {
+    "message": "Восстановить"
+  },
+  "historyEmpty": {
+    "message": "Конверсий пока нет."
+  },
+  "historyModeLabel": {
+    "message": "Режим:"
+  },
+  "historyIntensityLabel": {
+    "message": "Интенсивность:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Стандартный"
+  },
+  "historyIntensityPolished": {
+    "message": "Полированный"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Строгий корпоративный"
+  },
+  "diffToggleButton": {
+    "message": "Показать разницу"
+  },
+  "diffToggleButtonOff": {
+    "message": "Скрыть разницу"
+  },
+  "diffInputLabel": {
+    "message": "Исходный"
+  },
+  "diffOutputLabel": {
+    "message": "Конвертированный"
+  },
+  "ariaSettingsToggle": {
+    "message": "Переключить панель настроек"
+  },
+  "ariaShowPassword": {
+    "message": "Показать API key"
+  },
+  "ariaHidePassword": {
+    "message": "Скрыть ключ API"
+  },
+  "ariaConvertButton": {
+    "message": "Преобразовать текст"
+  },
+  "ariaCopyOutput": {
+    "message": "Копировать вывод в буфер обмена"
+  },
+  "ariaClearAll": {
+    "message": "Очистить ввод и вывод"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Открыть всю рабочую область на боковой панели"
+  },
+  "ariaDiffToggle": {
+    "message": "Переключить просмотр различий"
+  },
+  "ariaHistoryToggle": {
+    "message": "Переключить панель истории"
+  },
+  "keyStatusPresent": {
+    "message": "Ключ API сохранено"
+  },
+  "keyStatusMissing": {
+    "message": "Ключ API не сохранен"
+  },
+  "converting": {
+    "message": "Преобразование…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Рабочая область"
+  }
+}

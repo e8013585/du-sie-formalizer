@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizador"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Alemán qillqata tikray informal (Du) chaymanta formal (Sie) registro chawpipi Claude AI llamk'achispa."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Yaykuy"
+  },
+  "outputLabel": {
+    "message": "Lluqsiy"
+  },
+  "inputPlaceholder": {
+    "message": "Kaypi alemán qillqata k'askachiy utaq qillqay..."
+  },
+  "outputPlaceholder": {
+    "message": "Tikrasqa qillqa rikurimunqa kaypi..."
+  },
+  "convertButton": {
+    "message": "Tikray"
+  },
+  "copyButton": {
+    "message": "Copia"
+  },
+  "copiedButton": {
+    "message": "Copiasqa!"
+  },
+  "clearButton": {
+    "message": "Ch’uyanchana"
+  },
+  "openSidePanelButton": {
+    "message": "Panel ladomanta kichay"
+  },
+  "settingsTitle": {
+    "message": "Ajustes"
+  },
+  "apiKeyLabel": {
+    "message": "API Antrópico Llave"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Qhawachiy"
+  },
+  "hideKeyButton": {
+    "message": "Pakakuy"
+  },
+  "saveKeyButton": {
+    "message": "Waqaychay Llave"
+  },
+  "keySavedConfirm": {
+    "message": "Llave waqaychasqa:"
+  },
+  "testKeyButton": {
+    "message": "Prueba Llave"
+  },
+  "testKeyValid": {
+    "message": "✓ Allinmi"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Mana allin"
+  },
+  "testKeyTesting": {
+    "message": "Prueba..."
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tono Intensidad"
+  },
+  "toneStandard": {
+    "message": "Estándar"
+  },
+  "tonePolished": {
+    "message": "Llimentado"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporativo"
+  },
+  "noApiKeyWarning": {
+    "message": "Mana API llave waqaychasqachu. Ama hina kaspa, Anthropic API llaveykita qillqay"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ajustes"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Kay qillqasqaqa mana aliman simipichu kanman. Resultados mana chiqapchu kanman."
+  },
+  "charactersCount": {
+    "message": "$count$ qillqakuna",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Mana allin API llave. Ama hina kaspa, llaveykita qhaway Ajustes nisqapi."
+  },
+  "errorRateLimit": {
+    "message": "Tarifa límite chayasqa. Ama hina kaspa, suyay hinaspa hukmanta kallpachakuy."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API pantasqa. Ama hina kaspa, qhipaman hukmanta kallpachakuy."
+  },
+  "errorNetwork": {
+    "message": "Llika pantasqa. Ama hina kaspa, tinkisqaykita qhaway."
+  },
+  "errorUnknown": {
+    "message": "Mana suyasqa pantaymi karqan. Ama hina kaspa, hukmanta kallpachakuy."
+  },
+  "errorNoKey": {
+    "message": "Mana API llaveqa wakichisqachu. Ama hina kaspa, llaveykita yapay Ajustes nisqapi."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizador"
+  },
+  "contextMenuToSie": {
+    "message": "Akllayta tikray → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Akllayta tikray → mana informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizador"
+  },
+  "floatingCardLoading": {
+    "message": "Tikray..."
+  },
+  "floatingReplaceButton": {
+    "message": "Trukiy Akllay"
+  },
+  "floatingCopyButton": {
+    "message": "Qillqasqa"
+  },
+  "floatingCopiedButton": {
+    "message": "Qillqasqa!"
+  },
+  "floatingDismissButton": {
+    "message": "Qillqasqa"
+  },
+  "floatingRetryButton": {
+    "message": "Wakmanta ruway"
+  },
+  "floatingErrorPrefix": {
+    "message": "Pantasqa:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Manam kay p'anqapi qillqasqata tikrayta atikunmanchu. Ama hina kaspa, chaypa rantinpi copiay."
+  },
+  "historyTitle": {
+    "message": "Tikraymanta willakuy"
+  },
+  "historyClearButton": {
+    "message": "Ñawpaqta chuyanchay"
+  },
+  "historyRestoreButton": {
+    "message": "Kutichiy"
+  },
+  "historyEmpty": {
+    "message": "Manaraqmi tikraykuna."
+  },
+  "historyModeLabel": {
+    "message": "Modo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensidad:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estándar"
+  },
+  "historyIntensityPolished": {
+    "message": "Llimp’asqa"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporativo"
+  },
+  "diffToggleButton": {
+    "message": "Diff rikuchiy"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff pakay"
+  },
+  "diffInputLabel": {
+    "message": "Qallariy"
+  },
+  "diffOutputLabel": {
+    "message": "T’ikrasqa"
+  },
+  "ariaSettingsToggle": {
+    "message": "Ajustes tikray panel"
+  },
+  "ariaShowPassword": {
+    "message": "API llaveta qawachiy"
+  },
+  "ariaHidePassword": {
+    "message": "API llaveta pakay"
+  },
+  "ariaConvertButton": {
+    "message": "Qillqata tikray"
+  },
+  "ariaCopyOutput": {
+    "message": "Lluqsiyta qillqana mayt'uman copiay"
+  },
+  "ariaClearAll": {
+    "message": "Yaykusqa lluqsiyta chuyanchay"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Llaqta panelpi hunt'a llamkana pampata kichay"
+  },
+  "ariaDiffToggle": {
+    "message": "Chiqap qhawayta tikray"
+  },
+  "ariaHistoryToggle": {
+    "message": "Willakuypa willayninta tikranapaq panel"
+  },
+  "keyStatusPresent": {
+    "message": "API llave waqaychasqa kachkan"
+  },
+  "keyStatusMissing": {
+    "message": "Mana API llave waqaychasqachu"
+  },
+  "converting": {
+    "message": "Tikrachkan..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Llamkana pampa"
+  }
+}

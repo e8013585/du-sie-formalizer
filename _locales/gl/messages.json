@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Converte texto alemán entre rexistro informal (Du) e formal (Sie) usando Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Entrada"
+  },
+  "outputLabel": {
+    "message": "Saída"
+  },
+  "inputPlaceholder": {
+    "message": "Pega ou escribe aquí texto alemán..."
+  },
+  "outputPlaceholder": {
+    "message": "O texto convertido aparecerá aquí..."
+  },
+  "convertButton": {
+    "message": "Converter"
+  },
+  "copyButton": {
+    "message": "Copiar"
+  },
+  "copiedButton": {
+    "message": "Copiado!"
+  },
+  "clearButton": {
+    "message": "Limpar"
+  },
+  "openSidePanelButton": {
+    "message": "Abrir no panel lateral"
+  },
+  "settingsTitle": {
+    "message": "Configuración"
+  },
+  "apiKeyLabel": {
+    "message": "Clave de API antrópica"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Mostrar"
+  },
+  "hideKeyButton": {
+    "message": "Ocultar"
+  },
+  "saveKeyButton": {
+    "message": "Gardar chave"
+  },
+  "keySavedConfirm": {
+    "message": "Chave gardada:"
+  },
+  "testKeyButton": {
+    "message": "Chave de proba"
+  },
+  "testKeyValid": {
+    "message": "✓ Válido"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Non válido"
+  },
+  "testKeyTesting": {
+    "message": "Probando…"
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensidade do ton"
+  },
+  "toneStandard": {
+    "message": "Estándar"
+  },
+  "tonePolished": {
+    "message": "Pulido"
+  },
+  "toneStrictCorporate": {
+    "message": "Corporativo estrito"
+  },
+  "noApiKeyWarning": {
+    "message": "Non se gardou ningunha chave da API. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Configuración"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Este texto pode non estar en alemán. "
+  },
+  "charactersCount": {
+    "message": "$count$ caracteres",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Chave API non válida. "
+  },
+  "errorRateLimit": {
+    "message": "Alcanzouse o límite da taxa. "
+  },
+  "errorApiServer": {
+    "message": "Erro da API antrópica. "
+  },
+  "errorNetwork": {
+    "message": "Erro de rede. "
+  },
+  "errorUnknown": {
+    "message": "Produciuse un erro inesperado. "
+  },
+  "errorNoKey": {
+    "message": "Non se configurou ningunha clave API. "
+  },
+  "contextMenuRoot": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Converter selección → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Converter selección → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Convertendo…"
+  },
+  "floatingReplaceButton": {
+    "message": "Substituír a selección"
+  },
+  "floatingCopyButton": {
+    "message": "Copiar"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiado!"
+  },
+  "floatingDismissButton": {
+    "message": "Descartar"
+  },
+  "floatingRetryButton": {
+    "message": "Volve tentar"
+  },
+  "floatingErrorPrefix": {
+    "message": "Erro:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Non se pode substituír o texto desta páxina. "
+  },
+  "historyTitle": {
+    "message": "Historial de conversións"
+  },
+  "historyClearButton": {
+    "message": "Borrar o historial"
+  },
+  "historyRestoreButton": {
+    "message": "Restaurar"
+  },
+  "historyEmpty": {
+    "message": "Aínda non hai conversións."
+  },
+  "historyModeLabel": {
+    "message": "Modo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensidade:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estándar"
+  },
+  "historyIntensityPolished": {
+    "message": "Pulido"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Corporativo estrito"
+  },
+  "diffToggleButton": {
+    "message": "Mostrar dif"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ocultar diferenza"
+  },
+  "diffInputLabel": {
+    "message": "Orixinal"
+  },
+  "diffOutputLabel": {
+    "message": "Convertido"
+  },
+  "ariaSettingsToggle": {
+    "message": "Alterna o panel de configuración"
+  },
+  "ariaShowPassword": {
+    "message": "Mostrar a clave da API"
+  },
+  "ariaHidePassword": {
+    "message": "Ocultar a clave da API"
+  },
+  "ariaConvertButton": {
+    "message": "Converter texto"
+  },
+  "ariaCopyOutput": {
+    "message": "Copiar a saída no portapapeis"
+  },
+  "ariaClearAll": {
+    "message": "Borrar entrada e saída"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Abre o espazo de traballo completo no panel lateral"
+  },
+  "ariaDiffToggle": {
+    "message": "Cambiar a vista diferencial"
+  },
+  "ariaHistoryToggle": {
+    "message": "Alterna o panel do historial"
+  },
+  "keyStatusPresent": {
+    "message": "A clave API está gardada"
+  },
+  "keyStatusMissing": {
+    "message": "Non se gardou ningunha chave da API"
+  },
+  "converting": {
+    "message": "Convertendo…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Espazo de traballo"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "تحويل النص الألماني بين التسجيل غير الرسمي (Du) والرسمي (Sie) باستخدام Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "الإدخال"
+  },
+  "outputLabel": {
+    "message": "الإخراج"
+  },
+  "inputPlaceholder": {
+    "message": "الصق أو اكتب النص الألماني هنا..."
+  },
+  "outputPlaceholder": {
+    "message": "سيظهر النص المحول هنا..."
+  },
+  "convertButton": {
+    "message": "تحويل"
+  },
+  "copyButton": {
+    "message": "نسخ"
+  },
+  "copiedButton": {
+    "message": "تم نسخ!"
+  },
+  "clearButton": {
+    "message": "مسح"
+  },
+  "openSidePanelButton": {
+    "message": "فتح في اللوحة الجانبية"
+  },
+  "settingsTitle": {
+    "message": "الإعدادات"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API المفتاح"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "إظهار"
+  },
+  "hideKeyButton": {
+    "message": "إخفاء"
+  },
+  "saveKeyButton": {
+    "message": "حفظ المفتاح"
+  },
+  "keySavedConfirm": {
+    "message": "المفتاح المحفوظ:"
+  },
+  "testKeyButton": {
+    "message": "مفتاح اختباري"
+  },
+  "testKeyValid": {
+    "message": "✓ صالح"
+  },
+  "testKeyInvalid": {
+    "message": "✗ غير صالح"
+  },
+  "testKeyTesting": {
+    "message": "اختبار..."
+  },
+  "modelLabel": {
+    "message": "النموذج"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "كثافة النغمة"
+  },
+  "toneStandard": {
+    "message": "قياسية"
+  },
+  "tonePolished": {
+    "message": "مصقولة"
+  },
+  "toneStrictCorporate": {
+    "message": "شركة صارمة"
+  },
+  "noApiKeyWarning": {
+    "message": "لم يتم حفظ مفتاح API. الرجاء إدخال مفتاح Anthropic API في"
+  },
+  "noApiKeyWarningLink": {
+    "message": "الإعدادات"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "قد لا يكون هذا النص باللغة الألمانية. قد تكون النتائج غير دقيقة."
+  },
+  "charactersCount": {
+    "message": "$count$ حرفًا",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "مفتاح واجهة برمجة التطبيقات غير صالح. يرجى التحقق من مفتاحك في الإعدادات."
+  },
+  "errorRateLimit": {
+    "message": "تم الوصول إلى الحد الأقصى للسعر. الرجاء الانتظار والمحاولة مرة أخرى."
+  },
+  "errorApiServer": {
+    "message": "خطأ بشري في واجهة برمجة التطبيقات. الرجاء إعادة المحاولة لاحقًا."
+  },
+  "errorNetwork": {
+    "message": "خطأ في الشبكة. الرجاء التحقق من الاتصال."
+  },
+  "errorUnknown": {
+    "message": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى."
+  },
+  "errorNoKey": {
+    "message": "لم يتم تكوين مفتاح API. يرجى إضافة مفتاحك في الإعدادات."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "تحويل التحديد → رسمي (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "تحويل التحديد → غير رسمي (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "تحويل…"
+  },
+  "floatingReplaceButton": {
+    "message": "استبدال التحديد"
+  },
+  "floatingCopyButton": {
+    "message": "نسخ"
+  },
+  "floatingCopiedButton": {
+    "message": "تم النسخ!"
+  },
+  "floatingDismissButton": {
+    "message": "رفض"
+  },
+  "floatingRetryButton": {
+    "message": "إعادة المحاولة"
+  },
+  "floatingErrorPrefix": {
+    "message": "خطأ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "لا يمكن استبدال النص في هذه الصفحة. الرجاء النسخ بدلاً من ذلك."
+  },
+  "historyTitle": {
+    "message": "سجل التحويلات"
+  },
+  "historyClearButton": {
+    "message": "مسح السجل"
+  },
+  "historyRestoreButton": {
+    "message": "استعادة"
+  },
+  "historyEmpty": {
+    "message": "لا توجد تحويلات بعد."
+  },
+  "historyModeLabel": {
+    "message": "الوضع:"
+  },
+  "historyIntensityLabel": {
+    "message": "الكثافة:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "قياسي"
+  },
+  "historyIntensityPolished": {
+    "message": "مصقول"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "صارم للشركات"
+  },
+  "diffToggleButton": {
+    "message": "إظهار الفرق"
+  },
+  "diffToggleButtonOff": {
+    "message": "إخفاء الفرق"
+  },
+  "diffInputLabel": {
+    "message": "الأصلي"
+  },
+  "diffOutputLabel": {
+    "message": "محول"
+  },
+  "ariaSettingsToggle": {
+    "message": "تبديل لوحة الإعدادات"
+  },
+  "ariaShowPassword": {
+    "message": "إظهار واجهة برمجة التطبيقات المفتاح"
+  },
+  "ariaHidePassword": {
+    "message": "إخفاء ��فتاح واجهة برمجة التطبيقات"
+  },
+  "ariaConvertButton": {
+    "message": "تحويل النص"
+  },
+  "ariaCopyOutput": {
+    "message": "نسخ الإخراج إلى الحافظة"
+  },
+  "ariaClearAll": {
+    "message": "مسح الإدخال والإخراج"
+  },
+  "ariaOpenSidePanel": {
+    "message": "فتح مساحة عمل كاملة في اللوحة الجانبية"
+  },
+  "ariaDiffToggle": {
+    "message": "تبديل عرض الفرق"
+  },
+  "ariaHistoryToggle": {
+    "message": "تبديل لوحة السجل"
+  },
+  "keyStatusPresent": {
+    "message": "مفتاح واجهة برمجة التطبيقات هو تم الحفظ"
+  },
+  "keyStatusMissing": {
+    "message": "لم يتم حفظ أي مفتاح API"
+  },
+  "converting": {
+    "message": "جاري التحويل…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – مساحة العمل"
+  }
+}

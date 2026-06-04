@@ -1,0 +1,100 @@
+{
+  "extensionName":        { "message": "Du↔Sie Formalisierer" },
+  "extensionShortName":   { "message": "Du↔Sie" },
+  "extensionDescription": { "message": "Wandeln Sie deutschen Text zwischen informeller (Du) und formeller (Sie) Anredeform um – mithilfe von Claude KI." },
+
+  "modeToggleDuToSie":    { "message": "Du → Sie" },
+  "modeToggleSieToDu":    { "message": "Sie → Du" },
+
+  "inputLabel":           { "message": "Eingabe" },
+  "outputLabel":          { "message": "Ausgabe" },
+  "inputPlaceholder":     { "message": "Deutschen Text hier einfügen oder eingeben …" },
+  "outputPlaceholder":    { "message": "Der umgewandelte Text erscheint hier …" },
+
+  "convertButton":        { "message": "Umwandeln" },
+  "copyButton":           { "message": "Kopieren" },
+  "copiedButton":         { "message": "Kopiert!" },
+  "clearButton":          { "message": "Leeren" },
+  "openSidePanelButton":  { "message": "Im Seitenbereich öffnen" },
+
+  "settingsTitle":        { "message": "Einstellungen" },
+  "apiKeyLabel":          { "message": "Anthropic API-Schlüssel" },
+  "apiKeyPlaceholder":    { "message": "sk-ant-…" },
+  "showKeyButton":        { "message": "Anzeigen" },
+  "hideKeyButton":        { "message": "Verbergen" },
+  "saveKeyButton":        { "message": "Schlüssel speichern" },
+  "keySavedConfirm":      { "message": "Schlüssel gespeichert:" },
+  "testKeyButton":        { "message": "Schlüssel testen" },
+  "testKeyValid":         { "message": "✓ Gültig" },
+  "testKeyInvalid":       { "message": "✗ Ungültig" },
+  "testKeyTesting":       { "message": "Wird getestet …" },
+  "modelLabel":           { "message": "Modell" },
+  "modelValue":           { "message": "claude-sonnet-4-20250514" },
+
+  "toneIntensityLabel":   { "message": "Ton-Intensität" },
+  "toneStandard":         { "message": "Standard" },
+  "tonePolished":         { "message": "Verfeinert" },
+  "toneStrictCorporate":  { "message": "Streng Geschäftlich" },
+
+  "noApiKeyWarning":      { "message": "Kein API-Schlüssel gespeichert. Bitte geben Sie Ihren Anthropic API-Schlüssel in den" },
+  "noApiKeyWarningLink":  { "message": "Einstellungen" },
+
+  "mayNotBeGermanWarning":{ "message": "Dieser Text ist möglicherweise nicht auf Deutsch. Die Ergebnisse könnten ungenau sein." },
+
+  "charactersCount":      { "message": "$count$ Zeichen", "placeholders": { "count": { "content": "$1" } } },
+
+  "errorInvalidKey":      { "message": "Ungültiger API-Schlüssel. Bitte überprüfen Sie Ihren Schlüssel in den Einstellungen." },
+  "errorRateLimit":       { "message": "Anfragelimit erreicht. Bitte warten Sie und versuchen Sie es erneut." },
+  "errorApiServer":       { "message": "Anthropic API-Fehler. Bitte versuchen Sie es später erneut." },
+  "errorNetwork":         { "message": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung." },
+  "errorUnknown":         { "message": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut." },
+  "errorNoKey":           { "message": "Kein API-Schlüssel konfiguriert. Bitte fügen Sie Ihren Schlüssel in den Einstellungen hinzu." },
+
+  "contextMenuRoot":      { "message": "Du↔Sie Formalisierer" },
+  "contextMenuToSie":     { "message": "Auswahl umwandeln → formell (Sie)" },
+  "contextMenuToDu":      { "message": "Auswahl umwandeln → informell (Du)" },
+
+  "floatingCardTitle":    { "message": "Du↔Sie Formalisierer" },
+  "floatingCardLoading":  { "message": "Wird umgewandelt …" },
+  "floatingReplaceButton":{ "message": "Auswahl ersetzen" },
+  "floatingCopyButton":   { "message": "Kopieren" },
+  "floatingCopiedButton": { "message": "Kopiert!" },
+  "floatingDismissButton":{ "message": "Schließen" },
+  "floatingRetryButton":  { "message": "Erneut versuchen" },
+  "floatingErrorPrefix":  { "message": "Fehler:" },
+  "floatingReplaceUnavailable": { "message": "Text kann auf dieser Seite nicht ersetzt werden. Bitte kopieren Sie ihn stattdessen." },
+
+  "historyTitle":         { "message": "Konvertierungsverlauf" },
+  "historyClearButton":   { "message": "Verlauf leeren" },
+  "historyRestoreButton": { "message": "Wiederherstellen" },
+  "historyEmpty":         { "message": "Noch keine Konvertierungen vorhanden." },
+  "historyModeLabel":     { "message": "Modus:" },
+  "historyIntensityLabel":{ "message": "Intensität:" },
+  "historyModeDuToSie":   { "message": "Du → Sie" },
+  "historyModeSieToDu":   { "message": "Sie → Du" },
+  "historyIntensityStandard":      { "message": "Standard" },
+  "historyIntensityPolished":      { "message": "Verfeinert" },
+  "historyIntensityStrictCorporate":{ "message": "Streng Geschäftlich" },
+
+  "diffToggleButton":     { "message": "Unterschiede anzeigen" },
+  "diffToggleButtonOff":  { "message": "Unterschiede verbergen" },
+  "diffInputLabel":       { "message": "Original" },
+  "diffOutputLabel":      { "message": "Umgewandelt" },
+
+  "ariaSettingsToggle":   { "message": "Einstellungsbereich umschalten" },
+  "ariaShowPassword":     { "message": "API-Schlüssel anzeigen" },
+  "ariaHidePassword":     { "message": "API-Schlüssel verbergen" },
+  "ariaConvertButton":    { "message": "Text umwandeln" },
+  "ariaCopyOutput":       { "message": "Ausgabe in die Zwischenablage kopieren" },
+  "ariaClearAll":         { "message": "Eingabe und Ausgabe leeren" },
+  "ariaOpenSidePanel":    { "message": "Vollständigen Arbeitsbereich im Seitenbereich öffnen" },
+  "ariaDiffToggle":       { "message": "Unterschiedsansicht umschalten" },
+  "ariaHistoryToggle":    { "message": "Verlaufsbereich umschalten" },
+
+  "keyStatusPresent":     { "message": "API-Schlüssel ist gespeichert" },
+  "keyStatusMissing":     { "message": "Kein API-Schlüssel gespeichert" },
+
+  "converting":           { "message": "Wird umgewandelt …" },
+
+  "sidePanelTitle":       { "message": "Du↔Sie Formalisierer – Arbeitsbereich" }
+}

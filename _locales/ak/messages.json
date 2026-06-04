@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Fa Claude AI dane German nkyerɛwee wɔ informal (Du) ne formal (Sie) register ntam."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Fa anaa kyerɛw German nkyerɛwee wɔ ha..."
+  },
+  "outputPlaceholder": {
+    "message": "Nkyerɛwee a wɔasakra no bɛda adi ha..."
+  },
+  "convertButton": {
+    "message": "Dane"
+  },
+  "copyButton": {
+    "message": "Kɔpi"
+  },
+  "copiedButton": {
+    "message": "Wɔayɛ kɔpi!"
+  },
+  "clearButton": {
+    "message": "Popa"
+  },
+  "openSidePanelButton": {
+    "message": "Bue wɔ Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Nsiesiei"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Safoa"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Kyerɛ"
+  },
+  "hideKeyButton": {
+    "message": "Hide"
+  },
+  "saveKeyButton": {
+    "message": "Sie Safoa"
+  },
+  "keySavedConfirm": {
+    "message": "Safoa a wɔakora so:"
+  },
+  "testKeyButton": {
+    "message": "Sɔhwɛ Safoa"
+  },
+  "testKeyValid": {
+    "message": "✓ Ɛyɛ adwuma"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Nsɔhwɛ a ɛnnyɛ adwuma"
+  },
+  "testKeyTesting": {
+    "message": "Sɔhwɛ..."
+  },
+  "modelLabel": {
+    "message": "Nhwɛso"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "API safoa biara nni hɔ a wɔankora so. Yɛsrɛ wo hyɛ wo Anthropic API safoa no mu wɔ"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Nsiesiei"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ebia saa nkyerɛwee yi nni German kasa mu. Ebia nea ebefi mu aba no nyɛ nokware."
+  },
+  "charactersCount": {
+    "message": "$count$ nkyerɛwde",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API safoa a ɛnteɛ. Yɛsrɛ wo hwɛ wo safoa no wɔ Nsiesiei mu."
+  },
+  "errorRateLimit": {
+    "message": "Wɔadu boɔ anohyetoɔ ho. Yɛsrɛ wo twɛn na sɔ hwɛ bio."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API mfomso. Yɛsrɛ wo san sɔ hwɛ akyiri yi."
+  },
+  "errorNetwork": {
+    "message": "Network mfomso. Yɛsrɛ wo hwɛ wo nkitahodi no."
+  },
+  "errorUnknown": {
+    "message": "Mfomso bi a wɔnhwɛ kwan sii. Yɛsrɛ wo sɔ hwɛ bio."
+  },
+  "errorNoKey": {
+    "message": "Wɔanhyehyɛ API safoa biara. Yɛsrɛ wo fa wo safoa no ka ho wɔ Nsiesiei mu."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Dannan paw → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Dane paw → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Sesa..."
+  },
+  "floatingReplaceButton": {
+    "message": "Sesa Paw"
+  },
+  "floatingCopyButton": {
+    "message": "Kɔpi"
+  },
+  "floatingCopiedButton": {
+    "message": "Wɔayɛ kɔpi!"
+  },
+  "floatingDismissButton": {
+    "message": "Paw"
+  },
+  "floatingRetryButton": {
+    "message": "San sɔ hwɛ"
+  },
+  "floatingErrorPrefix": {
+    "message": "Mfomso:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Entumi nsi nsɛm a ɛwɔ krataafa yi so ananmu. Yɛsrɛ wo kɔpi mmom."
+  },
+  "historyTitle": {
+    "message": "Nsakyeraeɛ Abakɔsɛm"
+  },
+  "historyClearButton": {
+    "message": "Popa Abakɔsɛm"
+  },
+  "historyRestoreButton": {
+    "message": "Saa"
+  },
+  "historyEmpty": {
+    "message": "Nsakyeraeɛ biara nni hɔ de besi nnɛ."
+  },
+  "historyModeLabel": {
+    "message": "Ɔkwan:"
+  },
+  "historyIntensityLabel": {
+    "message": "Aho��den:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Kyerɛ Nsonsonoe"
+  },
+  "diffToggleButtonOff": {
+    "message": "Hide Diff"
+  },
+  "diffInputLabel": {
+    "message": "Mfitiaseɛ"
+  },
+  "diffOutputLabel": {
+    "message": "Wɔasakra"
+  },
+  "ariaSettingsToggle": {
+    "message": "Sesa nhyehyeɛ panel"
+  },
+  "ariaShowPassword": {
+    "message": "Kyerɛ API safoa"
+  },
+  "ariaHidePassword": {
+    "message": "Hide API safoa"
+  },
+  "ariaConvertButton": {
+    "message": "Dane nsɛm"
+  },
+  "ariaCopyOutput": {
+    "message": "Kɔpi output kɔ clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Popa input ne output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Bue adwumayɛbea nyinaa wɔ side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Sesa diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Na fa abakɔsɛm toggle panel"
+  },
+  "keyStatusPresent": {
+    "message": "Wɔakora API safoa so"
+  },
+  "keyStatusMissing": {
+    "message": "Wɔakora API safoa biara so"
+  },
+  "converting": {
+    "message": "Wɔresakra..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Adwumayɛbea"
+  }
+}

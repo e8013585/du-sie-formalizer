@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": " Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Tionndaidh teacsa Gearmailteach eadar clàr neo-fhoirmeil (Du) agus clàr foirmeil (Sie) a’ cleachdadh Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Cuir a-steach"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Tionndaidh"
+  },
+  "copyButton": {
+    "message": "Leth-bhreac"
+  },
+  "copiedButton": {
+    "message": "Dèan lethbhreac dheth!"
+  },
+  "clearButton": {
+    "message": " Glan"
+  },
+  "openSidePanelButton": {
+    "message": "Fosgail sa Phannal Taoibh"
+  },
+  "settingsTitle": {
+    "message": "Roghainnean"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Iuchair"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Seall"
+  },
+  "hideKeyButton": {
+    "message": "Falaich"
+  },
+  "saveKeyButton": {
+    "message": "Sàbhail an iuchair"
+  },
+  "keySavedConfirm": {
+    "message": "Iuchrach air a sàbhaladh:"
+  },
+  "testKeyButton": {
+    "message": "Iuchrach deuchainn"
+  },
+  "testKeyValid": {
+    "message": " ✓ Dligheach"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Deuchainn…"
+  },
+  "modelLabel": {
+    "message": "Modail"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": " Standard"
+  },
+  "tonePolished": {
+    "message": " Snasta"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Cha deach iuchair API a shàbhaladh. Cuir a-steach an iuchair Anthropic API agad sna"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Roghainnean"
+  },
+  "mayNotBeGermanWarning": {
+    "message": " Faodaidh nach eil an teacsa seo ann an Gearmailtis. Faodaidh gu bheil na toraidhean mearachdach."
+  },
+  "charactersCount": {
+    "message": "$count$ caractaran",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Iuchrach API mì-dhligheach. Feuch an toir thu sùil air an iuchair agad sna roghainnean."
+  },
+  "errorRateLimit": {
+    "message": "Ràinig an ìre reata. Fuirich ort is feuch ris a-rithist."
+  },
+  "errorApiServer": {
+    "message": "Mearachd API Anthropic. Feuch ris a-rithist nas anmoiche."
+  },
+  "errorNetwork": {
+    "message": "Mearachd leis an lìonra. Thoir sùil air a' cheangal agad."
+  },
+  "errorUnknown": {
+    "message": "Thachair mearachd ris nach robh dùil. Feuch ris a-rithist."
+  },
+  "errorNoKey": {
+    "message": "Chan eil iuchair API air a rèiteachadh. Feuch an cuir thu an iuchair agad anns na roghainnean."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Tionndaidh an taghadh → foirmeil (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Tionndaidh taghadh → neo-fhoirmeil (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Leth-bhreac"
+  },
+  "floatingCopiedButton": {
+    "message": "Dèan lethbhreac dheth!"
+  },
+  "floatingDismissButton": {
+    "message": "Diùlt"
+  },
+  "floatingRetryButton": {
+    "message": "Feuch ris a-rithist"
+  },
+  "floatingErrorPrefix": {
+    "message": "Mearachd:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cha ghabh an teacsa air an duilleag seo a chur na àite. Feuch an dèan thu lethbhreac an àite sin."
+  },
+  "historyTitle": {
+    "message": "Eachdraidh an tionndaidh"
+  },
+  "historyClearButton": {
+    "message": "Glan an eachdraidh"
+  },
+  "historyRestoreButton": {
+    "message": "Aisig"
+  },
+  "historyEmpty": {
+    "message": "Chan eil tionndadh ann fhathast."
+  },
+  "historyModeLabel": {
+    "message": "Modh:"
+  },
+  "historyIntensityLabel": {
+    "message": "Déine:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": " Snasta"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Falaich Diff"
+  },
+  "diffInputLabel": {
+    "message": "Tùsail"
+  },
+  "diffOutputLabel": {
+    "message": "Air a thionndadh"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Falaich iuchair API"
+  },
+  "ariaConvertButton": {
+    "message": "Tionndaidh an teacsa"
+  },
+  "ariaCopyOutput": {
+    "message": "Dèan lethbhreac a-mach dhan bhòrd-bhrath"
+  },
+  "ariaClearAll": {
+    "message": " Glan ion-chur is toradh"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Fosgail àite-obrach slàn sa phannal-taobh"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Cha deach iuchair API a shàbhaladh"
+  },
+  "converting": {
+    "message": "Ag tionndadh…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Àite-obrach"
+  }
+}

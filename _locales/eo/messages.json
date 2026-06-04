@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertu germanan tekston inter neformala (Du) kaj formala (Sie) registro per Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Enigo"
+  },
+  "outputLabel": {
+    "message": "Eligo"
+  },
+  "inputPlaceholder": {
+    "message": "Alglui aŭ tajpu germanan tekston aperos ĉi tie..."
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Konverti"
+  },
+  "copyButton": {
+    "message": "Kopii"
+  },
+  "copiedButton": {
+    "message": "Kopiite!"
+  },
+  "clearButton": {
+    "message": "Forpurigi"
+  },
+  "openSidePanelButton": {
+    "message": "Malfermi en Flanka Panelo"
+  },
+  "settingsTitle": {
+    "message": "Agordoj"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ŝlosilo"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Montri"
+  },
+  "hideKeyButton": {
+    "message": "Kaŝi"
+  },
+  "saveKeyButton": {
+    "message": "Konservi Ŝlosilon"
+  },
+  "keySavedConfirm": {
+    "message": "Ŝlosilo konservita:"
+  },
+  "testKeyButton": {
+    "message": "Prova Ŝlosilo"
+  },
+  "testKeyValid": {
+    "message": "✓ Valida"
+  },
+  "testKeyInvalid": {
+    "message": " Nevalida"
+  },
+  "testKeyTesting": {
+    "message": "Testado..."
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tona Intenso"
+  },
+  "toneStandard": {
+    "message": "Norma"
+  },
+  "tonePolished": {
+    "message": "Polurita"
+  },
+  "toneStrictCorporate": {
+    "message": "Stricta Kompanio"
+  },
+  "noApiKeyWarning": {
+    "message": "Neniu API-ŝlosilo konservita. Bonvolu enigi vian Anthropic API-ŝlosilon en"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Agordoj"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ĉi tiu teksto eble ne estas en la germana. Rezultoj povas esti malprecizaj."
+  },
+  "charactersCount": {
+    "message": "$count$ signoj",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Nevalida API-ŝlosilo. Bonvolu kontroli vian ŝlosilon en Agordoj."
+  },
+  "errorRateLimit": {
+    "message": "Limo de imposto atingita. Bonvolu atendi kaj provi denove."
+  },
+  "errorApiServer": {
+    "message": "Antropa API-eraro. Bonvolu provi denove poste."
+  },
+  "errorNetwork": {
+    "message": "Reta eraro. Bonvolu kontroli vian konekton."
+  },
+  "errorUnknown": {
+    "message": "Neatendita eraro okazis. Bonvolu provi denove."
+  },
+  "errorNoKey": {
+    "message": "Neniu API-ŝlosilo agordita. Bonvolu aldoni vian ŝlosilon en Agordoj."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konverti elekton → formala (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konverti elekton → neformala (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopii"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopiite!"
+  },
+  "floatingDismissButton": {
+    "message": "Forĵeti"
+  },
+  "floatingRetryButton": {
+    "message": "Reprovu"
+  },
+  "floatingErrorPrefix": {
+    "message": "Eraro:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ne povas anstataŭigi tekston sur ĉi tiu paĝo. Bonvolu kopii anstataŭe."
+  },
+  "historyTitle": {
+    "message": "Historio de Konvertiĝo"
+  },
+  "historyClearButton": {
+    "message": "Forpurigi Historion"
+  },
+  "historyRestoreButton": {
+    "message": "Restarigi"
+  },
+  "historyEmpty": {
+    "message": "Ankoraŭ neniuj konvertiĝoj."
+  },
+  "historyModeLabel": {
+    "message": "Reĝimo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intenseco:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Norma"
+  },
+  "historyIntensityPolished": {
+    "message": "Polurita"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Stricta Korporacia"
+  },
+  "diffToggleButton": {
+    "message": "Montri Diferencon"
+  },
+  "diffToggleButtonOff": {
+    "message": "Kaŝi Diff"
+  },
+  "diffInputLabel": {
+    "message": "Originala"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertita"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Kaŝi API-klavon"
+  },
+  "ariaConvertButton": {
+    "message": "Konverti tekston"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopii eliron al tondujo"
+  },
+  "ariaClearAll": {
+    "message": "Malplenigi enigaĵon kaj eligon"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Malfermu plenan laborspacon en flanka panelo"
+  },
+  "ariaDiffToggle": {
+    "message": "Almuligi diferencon-historian panelon"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Neniu API-ŝlosilo konservita"
+  },
+  "converting": {
+    "message": "Konverti..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Laborspaco"
+  }
+}

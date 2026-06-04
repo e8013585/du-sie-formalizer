@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertujte nemecký text medzi neformálnym (Du) a formálnym (Sie) registrom pomocou Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Vstup"
+  },
+  "outputLabel": {
+    "message": "Výstup textu v nemčine"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Konvertovať"
+  },
+  "copyButton": {
+    "message": "Kopírovať"
+  },
+  "copiedButton": {
+    "message": "Skopírované!"
+  },
+  "clearButton": {
+    "message": "Vymazať"
+  },
+  "openSidePanelButton": {
+    "message": "Otvoriť na bočnom paneli"
+  },
+  "settingsTitle": {
+    "message": "Nastavenia"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Kľúč"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Zobraziť"
+  },
+  "hideKeyButton": {
+    "message": "Skryť"
+  },
+  "saveKeyButton": {
+    "message": "Uložiť kľúč"
+  },
+  "keySavedConfirm": {
+    "message": "Kľúč uložený:"
+  },
+  "testKeyButton": {
+    "message": "Testovací kľúč"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testovanie…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intenzita tónu"
+  },
+  "toneStandard": {
+    "message": "Štandardné"
+  },
+  "tonePolished": {
+    "message": "Vyleštené"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Nebol uložený žiadny kľúč API. Zadajte svoj kľúč Antropického API v"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Nastavenia"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Tento text nemusí byť v nemčine. Výsledky môžu byť nepresné."
+  },
+  "charactersCount": {
+    "message": "$count$ znakov",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Neplatný kľúč API. Skontrolujte svoj kľúč v Nastaveniach."
+  },
+  "errorRateLimit": {
+    "message": "Dosiahli ste limit sadzby. Počkajte a skúste to znova."
+  },
+  "errorApiServer": {
+    "message": "Chyba rozhrania Anthropic API. Skúste to znova neskôr."
+  },
+  "errorNetwork": {
+    "message": "Chyba siete. Skontrolujte svoje pripojenie."
+  },
+  "errorUnknown": {
+    "message": "Vyskytla sa neočakávaná chyba. Skúste to znova."
+  },
+  "errorNoKey": {
+    "message": "Nie je nakonfigurovaný žiadny kľúč API. Pridajte svoj kľúč v Nastaveniach."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konvertovať výber → formálny (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvertovať výber → neformálny (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopírovať"
+  },
+  "floatingCopiedButton": {
+    "message": "Skopírované!"
+  },
+  "floatingDismissButton": {
+    "message": "Odmietnuť"
+  },
+  "floatingRetryButton": {
+    "message": "Skúsiť znova"
+  },
+  "floatingErrorPrefix": {
+    "message": "Chyba:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Text na tejto stránke nie je možné nahradiť. Skopírujte namiesto toho."
+  },
+  "historyTitle": {
+    "message": "História konverzií"
+  },
+  "historyClearButton": {
+    "message": "Vymazať históriu"
+  },
+  "historyRestoreButton": {
+    "message": "Obnoviť"
+  },
+  "historyEmpty": {
+    "message": "Zatiaľ žiadne konverzie."
+  },
+  "historyModeLabel": {
+    "message": "Režim:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intenzita:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Štandardné"
+  },
+  "historyIntensityPolished": {
+    "message": "Poleštené"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Zobraziť rozdiel"
+  },
+  "diffToggleButtonOff": {
+    "message": "Skryť rozdiel"
+  },
+  "diffInputLabel": {
+    "message": "Pôvodné"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Skryť kľúč API"
+  },
+  "ariaConvertButton": {
+    "message": "Konvertovať text"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopírovať výstup do schránky"
+  },
+  "ariaClearAll": {
+    "message": "Vymazať vstup a výstup"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Otvoriť celý pracovný priestor na bočnom paneli"
+  },
+  "ariaDiffToggle": {
+    "message": "Prepnúť zobrazenie rozdielu"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Nebol uložený žiadny kľúč API"
+  },
+  "converting": {
+    "message": "Konvertuje sa…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

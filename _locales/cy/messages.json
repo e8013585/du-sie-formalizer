@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Trosi testun Almaeneg rhwng y gofrestr anffurfiol (Du) a'r gofrestr ffurfiol (Sie) gan ddefnyddio Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Mewnbynnu"
+  },
+  "outputLabel": {
+    "message": "Allbwn"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Trosi"
+  },
+  "copyButton": {
+    "message": "Copi"
+  },
+  "copiedButton": {
+    "message": "Copïwyd!"
+  },
+  "clearButton": {
+    "message": " Clirio"
+  },
+  "openSidePanelButton": {
+    "message": "Agor yn y Panel Ochr"
+  },
+  "settingsTitle": {
+    "message": "Gosodiadau"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Allwedd"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Dangos"
+  },
+  "hideKeyButton": {
+    "message": "Cuddio"
+  },
+  "saveKeyButton": {
+    "message": "Cadw'r Allwedd"
+  },
+  "keySavedConfirm": {
+    "message": "Allwedd wedi'i chadw:"
+  },
+  "testKeyButton": {
+    "message": "Allwedd Prawf"
+  },
+  "testKeyValid": {
+    "message": " ✓ Dilys"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testing…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "No API key saved. Please enter your Anthropic API key in"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Gosodiadau"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Efallai nad yw'r testun hwn yn Almaeneg. Gall canlyniadau fod yn anghywir."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Allwedd API annilys. Gwiriwch eich allwedd yn y Gosodiadau."
+  },
+  "errorRateLimit": {
+    "message": "Cyrhaeddwyd y terfyn cyfradd. Arhoswch a cheisiwch eto."
+  },
+  "errorApiServer": {
+    "message": "Gwall API Anthropic. Ceisiwch eto nes ymlaen."
+  },
+  "errorNetwork": {
+    "message": "Gwall rhwydwaith. Gwiriwch eich cysylltiad."
+  },
+  "errorUnknown": {
+    "message": "Digwyddodd gwall annisgwyl. Ceisiwch eto."
+  },
+  "errorNoKey": {
+    "message": "Dim allwedd API wedi'i ffurfweddu. Ychwanegwch eich allwedd yn y Gosodiadau."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Trosi dewis → ffurfiol (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Trosi dewis → anffurfiol (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Copi"
+  },
+  "floatingCopiedButton": {
+    "message": "Copïwyd!"
+  },
+  "floatingDismissButton": {
+    "message": "Anwybyddu"
+  },
+  "floatingRetryButton": {
+    "message": "Ailgynnig"
+  },
+  "floatingErrorPrefix": {
+    "message": "Gwall:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Methu disodli'r testun ar y dudalen hon. Copïwch yn lle hynny."
+  },
+  "historyTitle": {
+    "message": "Hanes Trosi"
+  },
+  "historyClearButton": {
+    "message": "Clirio'r Hanes"
+  },
+  "historyRestoreButton": {
+    "message": "Adfer"
+  },
+  "historyEmpty": {
+    "message": "Dim trawsnewidiadau eto."
+  },
+  "historyModeLabel": {
+    "message": "Modd:"
+  },
+  "historyIntensityLabel": {
+    "message": "Dwysedd:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Safonol"
+  },
+  "historyIntensityPolished": {
+    "message": "Caboledig"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Dangos Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Cuddio Diff"
+  },
+  "diffInputLabel": {
+    "message": "Gwreiddiol"
+  },
+  "diffOutputLabel": {
+    "message": " Troswyd gosodiadau panel"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Cuddio'r allwedd API"
+  },
+  "ariaConvertButton": {
+    "message": "Trosi testun"
+  },
+  "ariaCopyOutput": {
+    "message": "Copïo allbwn i'r clipfwrdd"
+  },
+  "ariaClearAll": {
+    "message": " Clirio mewnbwn ac allbwn"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Agor man gwaith llawn yn y panel ochr"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Dim allwedd API wedi'i chadw"
+  },
+  "converting": {
+    "message": "Trosi…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

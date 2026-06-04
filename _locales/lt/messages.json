@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie formalizatorius"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertuokite vokišką tekstą iš neformalaus (Du) ir formalaus (Sie) registro naudodami Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Įvestis"
+  },
+  "outputLabel": {
+    "message": "Išvestis"
+  },
+  "inputPlaceholder": {
+    "message": "Įklijuokite arba įveskite vokišką tekstą čia…"
+  },
+  "outputPlaceholder": {
+    "message": "Konvertuotas tekstas bus rodomas čia…"
+  },
+  "convertButton": {
+    "message": "Konvertuoti"
+  },
+  "copyButton": {
+    "message": "Kopijuoti"
+  },
+  "copiedButton": {
+    "message": "Nukopijuota!"
+  },
+  "clearButton": {
+    "message": "Aišku"
+  },
+  "openSidePanelButton": {
+    "message": "Atidaryti šoniniame skydelyje"
+  },
+  "settingsTitle": {
+    "message": "Nustatymai"
+  },
+  "apiKeyLabel": {
+    "message": "Antropinis API raktas"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Rodyti"
+  },
+  "hideKeyButton": {
+    "message": "Slėpti"
+  },
+  "saveKeyButton": {
+    "message": "Išsaugoti raktą"
+  },
+  "keySavedConfirm": {
+    "message": "Raktas išsaugotas:"
+  },
+  "testKeyButton": {
+    "message": "Bandymo raktas"
+  },
+  "testKeyValid": {
+    "message": "✓ Galioja"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Netinkamas"
+  },
+  "testKeyTesting": {
+    "message": "Testuojama…"
+  },
+  "modelLabel": {
+    "message": "Modelis"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tono intensyvumas"
+  },
+  "toneStandard": {
+    "message": "Standartinis"
+  },
+  "tonePolished": {
+    "message": "Poliruotas"
+  },
+  "toneStrictCorporate": {
+    "message": "Griežta korporacija"
+  },
+  "noApiKeyWarning": {
+    "message": "API raktas neišsaugotas. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Nustatymai"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Šis tekstas gali būti ne vokiečių kalba. "
+  },
+  "charactersCount": {
+    "message": "$count$ simbolių",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Neteisingas API raktas. "
+  },
+  "errorRateLimit": {
+    "message": "Pasiektas tarifų limitas. "
+  },
+  "errorApiServer": {
+    "message": "Antropinė API klaida. "
+  },
+  "errorNetwork": {
+    "message": "Tinklo klaida. "
+  },
+  "errorUnknown": {
+    "message": "Įvyko netikėta klaida. "
+  },
+  "errorNoKey": {
+    "message": "API raktas nesukonfigūruotas. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie formalizatorius"
+  },
+  "contextMenuToSie": {
+    "message": "Konvertuoti pasirinkimą → formalus (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvertuoti pasirinkimą → neoficialus (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie formalizatorius"
+  },
+  "floatingCardLoading": {
+    "message": "Konvertuojama…"
+  },
+  "floatingReplaceButton": {
+    "message": "Pakeiskite pasirinkimą"
+  },
+  "floatingCopyButton": {
+    "message": "Kopijuoti"
+  },
+  "floatingCopiedButton": {
+    "message": "Nukopijuota!"
+  },
+  "floatingDismissButton": {
+    "message": "Atsisakyti"
+  },
+  "floatingRetryButton": {
+    "message": "Bandykite dar kartą"
+  },
+  "floatingErrorPrefix": {
+    "message": "Klaida:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Negalima pakeisti teksto šiame puslapyje. "
+  },
+  "historyTitle": {
+    "message": "Konversijų istorija"
+  },
+  "historyClearButton": {
+    "message": "Išvalyti istoriją"
+  },
+  "historyRestoreButton": {
+    "message": "Atkurti"
+  },
+  "historyEmpty": {
+    "message": "Konversijų dar nėra."
+  },
+  "historyModeLabel": {
+    "message": "Režimas:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensyvumas:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standartinis"
+  },
+  "historyIntensityPolished": {
+    "message": "Poliruotas"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Griežta korporacija"
+  },
+  "diffToggleButton": {
+    "message": "Rodyti skirtumą"
+  },
+  "diffToggleButtonOff": {
+    "message": "Slėpti skirtumą"
+  },
+  "diffInputLabel": {
+    "message": "Originalus"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertuotas"
+  },
+  "ariaSettingsToggle": {
+    "message": "Perjungti nustatymų skydelį"
+  },
+  "ariaShowPassword": {
+    "message": "Rodyti API raktą"
+  },
+  "ariaHidePassword": {
+    "message": "Slėpti API raktą"
+  },
+  "ariaConvertButton": {
+    "message": "Konvertuoti tekstą"
+  },
+  "ariaCopyOutput": {
+    "message": "Nukopijuokite išvestį į mainų sritį"
+  },
+  "ariaClearAll": {
+    "message": "Išvalykite įvestį ir išvestį"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Atidarykite visą darbo sritį šoniniame skydelyje"
+  },
+  "ariaDiffToggle": {
+    "message": "Perjungti skirtumo rodinį"
+  },
+  "ariaHistoryToggle": {
+    "message": "Perjungti istorijos skydelį"
+  },
+  "keyStatusPresent": {
+    "message": "API raktas išsaugotas"
+  },
+  "keyStatusMissing": {
+    "message": "API raktas neišsaugotas"
+  },
+  "converting": {
+    "message": "Konvertuojama…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie formalizatorius – darbo sritis"
+  }
+}

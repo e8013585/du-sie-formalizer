@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Cunvertite u testu tedescu trà u registru informale (Du) è formale (Sie) cù Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Incolla u testu in lingua tedesca appariscerà quì ..."
+  },
+  "outputPlaceholder": {
+    "message": ". quì..."
+  },
+  "convertButton": {
+    "message": "Cunvertite"
+  },
+  "copyButton": {
+    "message": "Copia"
+  },
+  "copiedButton": {
+    "message": "Copiatu!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Apertura in Pannellu laterale"
+  },
+  "settingsTitle": {
+    "message": "Configurazione"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Chjave"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Mostra"
+  },
+  "hideKeyButton": {
+    "message": "Nascondi"
+  },
+  "saveKeyButton": {
+    "message": "Salvà Chjave"
+  },
+  "keySavedConfirm": {
+    "message": "Chiave salvata:"
+  },
+  "testKeyButton": {
+    "message": "Chiave di prova"
+  },
+  "testKeyValid": {
+    "message": "✓ Valida"
+  },
+  "testKeyInvalid": {
+    "message": " Invalidu"
+  },
+  "testKeyTesting": {
+    "message": "Test..."
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensità di u tonu"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Nisuna chjave API salvata. Per piacè inserite a vostra chjave API Anthropic in"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Stu testu pò esse micca in alimanu. I risultati ponu esse imprecisi."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Chiave API invalida. Per piacè verificate a vostra chjave in Settings."
+  },
+  "errorRateLimit": {
+    "message": "Limite di tariffa righjuntu. Per piacè aspittà è pruvate di novu."
+  },
+  "errorApiServer": {
+    "message": "Errore API antropicu. Per piacè pruvate di novu più tardi."
+  },
+  "errorNetwork": {
+    "message": "Errore di a rete. Per piacè verificate a vostra cunnessione."
+  },
+  "errorUnknown": {
+    "message": "Un errore imprevisu hè accadutu. Pruvate di novu."
+  },
+  "errorNoKey": {
+    "message": "Nisuna chjave API cunfigurata. Per piacè aghjunghje a vostra chjave in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Cunvertite a selezzione → formale (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Cunvertite a selezzione → informale (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Copia"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiata !"
+  },
+  "floatingDismissButton": {
+    "message": "Dismiss"
+  },
+  "floatingRetryButton": {
+    "message": "Riprova"
+  },
+  "floatingErrorPrefix": {
+    "message": "Errore :"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ùn si pò rimpiazzà u testu in sta pagina. Per piacè copià invece."
+  },
+  "historyTitle": {
+    "message": "Storia di cunversione"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Risturà"
+  },
+  "historyEmpty": {
+    "message": "Nisuna cunversione ancu."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensità:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Mostra Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Nascondi Diff"
+  },
+  "diffInputLabel": {
+    "message": "Originale"
+  },
+  "diffOutputLabel": {
+    "message": "Convertitu"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Nascondi a chjave API"
+  },
+  "ariaConvertButton": {
+    "message": "Cunvertite u testu"
+  },
+  "ariaCopyOutput": {
+    "message": "Copia u output à u clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Clear input and output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Apre u spaziu di travagliu cumpletu in u pannellu laterale"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle a visualizazione di diffarenza"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Nessuna chjave API salvata"
+  },
+  "converting": {
+    "message": "Cunvertimentu..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Workspace"
+  }
+}

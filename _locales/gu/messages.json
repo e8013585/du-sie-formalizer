@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "ક્લાઉડ AI નો ઉપયોગ કરીને જર્મન ટેક્સ્ટને અનૌપચારિક (Du) અને ઔપચારિક (Sie) રજિસ્ટર વચ્ચે કન્વર્ટ કરો."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ઇનપુટ"
+  },
+  "outputLabel": {
+    "message": "આઉટપુટ"
+  },
+  "inputPlaceholder": {
+    "message": "અહીં જર્મન ટેક્સ્ટ પેસ્ટ અથવા ટાઈપ કરો..."
+  },
+  "outputPlaceholder": {
+    "message": "રૂપાંતરિત ટેક્સ્ટ અહીં દેખાશે..."
+  },
+  "convertButton": {
+    "message": "કન્વર્ટ કરો"
+  },
+  "copyButton": {
+    "message": "નકલ કરો"
+  },
+  "copiedButton": {
+    "message": "નકલ કરી!"
+  },
+  "clearButton": {
+    "message": "સાફ કરો"
+  },
+  "openSidePanelButton": {
+    "message": "સાઇડ પેનલમાં ખોલો"
+  },
+  "settingsTitle": {
+    "message": "સેટિંગ્સ"
+  },
+  "apiKeyLabel": {
+    "message": "એન્થ્રોપિક API કી"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "બતાવો"
+  },
+  "hideKeyButton": {
+    "message": "છુપાવો"
+  },
+  "saveKeyButton": {
+    "message": "સેવ કી"
+  },
+  "keySavedConfirm": {
+    "message": "કી સાચવેલ:"
+  },
+  "testKeyButton": {
+    "message": "ટેસ્ટ કી"
+  },
+  "testKeyValid": {
+    "message": "✓ માન્ય"
+  },
+  "testKeyInvalid": {
+    "message": "✗ અમાન્ય"
+  },
+  "testKeyTesting": {
+    "message": "પરીક્ષણ..."
+  },
+  "modelLabel": {
+    "message": "મોડલ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "સ્વરની તીવ્રતા"
+  },
+  "toneStandard": {
+    "message": "ધોરણ"
+  },
+  "tonePolished": {
+    "message": "પોલિશ્ડ"
+  },
+  "toneStrictCorporate": {
+    "message": "સખત કોર્પોરેટ"
+  },
+  "noApiKeyWarning": {
+    "message": "કોઈ API કી સાચવી નથી. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "સેટિંગ્સ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "આ ટેક્સ્ટ જર્મનમાં ન હોઈ શકે. "
+  },
+  "charactersCount": {
+    "message": "$count$ અક્ષરો",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "અમાન્ય API કી. "
+  },
+  "errorRateLimit": {
+    "message": "દર મર્યાદા પહોંચી. "
+  },
+  "errorApiServer": {
+    "message": "એન્થ્રોપિક API ભૂલ. "
+  },
+  "errorNetwork": {
+    "message": "નેટવર્ક ભૂલ. "
+  },
+  "errorUnknown": {
+    "message": "એક અણધારી ભૂલ આવી. "
+  },
+  "errorNoKey": {
+    "message": "કોઈ API કી ગોઠવેલ નથી. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "પસંદગી કન્વર્ટ કરો → ઔપચારિક (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "પસંદગી કન્વર્ટ કરો → અનૌપચારિક (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "રૂપાંતર કરી રહ્યું છે..."
+  },
+  "floatingReplaceButton": {
+    "message": "પસંદગી બદલો"
+  },
+  "floatingCopyButton": {
+    "message": "નકલ કરો"
+  },
+  "floatingCopiedButton": {
+    "message": "નકલ કરી!"
+  },
+  "floatingDismissButton": {
+    "message": "કાઢી નાખો"
+  },
+  "floatingRetryButton": {
+    "message": "ફરી પ્રયાસ કરો"
+  },
+  "floatingErrorPrefix": {
+    "message": "ભૂલ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "આ પૃષ્ઠ પર લખાણ બદલી શકાતું નથી. "
+  },
+  "historyTitle": {
+    "message": "રૂપાંતર ઇતિહાસ"
+  },
+  "historyClearButton": {
+    "message": "ઇતિહાસ સાફ કરો"
+  },
+  "historyRestoreButton": {
+    "message": "પુનઃસ્થાપિત કરો"
+  },
+  "historyEmpty": {
+    "message": "હજુ સુધી કોઈ રૂપાંતરણ નથી."
+  },
+  "historyModeLabel": {
+    "message": "મોડ:"
+  },
+  "historyIntensityLabel": {
+    "message": "તીવ્રતા:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ધોરણ"
+  },
+  "historyIntensityPolished": {
+    "message": "પોલિશ્ડ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "સખત કોર્પોરેટ"
+  },
+  "diffToggleButton": {
+    "message": "તફાવત બતાવો"
+  },
+  "diffToggleButtonOff": {
+    "message": "તફાવત છુપાવો"
+  },
+  "diffInputLabel": {
+    "message": "મૂળ"
+  },
+  "diffOutputLabel": {
+    "message": "રૂપાંતરિત"
+  },
+  "ariaSettingsToggle": {
+    "message": "સેટિંગ્સ પેનલને ટૉગલ કરો"
+  },
+  "ariaShowPassword": {
+    "message": "API કી બતાવો"
+  },
+  "ariaHidePassword": {
+    "message": "API કી છુપાવો"
+  },
+  "ariaConvertButton": {
+    "message": "ટેક્સ્ટ કન્વર્ટ કરો"
+  },
+  "ariaCopyOutput": {
+    "message": "ક્લિપબોર્ડ પર આઉટપુટ કૉપિ કરો"
+  },
+  "ariaClearAll": {
+    "message": "ઇનપુટ અને આઉટપુટ સાફ કરો"
+  },
+  "ariaOpenSidePanel": {
+    "message": "સાઇડ પેનલમાં સંપૂર્ણ વર્કસ્પેસ ખોલો"
+  },
+  "ariaDiffToggle": {
+    "message": "ડિફ વ્યૂ ટૉગલ કરો"
+  },
+  "ariaHistoryToggle": {
+    "message": "ઇતિહાસ પેનલને ટૉગલ કરો"
+  },
+  "keyStatusPresent": {
+    "message": "API કી સાચવેલ છે"
+  },
+  "keyStatusMissing": {
+    "message": "કોઈ API કી સાચવી નથી"
+  },
+  "converting": {
+    "message": "રૂપાંતર કરી રહ્યું છે..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie ફોર્મલાઈઝર – વર્કસ્પેસ"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertējiet vācu tekstu starp neformālo (Du) un formālo (Sie) reģistru, izmantojot Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ievade"
+  },
+  "outputLabel": {
+    "message": "Izvade"
+  },
+  "inputPlaceholder": {
+    "message": "Ielīmējiet vai ierakstiet vācu tekstu šeit…"
+  },
+  "outputPlaceholder": {
+    "message": "Šeit tiks parādīts konvertētais teksts…"
+  },
+  "convertButton": {
+    "message": "Konvertēt"
+  },
+  "copyButton": {
+    "message": "Kopēt"
+  },
+  "copiedButton": {
+    "message": "Kopēts!"
+  },
+  "clearButton": {
+    "message": "Skaidrs"
+  },
+  "openSidePanelButton": {
+    "message": "Atvērt sānu panelī"
+  },
+  "settingsTitle": {
+    "message": "Iestatījumi"
+  },
+  "apiKeyLabel": {
+    "message": "Antropiskā API atslēga"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Rādīt"
+  },
+  "hideKeyButton": {
+    "message": "Slēpt"
+  },
+  "saveKeyButton": {
+    "message": "Saglabāt atslēgu"
+  },
+  "keySavedConfirm": {
+    "message": "Atslēga saglabāta:"
+  },
+  "testKeyButton": {
+    "message": "Testa atslēga"
+  },
+  "testKeyValid": {
+    "message": "✓ Derīgs"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Nederīgs"
+  },
+  "testKeyTesting": {
+    "message": "Notiek testēšana…"
+  },
+  "modelLabel": {
+    "message": "Modelis"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toņa intensitāte"
+  },
+  "toneStandard": {
+    "message": "Standarta"
+  },
+  "tonePolished": {
+    "message": "Pulēts"
+  },
+  "toneStrictCorporate": {
+    "message": "Stingrs korporatīvs"
+  },
+  "noApiKeyWarning": {
+    "message": "API atslēga nav saglabāta. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Iestatījumi"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Šis teksts var nebūt vācu valodā. "
+  },
+  "charactersCount": {
+    "message": "$count$ rakstzīmes",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Nederīga API atslēga. "
+  },
+  "errorRateLimit": {
+    "message": "Likmes ierobežojums sasniegts. "
+  },
+  "errorApiServer": {
+    "message": "Antropiskā API kļūda. "
+  },
+  "errorNetwork": {
+    "message": "Tīkla kļūda. "
+  },
+  "errorUnknown": {
+    "message": "Radās neparedzēta kļūda. "
+  },
+  "errorNoKey": {
+    "message": "Nav konfigurēta API atslēga. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Pārvērst atlasi → formālu (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvertēt atlasi → neformāla (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Notiek konvertēšana…"
+  },
+  "floatingReplaceButton": {
+    "message": "Aizstāt atlasi"
+  },
+  "floatingCopyButton": {
+    "message": "Kopēt"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopēts!"
+  },
+  "floatingDismissButton": {
+    "message": "Atlaist"
+  },
+  "floatingRetryButton": {
+    "message": "Mēģiniet vēlreiz"
+  },
+  "floatingErrorPrefix": {
+    "message": "Kļūda:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Nevar aizstāt tekstu šajā lapā. "
+  },
+  "historyTitle": {
+    "message": "Reklāmguvumu vēsture"
+  },
+  "historyClearButton": {
+    "message": "Notīrīt vēsturi"
+  },
+  "historyRestoreButton": {
+    "message": "Atjaunot"
+  },
+  "historyEmpty": {
+    "message": "Vēl nav reklāmguvumu."
+  },
+  "historyModeLabel": {
+    "message": "Režīms:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitāte:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standarta"
+  },
+  "historyIntensityPolished": {
+    "message": "Pulēts"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Stingrs korporatīvs"
+  },
+  "diffToggleButton": {
+    "message": "Rādīt Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Slēpt Diff"
+  },
+  "diffInputLabel": {
+    "message": "Oriģināls"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertēts"
+  },
+  "ariaSettingsToggle": {
+    "message": "Pārslēgt iestatījumu paneli"
+  },
+  "ariaShowPassword": {
+    "message": "Rādīt API atslēgu"
+  },
+  "ariaHidePassword": {
+    "message": "Slēpt API atslēgu"
+  },
+  "ariaConvertButton": {
+    "message": "Konvertēt tekstu"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopēt izvadi starpliktuvē"
+  },
+  "ariaClearAll": {
+    "message": "Notīrīt ievadi un izvadi"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Atveriet pilnu darbvietu sānu panelī"
+  },
+  "ariaDiffToggle": {
+    "message": "Pārslēgt diff skatu"
+  },
+  "ariaHistoryToggle": {
+    "message": "Pārslēgt vēstures paneli"
+  },
+  "keyStatusPresent": {
+    "message": "API atslēga ir saglabāta"
+  },
+  "keyStatusMissing": {
+    "message": "API atslēga nav saglabāta"
+  },
+  "converting": {
+    "message": "Notiek konvertēšana…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie formalizer — darbvieta"
+  }
+}

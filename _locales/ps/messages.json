@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert German text between informal (Du) and formal (Sie) register using Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "بدل شوی متن به دلته ښکاره شي…"
+  },
+  "convertButton": {
+    "message": "بدل کړئ"
+  },
+  "copyButton": {
+    "message": "کاپي"
+  },
+  "copiedButton": {
+    "message": "کاپي شوی!"
+  },
+  "clearButton": {
+    "message": "پاک کړئ"
+  },
+  "openSidePanelButton": {
+    "message": "په اړخ پینل کې خلاص کړئ"
+  },
+  "settingsTitle": {
+    "message": " ترتیبات"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ښکاره کړئ"
+  },
+  "hideKeyButton": {
+    "message": "پټ کړئ"
+  },
+  "saveKeyButton": {
+    "message": "کیلي خوندي کړئ"
+  },
+  "keySavedConfirm": {
+    "message": "کیلي خوندي شوی:"
+  },
+  "testKeyButton": {
+    "message": "د ازموینې کیلي"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ازموینه…"
+  },
+  "modelLabel": {
+    "message": "موډل"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "د ټون شدت"
+  },
+  "toneStandard": {
+    "message": "معیاري"
+  },
+  "tonePolished": {
+    "message": "پالش شوی"
+  },
+  "toneStrictCorporate": {
+    "message": "سخت کارپوریټ"
+  },
+  "noApiKeyWarning": {
+    "message": "هیڅ API کیلي خوندي نه شوه. مهرباني وکړئ خپل د انټروپیک API کیلي په"
+  },
+  "noApiKeyWarningLink": {
+    "message": "تنظیماتو کې دننه کړئ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "دا متن ممکن په جرمني کې نه وي. پایلې ممکن ناسمې وي."
+  },
+  "charactersCount": {
+    "message": "$count$ حروف",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": " ناسم API کلید. مهرباني وکړئ خپل کیلي په ترتیباتو کې وګورئ."
+  },
+  "errorRateLimit": {
+    "message": "د نرخ حد ته رسیدلی. مهرباني وکړئ انتظار وکړئ او بیا هڅه وکړئ."
+  },
+  "errorApiServer": {
+    "message": " د انټروپیک API تېرو��نه. مهرباني وکړئ وروسته بیا هڅه وکړئ."
+  },
+  "errorNetwork": {
+    "message": "د شبکې تېروتنه. مهرباني وکړئ خپل پیوستون وګورئ."
+  },
+  "errorUnknown": {
+    "message": "یوه ناڅاپي تېروتنه رامنځته شوه. مهرباني وکړئ بیا هڅه وکړئ."
+  },
+  "errorNoKey": {
+    "message": "No API key configured. Please add your key in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "کاپي"
+  },
+  "floatingCopiedButton": {
+    "message": "کاپي شوی!"
+  },
+  "floatingDismissButton": {
+    "message": "بس کړئ"
+  },
+  "floatingRetryButton": {
+    "message": "بیا هڅه وکړئ"
+  },
+  "floatingErrorPrefix": {
+    "message": "تېروتنه:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "په دې پاڼه کې متن نشي بدلولی. مهرباني وکړئ پرځای یې کاپي کړئ."
+  },
+  "historyTitle": {
+    "message": "د تبادلې تاریخ"
+  },
+  "historyClearButton": {
+    "message": "تاریخ پاک کړئ"
+  },
+  "historyRestoreButton": {
+    "message": "بیارغونې"
+  },
+  "historyEmpty": {
+    "message": "تر اوسه هیڅ تبادله نه ده شوې."
+  },
+  "historyModeLabel": {
+    "message": "موډ:"
+  },
+  "historyIntensityLabel": {
+    "message": "شدت:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "معیاري"
+  },
+  "historyIntensityPolished": {
+    "message": "پالش شوی"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "سخت کارپوریټ"
+  },
+  "diffToggleButton": {
+    "message": " توپیر ښکاره کړئ"
+  },
+  "diffToggleButtonOff": {
+    "message": " توپیر پټ کړئ"
+  },
+  "diffInputLabel": {
+    "message": "اصلي"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "د API کیلي وښایاست"
+  },
+  "ariaHidePassword": {
+    "message": "د API کیلي پټ کړئ"
+  },
+  "ariaConvertButton": {
+    "message": "متن بدل کړئ"
+  },
+  "ariaCopyOutput": {
+    "message": "کلپبورډ ته محصول کاپي کړئ"
+  },
+  "ariaClearAll": {
+    "message": "ان پټ او محصول پاک کړئ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "د تاریخ پینل ټګل کړئ"
+  },
+  "keyStatusPresent": {
+    "message": "API کیلي خوندي شوې"
+  },
+  "keyStatusMissing": {
+    "message": "هیڅ API کیلي خوندي نه شوه"
+  },
+  "converting": {
+    "message": "بدلول…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

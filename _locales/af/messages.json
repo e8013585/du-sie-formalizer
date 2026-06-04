@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formaliseerder"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Skakel Duitse teks om tussen informele (Du) en formele (Sie) register deur Claude AI te gebruik."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Invoer"
+  },
+  "outputLabel": {
+    "message": "Uitset"
+  },
+  "inputPlaceholder": {
+    "message": "Plak of tik Duitse teks hier..."
+  },
+  "outputPlaceholder": {
+    "message": "Omgeskakelde teks sal hier verskyn..."
+  },
+  "convertButton": {
+    "message": "Skakel om"
+  },
+  "copyButton": {
+    "message": "Kopieer"
+  },
+  "copiedButton": {
+    "message": "Gekopieer!"
+  },
+  "clearButton": {
+    "message": "Duidelik"
+  },
+  "openSidePanelButton": {
+    "message": "Maak oop in sypaneel"
+  },
+  "settingsTitle": {
+    "message": "Instellings"
+  },
+  "apiKeyLabel": {
+    "message": "Antropiese API-sleutel"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Wys"
+  },
+  "hideKeyButton": {
+    "message": "Versteek"
+  },
+  "saveKeyButton": {
+    "message": "Stoor sleutel"
+  },
+  "keySavedConfirm": {
+    "message": "Sleutel gestoor:"
+  },
+  "testKeyButton": {
+    "message": "Toets sleutel"
+  },
+  "testKeyValid": {
+    "message": "✓ Geldig"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ongeldig"
+  },
+  "testKeyTesting": {
+    "message": "Toets tans …"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toon intensiteit"
+  },
+  "toneStandard": {
+    "message": "Standaard"
+  },
+  "tonePolished": {
+    "message": "Gepoleer"
+  },
+  "toneStrictCorporate": {
+    "message": "Streng Korporatiewe"
+  },
+  "noApiKeyWarning": {
+    "message": "Geen API-sleutel is gestoor nie. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Instellings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Hierdie teks mag nie in Duits wees nie. "
+  },
+  "charactersCount": {
+    "message": "$count$ karakters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ongeldige API-sleutel. "
+  },
+  "errorRateLimit": {
+    "message": "Tarieflimiet bereik. "
+  },
+  "errorApiServer": {
+    "message": "Antropiese API-fout. "
+  },
+  "errorNetwork": {
+    "message": "Netwerkfout. "
+  },
+  "errorUnknown": {
+    "message": "'n Onverwagte fout het voorgekom. "
+  },
+  "errorNoKey": {
+    "message": "Geen API-sleutel is opgestel nie. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formaliseerder"
+  },
+  "contextMenuToSie": {
+    "message": "Skakel seleksie om → formeel (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Skakel seleksie om → informeel (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formaliseerder"
+  },
+  "floatingCardLoading": {
+    "message": "Skakel tans om …"
+  },
+  "floatingReplaceButton": {
+    "message": "Vervang seleksie"
+  },
+  "floatingCopyButton": {
+    "message": "Kopieer"
+  },
+  "floatingCopiedButton": {
+    "message": "Gekopieer!"
+  },
+  "floatingDismissButton": {
+    "message": "Verwerp"
+  },
+  "floatingRetryButton": {
+    "message": "Probeer weer"
+  },
+  "floatingErrorPrefix": {
+    "message": "Fout:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kan nie teks op hierdie bladsy vervang nie. "
+  },
+  "historyTitle": {
+    "message": "Omskakelingsgeskiedenis"
+  },
+  "historyClearButton": {
+    "message": "Vee geskiedenis uit"
+  },
+  "historyRestoreButton": {
+    "message": "Herstel"
+  },
+  "historyEmpty": {
+    "message": "Nog geen omskakelings nie."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiteit:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standaard"
+  },
+  "historyIntensityPolished": {
+    "message": "Gepoleer"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Streng Korporatiewe"
+  },
+  "diffToggleButton": {
+    "message": "Wys verskil"
+  },
+  "diffToggleButtonOff": {
+    "message": "Versteek Diff"
+  },
+  "diffInputLabel": {
+    "message": "Oorspronklik"
+  },
+  "diffOutputLabel": {
+    "message": "Omgeskakel"
+  },
+  "ariaSettingsToggle": {
+    "message": "Wissel instellingspaneel"
+  },
+  "ariaShowPassword": {
+    "message": "Wys API-sleutel"
+  },
+  "ariaHidePassword": {
+    "message": "Versteek API-sleutel"
+  },
+  "ariaConvertButton": {
+    "message": "Skakel teks om"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopieer uitvoer na knipbord"
+  },
+  "ariaClearAll": {
+    "message": "Duidelike invoer en afvoer"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Maak volle werkspasie in sypaneel oop"
+  },
+  "ariaDiffToggle": {
+    "message": "Wissel verskil-aansig"
+  },
+  "ariaHistoryToggle": {
+    "message": "Wissel geskiedenispaneel"
+  },
+  "keyStatusPresent": {
+    "message": "API-sleutel is gestoor"
+  },
+  "keyStatusMissing": {
+    "message": "Geen API-sleutel is gestoor nie"
+  },
+  "converting": {
+    "message": "Skakel tans om …"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Werkspasie"
+  }
+}

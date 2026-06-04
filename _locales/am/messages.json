@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "ዱ↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "ክላውድ AIን በመጠቀም መደበኛ ባልሆነ (ዱ) እና መደበኛ (Sie) መመዝገቢያ መካከል የጀርመንኛን ጽሑፍ ቀይር።"
+  },
+  "modeToggleDuToSie": {
+    "message": "ዱ → ሲ"
+  },
+  "modeToggleSieToDu": {
+    "message": "ሲ → ዱ"
+  },
+  "inputLabel": {
+    "message": "ግቤት"
+  },
+  "outputLabel": {
+    "message": "ውፅዓት"
+  },
+  "inputPlaceholder": {
+    "message": "እዚህ የጀርመን ጽሑፍ ይለጥፉ ወይም ይተይቡ…"
+  },
+  "outputPlaceholder": {
+    "message": "የተለወጠ ጽሑፍ እዚህ ይታያል…"
+  },
+  "convertButton": {
+    "message": "ቀይር"
+  },
+  "copyButton": {
+    "message": "ቅዳ"
+  },
+  "copiedButton": {
+    "message": "ተቀድቷል!"
+  },
+  "clearButton": {
+    "message": "ግልጽ"
+  },
+  "openSidePanelButton": {
+    "message": "በጎን ፓነል ውስጥ ይክፈቱ"
+  },
+  "settingsTitle": {
+    "message": "ቅንብሮች"
+  },
+  "apiKeyLabel": {
+    "message": "አንትሮፒክ ኤፒአይ ቁልፍ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ስክ-ጉንዳን -…"
+  },
+  "showKeyButton": {
+    "message": "አሳይ"
+  },
+  "hideKeyButton": {
+    "message": "ደብቅ"
+  },
+  "saveKeyButton": {
+    "message": "ቁልፍ አስቀምጥ"
+  },
+  "keySavedConfirm": {
+    "message": "ቁልፍ ተቀምጧል፡-"
+  },
+  "testKeyButton": {
+    "message": "የሙከራ ቁልፍ"
+  },
+  "testKeyValid": {
+    "message": "✓ የሚሰራ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ ልክ ያልሆነ"
+  },
+  "testKeyTesting": {
+    "message": "በመሞከር ላይ…"
+  },
+  "modelLabel": {
+    "message": "ሞዴል"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "የቃና ጥንካሬ"
+  },
+  "toneStandard": {
+    "message": "መደበኛ"
+  },
+  "tonePolished": {
+    "message": "የተወለወለ"
+  },
+  "toneStrictCorporate": {
+    "message": "ጥብቅ ኮርፖሬት"
+  },
+  "noApiKeyWarning": {
+    "message": "ምንም የኤፒአይ ቁልፍ አልተቀመጠም። "
+  },
+  "noApiKeyWarningLink": {
+    "message": "ቅንብሮች"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ይህ ጽሑፍ በጀርመንኛ ላይሆን ይችላል። "
+  },
+  "charactersCount": {
+    "message": "የ$count$ ቁምፊዎች",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ልክ ያልሆነ የኤፒአይ ቁልፍ። "
+  },
+  "errorRateLimit": {
+    "message": "የዋጋ ገደብ ላይ ደርሷል። "
+  },
+  "errorApiServer": {
+    "message": "አንትሮፒክ ኤፒአይ ስህተት። "
+  },
+  "errorNetwork": {
+    "message": "የአውታረ መረብ ስህተት። "
+  },
+  "errorUnknown": {
+    "message": "ያልተጠበቀ ስህተት ተከስቷል። "
+  },
+  "errorNoKey": {
+    "message": "ምንም የኤፒአይ ቁልፍ አልተዋቀረም። "
+  },
+  "contextMenuRoot": {
+    "message": "ዱ↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ምርጫን ቀይር → መደበኛ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ምርጫ ቀይር → መደበኛ ያልሆነ (ዱ)"
+  },
+  "floatingCardTitle": {
+    "message": "ዱ↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "በመቀየር ላይ…"
+  },
+  "floatingReplaceButton": {
+    "message": "ምርጫን ተካ"
+  },
+  "floatingCopyButton": {
+    "message": "ቅዳ"
+  },
+  "floatingCopiedButton": {
+    "message": "ተቀድቷል!"
+  },
+  "floatingDismissButton": {
+    "message": "አሰናብት"
+  },
+  "floatingRetryButton": {
+    "message": "እንደገና ይሞክሩ"
+  },
+  "floatingErrorPrefix": {
+    "message": "ስህተት፡-"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "በዚህ ገጽ ላይ ጽሑፍን መተካት አይቻልም። "
+  },
+  "historyTitle": {
+    "message": "የልወጣ ታሪክ"
+  },
+  "historyClearButton": {
+    "message": "ታሪክ አጽዳ"
+  },
+  "historyRestoreButton": {
+    "message": "እነበረበት መልስ"
+  },
+  "historyEmpty": {
+    "message": "እስካሁን ምንም ልወጣዎች የሉም።"
+  },
+  "historyModeLabel": {
+    "message": "ሁነታ፡"
+  },
+  "historyIntensityLabel": {
+    "message": "ጥንካሬ፡"
+  },
+  "historyModeDuToSie": {
+    "message": "ዱ → ሲ"
+  },
+  "historyModeSieToDu": {
+    "message": "ሲ → ዱ"
+  },
+  "historyIntensityStandard": {
+    "message": "መደበኛ"
+  },
+  "historyIntensityPolished": {
+    "message": "የተወለወለ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ጥብቅ ኮርፖሬት"
+  },
+  "diffToggleButton": {
+    "message": "ልዩነት አሳይ"
+  },
+  "diffToggleButtonOff": {
+    "message": "ልዩነትን ደብቅ"
+  },
+  "diffInputLabel": {
+    "message": "ኦሪጅናል"
+  },
+  "diffOutputLabel": {
+    "message": "ተለወጠ"
+  },
+  "ariaSettingsToggle": {
+    "message": "የቅንብሮች ፓነልን ቀያይር"
+  },
+  "ariaShowPassword": {
+    "message": "የኤፒአይ ቁልፍ አሳይ"
+  },
+  "ariaHidePassword": {
+    "message": "የኤፒአይ ቁልፍን ደብቅ"
+  },
+  "ariaConvertButton": {
+    "message": "ጽሑፍ ቀይር"
+  },
+  "ariaCopyOutput": {
+    "message": "ውጤቱን ወደ ቅንጥብ ሰሌዳ ቅዳ"
+  },
+  "ariaClearAll": {
+    "message": "ግብዓት እና ውፅዓት አጽዳ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "በጎን ፓነል ውስጥ ሙሉ የስራ ቦታን ይክፈቱ"
+  },
+  "ariaDiffToggle": {
+    "message": "የልዩነት እይታን ቀያይር"
+  },
+  "ariaHistoryToggle": {
+    "message": "የታሪክ ፓነልን ቀያይር"
+  },
+  "keyStatusPresent": {
+    "message": "የኤፒአይ ቁልፍ ተቀምጧል"
+  },
+  "keyStatusMissing": {
+    "message": "ምንም የኤፒአይ ቁልፍ አልተቀመጠም።"
+  },
+  "converting": {
+    "message": "በመቀየር ላይ…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - የስራ ቦታ"
+  }
+}

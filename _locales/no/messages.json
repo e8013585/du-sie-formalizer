@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konverter tysk tekst mellom uformelt (Du) og formelt (Sie) register ved å bruke Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Inndata"
+  },
+  "outputLabel": {
+    "message": "Produksjon"
+  },
+  "inputPlaceholder": {
+    "message": "Lim inn eller skriv tysk tekst her..."
+  },
+  "outputPlaceholder": {
+    "message": "Konvertert tekst vises her..."
+  },
+  "convertButton": {
+    "message": "Konvertere"
+  },
+  "copyButton": {
+    "message": "Kopiere"
+  },
+  "copiedButton": {
+    "message": "Kopiert!"
+  },
+  "clearButton": {
+    "message": "Klar"
+  },
+  "openSidePanelButton": {
+    "message": "Åpne i sidepanelet"
+  },
+  "settingsTitle": {
+    "message": "Innstillinger"
+  },
+  "apiKeyLabel": {
+    "message": "Antropisk API-nøkkel"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Vise"
+  },
+  "hideKeyButton": {
+    "message": "Gjemme"
+  },
+  "saveKeyButton": {
+    "message": "Lagre nøkkel"
+  },
+  "keySavedConfirm": {
+    "message": "Nøkkel lagret:"
+  },
+  "testKeyButton": {
+    "message": "Testnøkkel"
+  },
+  "testKeyValid": {
+    "message": "✓ Gyldig"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ugyldig"
+  },
+  "testKeyTesting": {
+    "message": "Tester …"
+  },
+  "modelLabel": {
+    "message": "Modell"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toneintensitet"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polert"
+  },
+  "toneStrictCorporate": {
+    "message": "Strenge Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Ingen API-nøkkel er lagret. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Innstillinger"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Denne teksten er kanskje ikke på tysk. "
+  },
+  "charactersCount": {
+    "message": "$count$ tegn",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ugyldig API-nøkkel. "
+  },
+  "errorRateLimit": {
+    "message": "Satsgrensen er nådd. "
+  },
+  "errorApiServer": {
+    "message": "Antropisk API-feil. "
+  },
+  "errorNetwork": {
+    "message": "Nettverksfeil. "
+  },
+  "errorUnknown": {
+    "message": "Det oppstod en uventet feil. "
+  },
+  "errorNoKey": {
+    "message": "Ingen API-nøkkel er konfigurert. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konverter utvalg → formelt (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konverter utvalg → uformelt (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Konverterer …"
+  },
+  "floatingReplaceButton": {
+    "message": "Erstatt utvalg"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiere"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopiert!"
+  },
+  "floatingDismissButton": {
+    "message": "Avskjedige"
+  },
+  "floatingRetryButton": {
+    "message": "Prøv på nytt"
+  },
+  "floatingErrorPrefix": {
+    "message": "Feil:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kan ikke erstatte tekst på denne siden. "
+  },
+  "historyTitle": {
+    "message": "Konverteringshistorikk"
+  },
+  "historyClearButton": {
+    "message": "Tøm historikk"
+  },
+  "historyRestoreButton": {
+    "message": "Restaurere"
+  },
+  "historyEmpty": {
+    "message": "Ingen konverteringer ennå."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitet:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polert"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strenge Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Vis diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Skjul diff"
+  },
+  "diffInputLabel": {
+    "message": "Opprinnelig"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertert"
+  },
+  "ariaSettingsToggle": {
+    "message": "Bytt innstillingspanel"
+  },
+  "ariaShowPassword": {
+    "message": "Vis API-nøkkel"
+  },
+  "ariaHidePassword": {
+    "message": "Skjul API-nøkkel"
+  },
+  "ariaConvertButton": {
+    "message": "Konverter tekst"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopier utdata til utklippstavlen"
+  },
+  "ariaClearAll": {
+    "message": "Tydelig inn- og utgang"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Åpne hele arbeidsområdet i sidepanelet"
+  },
+  "ariaDiffToggle": {
+    "message": "Bytt diff-visning"
+  },
+  "ariaHistoryToggle": {
+    "message": "Slå på historikkpanelet"
+  },
+  "keyStatusPresent": {
+    "message": "API-nøkkel er lagret"
+  },
+  "keyStatusMissing": {
+    "message": "Ingen API-nøkkel er lagret"
+  },
+  "converting": {
+    "message": "Konverterer …"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Arbeidsområde"
+  }
+}

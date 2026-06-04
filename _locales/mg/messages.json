@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Hanova lahatsoratra alemà eo amin'ny rejisitra tsy ara-dalàna (Du) sy ofisialy (Sie) amin'ny fampiasana Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Hira lahatsoratra mivoaka"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Hanova"
+  },
+  "copyButton": {
+    "message": "Adika"
+  },
+  "copiedButton": {
+    "message": "Nadika!"
+  },
+  "clearButton": {
+    "message": "Fafao"
+  },
+  "openSidePanelButton": {
+    "message": "Misokatra amin'ny sisiny"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Asehoy"
+  },
+  "hideKeyButton": {
+    "message": "Afeno"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Lay voatahiry:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ Valiny"
+  },
+  "testKeyInvalid": {
+    "message": " Tsy mety"
+  },
+  "testKeyTesting": {
+    "message": "Fitsapana…"
+  },
+  "modelLabel": {
+    "message": "Modely"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ton Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Organisation Strict"
+  },
+  "noApiKeyWarning": {
+    "message": "Tsy misy fanalahidy API voatahiry. Ampidiro azafady ny fanalahidin'ny API Anthropic anao"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Mety tsy amin'ny teny alemana ity lahatsoratra ity. Mety tsy marina ny valiny."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API tsy mety. Azafady, jereo ny fanalahidinao ao amin'ny Settings."
+  },
+  "errorRateLimit": {
+    "message": "Tonga ny fetran'ny sarany. Andraso azafady ary andramo indray."
+  },
+  "errorApiServer": {
+    "message": "Ery amin'ny API Anthropic. Azafady, andramo indray rehefa afaka kelikely."
+  },
+  "errorNetwork": {
+    "message": "Esory ny tambajotra. Jereo azafady ny fifandraisanao."
+  },
+  "errorUnknown": {
+    "message": "Nisy lesoka tsy nampoizina. Andramo indray azafady."
+  },
+  "errorNoKey": {
+    "message": "Tsy misy lakile API voarindra. Ampidiro azafady ny fanalahidinao ao amin'ny Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert Selection → Formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert Selection → Informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Copy"
+  },
+  "floatingCopiedButton": {
+    "message": "Nadika!"
+  },
+  "floatingDismissButton": {
+    "message": "Asory"
+  },
+  "floatingRetryButton": {
+    "message": "Andramo indray"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Tsy afaka manolo lahatsoratra amin'ity pejy ity. Adikao kosa azafady."
+  },
+  "historyTitle": {
+    "message": "Tantara fiovam-po"
+  },
+  "historyClearButton": {
+    "message": "Fadio ny tantara"
+  },
+  "historyRestoreButton": {
+    "message": "Avereno"
+  },
+  "historyEmpty": {
+    "message": "Tsy mbola misy fiovam-po."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensité:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polised"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Orinasa Hentitra"
+  },
+  "diffToggleButton": {
+    "message": "Asehoy ny Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Afeno ny Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Convert Panel"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Afeno ny fanalahidin'ny API"
+  },
+  "ariaConvertButton": {
+    "message": "Hanova lahatsoratra"
+  },
+  "ariaCopyOutput": {
+    "message": "Adikao amin'ny solaitrabe ny vokatra"
+  },
+  "ariaClearAll": {
+    "message": "Fafao ny fidirana sy ny vokatra"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Sokafy ny habaka fiasana feno amin'ny tontonana sisiny"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Tsy misy lakile API voatahiry"
+  },
+  "converting": {
+    "message": "Manova…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

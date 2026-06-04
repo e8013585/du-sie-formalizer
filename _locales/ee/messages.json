@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Trɔ Germanygbe me nuŋɔŋlɔ ɖe nuŋlɔɖi si womewɔ le ɖoɖo nu o (Du) kple esi woŋlɔ ɖe ɖoɖo nu (Sie) dome to Claude AI zazã me."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "De eme"
+  },
+  "outputLabel": {
+    "message": "Nuɖeɖe"
+  },
+  "inputPlaceholder": {
+    "message": "Kpe alo ŋlɔ Germanygbe me nuŋɔŋlɔ ɖe afisia..."
+  },
+  "outputPlaceholder": {
+    "message": "Nuŋɔŋlɔ si wotrɔ la adze afisia..."
+  },
+  "convertButton": {
+    "message": "Trɔ"
+  },
+  "copyButton": {
+    "message": "Kɔpi"
+  },
+  "copiedButton": {
+    "message": "Woɖee ɖa!"
+  },
+  "clearButton": {
+    "message": "Klɔ"
+  },
+  "openSidePanelButton": {
+    "message": "Ʋu le Axadzikpa me"
+  },
+  "settingsTitle": {
+    "message": "Nɔnɔmewo"
+  },
+  "apiKeyLabel": {
+    "message": "Amegbetɔ ƒe API Safui"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Fia"
+  },
+  "hideKeyButton": {
+    "message": "Ɣla"
+  },
+  "saveKeyButton": {
+    "message": "Dzra Safui"
+  },
+  "keySavedConfirm": {
+    "message": "Safui si wodzra ɖo:"
+  },
+  "testKeyButton": {
+    "message": "Dodokpɔ Safui"
+  },
+  "testKeyValid": {
+    "message": "✓ Esɔ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Dodokpɔ si mesɔ o"
+  },
+  "testKeyTesting": {
+    "message": "Dodokpɔ..."
+  },
+  "modelLabel": {
+    "message": "Kpɔɖeŋu"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Gbeɖiɖi ƒe Sesẽ"
+  },
+  "toneStandard": {
+    "message": "Dzidzenu"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "API safui aɖeke medzra ɖo o. Taflatse ŋlɔ wò Anthropic API safuia ɖe"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Nɔnɔmewo"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ateŋu anye be nuŋɔŋlɔ sia mele Germanygbe me o. Emetsonuwo ateŋu masɔ o."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API safui si mesɔ o. Taflatse lé ŋku ɖe wò safuia ŋu le Ðoɖowo me."
+  },
+  "errorRateLimit": {
+    "message": "Seɖoƒe si woaxe na wò la ɖo. Taflatse lala eye nàgadze agbagba ake."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API vodada. Taflatse gadze agbagba emegbe."
+  },
+  "errorNetwork": {
+    "message": "Network ƒe vodada. Taflatse kpɔ wò kadodoa ɖa."
+  },
+  "errorUnknown": {
+    "message": "Vodada aɖe si mèle mɔ kpɔm na o dzɔ. Taflatse gadze agbagba ake."
+  },
+  "errorNoKey": {
+    "message": "Womeɖo API safui aɖeke o. Taflatse tsɔ wò safui kpe ɖe Ðoɖowo ŋu."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Trɔ tiatia → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Trɔ tiatia → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Trɔ..."
+  },
+  "floatingReplaceButton": {
+    "message": "Trɔ Tiatia"
+  },
+  "floatingCopyButton": {
+    "message": "Kɔpi"
+  },
+  "floatingCopiedButton": {
+    "message": "Woɖee ɖa!"
+  },
+  "floatingDismissButton": {
+    "message": "Woɖe asi le eŋu"
+  },
+  "floatingRetryButton": {
+    "message": "Gbugbɔ dze agbagba"
+  },
+  "floatingErrorPrefix": {
+    "message": "Vodada:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Womateŋu aɖɔli nuŋɔŋlɔ si le axa sia dzi o. Taflatse kɔpi ɖe eteƒe."
+  },
+  "historyTitle": {
+    "message": "Tɔtrɔ Ŋutinya"
+  },
+  "historyClearButton": {
+    "message": "Klɔ Ŋutinya"
+  },
+  "historyRestoreButton": {
+    "message": "Gbugbɔ"
+  },
+  "historyEmpty": {
+    "message": "Tɔtrɔ aɖeke meli haɖe o."
+  },
+  "historyModeLabel": {
+    "message": "Nɔnɔme:"
+  },
+  "historyIntensityLabel": {
+    "message": "Sesẽme:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Dzidzenu"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Fia Vovototo"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ɣla Vovototo"
+  },
+  "diffInputLabel": {
+    "message": "Gɔmedzedze"
+  },
+  "diffOutputLabel": {
+    "message": "Trɔ"
+  },
+  "ariaSettingsToggle": {
+    "message": "Trɔ ɖoɖowo panel"
+  },
+  "ariaShowPassword": {
+    "message": "Fia API safui"
+  },
+  "ariaHidePassword": {
+    "message": "Ɣla API safui"
+  },
+  "ariaConvertButton": {
+    "message": "Trɔ nuŋɔŋlɔ"
+  },
+  "ariaCopyOutput": {
+    "message": "Kpɔ emetsonuwo ɖe clipboard me"
+  },
+  "ariaClearAll": {
+    "message": "Klɔ nyawo tsɔtsɔ yi kple emetsonuwo me"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Ʋu dɔwɔƒe bliboa le axadzinɔnɔme"
+  },
+  "ariaDiffToggle": {
+    "message": "Trɔ vovototo kpɔkpɔ"
+  },
+  "ariaHistoryToggle": {
+    "message": "Be nàtrɔ ŋutinya panel"
+  },
+  "keyStatusPresent": {
+    "message": "Wodzra API safui ɖo"
+  },
+  "keyStatusMissing": {
+    "message": "Womedzra API safui aɖeke ɖo o"
+  },
+  "converting": {
+    "message": "Tɔtrɔ..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Dɔwɔƒe"
+  }
+}

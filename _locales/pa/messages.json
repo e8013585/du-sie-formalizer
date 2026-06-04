@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਗੈਰ-ਰਸਮੀ (Du) ਅਤੇ ਰਸਮੀ (Sie) ਰਜਿਸਟਰ ਵਿਚਕਾਰ ਜਰਮਨ ਟੈਕਸਟ ਨੂੰ ਬਦਲੋ।"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ਇਨਪੁਟ"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "ਪਰਿਵਰਤਿਤ ਟੈਕਸਟ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗਾ…"
+  },
+  "convertButton": {
+    "message": "ਕਨਵਰਟ"
+  },
+  "copyButton": {
+    "message": "ਕਾਪੀ"
+  },
+  "copiedButton": {
+    "message": "ਕਾਪੀ ਕੀਤਾ ਗਿਆ!"
+  },
+  "clearButton": {
+    "message": "ਸਾਫ਼ ਕਰੋ"
+  },
+  "openSidePanelButton": {
+    "message": "ਸਾਈਡ ਪੈਨਲ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "settingsTitle": {
+    "message": "ਸੈਟਿੰਗਾਂ"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ਦਿਖਾਓ"
+  },
+  "hideKeyButton": {
+    "message": "ਲੁਕਾਓ"
+  },
+  "saveKeyButton": {
+    "message": "ਸੇਵ ਕੁੰਜੀ"
+  },
+  "keySavedConfirm": {
+    "message": "ਸੁਰੱਖਿਅਤ ਕੁੰਜੀ:"
+  },
+  "testKeyButton": {
+    "message": "ਟੈਸਟ ਕੁੰਜੀ"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ਟੈਸਟਿੰਗ…"
+  },
+  "modelLabel": {
+    "message": "ਮਾਡਲ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ਟੋਨ ਤੀਬਰਤਾ"
+  },
+  "toneStandard": {
+    "message": "ਸਟੈਂਡਰਡ"
+  },
+  "tonePolished": {
+    "message": "ਪਾਲਿਸ਼ਡ"
+  },
+  "toneStrictCorporate": {
+    "message": "ਸਖਤ ਕਾਰਪੋਰੇਟ"
+  },
+  "noApiKeyWarning": {
+    "message": "ਕੋਈ API ਕੁੰਜੀ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤੀ ਗਈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਐਂਥਰੋਪਿਕ API ਕੁੰਜੀ"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ਸੈਟਿੰਗਾਂ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ਇਹ ਟੈਕਸਟ ਜਰਮਨ ਵਿੱਚ ਨਹੀਂ ਹੋ ਸਕਦਾ। ਨਤੀਜੇ ਗਲਤ ਹੋ ਸਕਦੇ ਹਨ।"
+  },
+  "charactersCount": {
+    "message": "$count$ ਅੱਖਰ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ਅਵੈਧ API ਕੁੰਜੀ। ਕਿਰਪਾ ਕਰਕੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਆਪਣੀ ਕੁੰਜੀ ਦੀ ਜਾਂਚ ਕਰੋ।"
+  },
+  "errorRateLimit": {
+    "message": "ਦਰ ਦੀ ਸੀਮਾ ਪੂਰੀ ਹੋ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API ਗਲਤੀ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  },
+  "errorNetwork": {
+    "message": "ਨੈੱਟਵਰਕ ਅਸ਼ੁੱਧੀ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ।"
+  },
+  "errorUnknown": {
+    "message": "��ੱਕ ਅਚਾਨਕ ਗੜਬੜ ਹੋ ਗਈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  },
+  "errorNoKey": {
+    "message": "ਕੋਈ API ਕੁੰਜੀ ਕੌਂਫਿਗਰ ਨਹੀਂ ਕੀਤੀ ਗਈ। ਕਿਰਪਾ ਕਰਕੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਆਪਣੀ ਕੁੰਜੀ ਸ਼ਾਮਲ ਕਰੋ।"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ਕਨਵਰਟ ਚੋਣ → ਰਸਮੀ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ਕਨਵਰਟ ਸਿਲੈਕਸ਼ਨ → ਅਨੌਪਚਾਰਿਕ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "ਕਾਪੀ"
+  },
+  "floatingCopiedButton": {
+    "message": "ਕਾਪੀ ਕੀਤੀ ਗਈ!"
+  },
+  "floatingDismissButton": {
+    "message": "ਖਾਰਜ ਕਰੋ"
+  },
+  "floatingRetryButton": {
+    "message": "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+  },
+  "floatingErrorPrefix": {
+    "message": "ਗਲਤੀ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ਇਸ ਪੰਨੇ 'ਤੇ ਟੈਕਸਟ ਨੂੰ ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਦੀ ਬਜਾਏ ਕਾਪੀ ਕਰੋ।"
+  },
+  "historyTitle": {
+    "message": "ਪਰਿਵਰਤਨ ਇਤਿਹਾਸ"
+  },
+  "historyClearButton": {
+    "message": "ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ"
+  },
+  "historyRestoreButton": {
+    "message": "ਬਹਾਲ ਕਰੋ"
+  },
+  "historyEmpty": {
+    "message": "ਅਜੇ ਤੱਕ ਕੋਈ ਪਰਿਵਰਤਨ ਨਹੀਂ।"
+  },
+  "historyModeLabel": {
+    "message": "ਮੋਡ:"
+  },
+  "historyIntensityLabel": {
+    "message": "ਤੀਬਰਤਾ:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ਸਟੈਂਡਰਡ"
+  },
+  "historyIntensityPolished": {
+    "message": "ਪਾਲਿਸ਼ਡ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ਸਖਤ ਕਾਰਪੋਰੇਟ"
+  },
+  "diffToggleButton": {
+    "message": "ਦਿਖਾਓ ਅੰਤਰ"
+  },
+  "diffToggleButtonOff": {
+    "message": "ਦਿਖਾਓ"
+  },
+  "diffInputLabel": {
+    "message": "ਮੂਲ"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "��ਪੀਆਈ ਕੁੰਜੀ ਦਿਖਾਓ"
+  },
+  "ariaHidePassword": {
+    "message": "ਏਪੀਆਈ ਕੁੰਜੀ ਲੁਕਾਓ"
+  },
+  "ariaConvertButton": {
+    "message": "ਟੈਕਸਟ ਵਿੱਚ ਬਦਲੋ"
+  },
+  "ariaCopyOutput": {
+    "message": "ਆਉਟਪੁੱਟ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ"
+  },
+  "ariaClearAll": {
+    "message": "ਇਨਪੁਟ ਅਤੇ ਆਉਟਪੁੱਟ ਨੂੰ ਸਾਫ਼ ਕਰੋ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "ਇਤਿਹਾਸ ਪੈਨਲ ਨੂੰ ਟੌਗਲ ਕਰੋ"
+  },
+  "keyStatusPresent": {
+    "message": "API ਕੁੰਜੀ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ ਹੈ"
+  },
+  "keyStatusMissing": {
+    "message": "ਕੋਈ API ਕੁੰਜੀ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤੀ ਗਈ"
+  },
+  "converting": {
+    "message": "ਕਨਵਰਟ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – ਵਰਕਸਪੇਸ"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvèti tèks Alman ant enskri enfòmèl (Du) ak fòmèl (Sie) lè l sèvi avèk Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Antre"
+  },
+  "outputLabel": {
+    "message": "Sòti"
+  },
+  "inputPlaceholder": {
+    "message": "Kole oswa tape tèks Alman isit la..."
+  },
+  "outputPlaceholder": {
+    "message": "Tèks konvèti ap parèt isit la..."
+  },
+  "convertButton": {
+    "message": "Konvèti"
+  },
+  "copyButton": {
+    "message": "Kopi"
+  },
+  "copiedButton": {
+    "message": "Kopi!"
+  },
+  "clearButton": {
+    "message": "Klè"
+  },
+  "openSidePanelButton": {
+    "message": "Louvri nan Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Anviwònman"
+  },
+  "apiKeyLabel": {
+    "message": "Kle API antropik"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Montre"
+  },
+  "hideKeyButton": {
+    "message": "Kache"
+  },
+  "saveKeyButton": {
+    "message": "Sove kle"
+  },
+  "keySavedConfirm": {
+    "message": "Kle sove:"
+  },
+  "testKeyButton": {
+    "message": "Tès kle"
+  },
+  "testKeyValid": {
+    "message": "✓ Valab"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Envalid"
+  },
+  "testKeyTesting": {
+    "message": "Tès..."
+  },
+  "modelLabel": {
+    "message": "Modèl"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Entansite Ton"
+  },
+  "toneStandard": {
+    "message": "Estanda"
+  },
+  "tonePolished": {
+    "message": "Poli"
+  },
+  "toneStrictCorporate": {
+    "message": "Strik Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Pa gen okenn kle API sove. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Anviwònman"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Tèks sa a ka pa an Alman. "
+  },
+  "charactersCount": {
+    "message": "$count$ karaktè",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kle API ki pa valab. "
+  },
+  "errorRateLimit": {
+    "message": "Limit to rive nan. "
+  },
+  "errorApiServer": {
+    "message": "Erè API antropik. "
+  },
+  "errorNetwork": {
+    "message": "Erè rezo a. "
+  },
+  "errorUnknown": {
+    "message": "Yon erè inatandi te fèt. "
+  },
+  "errorNoKey": {
+    "message": "Pa gen kle API configuré. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konvèti seleksyon → fòmèl (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvèti seleksyon → enfòmèl (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Konvèti..."
+  },
+  "floatingReplaceButton": {
+    "message": "Ranplase Seleksyon"
+  },
+  "floatingCopyButton": {
+    "message": "Kopi"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopi!"
+  },
+  "floatingDismissButton": {
+    "message": "Ranvwaye"
+  },
+  "floatingRetryButton": {
+    "message": "Eseye ankò"
+  },
+  "floatingErrorPrefix": {
+    "message": "Erè:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Pa ka ranplase tèks nan paj sa a. "
+  },
+  "historyTitle": {
+    "message": "Istwa konvèsyon"
+  },
+  "historyClearButton": {
+    "message": "Istwa klè"
+  },
+  "historyRestoreButton": {
+    "message": "Restore"
+  },
+  "historyEmpty": {
+    "message": "Pa gen konvèsyon ankò."
+  },
+  "historyModeLabel": {
+    "message": "Mòd:"
+  },
+  "historyIntensityLabel": {
+    "message": "Entansite:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estanda"
+  },
+  "historyIntensityPolished": {
+    "message": "Poli"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strik Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Montre Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Kache dif"
+  },
+  "diffInputLabel": {
+    "message": "Orijinal"
+  },
+  "diffOutputLabel": {
+    "message": "Konvèti"
+  },
+  "ariaSettingsToggle": {
+    "message": "Aktive panèl anviwònman"
+  },
+  "ariaShowPassword": {
+    "message": "Montre kle API"
+  },
+  "ariaHidePassword": {
+    "message": "Kache kle API"
+  },
+  "ariaConvertButton": {
+    "message": "Konvèti tèks"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopi pwodiksyon nan clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Klè opinyon ak pwodiksyon"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Louvri espas travay konplè nan panèl bò"
+  },
+  "ariaDiffToggle": {
+    "message": "Deklanche dif view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Aktive panèl istwa"
+  },
+  "keyStatusPresent": {
+    "message": "Kle API a sove"
+  },
+  "keyStatusMissing": {
+    "message": "Pa gen okenn kle API sove"
+  },
+  "converting": {
+    "message": "Konvèti..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Espas travay"
+  }
+}

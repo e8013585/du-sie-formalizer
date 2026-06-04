@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI hmangin German text chu informal (Du) leh formal (Sie) register inkarah convert rawh."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Hetah hian German text paste emaw type emaw rawh..."
+  },
+  "outputPlaceholder": {
+    "message": "Converted text a rawn lang ang hetah hian..."
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copy a ni!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Side Panel-ah hawng"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Show"
+  },
+  "hideKeyButton": {
+    "message": "Hide"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Key save:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ A dik"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testing..."
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "API key save a awm lo. Khawngaihin i Anthropic API key kha"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "He thuziak hi German tawng a ni lo mai thei. Results a dik lo mai thei."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API key dik lo. Settings ah khan i key kha check la."
+  },
+  "errorRateLimit": {
+    "message": "Rate limit a thleng tawh. Khawngaihin nghak la, han tum leh rawh."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. Khawngaihin a hnuah han en leh teh."
+  },
+  "errorNetwork": {
+    "message": "Network error. Khawngaihin i connection kha check rawh."
+  },
+  "errorUnknown": {
+    "message": "Beisei loh thil a awm. Khawngaihin han tum leh teh."
+  },
+  "errorNoKey": {
+    "message": "API key configure a ni lo. Khawngaihin Settings ah i key kha dah la."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Thil thlan chu thlak danglam → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Thil thlan chu thlak danglam → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Thil thlan..."
+  },
+  "floatingReplaceButton": {
+    "message": "Thil thlak danglam Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Copy"
+  },
+  "floatingCopiedButton": {
+    "message": "Copy a ni!"
+  },
+  "floatingDismissButton": {
+    "message": "Dismiss"
+  },
+  "floatingRetryButton": {
+    "message": "Retry"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "He page-a thuziak hi thlak theih a ni lo. Khawngaihin copy zawk rawh."
+  },
+  "historyTitle": {
+    "message": "Conversion History"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Restore"
+  },
+  "historyEmpty": {
+    "message": "Conversion a la awm lo."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff thup"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Settings toggle panel"
+  },
+  "ariaShowPassword": {
+    "message": "API key entir"
+  },
+  "ariaHidePassword": {
+    "message": "API key thup"
+  },
+  "ariaConvertButton": {
+    "message": "Text convert"
+  },
+  "ariaCopyOutput": {
+    "message": "Output chu clipboard-ah copy"
+  },
+  "ariaClearAll": {
+    "message": "Input leh output tifai"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Side panel-ah workspace kimchang hawng"
+  },
+  "ariaDiffToggle": {
+    "message": "Diff view toggle"
+  },
+  "ariaHistoryToggle": {
+    "message": "Istory history toggle panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key chu save a ni"
+  },
+  "keyStatusMissing": {
+    "message": "API key save a ni lo"
+  },
+  "converting": {
+    "message": "Converting..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

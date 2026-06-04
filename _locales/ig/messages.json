@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Tugharia ederede German n'etiti ndebanye aha (Du) na nke iwu (Sie) site na iji Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ntinye"
+  },
+  "outputLabel": {
+    "message": "Mpụta"
+  },
+  "inputPlaceholder": {
+    "message": "Tapawa ma ọ bụ pịnye ederede German ebe a…"
+  },
+  "outputPlaceholder": {
+    "message": "Ederede atụgharịrị ga-apụta ebe a…"
+  },
+  "convertButton": {
+    "message": "Tugharia"
+  },
+  "copyButton": {
+    "message": "Detuo"
+  },
+  "copiedButton": {
+    "message": "Eṅomiri!"
+  },
+  "clearButton": {
+    "message": "Kpochapụ"
+  },
+  "openSidePanelButton": {
+    "message": "Mepee n'akụkụ akụkụ"
+  },
+  "settingsTitle": {
+    "message": "Ntọala"
+  },
+  "apiKeyLabel": {
+    "message": "Igodo API Anthropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Gosi"
+  },
+  "hideKeyButton": {
+    "message": "Zoo"
+  },
+  "saveKeyButton": {
+    "message": "Chekwaa igodo"
+  },
+  "keySavedConfirm": {
+    "message": "echekwara igodo:"
+  },
+  "testKeyButton": {
+    "message": "Igodo ule"
+  },
+  "testKeyValid": {
+    "message": "✓ Kwesịrị ekwesị"
+  },
+  "testKeyInvalid": {
+    "message": "✗ ezighi ezi"
+  },
+  "testKeyTesting": {
+    "message": "Na-anwale…"
+  },
+  "modelLabel": {
+    "message": "Nlereanya"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ụda ike"
+  },
+  "toneStandard": {
+    "message": "Ọkọlọtọ"
+  },
+  "tonePolished": {
+    "message": "Achachapụrụ"
+  },
+  "toneStrictCorporate": {
+    "message": "Ụlọ ọrụ siri ike"
+  },
+  "noApiKeyWarning": {
+    "message": "Enweghị igodo API echekwara. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ntọala"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ederede a nwere ike ọ gaghị abụ na German. "
+  },
+  "charactersCount": {
+    "message": "agwa $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Igodo API ezighi ezi. "
+  },
+  "errorRateLimit": {
+    "message": "Eruola oke ọnụego. "
+  },
+  "errorApiServer": {
+    "message": "Njehie API Anthropic. "
+  },
+  "errorNetwork": {
+    "message": "Njehie netwọkụ. "
+  },
+  "errorUnknown": {
+    "message": "Njehie a na-atụghị anya ya mere. "
+  },
+  "errorNoKey": {
+    "message": "Enweghị igodo API ahaziri. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Tụgharịa nhọrọ → usoro (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Tụgharịa nhọrọ → nke nkịtị (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Na-atụgharị…"
+  },
+  "floatingReplaceButton": {
+    "message": "Dochie Nhọrọ"
+  },
+  "floatingCopyButton": {
+    "message": "Detuo"
+  },
+  "floatingCopiedButton": {
+    "message": "Eṅomiri!"
+  },
+  "floatingDismissButton": {
+    "message": "Wepụ"
+  },
+  "floatingRetryButton": {
+    "message": "Gbalịa ọzọ"
+  },
+  "floatingErrorPrefix": {
+    "message": "Njehie:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Enweghị ike dochie ederede na ibe a. "
+  },
+  "historyTitle": {
+    "message": "Akụkọ ntụgharị"
+  },
+  "historyClearButton": {
+    "message": "Kpochapụ akụkọ ihe mere eme"
+  },
+  "historyRestoreButton": {
+    "message": "Weghachite"
+  },
+  "historyEmpty": {
+    "message": "Enweghị ntugharị ma."
+  },
+  "historyModeLabel": {
+    "message": "Ụdị:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ike:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Ọkọlọtọ"
+  },
+  "historyIntensityPolished": {
+    "message": "Achachapụrụ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Ụlọ ọrụ siri ike"
+  },
+  "diffToggleButton": {
+    "message": "Gosi ihe dị iche"
+  },
+  "diffToggleButtonOff": {
+    "message": "Zoo Ọdịiche"
+  },
+  "diffInputLabel": {
+    "message": "Nke mbụ"
+  },
+  "diffOutputLabel": {
+    "message": "Tụgharịrị"
+  },
+  "ariaSettingsToggle": {
+    "message": "Gbanwee panel ntọala"
+  },
+  "ariaShowPassword": {
+    "message": "Gosi igodo API"
+  },
+  "ariaHidePassword": {
+    "message": "Zoo igodo API"
+  },
+  "ariaConvertButton": {
+    "message": "Tụgharịa ederede"
+  },
+  "ariaCopyOutput": {
+    "message": "Detuo nsonaazụ na klipbọọdụ"
+  },
+  "ariaClearAll": {
+    "message": "Kpochapụ ntinye na ntinye"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Mepee oghere ọrụ zuru oke n'akụkụ akụkụ"
+  },
+  "ariaDiffToggle": {
+    "message": "Gbanwee echiche dị iche"
+  },
+  "ariaHistoryToggle": {
+    "message": "Gbanwee panel akụkọ ihe mere eme"
+  },
+  "keyStatusPresent": {
+    "message": "A na-echekwa igodo API"
+  },
+  "keyStatusMissing": {
+    "message": "Enweghị igodo API echekwara"
+  },
+  "converting": {
+    "message": "Na-atụgharị…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Oghere ọrụ"
+  }
+}

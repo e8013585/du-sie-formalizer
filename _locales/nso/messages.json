@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Fetoša sengwalwa sa Sejeremane magareng ga retšisetara ye e sego ya semmušo (Du) le ya semmušo (Sie) o šomiša Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Tsenyo"
+  },
+  "outputLabel": {
+    "message": "Tšweletšo"
+  },
+  "inputPlaceholder": {
+    "message": "Kgomaretša goba thaepa sengwalwa sa Sejeremane mo..."
+  },
+  "outputPlaceholder": {
+    "message": "Sengwalwa se se fetotšwego se tla tšwelela mo..."
+  },
+  "convertButton": {
+    "message": "Fetoša"
+  },
+  "copyButton": {
+    "message": "Kopiša"
+  },
+  "copiedButton": {
+    "message": "E kopišitšwe!"
+  },
+  "clearButton": {
+    "message": "Hlwekiša"
+  },
+  "openSidePanelButton": {
+    "message": "Bula ka go Phanele ya Lehlakoreng"
+  },
+  "settingsTitle": {
+    "message": "Dipeakanyo"
+  },
+  "apiKeyLabel": {
+    "message": "API ya Anthropic Senotlelo"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Bontšha"
+  },
+  "hideKeyButton": {
+    "message": "Pata"
+  },
+  "saveKeyButton": {
+    "message": "Boloka Senotlelo"
+  },
+  "keySavedConfirm": {
+    "message": "Senotlolo se bolokilwe:"
+  },
+  "testKeyButton": {
+    "message": "Senotlelo sa Teko"
+  },
+  "testKeyValid": {
+    "message": "✓ E a šoma"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Teko ye e sa šomego"
+  },
+  "testKeyTesting": {
+    "message": "..."
+  },
+  "modelLabel": {
+    "message": "Mohlala"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Matla a Segalo"
+  },
+  "toneStandard": {
+    "message": "Maemo"
+  },
+  "tonePolished": {
+    "message": "E phadima"
+  },
+  "toneStrictCorporate": {
+    "message": "Kgwebo ye e Tiilego"
+  },
+  "noApiKeyWarning": {
+    "message": "Ga go na senotlelo sa API seo se bolokilwego. Hle tsenya senotlelo sa gago sa Anthropic API go"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Dipeakanyo"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Sengwalwa se se ka no se be ka Sejeremane. Dipoelo di ka ba di sa nepagala."
+  },
+  "charactersCount": {
+    "message": "$count$ ditlhaka",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Senotlolo sa API seo se sa šomego. Hle hlahloba senotlelo sa gago ka go Dipeakanyo."
+  },
+  "errorRateLimit": {
+    "message": "Moedi wa seelo o fihleletšwe. Hle ema gomme o leke gape."
+  },
+  "errorApiServer": {
+    "message": "Phošo ya API ya Anthropic. Hle leka gape ka morago."
+  },
+  "errorNetwork": {
+    "message": "Phošo ya netweke. Hle hlahloba kgokagano ya gago."
+  },
+  "errorUnknown": {
+    "message": "Phošo ye e sa letelwago e diregile. Hle leka gape."
+  },
+  "errorNoKey": {
+    "message": "Ga go na senotlelo sa API seo se rulagantšwego. Hle oketša senotlelo sa gago ka go Dipeakanyo."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Fetoša kgetho → semmušo (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Fetoša kgetho → e sego ya semmušo (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Go fetola..."
+  },
+  "floatingReplaceButton": {
+    "message": "Tšea legato Kgetho"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiša"
+  },
+  "floatingCopiedButton": {
+    "message": "E kopišitšwe!"
+  },
+  "floatingDismissButton": {
+    "message": "Lahla"
+  },
+  "floatingRetryButton": {
+    "message": "Leka gape"
+  },
+  "floatingErrorPrefix": {
+    "message": "Phošo:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "E ka se tšee legato la sengwalwa letlakaleng le. Hle kopiša go e na le moo."
+  },
+  "historyTitle": {
+    "message": "Histori ya Phetošo"
+  },
+  "historyClearButton": {
+    "message": "Hlakola Histori"
+  },
+  "historyRestoreButton": {
+    "message": "Bušetša"
+  },
+  "historyEmpty": {
+    "message": "Ga go na diphetošo go fihla ga bjale."
+  },
+  "historyModeLabel": {
+    "message": "Mokgwa:"
+  },
+  "historyIntensityLabel": {
+    "message": "Matla:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Maemo"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Bontšha Phapano"
+  },
+  "diffToggleButtonOff": {
+    "message": "Pata Phapano"
+  },
+  "diffInputLabel": {
+    "message": "Mathomo"
+  },
+  "diffOutputLabel": {
+    "message": "E fetotšwego"
+  },
+  "ariaSettingsToggle": {
+    "message": "Dipeakanyo tša go fetola phanele"
+  },
+  "ariaShowPassword": {
+    "message": "Bontšha senotlelo sa API"
+  },
+  "ariaHidePassword": {
+    "message": "Pata senotlelo sa API"
+  },
+  "ariaConvertButton": {
+    "message": "Fetoša sengwalwa"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopiša ditšweletšwa go klipbote"
+  },
+  "ariaClearAll": {
+    "message": "Hlwekiša tsenyo le ditšweletšwa"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Bula sekgoba sa mošomo ka botlalo ka phaneleng ya ka thoko"
+  },
+  "ariaDiffToggle": {
+    "message": "Fetoša tebelelo ya phapano"
+  },
+  "ariaHistoryToggle": {
+    "message": "Go sepetša histori phanele"
+  },
+  "keyStatusPresent": {
+    "message": "Senotlolo sa API se bolokilwe"
+  },
+  "keyStatusMissing": {
+    "message": "Ga go senotlelo sa API se se bolokilwego"
+  },
+  "converting": {
+    "message": "Go fetola..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Sebaka sa Mošomo"
+  }
+}

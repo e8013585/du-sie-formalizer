@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Hloov cov ntawv German ntawm cov ntawv tsis raug (Du) thiab raug cai (Sie) sau npe siv Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sib → Du"
+  },
+  "inputLabel": {
+    "message": "Tswv yim"
+  },
+  "outputLabel": {
+    "message": "Tso zis"
+  },
+  "inputPlaceholder": {
+    "message": "Muab tshuaj los yog ntaus ntawv German ntawm no…"
+  },
+  "outputPlaceholder": {
+    "message": "Hloov cov ntawv yuav tshwm ntawm no…"
+  },
+  "convertButton": {
+    "message": "Hloov"
+  },
+  "copyButton": {
+    "message": "Luam"
+  },
+  "copiedButton": {
+    "message": "Luam!"
+  },
+  "clearButton": {
+    "message": "Ntshiab"
+  },
+  "openSidePanelButton": {
+    "message": "Qhib hauv Sab Vaj Huam Sib Luag"
+  },
+  "settingsTitle": {
+    "message": "Chaw"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Qhia"
+  },
+  "hideKeyButton": {
+    "message": "nkaum"
+  },
+  "saveKeyButton": {
+    "message": "Txuag Key"
+  },
+  "keySavedConfirm": {
+    "message": "Key saved:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ Siv tau"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Tsis raug"
+  },
+  "testKeyTesting": {
+    "message": "Kev sim…"
+  },
+  "modelLabel": {
+    "message": "Qauv"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Siab"
+  },
+  "toneStandard": {
+    "message": "Txuj"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Cov koom haum nruj"
+  },
+  "noApiKeyWarning": {
+    "message": "Tsis muaj tus yuam sij API khaws tseg. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Chaw"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Cov ntawv no yuav tsis yog lus German. "
+  },
+  "charactersCount": {
+    "message": "$ suav $ cim",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Tus yuam sij API tsis raug. "
+  },
+  "errorRateLimit": {
+    "message": "Tus nqi txwv mus txog. "
+  },
+  "errorApiServer": {
+    "message": "Anthropic API yuam kev. "
+  },
+  "errorNetwork": {
+    "message": "Network yuam kev. "
+  },
+  "errorUnknown": {
+    "message": "Ib qho yuam kev uas tsis xav txog tshwm sim. "
+  },
+  "errorNoKey": {
+    "message": "Tsis muaj tus yuam sij API teeb tsa. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Hloov xaiv → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Hloov kev xaiv → tsis raws cai (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Kev hloov pauv…"
+  },
+  "floatingReplaceButton": {
+    "message": "Hloov Xaiv"
+  },
+  "floatingCopyButton": {
+    "message": "Luam"
+  },
+  "floatingCopiedButton": {
+    "message": "Luam!"
+  },
+  "floatingDismissButton": {
+    "message": "Tso tseg"
+  },
+  "floatingRetryButton": {
+    "message": "Rov sim dua"
+  },
+  "floatingErrorPrefix": {
+    "message": "yuam kev:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Hloov tsis tau cov ntawv ntawm nplooj ntawv no. "
+  },
+  "historyTitle": {
+    "message": "Hloov keeb kwm"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Rov qab los"
+  },
+  "historyEmpty": {
+    "message": "Tsis tau hloov dua siab tshiab."
+  },
+  "historyModeLabel": {
+    "message": "Hom:"
+  },
+  "historyIntensityLabel": {
+    "message": "Kev siv zog:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sib → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Txuj"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Cov koom haum nruj"
+  },
+  "diffToggleButton": {
+    "message": "Qhia qhov txawv"
+  },
+  "diffToggleButtonOff": {
+    "message": "Nkaum Diff"
+  },
+  "diffInputLabel": {
+    "message": "Keeb kwm"
+  },
+  "diffOutputLabel": {
+    "message": "Hloov pauv"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle chaw teeb tsa vaj huam sib luag"
+  },
+  "ariaShowPassword": {
+    "message": "Qhia API key"
+  },
+  "ariaHidePassword": {
+    "message": "Nkaum API key"
+  },
+  "ariaConvertButton": {
+    "message": "Hloov cov ntawv"
+  },
+  "ariaCopyOutput": {
+    "message": "Luam cov ntawv tso tawm rau ntawv teev cia"
+  },
+  "ariaClearAll": {
+    "message": "Clear input thiab output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Qhib tag nrho qhov chaw ua haujlwm hauv vaj huam sib luag sab"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle keeb kwm vaj huam sib luag"
+  },
+  "keyStatusPresent": {
+    "message": "API key tau txais kev cawmdim"
+  },
+  "keyStatusMissing": {
+    "message": "Tsis muaj tus yuam sij API khaws tseg"
+  },
+  "converting": {
+    "message": "Kev hloov pauv…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Chaw Ua Haujlwm"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Formalizator Du↔Sie"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convertiți textul german între registrul informal (Du) și formal (Sie) folosind Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Intrare"
+  },
+  "outputLabel": {
+    "message": "Ieșire"
+  },
+  "inputPlaceholder": {
+    "message": "Lipiți sau introduceți text în germană aici..."
+  },
+  "outputPlaceholder": {
+    "message": "Textul convertit va apărea aici..."
+  },
+  "convertButton": {
+    "message": "Convertit"
+  },
+  "copyButton": {
+    "message": "Copie"
+  },
+  "copiedButton": {
+    "message": "Copiat!"
+  },
+  "clearButton": {
+    "message": "Clar"
+  },
+  "openSidePanelButton": {
+    "message": "Deschideți în panoul lateral"
+  },
+  "settingsTitle": {
+    "message": "Setări"
+  },
+  "apiKeyLabel": {
+    "message": "Cheie API antropică"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Spectacol"
+  },
+  "hideKeyButton": {
+    "message": "Ascunde"
+  },
+  "saveKeyButton": {
+    "message": "Salvare cheie"
+  },
+  "keySavedConfirm": {
+    "message": "Cheie salvată:"
+  },
+  "testKeyButton": {
+    "message": "Cheie de testare"
+  },
+  "testKeyValid": {
+    "message": "✓ Valabil"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Se testează…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensitatea tonului"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Lustruit"
+  },
+  "toneStrictCorporate": {
+    "message": "Corporatist strict"
+  },
+  "noApiKeyWarning": {
+    "message": "Nu a fost salvată nicio cheie API. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Setări"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Este posibil ca acest text să nu fie în germană. "
+  },
+  "charactersCount": {
+    "message": "$count$ caractere",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Cheie API nevalidă. "
+  },
+  "errorRateLimit": {
+    "message": "Limita ratei a fost atinsă. "
+  },
+  "errorApiServer": {
+    "message": "Eroare API antropică. "
+  },
+  "errorNetwork": {
+    "message": "Eroare de rețea. "
+  },
+  "errorUnknown": {
+    "message": "A apărut o eroare neașteptată. "
+  },
+  "errorNoKey": {
+    "message": "Nicio cheie API configurată. "
+  },
+  "contextMenuRoot": {
+    "message": "Formalizator Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Convertiți selecția → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convertiți selecția → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalizator Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Se convertește…"
+  },
+  "floatingReplaceButton": {
+    "message": "Înlocuiește selecția"
+  },
+  "floatingCopyButton": {
+    "message": "Copie"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiat!"
+  },
+  "floatingDismissButton": {
+    "message": "Respingeți"
+  },
+  "floatingRetryButton": {
+    "message": "Reîncercați"
+  },
+  "floatingErrorPrefix": {
+    "message": "Eroare:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Nu se poate înlocui textul de pe această pagină. "
+  },
+  "historyTitle": {
+    "message": "Istoricul conversiilor"
+  },
+  "historyClearButton": {
+    "message": "Ștergeți istoricul"
+  },
+  "historyRestoreButton": {
+    "message": "Restabili"
+  },
+  "historyEmpty": {
+    "message": "Nicio conversie încă."
+  },
+  "historyModeLabel": {
+    "message": "Mod:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitate:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Lustruit"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Corporatist strict"
+  },
+  "diffToggleButton": {
+    "message": "Afișați diferența"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ascunde diferența"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Convertit"
+  },
+  "ariaSettingsToggle": {
+    "message": "Comutați panoul de setări"
+  },
+  "ariaShowPassword": {
+    "message": "Afișați cheia API"
+  },
+  "ariaHidePassword": {
+    "message": "Ascunde cheia API"
+  },
+  "ariaConvertButton": {
+    "message": "Convertiți text"
+  },
+  "ariaCopyOutput": {
+    "message": "Copiați rezultatul în clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Ștergeți intrarea și ieșirea"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Deschideți spațiul de lucru complet în panoul lateral"
+  },
+  "ariaDiffToggle": {
+    "message": "Comutați vizualizarea diferențelor"
+  },
+  "ariaHistoryToggle": {
+    "message": "Comutați panoul istoric"
+  },
+  "keyStatusPresent": {
+    "message": "Cheia API este salvată"
+  },
+  "keyStatusMissing": {
+    "message": "Nu a fost salvată nicio cheie API"
+  },
+  "converting": {
+    "message": "Se convertește…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Spațiu de lucru"
+  }
+}

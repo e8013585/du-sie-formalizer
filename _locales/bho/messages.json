@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "क्लाउड AI के इस्तेमाल से अनौपचारिक (Du) आ औपचारिक (Sie) रजिस्टर के बीच जर्मन पाठ के रूपांतरण करीं।"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "इनपुट"
+  },
+  "outputLabel": {
+    "message": "आउटपुट"
+  },
+  "inputPlaceholder": {
+    "message": "इहाँ जर्मन पाठ पेस्ट करीं भा टाइप करीं..."
+  },
+  "outputPlaceholder": {
+    "message": "रूपांतरित पाठ लउकी इहाँ..."
+  },
+  "convertButton": {
+    "message": "रूपांतरित करीं"
+  },
+  "copyButton": {
+    "message": "कॉपी"
+  },
+  "copiedButton": {
+    "message": "कॉपी कइल गइल!"
+  },
+  "clearButton": {
+    "message": "साफ करीं"
+  },
+  "openSidePanelButton": {
+    "message": "साइड पैनल में खोलीं"
+  },
+  "settingsTitle": {
+    "message": "सेटिंग"
+  },
+  "apiKeyLabel": {
+    "message": "एंथ्रोपिक एपीआई कुंजी"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "शो"
+  },
+  "hideKeyButton": {
+    "message": "छुपाईं"
+  },
+  "saveKeyButton": {
+    "message": "कुंजी सहेजीं"
+  },
+  "keySavedConfirm": {
+    "message": "कुंजी सहेजल गइल:"
+  },
+  "testKeyButton": {
+    "message": "परीक्षण कुंजी"
+  },
+  "testKeyValid": {
+    "message": "✓ मान्य"
+  },
+  "testKeyInvalid": {
+    "message": "✗ अ���ान्य"
+  },
+  "testKeyTesting": {
+    "message": "परीक्षण..."
+  },
+  "modelLabel": {
+    "message": "मॉडल"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "टोन तीव्रता"
+  },
+  "toneStandard": {
+    "message": "मानक"
+  },
+  "tonePolished": {
+    "message": "पॉलिश"
+  },
+  "toneStrictCorporate": {
+    "message": "सख्त कॉर्पोरेट"
+  },
+  "noApiKeyWarning": {
+    "message": "कवनो एपीआई कुंजी सेव नइखे भइल। कृपया आपन एन्थ्रोपिक एपीआई कुंजी"
+  },
+  "noApiKeyWarningLink": {
+    "message": "सेटिंग"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "में दर्ज करीं ई पाठ जर्मन में ना हो सके ला। परिणाम गलत हो सके���ा।"
+  },
+  "charactersCount": {
+    "message": "$count$ वर्ण",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "अमान्य एपीआई कुंजी। कृपया सेटिंग में आपन कुंजी चेक करीं।"
+  },
+  "errorRateLimit": {
+    "message": "दर सीमा पहुँच गइल। कृपया इंतजार करीं आ दोबारा कोशिश करीं।"
+  },
+  "errorApiServer": {
+    "message": "एन्थ्रोपिक एपीआई त्रुटि। कृपया बाद में दोबारा कोशिश करीं।"
+  },
+  "errorNetwork": {
+    "message": "नेटवर्क त्रुटि। कृपया आपन कनेक्शन जाँच करीं।"
+  },
+  "errorUnknown": {
+    "message": "अप्रत्याशित त्रुटि भइल। कृपया दोबारा कोशिश करीं।"
+  },
+  "errorNoKey": {
+    "message": "कोई एपीआई कुंजी कॉन्फ़िगर नइखे भइल। कृपया सेटिंग में आपन कुंजी जोड़ीं।"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "चयन के रूपांतरण → औपचारिक (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "चयन के रूपांतरण → अनौपचारिक (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "रूपांतरण..."
+  },
+  "floatingReplaceButton": {
+    "message": "बदली चयन"
+  },
+  "floatingCopyButton": {
+    "message": "कॉपी"
+  },
+  "floatingCopiedButton": {
+    "message": "कॉपी कइल गइल!"
+  },
+  "floatingDismissButton": {
+    "message": "खारिज"
+  },
+  "floatingRetryButton": {
+    "message": "दोबारा कोशिश करीं"
+  },
+  "floatingErrorPrefix": {
+    "message": "त्रुटि:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "एह पन्ना पर पाठ के बदलल नइखे जा सकत। कृपया एकरा बजाय कॉपी करीं।"
+  },
+  "historyTitle": {
+    "message": "रूपांतरण इतिहास"
+  },
+  "historyClearButton": {
+    "message": "इतिहास साफ करीं"
+  },
+  "historyRestoreButton": {
+    "message": "बहा�� करीं"
+  },
+  "historyEmpty": {
+    "message": "अभी तक कवनो रूपांतरण नइखे भइल।"
+  },
+  "historyModeLabel": {
+    "message": "मोड:"
+  },
+  "historyIntensityLabel": {
+    "message": "तीव्रता:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → दु"
+  },
+  "historyIntensityStandard": {
+    "message": "मानक"
+  },
+  "historyIntensityPolished": {
+    "message": "पॉलिश"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "सख्त कॉर्पोरेट"
+  },
+  "diffToggleButton": {
+    "message": "अंतर देखाईं"
+  },
+  "diffToggleButtonOff": {
+    "message": "अंतर छिपाईं"
+  },
+  "diffInputLabel": {
+    "message": "मूल"
+  },
+  "diffOutputLabel": {
+    "message": "रूपांतरित"
+  },
+  "ariaSettingsToggle": {
+    "message": "सेटिंग टॉगल करीं panel"
+  },
+  "ariaShowPassword": {
+    "message": "एपीआई कुंजी देखाईं"
+  },
+  "ariaHidePassword": {
+    "message": "एपीआई कुंजी छिपाईं"
+  },
+  "ariaConvertButton": {
+    "message": "पाठ बदलीं"
+  },
+  "ariaCopyOutput": {
+    "message": "आउटपुट के क्लिपबोर्ड में कॉपी करीं"
+  },
+  "ariaClearAll": {
+    "message": "इनपुट आ आउटपुट साफ करीं"
+  },
+  "ariaOpenSidePanel": {
+    "message": "साइड पैनल में पूरा वर्कस्पेस खोलीं"
+  },
+  "ariaDiffToggle": {
+    "message": "डिफ व्यू टॉगल करीं"
+  },
+  "ariaHistoryToggle": {
+    "message": "इतिहास खातिर पैनल"
+  },
+  "keyStatusPresent": {
+    "message": "एपीआई कुंजी सहेजल गइल बा"
+  },
+  "keyStatusMissing": {
+    "message": "कवनो एपीआई कुंजी सहेजल नइखे"
+  },
+  "converting": {
+    "message": "रूपांतरित हो रहल बा..."
+  },
+  "sidePanelTitle": {
+    "message": "ड्यू↔सी फॉर्मेलाइजर – वर्कस्पेस"
+  }
+}

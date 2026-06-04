@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert German text between informal (Du) and formal (Sie) register using Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "परिवर्तनं"
+  },
+  "copyButton": {
+    "message": "प्रतिलिपिं"
+  },
+  "copiedButton": {
+    "message": "प्रतिलिपिकृतम्!"
+  },
+  "clearButton": {
+    "message": "स्वच्छं"
+  },
+  "openSidePanelButton": {
+    "message": "पार्श्वफलके उद्घाटयतु"
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्स्"
+  },
+  "apiKeyLabel": {
+    "message": "मानव-एपिआइ कील"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "दर्शय"
+  },
+  "hideKeyButton": {
+    "message": "गोपयतु"
+  },
+  "saveKeyButton": {
+    "message": "कुंजी रक्षतु"
+  },
+  "keySavedConfirm": {
+    "message": "कुंजी रक्षिता:"
+  },
+  "testKeyButton": {
+    "message": "परीक्षणकुंजी"
+  },
+  "testKeyValid": {
+    "message": "✓ वैध"
+  },
+  "testKeyInvalid": {
+    "message": "✗ अमान्य"
+  },
+  "testKeyTesting": {
+    "message": "परीक्षणम्..."
+  },
+  "modelLabel": {
+    "message": "प्रतिरूप"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "स्वरतीव्रता"
+  },
+  "toneStandard": {
+    "message": "मानक"
+  },
+  "tonePolished": {
+    "message": "पॉलिश"
+  },
+  "toneStrictCorporate": {
+    "message": "कठोरनिगम"
+  },
+  "noApiKeyWarning": {
+    "message": "एपिआइ-कुंजी न रक्षिता । कृपया स्वस्य Anthropic API कीलं"
+  },
+  "noApiKeyWarningLink": {
+    "message": "सेटिंग्स्"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "इत्यत्र प्रविशन्तु एषः पाठः जर्मनभाषायां न भवेत् । परिणामाः अशुद्धाः भवितुम् अर्हन्ति ।"
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "अमान्य API कुञ्जी । कृपया सेटिंग्स् इत्यत्र स्वस्य कीलं पश्यन्तु।"
+  },
+  "errorRateLimit": {
+    "message": "दरसीमा प्राप्ता। कृपया प्रतीक्ष्य पुनः प्रयासं कुर्वन्तु।"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. कृपया पश्चात् पुनः प्रयासं कुर्वन्तु।"
+  },
+  "errorNetwork": {
+    "message": "जालदोषः। कृपया स्वसम्बन्धं पश्यन्तु।"
+  },
+  "errorUnknown": {
+    "message": "अप्रत्याशितदोषः अभवत्। कृपया पुन�� प्रयासं कुर्वन्तु।"
+  },
+  "errorNoKey": {
+    "message": "एपिआइ-कुंजी विन्यस्तं नास्ति । कृपया सेटिंग्स् मध्ये स्वस्य कुञ्जी योजयन्तु।"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "चयनं परिवर्तयन्तु → औपचारिकं (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "चयनं परिवर्तयन्तु → अनौपचारिकं (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "परिवर्तनं कुर्वन्तु..."
+  },
+  "floatingReplaceButton": {
+    "message": "प्रतिस्थापनं कुर्वन्तु चयन"
+  },
+  "floatingCopyButton": {
+    "message": "प्रतिलिपि"
+  },
+  "floatingCopiedButton": {
+    "message": "प्रतिलिपिकृतम्!"
+  },
+  "floatingDismissButton": {
+    "message": "निराकरण"
+  },
+  "floatingRetryButton": {
+    "message": "पुनः प्रयत्नः"
+  },
+  "floatingErrorPrefix": {
+    "message": "दोष:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "अस्मिन् पृष्ठे पाठं प्रतिस्थापयितुं न शक्यते। कृपया तस्य स्थाने प्रतिलिख्यताम्।"
+  },
+  "historyTitle": {
+    "message": "रूपान्तरण-इतिहासः"
+  },
+  "historyClearButton": {
+    "message": "इतिहासः स्वच्छं कुरुत"
+  },
+  "historyRestoreButton": {
+    "message": "पुनर्स्थापनं"
+  },
+  "historyEmpty": {
+    "message": "अद्यापि परिवर्तनं नास्ति।"
+  },
+  "historyModeLabel": {
+    "message": "मोड:"
+  },
+  "historyIntensityLabel": {
+    "message": "तीव्रता:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "मानक"
+  },
+  "historyIntensityPolished": {
+    "message": "पॉलिश"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "कठोरनिगम"
+  },
+  "diffToggleButton": {
+    "message": "विभेदं दर्शयतु"
+  },
+  "diffToggleButtonOff": {
+    "message": "विभेदं गोपयतु"
+  },
+  "diffInputLabel": {
+    "message": "मूल"
+  },
+  "diffOutputLabel": {
+    "message": "परिवर्तितं"
+  },
+  "ariaSettingsToggle": {
+    "message": "सेटिंग्स् टॉगलं कुर्वन्तु panel"
+  },
+  "ariaShowPassword": {
+    "message": "एपिआइ ��ीलं दर्शयतु"
+  },
+  "ariaHidePassword": {
+    "message": "एपिआइ कीलं गोपयतु"
+  },
+  "ariaConvertButton": {
+    "message": "पाठं परिवर्तयतु"
+  },
+  "ariaCopyOutput": {
+    "message": "निर्गमं क्लिप्बोर्ड् प्रति प्रतिलिखयतु"
+  },
+  "ariaClearAll": {
+    "message": "निवेशं निर्गमं च स्वच्छं कुरुत"
+  },
+  "ariaOpenSidePanel": {
+    "message": "पार्श्वफलके पूर्णं कार्यस्थानं उद्घाटयतु"
+  },
+  "ariaDiffToggle": {
+    "message": "विभेददृश्यं टॉगलं कुरुत"
+  },
+  "ariaHistoryToggle": {
+    "message": "इतिहासस्य कृते panel"
+  },
+  "keyStatusPresent": {
+    "message": "API कुञ्जी रक्षिता"
+  },
+  "keyStatusMissing": {
+    "message": "कोऽपि API कुञ्जी रक्षितः नास्ति"
+  },
+  "converting": {
+    "message": "रूपान्तरणं..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

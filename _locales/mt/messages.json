@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Ikkonverti t-test Ġermaniż bejn ir-reġistru informali (Du) u formali (Sie) bl-użu ta’ Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": " hawn..."
+  },
+  "convertButton": {
+    "message": "Ikkonverti"
+  },
+  "copyButton": {
+    "message": "Ikkopja"
+  },
+  "copiedButton": {
+    "message": "Ikkopjata!"
+  },
+  "clearButton": {
+    "message": "Iċċara"
+  },
+  "openSidePanelButton": {
+    "message": "Open in Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ċavetta"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Uri"
+  },
+  "hideKeyButton": {
+    "message": "Aħbi"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Ċavetta salvata:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ Valida"
+  },
+  "testKeyInvalid": {
+    "message": " Invalidu"
+  },
+  "testKeyTesting": {
+    "message": "Ittestjar..."
+  },
+  "modelLabel": {
+    "message": "Mudell"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensità tat-Ton"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Illustrat"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Ebda ċavetta API salvata. Jekk jogħġbok daħħal iċ-ċavetta Anthropic API tiegħek f'"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Dan it-test jista' ma jkunx bil-Ġermaniż. Ir-riżultati jistgħu ma jkunux preċiżi."
+  },
+  "charactersCount": {
+    "message": "$count$ karattri",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ċavetta API invalida. Jekk jogħġbok iċċekkja ċ-ċavetta tiegħek fis-Settings."
+  },
+  "errorRateLimit": {
+    "message": "Limitu tar-rata milħuq. Jekk jogħġbok stenna u erġa' pprova."
+  },
+  "errorApiServer": {
+    "message": "Żball tal-API Antropiku. Jekk jogħġbok erġa' pprova aktar tard."
+  },
+  "errorNetwork": {
+    "message": "Żball fin-netwerk. Jekk jogħġbok iċċekkja l-konnessjoni tiegħek."
+  },
+  "errorUnknown": {
+    "message": "Ġara żball mhux mistenni. Jekk jogħġbok erġa' pprova."
+  },
+  "errorNoKey": {
+    "message": "Ebda ċavetta API konfigurata. Jekk jogħġbok żid iċ-ċavetta tiegħek fis-Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Ikkonverti l-għażla → formali (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Ikkonverti l-għażla → informali (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopja"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopjata!"
+  },
+  "floatingDismissButton": {
+    "message": "Iċħad"
+  },
+  "floatingRetryButton": {
+    "message": "Ipprova mill-ġdid"
+  },
+  "floatingErrorPrefix": {
+    "message": " Żball:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ma tistax tissostitwixxi t-test f'din il-paġna. Jekk jogħġbok ikkopja minflok."
+  },
+  "historyTitle": {
+    "message": "Istorja tal-Konverżjoni"
+  },
+  "historyClearButton": {
+    "message": "Kara l-Istorja"
+  },
+  "historyRestoreButton": {
+    "message": "Irrestawra"
+  },
+  "historyEmpty": {
+    "message": "Għadu l-ebda konverżjonijiet."
+  },
+  "historyModeLabel": {
+    "message": "Modalità:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensità:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Illustrat"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Korporattiva"
+  },
+  "diffToggleButton": {
+    "message": "Uri Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Aħbi Diff"
+  },
+  "diffInputLabel": {
+    "message": "Oriġinali"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertit"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Aħbi ċ-ċavetta API"
+  },
+  "ariaConvertButton": {
+    "message": "Aqleb it-test"
+  },
+  "ariaCopyOutput": {
+    "message": "Ikkopja l-output fil-clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Iċċara l-input u l-output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Iftaħ spazju tax-xogħol sħiħ fil-pannell tal-ġenb"
+  },
+  "ariaDiffToggle": {
+    "message": "Aqleb il-panel tad-differenza"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Ebda ċavetta API ssejvjata"
+  },
+  "converting": {
+    "message": "Konverżjoni..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Spazju tax-Xogħol"
+  }
+}

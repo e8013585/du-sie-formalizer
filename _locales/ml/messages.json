@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ഉപയോഗിച്ച് ജർമ്മൻ ടെക്‌സ്‌റ്റ് അനൗപചാരിക (Du), formal (Sie) രജിസ്‌റ്റർ എന്നിവയ്‌ക്കിടയിൽ പരിവർത്തനം ചെയ്യുക."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ഇൻപുട്ട്"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "പരിവർത്തനം ചെയ്‌ത ടെക്‌സ്‌റ്റ് ഇവിടെ ദൃശ്യമാകും…"
+  },
+  "convertButton": {
+    "message": "പരിവർത്തനം"
+  },
+  "copyButton": {
+    "message": "പകർപ്പ്"
+  },
+  "copiedButton": {
+    "message": "പകർന്നു!"
+  },
+  "clearButton": {
+    "message": "മായ്ക��കുക"
+  },
+  "openSidePanelButton": {
+    "message": "സൈഡ് പാനലിൽ തുറക്കുക"
+  },
+  "settingsTitle": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "apiKeyLabel": {
+    "message": "A കീ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "കാണിക്കുക"
+  },
+  "hideKeyButton": {
+    "message": "മറയ്ക്കുക"
+  },
+  "saveKeyButton": {
+    "message": "കീ സംരക്ഷിക്കുക"
+  },
+  "keySavedConfirm": {
+    "message": "കീ സംരക്ഷിച്ചു:"
+  },
+  "testKeyButton": {
+    "message": "ടെസ്റ്റ് കീ"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ടെസ്റ്റിംഗ്..."
+  },
+  "modelLabel": {
+    "message": "മോഡൽ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ടോൺ തീവ്രത"
+  },
+  "toneStandard": {
+    "message": "സ്റ്റാൻഡേർഡ്"
+  },
+  "tonePolished": {
+    "message": "പോളിഷ് ചെയ്തു"
+  },
+  "toneStrictCorporate": {
+    "message": "കണിശമായ കോർപ്പറേറ്റ്"
+  },
+  "noApiKeyWarning": {
+    "message": "API കീ സംരക്ഷിച്ചിട്ടില്ല. ദയവായി നിങ്ങളുടെ ആന്ത്രോപിക് API കീ നൽകുക"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ഈ വാചകം ജർമ്മൻ ഭാഷയിലായിരിക്കില്ല. ഫലങ്ങൾ കൃത്യമല്ലായിരിക്കാം."
+  },
+  "charactersCount": {
+    "message": "$count$ പ്രതീകങ്ങൾ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API കീ അസാധുവാണ്. ക്രമീകരണങ്ങളിൽ നിങ്ങളുടെ കീ പരിശോധിക്കുക."
+  },
+  "errorRateLimit": {
+    "message": "റേറ്റ് പരിധി എത്തി. ദയവായി കാത്തിരുന്ന് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API പിശക്. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+  },
+  "errorNetwork": {
+    "message": "നെറ്റ്‌വർക്ക് പിശക്. ദയവായി നിങ്ങളുടെ കണക്ഷൻ പരിശോധിക്കുക."
+  },
+  "errorUnknown": {
+    "message": "ഒരു അപ്രതീക്ഷിത പിശക് സംഭവിച്ചു. വീണ്ടും ശ്രമിക്കുക."
+  },
+  "errorNoKey": {
+    "message": "API കീ കോൺഫിഗർ ചെയ്തിട്ടില്ല. ക്രമീകരണങ്ങളിൽ നിങ്ങളുടെ കീ ചേർക്കുക."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie ഫോർമലൈസർ"
+  },
+  "contextMenuToSie": {
+    "message": "തിരഞ്ഞെടുപ്പ് പരിവർത്തനം ചെയ്യുക → ഫോർമൽ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "തിരഞ്ഞെടുപ്പ് പരിവർത്തനം ചെയ്യുക → അനൗപചാരിക (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie ഫോർമലൈസർ"
+  },
+  "floatingCardLoading": {
+    "message": "പരിവർത്തനം ചെയ്യുന്നു..."
+  },
+  "floatingReplaceButton": {
+    "message": "തിരഞ്ഞെടുപ്പ് മാറ്റിസ്ഥാപിക്കുന്നു"
+  },
+  "floatingCopyButton": {
+    "message": "പകർപ്പ്"
+  },
+  "floatingCopiedButton": {
+    "message": "പകർന്നു!"
+  },
+  "floatingDismissButton": {
+    "message": "നിരസിക്കുക"
+  },
+  "floatingRetryButton": {
+    "message": "വീണ്ടും ശ്രമിക്കുക"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "പരിവർത്തന ചരിത്രം"
+  },
+  "historyClearButton": {
+    "message": "ച��ിത്രം മായ്‌ക്കുക"
+  },
+  "historyRestoreButton": {
+    "message": "പുനഃസ്ഥാപിക്കുക"
+  },
+  "historyEmpty": {
+    "message": "ഇതുവരെ പരിവർത്തനങ്ങളൊന്നുമില്ല."
+  },
+  "historyModeLabel": {
+    "message": "മോഡ്:"
+  },
+  "historyIntensityLabel": {
+    "message": "തീവ്രത:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "സ്റ്റാൻഡേർഡ്"
+  },
+  "historyIntensityPolished": {
+    "message": "മിനുക്കിയ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "കണിശമായ കോർപ്പറേറ്റ്"
+  },
+  "diffToggleButton": {
+    "message": "വ്യത്യാസം കാണിക്കുക"
+  },
+  "diffToggleButtonOff": {
+    "message": "വ്യത്യാസം മറയ്‌ക്കുക"
+  },
+  "diffInputLabel": {
+    "message": "യഥാർത്ഥ"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API കീ കാണിക്കുക"
+  },
+  "ariaHidePassword": {
+    "message": "API കീ മറയ്‌ക്കുക"
+  },
+  "ariaConvertButton": {
+    "message": "ടെക്‌സ്‌റ്റ് പരിവർത്തനം ചെയ്യുക"
+  },
+  "ariaCopyOutput": {
+    "message": "ഔട്ട്‌പുട്ട് ക്ലിപ്പ്‌ബോർഡിലേക്ക് പകർത്തുക"
+  },
+  "ariaClearAll": {
+    "message": "ഇൻപുട്ടും ഔട്ട്‌പുട്ടും മായ്‌ക്കുക"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "ടോഗിൾ ഹിസ്റ്ററി പാനൽ"
+  },
+  "keyStatusPresent": {
+    "message": "API കീ സംരക്ഷിച്ചിട്ടില്ല"
+  },
+  "keyStatusMissing": {
+    "message": "API കീ സംരക്ഷിച്ചിട്ടില്ല"
+  },
+  "converting": {
+    "message": "പരിവർത്തനം ചെയ്യുന്നു..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

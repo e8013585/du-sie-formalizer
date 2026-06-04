@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "क्लाउड एआई प्रयोग गरेर अनौपचारिक (Du) र औपचारिक (Sie) दर्ता बीच जर्मन पाठ रूपान्तरण गर्नुहोस्।"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "इनपुट"
+  },
+  "outputLabel": {
+    "message": "आउटपुट"
+  },
+  "inputPlaceholder": {
+    "message": "यहाँ जर्मन पाठ टाँस्नुहोस् वा टाइप गर्नुहोस्..."
+  },
+  "outputPlaceholder": {
+    "message": "रूपान्तरित पाठ यहाँ देखा पर्नेछ..."
+  },
+  "convertButton": {
+    "message": "रूपान्तरण गर्नुहोस्"
+  },
+  "copyButton": {
+    "message": "प्रतिलिपि गर्नुहोस्"
+  },
+  "copiedButton": {
+    "message": "प्रतिलिपि गरियो!"
+  },
+  "clearButton": {
+    "message": "खाली गर्नुहोस्"
+  },
+  "openSidePanelButton": {
+    "message": "साइड प्यानलमा खोल्नुहोस्"
+  },
+  "settingsTitle": {
+    "message": "सेटिङहरू"
+  },
+  "apiKeyLabel": {
+    "message": "एन्थ्रोपिक एपीआई कुञ्जी"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "देखाउनुहोस्"
+  },
+  "hideKeyButton": {
+    "message": "लुकाउनुहोस्"
+  },
+  "saveKeyButton": {
+    "message": "बचत कुञ्जी"
+  },
+  "keySavedConfirm": {
+    "message": "बचत गरिएको कुञ्जी:"
+  },
+  "testKeyButton": {
+    "message": "परीक्षण कुञ्जी"
+  },
+  "testKeyValid": {
+    "message": "✓ मान्य"
+  },
+  "testKeyInvalid": {
+    "message": "✗ अमान्य"
+  },
+  "testKeyTesting": {
+    "message": "परीक्षण…"
+  },
+  "modelLabel": {
+    "message": "मोडेल"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "टोन तीव्रता"
+  },
+  "toneStandard": {
+    "message": "मानक"
+  },
+  "tonePolished": {
+    "message": "पालिस"
+  },
+  "toneStrictCorporate": {
+    "message": "कडा कर्पोरेट"
+  },
+  "noApiKeyWarning": {
+    "message": "कुनै एपीआई कुञ्जी बचत गरिएको छैन। "
+  },
+  "noApiKeyWarningLink": {
+    "message": "सेटिङहरू"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "यो पाठ जर्मनमा नहुन सक्छ। "
+  },
+  "charactersCount": {
+    "message": "$count$ वर्णहरू",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "अमान्य API कुञ्जी। "
+  },
+  "errorRateLimit": {
+    "message": "दर सीमा पुग्यो। "
+  },
+  "errorApiServer": {
+    "message": "एन्थ्रोपिक API त्रुटि। "
+  },
+  "errorNetwork": {
+    "message": "नेटवर्क त्रुटि। "
+  },
+  "errorUnknown": {
+    "message": "एउटा अनपेक्षित त्रुटि भयो। "
+  },
+  "errorNoKey": {
+    "message": "कुनै API कुञ्जी कन्फिगर गरिएको छैन। "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "चयनलाई रूपान्तरण गर्नुहोस् → औपचारिक (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "चयनलाई रूपान्तरण गर्नुहोस् → अनौपचारिक (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "रूपान्तरण गर्दै..."
+  },
+  "floatingReplaceButton": {
+    "message": "चयन बदल्नुहोस्"
+  },
+  "floatingCopyButton": {
+    "message": "प्रतिलिपि गर्नुहोस्"
+  },
+  "floatingCopiedButton": {
+    "message": "प्रतिलिपि गरियो!"
+  },
+  "floatingDismissButton": {
+    "message": "खारेज गर्नुहोस्"
+  },
+  "floatingRetryButton": {
+    "message": "पुन: प्रयास गर्नुहोस्"
+  },
+  "floatingErrorPrefix": {
+    "message": "त्रुटि:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "यस पृष्ठमा पाठ प्रतिस्थापन गर्न सकिँदैन। "
+  },
+  "historyTitle": {
+    "message": "रूपान्तरण इतिहास"
+  },
+  "historyClearButton": {
+    "message": "इतिहास खाली गर्नुहोस्"
+  },
+  "historyRestoreButton": {
+    "message": "पुनर्स्थापना गर्नुहोस्"
+  },
+  "historyEmpty": {
+    "message": "अहिलेसम्म कुनै रूपान्तरण छैन।"
+  },
+  "historyModeLabel": {
+    "message": "मोड:"
+  },
+  "historyIntensityLabel": {
+    "message": "तीव्रता:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "मानक"
+  },
+  "historyIntensityPolished": {
+    "message": "पालिस"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "कडा कर्पोरेट"
+  },
+  "diffToggleButton": {
+    "message": "फरक देखाउनुहोस्"
+  },
+  "diffToggleButtonOff": {
+    "message": "फरक लुकाउनुहोस्"
+  },
+  "diffInputLabel": {
+    "message": "मौलिक"
+  },
+  "diffOutputLabel": {
+    "message": "रूपान्तरित"
+  },
+  "ariaSettingsToggle": {
+    "message": "सेटिङ प्यानल टगल गर्नुहोस्"
+  },
+  "ariaShowPassword": {
+    "message": "API कुञ्जी देखाउनुहोस्"
+  },
+  "ariaHidePassword": {
+    "message": "API कुञ्जी लुकाउनुहोस्"
+  },
+  "ariaConvertButton": {
+    "message": "पाठ रूपान्तरण गर्नुहोस्"
+  },
+  "ariaCopyOutput": {
+    "message": "क्लिपबोर्डमा आउटपुट प्रतिलिपि गर्नुहोस्"
+  },
+  "ariaClearAll": {
+    "message": "इनपुट र आउटपुट खाली गर्नुहोस्"
+  },
+  "ariaOpenSidePanel": {
+    "message": "साइड प्यानलमा पूर्ण कार्यस्थान खोल्नुहोस्"
+  },
+  "ariaDiffToggle": {
+    "message": "भिन्न दृश्य टगल गर्नुहोस्"
+  },
+  "ariaHistoryToggle": {
+    "message": "इतिहास प्यानल टगल गर्नुहोस्"
+  },
+  "keyStatusPresent": {
+    "message": "API कुञ्जी बचत गरिएको छ"
+  },
+  "keyStatusMissing": {
+    "message": "कुनै एपीआई कुञ्जी बचत गरिएको छैन"
+  },
+  "converting": {
+    "message": "रूपान्तरण गर्दै..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - कार्यक्षेत्र"
+  }
+}

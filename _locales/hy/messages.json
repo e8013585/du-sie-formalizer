@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Փոխակերպեք գերմաներեն տեքստը ոչ ֆորմալ (Du) և պաշտոնական (Sie) գրանցման միջև՝ օգտագործելով Claude AI:"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Մուտքագրեք"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Փոխարկված տեքստը կհայտնվի այստեղ…"
+  },
+  "convertButton": {
+    "message": "Փոխակերպել"
+  },
+  "copyButton": {
+    "message": "Պատճենել"
+  },
+  "copiedButton": {
+    "message": "Պատճենվել է:"
+  },
+  "clearButton": {
+    "message": "Մաքրել"
+  },
+  "openSidePanelButton": {
+    "message": "Բացել կողային վահանակում"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Ցուցադրել"
+  },
+  "hideKeyButton": {
+    "message": "Թաքցնել"
+  },
+  "saveKeyButton": {
+    "message": "Պահել բանալի"
+  },
+  "keySavedConfirm": {
+    "message": "Բանալին պահված է՝"
+  },
+  "testKeyButton": {
+    "message": "Փորձարկման բանալի"
+  },
+  "testKeyValid": {
+    "message": "✓ Վավեր է"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Փորձարկում…"
+  },
+  "modelLabel": {
+    "message": "Մոդել"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Տոնի ինտենսիվություն"
+  },
+  "toneStandard": {
+    "message": "Ստանդարտ"
+  },
+  "tonePolished": {
+    "message": "Փայլեցված"
+  },
+  "toneStrictCorporate": {
+    "message": "Խիստ կորպորատիվ"
+  },
+  "noApiKeyWarning": {
+    "message": "API բանալի չի պահպանվել: Խնդրում ենք մուտքագրել ձեր Anthropic API բանալին"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Կարգավորումներ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Այս տեքստը կարող է լինել գերմաներեն: Արդյունքները կարող են սխալ լինել:"
+  },
+  "charactersCount": {
+    "message": "$count$ նիշ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Անվավեր API բանալի: Խն��րում ենք ստուգել ձեր բանալին Կարգավորումներում:"
+  },
+  "errorRateLimit": {
+    "message": "Գնահատման սահմանաչափը հասել է: Խնդրում ենք սպասել և նորից փորձել:"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API-ի սխալ: Խնդրում ենք փորձել ավելի ուշ:"
+  },
+  "errorNetwork": {
+    "message": "Ցանցի սխալ: Խնդրում ենք ստուգել ձեր կապը:"
+  },
+  "errorUnknown": {
+    "message": "Տեղի ունեցավ անսպասելի սխալ: Խնդրում ենք կրկին փորձել:"
+  },
+  "errorNoKey": {
+    "message": "API բանալի կազմաձևված չէ: Խնդրում ենք ավելացնել ձեր բանալին Կարգավորումներում:"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Փոխակերպել ընտրությունը → պաշտոնական (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Փոխարկել ընտրությունը → ոչ պաշտոնական (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Ֆորմալիզատոր"
+  },
+  "floatingCardLoading": {
+    "message": "Վերափոխում…"
+  },
+  "floatingReplaceButton": {
+    "message": "Փոխարինել ընտրությունը"
+  },
+  "floatingCopyButton": {
+    "message": "Պատճենել"
+  },
+  "floatingCopiedButton": {
+    "message": "Պատճենվել է:"
+  },
+  "floatingDismissButton": {
+    "message": "Փակել"
+  },
+  "floatingRetryButton": {
+    "message": "Նորից փորձեք"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "Կոնվերսիայի պատմությունը"
+  },
+  "historyClearButton": {
+    "message": "Մաքրել պատմությունը"
+  },
+  "historyRestoreButton": {
+    "message": "Վերականգնել"
+  },
+  "historyEmpty": {
+    "message": "Դեռևս փոխարկումներ չկան:"
+  },
+  "historyModeLabel": {
+    "message": "Ռեժիմ՝"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Ստանդարտ"
+  },
+  "historyIntensityPolished": {
+    "message": "Փայլեցված"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Խիստ կորպորատիվ"
+  },
+  "diffToggleButton": {
+    "message": "Ցուցադրել տարբերությունը"
+  },
+  "diffToggleButtonOff": {
+    "message": "Թաքցնել տարբերությունը"
+  },
+  "diffInputLabel": {
+    "message": "Բնօրինակ կարգավորումներ"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Թաքցնել API ստեղնը"
+  },
+  "ariaConvertButton": {
+    "message": "Փոխակերպել տեքստը"
+  },
+  "ariaCopyOutput": {
+    "message": "Պատճենել ելքը սեղմատախտակ"
+  },
+  "ariaClearAll": {
+    "message": "Մաքրել մուտքն ու ելքը"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Բացել ամբողջ աշխատանքային տարածքը կողային վահանակում"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API բանալի պահված է"
+  },
+  "keyStatusMissing": {
+    "message": "API բանալի չի պահպանվել"
+  },
+  "converting": {
+    "message": "Փոխակերպում…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

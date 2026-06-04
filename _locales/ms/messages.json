@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Tukar teks Jerman antara daftar tidak formal (Du) dan rasmi (Sie) menggunakan Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Keluaran"
+  },
+  "inputPlaceholder": {
+    "message": "Tampal atau taip teks Jerman di sini…"
+  },
+  "outputPlaceholder": {
+    "message": "Teks yang ditukar akan dipaparkan di sini…"
+  },
+  "convertButton": {
+    "message": "Tukar"
+  },
+  "copyButton": {
+    "message": "salin"
+  },
+  "copiedButton": {
+    "message": "disalin!"
+  },
+  "clearButton": {
+    "message": "Jelas"
+  },
+  "openSidePanelButton": {
+    "message": "Buka dalam Panel Sisi"
+  },
+  "settingsTitle": {
+    "message": "tetapan"
+  },
+  "apiKeyLabel": {
+    "message": "Kunci API Anthropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Tunjukkan"
+  },
+  "hideKeyButton": {
+    "message": "Sembunyi"
+  },
+  "saveKeyButton": {
+    "message": "Simpan Kunci"
+  },
+  "keySavedConfirm": {
+    "message": "Kunci disimpan:"
+  },
+  "testKeyButton": {
+    "message": "Kunci Ujian"
+  },
+  "testKeyValid": {
+    "message": "✓ Sah"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Tidak sah"
+  },
+  "testKeyTesting": {
+    "message": "Menguji…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Keamatan Nada"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Digilap"
+  },
+  "toneStrictCorporate": {
+    "message": "Korporat Tegas"
+  },
+  "noApiKeyWarning": {
+    "message": "Tiada kunci API disimpan. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "tetapan"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Teks ini mungkin bukan dalam bahasa Jerman. "
+  },
+  "charactersCount": {
+    "message": "$count$ aksara",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kunci API tidak sah. "
+  },
+  "errorRateLimit": {
+    "message": "Had kadar dicapai. "
+  },
+  "errorApiServer": {
+    "message": "Ralat API antropik. "
+  },
+  "errorNetwork": {
+    "message": "Ralat rangkaian. "
+  },
+  "errorUnknown": {
+    "message": "Ralat yang tidak dijangka berlaku. "
+  },
+  "errorNoKey": {
+    "message": "Tiada kunci API dikonfigurasikan. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Tukar pilihan → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Tukar pilihan → tidak formal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Menukar…"
+  },
+  "floatingReplaceButton": {
+    "message": "Gantikan Pemilihan"
+  },
+  "floatingCopyButton": {
+    "message": "salin"
+  },
+  "floatingCopiedButton": {
+    "message": "disalin!"
+  },
+  "floatingDismissButton": {
+    "message": "Tolak"
+  },
+  "floatingRetryButton": {
+    "message": "Cuba semula"
+  },
+  "floatingErrorPrefix": {
+    "message": "Ralat:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Tidak boleh menggantikan teks pada halaman ini. "
+  },
+  "historyTitle": {
+    "message": "Sejarah Penukaran"
+  },
+  "historyClearButton": {
+    "message": "Kosongkan Sejarah"
+  },
+  "historyRestoreButton": {
+    "message": "Pulihkan"
+  },
+  "historyEmpty": {
+    "message": "Tiada penukaran lagi."
+  },
+  "historyModeLabel": {
+    "message": "Mod:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiti:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Digilap"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Korporat Tegas"
+  },
+  "diffToggleButton": {
+    "message": "Tunjukkan Perbezaan"
+  },
+  "diffToggleButtonOff": {
+    "message": "Sembunyikan Perbezaan"
+  },
+  "diffInputLabel": {
+    "message": "Asal"
+  },
+  "diffOutputLabel": {
+    "message": "Ditukar"
+  },
+  "ariaSettingsToggle": {
+    "message": "Togol panel tetapan"
+  },
+  "ariaShowPassword": {
+    "message": "Tunjukkan kunci API"
+  },
+  "ariaHidePassword": {
+    "message": "Sembunyikan kunci API"
+  },
+  "ariaConvertButton": {
+    "message": "Tukar teks"
+  },
+  "ariaCopyOutput": {
+    "message": "Salin output ke papan keratan"
+  },
+  "ariaClearAll": {
+    "message": "Kosongkan input dan output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Buka ruang kerja penuh dalam panel sisi"
+  },
+  "ariaDiffToggle": {
+    "message": "Togol pandangan perbezaan"
+  },
+  "ariaHistoryToggle": {
+    "message": "Togol panel sejarah"
+  },
+  "keyStatusPresent": {
+    "message": "Kunci API disimpan"
+  },
+  "keyStatusMissing": {
+    "message": "Tiada kunci API disimpan"
+  },
+  "converting": {
+    "message": "Menukar…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Ruang Kerja"
+  }
+}

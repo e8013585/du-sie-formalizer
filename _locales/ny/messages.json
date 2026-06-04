@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Sinthani mawu achi German pakati pa kaundula (Du) ndi formal (Sie) kaundula pogwiritsa ntchito Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Sinthani"
+  },
+  "copyButton": {
+    "message": "Koperani"
+  },
+  "copiedButton": {
+    "message": "Mwakopera!"
+  },
+  "clearButton": {
+    "message": "Chotsani"
+  },
+  "openSidePanelButton": {
+    "message": "Tsegulani mu Mbali Yambali"
+  },
+  "settingsTitle": {
+    "message": "Zokonda"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Kiyi"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Onetsani"
+  },
+  "hideKeyButton": {
+    "message": "Bisani"
+  },
+  "saveKeyButton": {
+    "message": "Sungani Kiyi"
+  },
+  "keySavedConfirm": {
+    "message": "Kiyi yosungidwa:"
+  },
+  "testKeyButton": {
+    "message": "Kiyi Yoyesera"
+  },
+  "testKeyValid": {
+    "message": "✓ Ndiwovomerezeka"
+  },
+  "testKeyInvalid": {
+    "message": "◄ Zosavomerezeka"
+  },
+  "testKeyTesting": {
+    "message": "Kuyesa…"
+  },
+  "modelLabel": {
+    "message": "Chitsanzo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Kukula kwa Toni"
+  },
+  "toneStandard": {
+    "message": "Wamba"
+  },
+  "tonePolished": {
+    "message": "Wopukutidwa"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Palibe kiyi ya API yosungidwa. Chonde lowetsani kiyi yanu ya Anthropic API mu"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Zokonda"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Zolembazi mwina sizikhala mu Chijeremani. Zotsatira zitha kukhala zolakwika."
+  },
+  "charactersCount": {
+    "message": "Zilembo $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kiyi yolakwika ya API. Chonde yang'anani kiyi yanu pa Zochunira."
+  },
+  "errorRateLimit": {
+    "message": "Mulingo wafika. Chonde dikirani ndikuyesanso."
+  },
+  "errorApiServer": {
+    "message": "Vuto la Anthropic API. Chonde yesaninso nthawi ina."
+  },
+  "errorNetwork": {
+    "message": "Zolakwika pa netiweki. Chonde onani kulumikizana kwanu."
+  },
+  "errorUnknown": {
+    "message": "Pachitika vuto losayembekezeka. Chonde yesaninso."
+  },
+  "errorNoKey": {
+    "message": "Palibe kiyi ya API yokhazikitsidwa. Chonde onjezani kiyi yanu mu Zochunira."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Sinthani kusankha → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Sinthani kusankha → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": ""
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Koperani"
+  },
+  "floatingCopiedButton": {
+    "message": "Mwakopera!"
+  },
+  "floatingDismissButton": {
+    "message": "Chotsani"
+  },
+  "floatingRetryButton": {
+    "message": "Yeseraninso"
+  },
+  "floatingErrorPrefix": {
+    "message": "Zolakwika:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Sizingatheke kusintha mawu patsambali. Chonde kopeni m'malo mwake."
+  },
+  "historyTitle": {
+    "message": "Mbiri Yotembenuzidwa"
+  },
+  "historyClearButton": {
+    "message": "Chotsani Mbiri Yakale"
+  },
+  "historyRestoreButton": {
+    "message": "Bwezerani"
+  },
+  "historyEmpty": {
+    "message": "Palibe zosintha."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Kulimba:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Wamba"
+  },
+  "historyIntensityPolished": {
+    "message": "Wopukutidwa"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Olimba Kwambiri"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Bisani Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Bisani kiyi ya API"
+  },
+  "ariaConvertButton": {
+    "message": "Sinthani mawu"
+  },
+  "ariaCopyOutput": {
+    "message": "Koperani zotuluka ku bolodi lothirira"
+  },
+  "ariaClearAll": {
+    "message": "Chotsani zolowetsa ndi zotulutsa"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Tsegulani malo ogwirira ntchito m'mbali"
+  },
+  "ariaDiffToggle": {
+    "message": "Sinthani mawonedwe a diff"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Palibe kiyi ya API yosungidwa"
+  },
+  "converting": {
+    "message": "Ikusintha…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

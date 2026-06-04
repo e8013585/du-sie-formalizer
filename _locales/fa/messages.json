@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "فرمالایزر Du↔Sie"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "تبدیل متن آلمانی بین ثبت نام رسمی (Du) و رسمی (Sie) با استفاده از Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "دو ← سی"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ورودی"
+  },
+  "outputLabel": {
+    "message": "خروجی"
+  },
+  "inputPlaceholder": {
+    "message": "متن آلمانی را اینجا بچسبانید یا تایپ کنید…"
+  },
+  "outputPlaceholder": {
+    "message": "متن تبدیل شده در اینجا ظاهر می شود…"
+  },
+  "convertButton": {
+    "message": "تبدیل کنید"
+  },
+  "copyButton": {
+    "message": "کپی کنید"
+  },
+  "copiedButton": {
+    "message": "کپی شده!"
+  },
+  "clearButton": {
+    "message": "پاک کردن"
+  },
+  "openSidePanelButton": {
+    "message": "در پانل کناری باز کنید"
+  },
+  "settingsTitle": {
+    "message": "تنظیمات"
+  },
+  "apiKeyLabel": {
+    "message": "کلید API Anthropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "نمایش دهید"
+  },
+  "hideKeyButton": {
+    "message": "پنهان کردن"
+  },
+  "saveKeyButton": {
+    "message": "ذخیره کلید"
+  },
+  "keySavedConfirm": {
+    "message": "کلید ذخیره شد:"
+  },
+  "testKeyButton": {
+    "message": "کلید تست"
+  },
+  "testKeyValid": {
+    "message": "✓ معتبر"
+  },
+  "testKeyInvalid": {
+    "message": "✗ نامعتبر است"
+  },
+  "testKeyTesting": {
+    "message": "تست…"
+  },
+  "modelLabel": {
+    "message": "مدل"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "شدت تن"
+  },
+  "toneStandard": {
+    "message": "استاندارد"
+  },
+  "tonePolished": {
+    "message": "جلا داده شده"
+  },
+  "toneStrictCorporate": {
+    "message": "شرکت سختگیرانه"
+  },
+  "noApiKeyWarning": {
+    "message": "هیچ کلید API ذخیره نشده است. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "تنظیمات"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "این متن ممکن است به زبان آلمانی نباشد. "
+  },
+  "charactersCount": {
+    "message": "کاراکتر $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "کلید API نامعتبر است. "
+  },
+  "errorRateLimit": {
+    "message": "به حد مجاز نرخ رسیده است. "
+  },
+  "errorApiServer": {
+    "message": "خطای Anthropic API. "
+  },
+  "errorNetwork": {
+    "message": "خطای شبکه "
+  },
+  "errorUnknown": {
+    "message": "یک خطای غیرمنتظره رخ داد. "
+  },
+  "errorNoKey": {
+    "message": "هیچ کلید API پیکربندی نشده است. "
+  },
+  "contextMenuRoot": {
+    "message": "فرمالایزر Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "تبدیل انتخاب → رسمی (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "تبدیل انتخاب → غیر رسمی (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "فرمالایزر Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "در حال تبدیل…"
+  },
+  "floatingReplaceButton": {
+    "message": "انتخاب را جایگزین کنید"
+  },
+  "floatingCopyButton": {
+    "message": "کپی کنید"
+  },
+  "floatingCopiedButton": {
+    "message": "کپی شده!"
+  },
+  "floatingDismissButton": {
+    "message": "رد کردن"
+  },
+  "floatingRetryButton": {
+    "message": "دوباره امتحان کنید"
+  },
+  "floatingErrorPrefix": {
+    "message": "خطا:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "نمی توان متن را در این صفحه جایگزین کرد. "
+  },
+  "historyTitle": {
+    "message": "تاریخچه تبدیل"
+  },
+  "historyClearButton": {
+    "message": "پاک کردن تاریخچه"
+  },
+  "historyRestoreButton": {
+    "message": "بازیابی کنید"
+  },
+  "historyEmpty": {
+    "message": "هنوز هیچ تبدیلی وجود ندارد."
+  },
+  "historyModeLabel": {
+    "message": "حالت:"
+  },
+  "historyIntensityLabel": {
+    "message": "شدت:"
+  },
+  "historyModeDuToSie": {
+    "message": "دو ← سی"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "استاندارد"
+  },
+  "historyIntensityPolished": {
+    "message": "جلا داده شده"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "شرکت سختگیرانه"
+  },
+  "diffToggleButton": {
+    "message": "نمایش تفاوت"
+  },
+  "diffToggleButtonOff": {
+    "message": "پنهان کردن تفاوت"
+  },
+  "diffInputLabel": {
+    "message": "اصل"
+  },
+  "diffOutputLabel": {
+    "message": "تبدیل شده است"
+  },
+  "ariaSettingsToggle": {
+    "message": "پانل تنظیمات را تغییر دهید"
+  },
+  "ariaShowPassword": {
+    "message": "نمایش کلید API"
+  },
+  "ariaHidePassword": {
+    "message": "پنهان کردن کلید API"
+  },
+  "ariaConvertButton": {
+    "message": "تبدیل متن"
+  },
+  "ariaCopyOutput": {
+    "message": "خروجی را در کلیپ بورد کپی کنید"
+  },
+  "ariaClearAll": {
+    "message": "ورودی و خروجی را پاک کنید"
+  },
+  "ariaOpenSidePanel": {
+    "message": "فضای کاری کامل را در پانل کناری باز کنید"
+  },
+  "ariaDiffToggle": {
+    "message": "تغییر نمای تفاوت"
+  },
+  "ariaHistoryToggle": {
+    "message": "پانل تاریخچه را تغییر دهید"
+  },
+  "keyStatusPresent": {
+    "message": "کلید API ذخیره شده است"
+  },
+  "keyStatusMissing": {
+    "message": "هیچ کلید API ذخیره نشده است"
+  },
+  "converting": {
+    "message": "در حال تبدیل…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

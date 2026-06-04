@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertearje Dútske tekst tusken ynformeel (Du) en formeel (Sie) register mei Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ynfier"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Konvertearje"
+  },
+  "copyButton": {
+    "message": "Kopiearje"
+  },
+  "copiedButton": {
+    "message": "Kopiearre!"
+  },
+  "clearButton": {
+    "message": "Wis"
+  },
+  "openSidePanelButton": {
+    "message": "Iepenje yn sydpaniel"
+  },
+  "settingsTitle": {
+    "message": "Ynstellings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Toanje"
+  },
+  "hideKeyButton": {
+    "message": "Ferbergje"
+  },
+  "saveKeyButton": {
+    "message": "Kaai opslaan"
+  },
+  "keySavedConfirm": {
+    "message": "Kaai bewarre:"
+  },
+  "testKeyButton": {
+    "message": "Testkaai"
+  },
+  "testKeyValid": {
+    "message": "✓ Jildich"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Test..."
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toanintensiteit"
+  },
+  "toneStandard": {
+    "message": "Standert"
+  },
+  "tonePolished": {
+    "message": "Gepolijst"
+  },
+  "toneStrictCorporate": {
+    "message": "Strikt Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Gjin API-kaai bewarre. Fier jo Anthropic API-kaai yn yn"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ynstellings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Dizze tekst is mooglik net yn it Dútsk. Resultaten kinne net krekt wêze."
+  },
+  "charactersCount": {
+    "message": "$count$ tekens",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Unjildige API-kaai. Kontrolearje jo kaai yn Ynstellings."
+  },
+  "errorRateLimit": {
+    "message": "Taryflimyt berikt. Wachtsje asjebleaft en besykje it nochris."
+  },
+  "errorApiServer": {
+    "message": "Antropyske API-flater. Besykje it letter nochris."
+  },
+  "errorNetwork": {
+    "message": "Netwurkflater. Kontrolearje jo ferbining."
+  },
+  "errorUnknown": {
+    "message": "Der is in ûnferwachte flater bard. Besykje it nochris."
+  },
+  "errorNoKey": {
+    "message": "Gjin API-kaai ynsteld. Foegje jo kaai ta yn Ynstellings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Selektearje konvertearje → formeel (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Selektearje konvertearje → ynformeel (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiearje"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopiearre!"
+  },
+  "floatingDismissButton": {
+    "message": "Ofsmite"
+  },
+  "floatingRetryButton": {
+    "message": "Opnij"
+  },
+  "floatingErrorPrefix": {
+    "message": "Flater:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kin tekst op dizze side net ferfange. Kopiearje asjebleaft ynstee."
+  },
+  "historyTitle": {
+    "message": "Konverzjeskiednis"
+  },
+  "historyClearButton": {
+    "message": "Histoarje wiskje"
+  },
+  "historyRestoreButton": {
+    "message": "Weromsette"
+  },
+  "historyEmpty": {
+    "message": "Noch gjin konversaasjes."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiteit:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standert"
+  },
+  "historyIntensityPolished": {
+    "message": "Gepolijst"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strikt Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Ferskil sjen litte"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ferskil ferbergje"
+  },
+  "diffInputLabel": {
+    "message": "Oarspronklik"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertearre"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "API-kaai ferbergje"
+  },
+  "ariaConvertButton": {
+    "message": "Tekst konvertearje"
+  },
+  "ariaCopyOutput": {
+    "message": "Utfier kopiearje nei klamboerd"
+  },
+  "ariaClearAll": {
+    "message": "Ynput en útfier wiskje"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Iepenje de folsleine wurkromte yn it sydpaniel"
+  },
+  "ariaDiffToggle": {
+    "message": "Oanskeakelje diff-toets paniel werjefte is"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Gjin API-kaai bewarre"
+  },
+  "converting": {
+    "message": "Konvertearje..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Wurkromte"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Bobongola makomi ya Allemand kati ya registre informel (Du) mpe formelle (Sie) na kosalelaka Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Kokotisa"
+  },
+  "outputLabel": {
+    "message": "Bobimisi"
+  },
+  "inputPlaceholder": {
+    "message": "Kokanga to koma makomi ya Allemand awa..."
+  },
+  "outputPlaceholder": {
+    "message": "Makomi oyo ebongwanaki ekobima awa..."
+  },
+  "convertButton": {
+    "message": "Bobongola"
+  },
+  "copyButton": {
+    "message": "Kopi"
+  },
+  "copiedButton": {
+    "message": "Kopi!"
+  },
+  "clearButton": {
+    "message": "Effacer"
+  },
+  "openSidePanelButton": {
+    "message": "Fungola na Panneau ya mopanzi"
+  },
+  "settingsTitle": {
+    "message": "Paramètres"
+  },
+  "apiKeyLabel": {
+    "message": "API anthropique Fungola"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Lakisa"
+  },
+  "hideKeyButton": {
+    "message": "Bomba"
+  },
+  "saveKeyButton": {
+    "message": "Fungola ya kobomba"
+  },
+  "keySavedConfirm": {
+    "message": "Fungola ebombami:"
+  },
+  "testKeyButton": {
+    "message": "Fungola ya komeka"
+  },
+  "testKeyValid": {
+    "message": "✓ Ezali na ntina"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ezali malamu te"
+  },
+  "testKeyTesting": {
+    "message": "Komeka..."
+  },
+  "modelLabel": {
+    "message": "Modèle"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensité ya ton"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Poli"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Fungola API te ebombami. Svp kotia fungola na yo ya API Anthropic na"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Paramètres"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Mokanda oyo ekoki kozala na Allemand te. Ba résultats ekoki kozala ya sikisiki te."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Fungola API ya mabe. Svp tala fungola na yo na Paramètres."
+  },
+  "errorRateLimit": {
+    "message": "Limite ya taux ekoki. Svp zela pe meka lisusu."
+  },
+  "errorApiServer": {
+    "message": "Erreur ya API anthropique. Svp meka lisusu sima."
+  },
+  "errorNetwork": {
+    "message": "Libunga ya réseau. Svp tala boyokani na yo."
+  },
+  "errorUnknown": {
+    "message": "Libunga oyo okanisaki te esalemi. Svp meka lisusu."
+  },
+  "errorNoKey": {
+    "message": "Fungola API ebongisami te. Svp bakisa fungola na yo na Paramètres."
+  },
+  "contextMenuRoot": {
+    "message": "Formalisateur ya Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Bobongola boponi → boponi ya momesano (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Bobongola boponi → boponi ya momesano te (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalisateur ya Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Kobongola..."
+  },
+  "floatingReplaceButton": {
+    "message": "Kobongola Boponi"
+  },
+  "floatingCopyButton": {
+    "message": "Kopi"
+  },
+  "floatingCopiedButton": {
+    "message": "Esalemi kopi!"
+  },
+  "floatingDismissButton": {
+    "message": "Kolongola"
+  },
+  "floatingRetryButton": {
+    "message": "Meka lisusu"
+  },
+  "floatingErrorPrefix": {
+    "message": "Libunga:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ekoki te kozwa esika ya makomi na lokasa oyo. Svp kopi na esika na yango."
+  },
+  "historyTitle": {
+    "message": "Histoire ya mbongwana"
+  },
+  "historyClearButton": {
+    "message": "Effacer Histoire"
+  },
+  "historyRestoreButton": {
+    "message": "Zongisa"
+  },
+  "historyEmpty": {
+    "message": "Bobongoli naino te."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensité:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Poli"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Lakisa Bokeseni"
+  },
+  "diffToggleButtonOff": {
+    "message": "Bomba Bokeseni"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Ebongolami"
+  },
+  "ariaSettingsToggle": {
+    "message": "Kobongola ba paramètres panneau"
+  },
+  "ariaShowPassword": {
+    "message": "Lakisa fungola ya API"
+  },
+  "ariaHidePassword": {
+    "message": "Bomba fungola ya API"
+  },
+  "ariaConvertButton": {
+    "message": "Kobongola makomi"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopika bobimisi na tableau de bord"
+  },
+  "ariaClearAll": {
+    "message": "Elongola bokoti mpe bobimisi"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Fungola esika ya mosala mobimba na panneau ya mopanzi"
+  },
+  "ariaDiffToggle": {
+    "message": "Kobongola botali ya bokeseni"
+  },
+  "ariaHistoryToggle": {
+    "message": "Mpo na kosala lisolo panneau"
+  },
+  "keyStatusPresent": {
+    "message": "Fungola API ebombami"
+  },
+  "keyStatusMissing": {
+    "message": "Fungola API moko te ebombami"
+  },
+  "converting": {
+    "message": "Kobongola..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Esika ya mosala"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "دەقی ئەڵمانی لە نێوان تۆماری نافەرمی (Du) و فەرمی (Sie) بگۆڕە بە بەکارهێنانی Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "دەرچوون"
+  },
+  "inputPlaceholder": {
+    "message": "لێرەدا دەقی ئەڵمانی لێبدە یان بنووسە..."
+  },
+  "outputPlaceholder": {
+    "message": "دەقی گۆڕاو دەردەکەوێت لێرەدا..."
+  },
+  "convertButton": {
+    "message": "گۆڕین"
+  },
+  "copyButton": {
+    "message": "کۆپی"
+  },
+  "copiedButton": {
+    "message": "کۆپی کراوە!"
+  },
+  "clearButton": {
+    "message": "پاک بکەرەوە"
+  },
+  "openSidePanelButton": {
+    "message": "لە پانێڵی لاوەکیدا بکەرەوە"
+  },
+  "settingsTitle": {
+    "message": "ڕێکخستنەکان"
+  },
+  "apiKeyLabel": {
+    "message": "API Anthropic کلیل"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "پێشاندان"
+  },
+  "hideKeyButton": {
+    "message": "شاردنەوە"
+  },
+  "saveKeyButton": {
+    "message": "کلیلی پاشەکەوتکردن"
+  },
+  "keySavedConfirm": {
+    "message": "کلیلەکە پاشەکەوت کراوە:"
+  },
+  "testKeyButton": {
+    "message": "کلیلی تاقیکردنەوە"
+  },
+  "testKeyValid": {
+    "message": "✓ ڕەوایە"
+  },
+  "testKeyInvalid": {
+    "message": "✗ نادروست"
+  },
+  "testKeyTesting": {
+    "message": "تاقیکردنەوە..."
+  },
+  "modelLabel": {
+    "message": "مۆدێل"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "چڕی تۆن"
+  },
+  "toneStandard": {
+    "message": "ستاندارد"
+  },
+  "tonePolished": {
+    "message": "پۆلێس کراوە"
+  },
+  "toneStrictCorporate": {
+    "message": "کۆمپانیای توند"
+  },
+  "noApiKeyWarning": {
+    "message": "هیچ کلیلێکی API پاشەکەوت نەکراوە. تکایە کلیلی API Anthropic ـەکەت بنووسە لە"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ڕێکخستنەکان"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ڕەنگە ئەم دەقە بە زمانی ئەڵمانی نەبێت. لەوانەیە ئەنجامەکان نادروست بن."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "کلیلی API نادروست. تکایە کلیلەکەت لە ڕێکخستنەکاندا بپشکنە."
+  },
+  "errorRateLimit": {
+    "message": "سنووری نرخ گەیشتە. تکایە چاوەڕێ بکە و دووبارە هەوڵبدەرەوە."
+  },
+  "errorApiServer": {
+    "message": "هەڵەی ئەنترۆپی API. تکایە دواتر هەوڵبدەرەوە."
+  },
+  "errorNetwork": {
+    "message": "هەڵەی تۆڕ. تکایە پەیوەندیەکەت بپشکنە."
+  },
+  "errorUnknown": {
+    "message": "هەڵەیەکی چاوەڕواننەکراو ڕوویدا. تکایە دووبارە هەو��بدەرەوە."
+  },
+  "errorNoKey": {
+    "message": "هیچ کلیلێکی API ڕێکنەخراوە. تکایە کلیلەکەت لە ڕێکخستنەکاندا زیاد بکە."
+  },
+  "contextMenuRoot": {
+    "message": "Fu↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "گۆڕینی هەڵبژاردن → فەرمی (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "گۆڕینی هەڵبژاردن → نافەرمی (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "گۆڕینی..."
+  },
+  "floatingReplaceButton": {
+    "message": "گۆڕین هەڵبژاردن"
+  },
+  "floatingCopyButton": {
+    "message": "کۆپی"
+  },
+  "floatingCopiedButton": {
+    "message": "کۆپی کراوە!"
+  },
+  "floatingDismissButton": {
+    "message": "ڕەتکردنەوە"
+  },
+  "floatingRetryButton": {
+    "message": "دوبارە هەوڵبدەرەوە"
+  },
+  "floatingErrorPrefix": {
+    "message": "هەڵە:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ناتوانرێت دەقی ئەم لاپەڕەیە بگۆڕدرێت. تکایە لەبری ئەوە کۆپی بکە."
+  },
+  "historyTitle": {
+    "message": "مێژووی گۆڕانکاری"
+  },
+  "historyClearButton": {
+    "message": "مێژوو پاک بکەرەوە"
+  },
+  "historyRestoreButton": {
+    "message": "گەڕێنەرەوە"
+  },
+  "historyEmpty": {
+    "message": "هێشتا هیچ گۆڕانکارییەک نییە."
+  },
+  "historyModeLabel": {
+    "message": "دۆخ:"
+  },
+  "historyIntensityLabel": {
+    "message": "چڕی:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ست��ندارد"
+  },
+  "historyIntensityPolished": {
+    "message": "پۆلێس کراوە"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "کۆمپانیای توند"
+  },
+  "diffToggleButton": {
+    "message": "جیاوازی پیشان بدە"
+  },
+  "diffToggleButtonOff": {
+    "message": "جیاوازی بشارەوە"
+  },
+  "diffInputLabel": {
+    "message": "ڕەسەن"
+  },
+  "diffOutputLabel": {
+    "message": "گۆڕدراو"
+  },
+  "ariaSettingsToggle": {
+    "message": "ڕێکخستنەکان بگۆڕە panel"
+  },
+  "ariaShowPassword": {
+    "message": "کلیلی API پیشان بدە"
+  },
+  "ariaHidePassword": {
+    "message": "کلیلی API بشارەوە"
+  },
+  "ariaConvertButton": {
+    "message": "دەق بگۆڕە"
+  },
+  "ariaCopyOutput": {
+    "message": "دەرچوون کۆپی بکە بۆ کلیپبۆرد"
+  },
+  "ariaClearAll": {
+    "message": "هاتنەژوورەوە و دەرچوون پاک بکەرەوە"
+  },
+  "ariaOpenSidePanel": {
+    "message": "فەزای کارکردنی تەواو لە پانێڵی لاوەکیدا بکەرەوە"
+  },
+  "ariaDiffToggle": {
+    "message": "بینینی جیاوازی بگۆڕە"
+  },
+  "ariaHistoryToggle": {
+    "message": "بۆ ئەوەی مێژوو بگۆڕێت پانێڵ"
+  },
+  "keyStatusPresent": {
+    "message": "کلیلی API پاشەکەوت کراوە"
+  },
+  "keyStatusMissing": {
+    "message": "هیچ کلیلێکی API پاشەکەوت نەکراوە"
+  },
+  "converting": {
+    "message": "گۆڕین..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

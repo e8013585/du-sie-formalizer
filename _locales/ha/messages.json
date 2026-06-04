@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du ↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Maida rubutun Jamusanci tsakanin na yau da kullun (Du) da na yau da kullun (Sie) rajista ta amfani da Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sai"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sai → Du"
+  },
+  "inputLabel": {
+    "message": "Shigarwa"
+  },
+  "outputLabel": {
+    "message": "Fitowa"
+  },
+  "inputPlaceholder": {
+    "message": "Manna ko buga rubutun Jamus a nan…"
+  },
+  "outputPlaceholder": {
+    "message": "Rubutun da aka canza zai bayyana a nan…"
+  },
+  "convertButton": {
+    "message": "Maida"
+  },
+  "copyButton": {
+    "message": "Kwafi"
+  },
+  "copiedButton": {
+    "message": "Kwafi!"
+  },
+  "clearButton": {
+    "message": "Share"
+  },
+  "openSidePanelButton": {
+    "message": "Buɗe a cikin Rukunin Side"
+  },
+  "settingsTitle": {
+    "message": "Saituna"
+  },
+  "apiKeyLabel": {
+    "message": "Maɓallin API na Anthropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ku -…"
+  },
+  "showKeyButton": {
+    "message": "Nuna"
+  },
+  "hideKeyButton": {
+    "message": "Boye"
+  },
+  "saveKeyButton": {
+    "message": "Ajiye Maɓalli"
+  },
+  "keySavedConfirm": {
+    "message": "Ajiye maɓalli:"
+  },
+  "testKeyButton": {
+    "message": "Maɓallin Gwaji"
+  },
+  "testKeyValid": {
+    "message": "✓ inganci"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ba daidai ba"
+  },
+  "testKeyTesting": {
+    "message": "Gwaji…"
+  },
+  "modelLabel": {
+    "message": "Samfura"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ƙarfin sautin"
+  },
+  "toneStandard": {
+    "message": "Daidaitawa"
+  },
+  "tonePolished": {
+    "message": "goge"
+  },
+  "toneStrictCorporate": {
+    "message": "Ƙuntataccen Kamfanin"
+  },
+  "noApiKeyWarning": {
+    "message": "Babu maɓallin API da aka ajiye. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Saituna"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Wannan rubutu bazai kasance cikin Jamusanci ba. "
+  },
+  "charactersCount": {
+    "message": "$count$ haruffa",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Maɓallin API mara inganci. "
+  },
+  "errorRateLimit": {
+    "message": "An kai iyakar ƙimar. "
+  },
+  "errorApiServer": {
+    "message": "Kuskuren API na Anthropic. "
+  },
+  "errorNetwork": {
+    "message": "Kuskuren hanyar sadarwa. "
+  },
+  "errorUnknown": {
+    "message": "An sami kuskuren bazata. "
+  },
+  "errorNoKey": {
+    "message": "Babu maɓallin API da aka saita. "
+  },
+  "contextMenuRoot": {
+    "message": "Du ↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Maida zaɓi → na yau da kullun (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Maida zaɓi → na yau da kullun (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du ↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Ana juyawa…"
+  },
+  "floatingReplaceButton": {
+    "message": "Sauya Zaɓi"
+  },
+  "floatingCopyButton": {
+    "message": "Kwafi"
+  },
+  "floatingCopiedButton": {
+    "message": "Kwafi!"
+  },
+  "floatingDismissButton": {
+    "message": "Korar"
+  },
+  "floatingRetryButton": {
+    "message": "Sake gwadawa"
+  },
+  "floatingErrorPrefix": {
+    "message": "Kuskure:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ba za a iya maye gurbin rubutu a wannan shafin ba. "
+  },
+  "historyTitle": {
+    "message": "Tarihin Juyawa"
+  },
+  "historyClearButton": {
+    "message": "Share Tarihi"
+  },
+  "historyRestoreButton": {
+    "message": "Maida"
+  },
+  "historyEmpty": {
+    "message": "Har yanzu babu canji"
+  },
+  "historyModeLabel": {
+    "message": "Yanayin:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ƙarfi:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sai"
+  },
+  "historyModeSieToDu": {
+    "message": "Sai → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Daidaitawa"
+  },
+  "historyIntensityPolished": {
+    "message": "goge"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Ƙuntataccen Kamfanin"
+  },
+  "diffToggleButton": {
+    "message": "Nuna Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ɓoye Bambanci"
+  },
+  "diffInputLabel": {
+    "message": "Na asali"
+  },
+  "diffOutputLabel": {
+    "message": "Maida"
+  },
+  "ariaSettingsToggle": {
+    "message": "Juya panel saituna"
+  },
+  "ariaShowPassword": {
+    "message": "Nuna maɓallin API"
+  },
+  "ariaHidePassword": {
+    "message": "Ɓoye maɓallin API"
+  },
+  "ariaConvertButton": {
+    "message": "Maida rubutu"
+  },
+  "ariaCopyOutput": {
+    "message": "Kwafi fitarwa zuwa allo"
+  },
+  "ariaClearAll": {
+    "message": "Share shigarwa da fitarwa"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Buɗe cikakken filin aiki a cikin ɓangaren gefe"
+  },
+  "ariaDiffToggle": {
+    "message": "Juya ra'ayi daban-daban"
+  },
+  "ariaHistoryToggle": {
+    "message": "Canja panel tarihi"
+  },
+  "keyStatusPresent": {
+    "message": "An ajiye maɓallin API"
+  },
+  "keyStatusMissing": {
+    "message": "Babu maɓallin API da aka ajiye"
+  },
+  "converting": {
+    "message": "Ana juyawa…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Wurin aiki"
+  }
+}

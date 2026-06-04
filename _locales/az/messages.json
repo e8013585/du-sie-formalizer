@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI istifadə edərək qeyri-rəsmi (Du) və rəsmi (Sie) registrləri arasında alman mətnini çevirin."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Giriş"
+  },
+  "outputLabel": {
+    "message": "Çıxış"
+  },
+  "inputPlaceholder": {
+    "message": "Almanca mətni bura yerləşdirin və ya yazın..."
+  },
+  "outputPlaceholder": {
+    "message": "Çevrilmiş mətn burada görünəcək..."
+  },
+  "convertButton": {
+    "message": "çevirmək"
+  },
+  "copyButton": {
+    "message": "Kopyalayın"
+  },
+  "copiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "clearButton": {
+    "message": "Təmiz"
+  },
+  "openSidePanelButton": {
+    "message": "Yan Paneldə açın"
+  },
+  "settingsTitle": {
+    "message": "Parametrlər"
+  },
+  "apiKeyLabel": {
+    "message": "Antropik API Açarı"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-qarışqa-…"
+  },
+  "showKeyButton": {
+    "message": "Göstər"
+  },
+  "hideKeyButton": {
+    "message": "Gizlət"
+  },
+  "saveKeyButton": {
+    "message": "Açarı Saxla"
+  },
+  "keySavedConfirm": {
+    "message": "Açar yadda saxlanıldı:"
+  },
+  "testKeyButton": {
+    "message": "Test açarı"
+  },
+  "testKeyValid": {
+    "message": "✓ Etibarlıdır"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Yanlışdır"
+  },
+  "testKeyTesting": {
+    "message": "Test edilir..."
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ton intensivliyi"
+  },
+  "toneStandard": {
+    "message": "Standart"
+  },
+  "tonePolished": {
+    "message": "Cilalanmış"
+  },
+  "toneStrictCorporate": {
+    "message": "Ciddi Korporativ"
+  },
+  "noApiKeyWarning": {
+    "message": "Heç bir API açarı saxlanılmadı. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Parametrlər"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Bu mətn alman dilində olmaya bilər. "
+  },
+  "charactersCount": {
+    "message": "$count$ simvol",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Yanlış API açarı. "
+  },
+  "errorRateLimit": {
+    "message": "Məzənnə limitinə çatdı. "
+  },
+  "errorApiServer": {
+    "message": "Antropik API xətası. "
+  },
+  "errorNetwork": {
+    "message": "Şəbəkə xətası. "
+  },
+  "errorUnknown": {
+    "message": "Gözlənilməz xəta baş verdi. "
+  },
+  "errorNoKey": {
+    "message": "Heç bir API açarı konfiqurasiya olunmayıb. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Seçimi çevir → rəsmi (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Seçimi çevir → qeyri-rəsmi (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Çevrilir..."
+  },
+  "floatingReplaceButton": {
+    "message": "Seçimi dəyişdirin"
+  },
+  "floatingCopyButton": {
+    "message": "Kopyalayın"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "floatingDismissButton": {
+    "message": "Rədd et"
+  },
+  "floatingRetryButton": {
+    "message": "Yenidən cəhd edin"
+  },
+  "floatingErrorPrefix": {
+    "message": "Xəta:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Bu səhifədəki mətni əvəz etmək mümkün deyil. "
+  },
+  "historyTitle": {
+    "message": "Dönüşüm Tarixçəsi"
+  },
+  "historyClearButton": {
+    "message": "Tarixçəni təmizləyin"
+  },
+  "historyRestoreButton": {
+    "message": "Bərpa et"
+  },
+  "historyEmpty": {
+    "message": "Hələ dönüşüm yoxdur."
+  },
+  "historyModeLabel": {
+    "message": "Rejim:"
+  },
+  "historyIntensityLabel": {
+    "message": "İntensivlik:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standart"
+  },
+  "historyIntensityPolished": {
+    "message": "Cilalanmış"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Ciddi Korporativ"
+  },
+  "diffToggleButton": {
+    "message": "Fərqi göstər"
+  },
+  "diffToggleButtonOff": {
+    "message": "Fərqi gizlət"
+  },
+  "diffInputLabel": {
+    "message": "Orijinal"
+  },
+  "diffOutputLabel": {
+    "message": "çevrildi"
+  },
+  "ariaSettingsToggle": {
+    "message": "Parametrlər panelini dəyişin"
+  },
+  "ariaShowPassword": {
+    "message": "API açarını göstərin"
+  },
+  "ariaHidePassword": {
+    "message": "API açarını gizlədin"
+  },
+  "ariaConvertButton": {
+    "message": "Mətni çevirmək"
+  },
+  "ariaCopyOutput": {
+    "message": "Çıxışı panoya kopyalayın"
+  },
+  "ariaClearAll": {
+    "message": "Giriş və çıxışı təmizləyin"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Yan paneldə tam iş sahəsini açın"
+  },
+  "ariaDiffToggle": {
+    "message": "Fərq görünüşünü dəyişin"
+  },
+  "ariaHistoryToggle": {
+    "message": "Tarix panelini dəyişin"
+  },
+  "keyStatusPresent": {
+    "message": "API açarı saxlanılır"
+  },
+  "keyStatusMissing": {
+    "message": "Heç bir API açarı saxlanılmadı"
+  },
+  "converting": {
+    "message": "Çevrilir..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – İş sahəsi"
+  }
+}

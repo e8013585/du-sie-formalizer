@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Converteer Duitse tekst tussen informeel (Du) en formeel (Sie) register met behulp van Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Invoer"
+  },
+  "outputLabel": {
+    "message": "Uitvoer"
+  },
+  "inputPlaceholder": {
+    "message": "Plakken of typ hier Duitse tekst…"
+  },
+  "outputPlaceholder": {
+    "message": "Geconverteerde tekst verschijnt hier…"
+  },
+  "convertButton": {
+    "message": "Converteren"
+  },
+  "copyButton": {
+    "message": "Kopiëren"
+  },
+  "copiedButton": {
+    "message": "Gekopieerd!"
+  },
+  "clearButton": {
+    "message": "Wissen"
+  },
+  "openSidePanelButton": {
+    "message": "Openen in zijpaneel"
+  },
+  "settingsTitle": {
+    "message": "Instellingen"
+  },
+  "apiKeyLabel": {
+    "message": "Antropische API Sleutel"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Tonen"
+  },
+  "hideKeyButton": {
+    "message": "Verbergen"
+  },
+  "saveKeyButton": {
+    "message": "Sleutel opslaan"
+  },
+  "keySavedConfirm": {
+    "message": "Sleutel opgeslagen:"
+  },
+  "testKeyButton": {
+    "message": "Testsleutel"
+  },
+  "testKeyValid": {
+    "message": "✓ Geldig"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ongeldig"
+  },
+  "testKeyTesting": {
+    "message": "Tests…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toonintensiteit"
+  },
+  "toneStandard": {
+    "message": "Standaard"
+  },
+  "tonePolished": {
+    "message": "Gepolijst"
+  },
+  "toneStrictCorporate": {
+    "message": "Strikt zakelijk"
+  },
+  "noApiKeyWarning": {
+    "message": "Geen API-sleutel opgeslagen. Voer uw Anthropic API-sleutel in"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Instellingen"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Deze tekst is mogelijk niet in het Duits. Resultaten kunnen onnauwkeurig zijn."
+  },
+  "charactersCount": {
+    "message": "$count$ tekens",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ongeldige API-sleutel. Controleer uw sleutel in Instellingen."
+  },
+  "errorRateLimit": {
+    "message": "Tarieflimiet bereikt. Wacht even en probeer het opnieuw."
+  },
+  "errorApiServer": {
+    "message": "Antropische API-fout. Probeer het later opnieuw."
+  },
+  "errorNetwork": {
+    "message": "Netwerkfout. Controleer uw verbinding."
+  },
+  "errorUnknown": {
+    "message": "Er heeft zich een onverwachte fout voorgedaan. Probeer het opnieuw."
+  },
+  "errorNoKey": {
+    "message": "Geen API-sleutel geconfigureerd. Voeg uw sleutel toe in Instellingen."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Converteer selectie → formeel (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Converteer selectie → informeel (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converteren…"
+  },
+  "floatingReplaceButton": {
+    "message": "Vervangen Selectie"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiëren"
+  },
+  "floatingCopiedButton": {
+    "message": "Gekopieerd!"
+  },
+  "floatingDismissButton": {
+    "message": "Afwijzen"
+  },
+  "floatingRetryButton": {
+    "message": "Opnieuw proberen"
+  },
+  "floatingErrorPrefix": {
+    "message": "Fout:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kan de tekst op deze pagina niet vervangen. Kopieer in plaats daarvan."
+  },
+  "historyTitle": {
+    "message": "Conversiegeschiedenis"
+  },
+  "historyClearButton": {
+    "message": "Geschiedenis wissen"
+  },
+  "historyRestoreButton": {
+    "message": "Herstellen"
+  },
+  "historyEmpty": {
+    "message": "Nog geen conversies."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiteit:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standaard"
+  },
+  "historyIntensityPolished": {
+    "message": "Gepolijst"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Verschil tonen"
+  },
+  "diffToggleButtonOff": {
+    "message": "Verberg verschil"
+  },
+  "diffInputLabel": {
+    "message": "Origineel"
+  },
+  "diffOutputLabel": {
+    "message": "Geconverteerd"
+  },
+  "ariaSettingsToggle": {
+    "message": "Instellingenpaneel schakelen"
+  },
+  "ariaShowPassword": {
+    "message": "API weergeven sleutel"
+  },
+  "ariaHidePassword": {
+    "message": "API-sleutel verbergen"
+  },
+  "ariaConvertButton": {
+    "message": "Tekst converteren"
+  },
+  "ariaCopyOutput": {
+    "message": "Uitvoer kopiëren naar klembord"
+  },
+  "ariaClearAll": {
+    "message": "Invoer en uitvoer wissen"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Volledige werkruimte openen in zijpaneel"
+  },
+  "ariaDiffToggle": {
+    "message": "Verschillenweergave in-/uitschakelen"
+  },
+  "ariaHistoryToggle": {
+    "message": "Geschiedenispaneel in-/uitschakelen"
+  },
+  "keyStatusPresent": {
+    "message": "API-sleutel is opgeslagen"
+  },
+  "keyStatusMissing": {
+    "message": "Geen API-sleutel opgeslagen"
+  },
+  "converting": {
+    "message": "Bezig met converteren…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Werkruimte"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Umbreyttu þýskum texta á milli óformlegrar (Du) og formlegrar (Sie) skrár með því að nota Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Inntak"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Breyta"
+  },
+  "copyButton": {
+    "message": "Afrita"
+  },
+  "copiedButton": {
+    "message": "Afrita!"
+  },
+  "clearButton": {
+    "message": "Hreinsa"
+  },
+  "openSidePanelButton": {
+    "message": "Opna í hliðarborði"
+  },
+  "settingsTitle": {
+    "message": "Stillingar"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Lykill"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Sýna"
+  },
+  "hideKeyButton": {
+    "message": "Fela"
+  },
+  "saveKeyButton": {
+    "message": "Vista lykil"
+  },
+  "keySavedConfirm": {
+    "message": "Lykill vistaður:"
+  },
+  "testKeyButton": {
+    "message": "Próflykill"
+  },
+  "testKeyValid": {
+    "message": "✓ Gildir"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Próf..."
+  },
+  "modelLabel": {
+    "message": "Módel"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tónstyrkur"
+  },
+  "toneStandard": {
+    "message": "Staðlað"
+  },
+  "tonePolished": {
+    "message": "Fágað"
+  },
+  "toneStrictCorporate": {
+    "message": "Strangt fyrirtæki"
+  },
+  "noApiKeyWarning": {
+    "message": "Enginn API-lykill vistaður. Vinsamlega sláðu inn Anthropic API lykilinn þinn í"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Stillingar"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Þessi texti er hugsanlega ekki á þýsku. Niðurstöður gætu verið ónákvæmar."
+  },
+  "charactersCount": {
+    "message": "$count$ stafir",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ógildur API lykill. Athugaðu lykilinn þinn í stillingum."
+  },
+  "errorRateLimit": {
+    "message": "Taxtahámarki náð. Vinsamlegast bíddu og reyndu aftur."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API villa. Reyndu aftur síðar."
+  },
+  "errorNetwork": {
+    "message": "Villa í netkerfi. Athugaðu tenginguna þína."
+  },
+  "errorUnknown": {
+    "message": "Óvænt villa kom upp. Vinsamlegast reyndu aftur."
+  },
+  "errorNoKey": {
+    "message": "Enginn API lykill stilltur. Vinsamlega bættu lyklinum við í stillingum."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Breyta vali → formlegt (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Breyta vali → óformlegt (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Afrita"
+  },
+  "floatingCopiedButton": {
+    "message": "Afrita!"
+  },
+  "floatingDismissButton": {
+    "message": "Hunsa"
+  },
+  "floatingRetryButton": {
+    "message": "Reyna aftur"
+  },
+  "floatingErrorPrefix": {
+    "message": "Villa:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ekki er hægt að skipta út texta á þessari síðu. Vinsamlega afritaðu í staðinn."
+  },
+  "historyTitle": {
+    "message": "Viðskiptaferill"
+  },
+  "historyClearButton": {
+    "message": "Hreinsa feril"
+  },
+  "historyRestoreButton": {
+    "message": "Endurheimta"
+  },
+  "historyEmpty": {
+    "message": "Engin viðskipti enn sem komið er."
+  },
+  "historyModeLabel": {
+    "message": "Háttur:"
+  },
+  "historyIntensityLabel": {
+    "message": "Áhersla:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Staðlað"
+  },
+  "historyIntensityPolished": {
+    "message": "Fágað"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strangt fyrirtæki"
+  },
+  "diffToggleButton": {
+    "message": "Sýna mun"
+  },
+  "diffToggleButtonOff": {
+    "message": "Fela mun"
+  },
+  "diffInputLabel": {
+    "message": "Upprunalegt"
+  },
+  "diffOutputLabel": {
+    "message": "Umbreytt"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Fela API lykli"
+  },
+  "ariaConvertButton": {
+    "message": "Breyta texta"
+  },
+  "ariaCopyOutput": {
+    "message": "Afrita úttak á klemmuspjald"
+  },
+  "ariaClearAll": {
+    "message": "Hreinsa inntak og úttak"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Opna allt vinnusvæði í hliðarborði"
+  },
+  "ariaDiffToggle": {
+    "message": "Slökkva á mismunandi lyklaskjá"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Enginn API lykill vistaður"
+  },
+  "converting": {
+    "message": "Umbreytir..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

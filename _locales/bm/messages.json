@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Alemaɲi sɛbɛnni bɛrɛbɛrɛ bɛrɛbɛrɛ (Du) ni sɛbɛnfura (Sie) cɛ ni Claude AI ye."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Don"
+  },
+  "outputLabel": {
+    "message": "Bɔli"
+  },
+  "inputPlaceholder": {
+    "message": "Alemaɲi sɛbɛnni nɔrɔ walima k’a sɛbɛn yan..."
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copied!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Open in Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "A jira"
+  },
+  "hideKeyButton": {
+    "message": "Dogo"
+  },
+  "saveKeyButton": {
+    "message": "Kɔlɔsili kilisi"
+  },
+  "keySavedConfirm": {
+    "message": "Kili maralen :"
+  },
+  "testKeyButton": {
+    "message": "Kɔrɔbɔli kilisi"
+  },
+  "testKeyValid": {
+    "message": "✓ A bɛ se ka kɛ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Kɔrɔbɔli tiɲɛnen"
+  },
+  "testKeyTesting": {
+    "message": "Kɔrɔbɔli..."
+  },
+  "modelLabel": {
+    "message": "Modèle"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ton Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Poli"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "API kilisi si ma mara Aw ye aw ka Anthropic API kilisi don"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "N’a sɔrɔla nin sɛbɛn in tɛ Alemaɲikan na. jaabiw bɛ se ka kɛ tiɲɛ tɛ ."
+  },
+  "charactersCount": {
+    "message": "$count$ taamasiyɛnw",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API kilisi tiɲɛnen . Aw ye aw ka kilisi lajɛ Settings kɔnɔ."
+  },
+  "errorRateLimit": {
+    "message": "Rate limit sera. Aw ye kɔnɔni kɛ ka segin ka a lajɛ."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API fili. Aw ye aw jija ka segin a kan kɔfɛ."
+  },
+  "errorNetwork": {
+    "message": "Rezo fili . Aw ye aw ka jɛɲɔgɔnya lajɛ."
+  },
+  "errorUnknown": {
+    "message": "Fili dɔ kɛra min tun ma labɛn. Aw ye aw jija ka segin a kan."
+  },
+  "errorNoKey": {
+    "message": "API kilisi si ma labɛn . Aw ye aw ka kilisi fara Settings kan."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Sugandili bɛrɛbɛrɛ → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Sugandili bɛrɛbɛrɛ → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Yɛlɛma..."
+  },
+  "floatingReplaceButton": {
+    "message": "A nɔnabila Sugandili"
+  },
+  "floatingCopyButton": {
+    "message": "Kopi"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopi kɛra !"
+  },
+  "floatingDismissButton": {
+    "message": "Bɔli"
+  },
+  "floatingRetryButton": {
+    "message": "A ɲini kokura"
+  },
+  "floatingErrorPrefix": {
+    "message": " fili :"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "A tɛ se ka sɛbɛnni bila nin ɲɛ in nɔ na . Aw ye aw jija ka kopi kɛ o nɔ na."
+  },
+  "historyTitle": {
+    "message": "Yɛlɛma tariku"
+  },
+  "historyClearButton": {
+    "message": "Tarikulu jɛya"
+  },
+  "historyRestoreButton": {
+    "message": "Segin"
+  },
+  "historyEmpty": {
+    "message": "Yɛlɛma si ma kɛ fɔlɔ."
+  },
+  "historyModeLabel": {
+    "message": "Taamacogo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Danfara dogo"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Yɛlɛma"
+  },
+  "ariaSettingsToggle": {
+    "message": "Settings toggle panɛli"
+  },
+  "ariaShowPassword": {
+    "message": "API kilisi jira"
+  },
+  "ariaHidePassword": {
+    "message": "API kilisi dogo"
+  },
+  "ariaConvertButton": {
+    "message": "Sɛbɛnni bɛrɛbɛrɛ"
+  },
+  "ariaCopyOutput": {
+    "message": "Bɔli kopi kɛ ka kɛ klipu ye"
+  },
+  "ariaClearAll": {
+    "message": "Don ni bɔli jɛya"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Baarakɛyɔrɔ dafalen da wuli kɛrɛfɛ panɛli kɔnɔ"
+  },
+  "ariaDiffToggle": {
+    "message": "Ka danfara filɛli wuli"
+  },
+  "ariaHistoryToggle": {
+    "message": "Ka tariku sɛgɛsɛgɛ panɛli"
+  },
+  "keyStatusPresent": {
+    "message": "API kilisi maralen don"
+  },
+  "keyStatusMissing": {
+    "message": "API kilisi si ma mara"
+  },
+  "converting": {
+    "message": "Yɛlɛma..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Baarakɛyɔrɔ"
+  }
+}

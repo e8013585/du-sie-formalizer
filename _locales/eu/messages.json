@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizatzailea"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Bihurtu alemanezko testua erregistro informalaren (Du) eta formalaren (Sie) artean Claude AI erabiliz."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Sarrera"
+  },
+  "outputLabel": {
+    "message": "Irteera"
+  },
+  "inputPlaceholder": {
+    "message": "Itsatsi edo idatzi alemanezko testua hemen..."
+  },
+  "outputPlaceholder": {
+    "message": "Bihurtutako testua hemen agertuko da..."
+  },
+  "convertButton": {
+    "message": "Bihurtu"
+  },
+  "copyButton": {
+    "message": "Kopiatu"
+  },
+  "copiedButton": {
+    "message": "Kopiatu!"
+  },
+  "clearButton": {
+    "message": "Garbi"
+  },
+  "openSidePanelButton": {
+    "message": "Ireki alboko panelean"
+  },
+  "settingsTitle": {
+    "message": "Ezarpenak"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API gakoa"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Erakutsi"
+  },
+  "hideKeyButton": {
+    "message": "Ezkutatu"
+  },
+  "saveKeyButton": {
+    "message": "Gorde gakoa"
+  },
+  "keySavedConfirm": {
+    "message": "Gakoa gordeta:"
+  },
+  "testKeyButton": {
+    "message": "Proba-gakoa"
+  },
+  "testKeyValid": {
+    "message": "✓ Baliozkoa"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Baliogabea"
+  },
+  "testKeyTesting": {
+    "message": "Proba egiten…"
+  },
+  "modelLabel": {
+    "message": "Eredua"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tonu-intentsitatea"
+  },
+  "toneStandard": {
+    "message": "Estandarra"
+  },
+  "tonePolished": {
+    "message": "Leundua"
+  },
+  "toneStrictCorporate": {
+    "message": "Korporazio zorrotza"
+  },
+  "noApiKeyWarning": {
+    "message": "Ez da gorde API gakorik. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ezarpenak"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Baliteke testu hau alemanez ez egotea. "
+  },
+  "charactersCount": {
+    "message": "$count$ karaktereak",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API gako baliogabea. "
+  },
+  "errorRateLimit": {
+    "message": "Tarifaren mugara iritsi da. "
+  },
+  "errorApiServer": {
+    "message": "Anthropic API errorea. "
+  },
+  "errorNetwork": {
+    "message": "Sareko errorea. "
+  },
+  "errorUnknown": {
+    "message": "Ustekabeko errore bat gertatu da. "
+  },
+  "errorNoKey": {
+    "message": "Ez dago API gakorik konfiguratuta. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizatzailea"
+  },
+  "contextMenuToSie": {
+    "message": "Bihurtu hautapena → formala (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Bihurtu hautapena → informala (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizatzailea"
+  },
+  "floatingCardLoading": {
+    "message": "Bihurtzen…"
+  },
+  "floatingReplaceButton": {
+    "message": "Ordeztu hautapena"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiatu"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopiatu!"
+  },
+  "floatingDismissButton": {
+    "message": "Baztertu"
+  },
+  "floatingRetryButton": {
+    "message": "Saiatu berriro"
+  },
+  "floatingErrorPrefix": {
+    "message": "Errorea:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ezin da orrialde honetako testua ordezkatu. "
+  },
+  "historyTitle": {
+    "message": "Bihurketa Historia"
+  },
+  "historyClearButton": {
+    "message": "Garbitu Historia"
+  },
+  "historyRestoreButton": {
+    "message": "Berreskuratu"
+  },
+  "historyEmpty": {
+    "message": "Oraindik ez dago bihurketarik."
+  },
+  "historyModeLabel": {
+    "message": "Modua:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intentsitatea:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estandarra"
+  },
+  "historyIntensityPolished": {
+    "message": "Leundua"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Korporazio zorrotza"
+  },
+  "diffToggleButton": {
+    "message": "Erakutsi desberdina"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ezkutatu aldea"
+  },
+  "diffInputLabel": {
+    "message": "Jatorrizkoa"
+  },
+  "diffOutputLabel": {
+    "message": "Bihurtu"
+  },
+  "ariaSettingsToggle": {
+    "message": "Aldatu ezarpenen panela"
+  },
+  "ariaShowPassword": {
+    "message": "Erakutsi API gakoa"
+  },
+  "ariaHidePassword": {
+    "message": "Ezkutatu API gakoa"
+  },
+  "ariaConvertButton": {
+    "message": "Bihurtu testua"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopiatu irteera arbelean"
+  },
+  "ariaClearAll": {
+    "message": "Garbitu sarrera eta irteera"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Ireki laneko gune osoa alboko panelean"
+  },
+  "ariaDiffToggle": {
+    "message": "Aldatu ezberdinen ikuspegia"
+  },
+  "ariaHistoryToggle": {
+    "message": "Aldatu historia panela"
+  },
+  "keyStatusPresent": {
+    "message": "API gakoa gordeta dago"
+  },
+  "keyStatusMissing": {
+    "message": "Ez da gorde API gakorik"
+  },
+  "converting": {
+    "message": "Bihurtzen…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Laneko eremua"
+  }
+}

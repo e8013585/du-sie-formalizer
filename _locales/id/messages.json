@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konversi teks bahasa Jerman antara register informal (Du) dan formal (Sie) menggunakan Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Tempel atau ketik teks bahasa Jerman di sini…"
+  },
+  "outputPlaceholder": {
+    "message": "Teks yang dikonversi akan muncul di sini…"
+  },
+  "convertButton": {
+    "message": "Konversi"
+  },
+  "copyButton": {
+    "message": "Salin"
+  },
+  "copiedButton": {
+    "message": "Disalin!"
+  },
+  "clearButton": {
+    "message": "Hapus"
+  },
+  "openSidePanelButton": {
+    "message": "Buka di Panel Samping"
+  },
+  "settingsTitle": {
+    "message": "Setelan"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Kunci"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Tampilkan"
+  },
+  "hideKeyButton": {
+    "message": "Sembunyikan"
+  },
+  "saveKeyButton": {
+    "message": "Simpan Kunci"
+  },
+  "keySavedConfirm": {
+    "message": "Kunci disimpan:"
+  },
+  "testKeyButton": {
+    "message": "Kunci Uji"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Tidak valid"
+  },
+  "testKeyTesting": {
+    "message": "Pengujian…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensitas Nada"
+  },
+  "toneStandard": {
+    "message": "Standar"
+  },
+  "tonePolished": {
+    "message": "Dipoles"
+  },
+  "toneStrictCorporate": {
+    "message": "Perusahaan Ketat"
+  },
+  "noApiKeyWarning": {
+    "message": "Tidak ada kunci API yang disimpan. Silakan masukkan kunci API Anthropic Anda di"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Setelan"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Teks ini mungkin tidak dalam bahasa Jerman. Hasil mungkin tidak akurat."
+  },
+  "charactersCount": {
+    "message": "$count$ karakter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kunci API tidak valid. Silakan periksa kunci Anda di Setelan."
+  },
+  "errorRateLimit": {
+    "message": "Batas tarif telah tercapai. Harap tunggu dan coba lagi."
+  },
+  "errorApiServer": {
+    "message": "Kesalahan API Antropis. Silakan coba lagi nanti."
+  },
+  "errorNetwork": {
+    "message": "Kesalahan jaringan. Silakan periksa koneksi Anda."
+  },
+  "errorUnknown": {
+    "message": "Terjadi kesalahan yang tidak terduga. Silakan coba lagi."
+  },
+  "errorNoKey": {
+    "message": "Tidak ada kunci API yang dikonfigurasi. Silakan tambahkan kunci Anda di Pengaturan."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konversi pilihan → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konversi pilihan → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Konversi…"
+  },
+  "floatingReplaceButton": {
+    "message": "Ganti Pilihan"
+  },
+  "floatingCopyButton": {
+    "message": "Salin"
+  },
+  "floatingCopiedButton": {
+    "message": "Disalin!"
+  },
+  "floatingDismissButton": {
+    "message": "Tutup"
+  },
+  "floatingRetryButton": {
+    "message": "Coba lagi"
+  },
+  "floatingErrorPrefix": {
+    "message": "Kesalahan:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Tidak dapat mengganti teks pada laman ini. Silakan salin saja."
+  },
+  "historyTitle": {
+    "message": "Riwayat Konversi"
+  },
+  "historyClearButton": {
+    "message": "Hapus Riwayat"
+  },
+  "historyRestoreButton": {
+    "message": "Pulihkan"
+  },
+  "historyEmpty": {
+    "message": "Belum ada konversi."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitas:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standar"
+  },
+  "historyIntensityPolished": {
+    "message": "Dipoles"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Perusahaan Ketat"
+  },
+  "diffToggleButton": {
+    "message": "Tampilkan Perbedaan"
+  },
+  "diffToggleButtonOff": {
+    "message": "Sembunyikan Perbedaan"
+  },
+  "diffInputLabel": {
+    "message": "Asli"
+  },
+  "diffOutputLabel": {
+    "message": "Dikonversi"
+  },
+  "ariaSettingsToggle": {
+    "message": "Alihkan panel setelan"
+  },
+  "ariaShowPassword": {
+    "message": "Tampilkan API kunci"
+  },
+  "ariaHidePassword": {
+    "message": "Sembunyikan kunci API"
+  },
+  "ariaConvertButton": {
+    "message": "Konversi teks"
+  },
+  "ariaCopyOutput": {
+    "message": "Salin keluaran ke papan klip"
+  },
+  "ariaClearAll": {
+    "message": "Hapus masukan dan keluaran"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Buka ruang kerja penuh di panel samping"
+  },
+  "ariaDiffToggle": {
+    "message": "Alihkan tampilan berbeda"
+  },
+  "ariaHistoryToggle": {
+    "message": "Alihkan panel riwayat"
+  },
+  "keyStatusPresent": {
+    "message": "Kunci API adalah disimpan"
+  },
+  "keyStatusMissing": {
+    "message": "Tidak ada kunci API yang disimpan"
+  },
+  "converting": {
+    "message": "Mengonversi…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

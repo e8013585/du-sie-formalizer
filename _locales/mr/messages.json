@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI वापरून अनौपचारिक (Du) आणि औपचारिक (Sie) रजिस्टरमध्ये जर्मन मजकूर रूपांतरित करा."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "इनपुट"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "रूपांतरित मजकूर येथे दिसेल…"
+  },
+  "convertButton": {
+    "message": "रूपांतरित"
+  },
+  "copyButton": {
+    "message": "कॉपी"
+  },
+  "copiedButton": {
+    "message": "कॉपी केले!"
+  },
+  "clearButton": {
+    "message": "साफ करा"
+  },
+  "openSidePanelButton": {
+    "message": "साइड पॅनेलमध्ये उघडा"
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्ज"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "दाखवा"
+  },
+  "hideKeyButton": {
+    "message": "लपवा"
+  },
+  "saveKeyButton": {
+    "message": "की जतन करा"
+  },
+  "keySavedConfirm": {
+    "message": "की जतन केली:"
+  },
+  "testKeyButton": {
+    "message": "चाचणी की"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "चाचणी…"
+  },
+  "modelLabel": {
+    "message": "मॉडेल"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "टोन तीव्रता"
+  },
+  "toneStandard": {
+    "message": "मानक"
+  },
+  "tonePolished": {
+    "message": "पॉलिश"
+  },
+  "toneStrictCorporate": {
+    "message": "कठोर कॉर्पोरेट"
+  },
+  "noApiKeyWarning": {
+    "message": "कोणतीही API की जतन केलेली नाही. कृपया तुमची Anthropic API की"
+  },
+  "noApiKeyWarningLink": {
+    "message": "सेटिंग्ज"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "हा मजकूर जर्मनमध्ये नसू शकतो. परिणाम चुकीचे असू शकतात."
+  },
+  "charactersCount": {
+    "message": "$count$ वर्ण",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "अवैध API की. कृपया सेटिंग्जमध्ये तुमची की तपासा."
+  },
+  "errorRateLimit": {
+    "message": "दर मर्यादा गाठली आहे. कृपया प्रतीक्षा करा आणि पुन्हा प्रयत्न करा."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API त्रुटी. कृपया नंतर पुन्हा प्रयत्न करा."
+  },
+  "errorNetwork": {
+    "message": "नेटवर्क त्रुटी. कृपया तुमचे कनेक्शन तपासा."
+  },
+  "errorUnknown": {
+    "message": "एक अनपेक्षित त्रुटी आली. कृपया पुन्हा प्रयत्न करा."
+  },
+  "errorNoKey": {
+    "message": "कोणतीही API की कॉन्फिगर केलेली नाही. कृपया सेटिंग्जमध्ये तुमची की जोडा."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert Selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert Selection → अनौपचारिक (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "कॉपी"
+  },
+  "floatingCopiedButton": {
+    "message": "कॉपी केली!"
+  },
+  "floatingDismissButton": {
+    "message": "डिसमिस करा"
+  },
+  "floatingRetryButton": {
+    "message": "पुन्हा प्रयत्न करा"
+  },
+  "floatingErrorPrefix": {
+    "message": "त्रुटी:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "या पृष्ठावरील मजकूर बदलू शकत नाही. कृपया त्याऐवजी कॉपी करा."
+  },
+  "historyTitle": {
+    "message": "रूपांतरण इतिहास"
+  },
+  "historyClearButton": {
+    "message": "इतिहास साफ करा"
+  },
+  "historyRestoreButton": {
+    "message": "पुनर्संचयित करा"
+  },
+  "historyEmpty": {
+    "message": "अद्याप कोणतीही रूपांतरणे नाहीत."
+  },
+  "historyModeLabel": {
+    "message": "मोड:"
+  },
+  "historyIntensityLabel": {
+    "message": "तीव्रता:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "मानक"
+  },
+  "historyIntensityPolished": {
+    "message": "पॉलिश"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "कठोर कॉर्पोरेट"
+  },
+  "diffToggleButton": {
+    "message": "भेद दर्शवा"
+  },
+  "diffToggleButtonOff": {
+    "message": "भेद लपवा"
+  },
+  "diffInputLabel": {
+    "message": "मूळ"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "एपीआय की दर्शवा"
+  },
+  "ariaHidePassword": {
+    "message": "एपीआय की लपवा"
+  },
+  "ariaConvertButton": {
+    "message": "मजकूर रूपांतरित करा"
+  },
+  "ariaCopyOutput": {
+    "message": "क्लिपबोर्डवर आउटपुट कॉपी करा"
+  },
+  "ariaClearAll": {
+    "message": "इनपुट आणि आउटपुट साफ करा"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "No API key saved"
+  },
+  "converting": {
+    "message": "Converting…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

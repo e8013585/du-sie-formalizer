@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "ক্ল'ড AI ব্যৱহাৰ কৰি অনানুষ্ঠানিক (Du) আৰু আনুষ্ঠানিক (Sie) পঞ্জীয়নৰ মাজত জাৰ্মান লিখনী ৰূপান্তৰ কৰক।"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ইনপুট"
+  },
+  "outputLabel": {
+    "message": "আউটপুট"
+  },
+  "inputPlaceholder": {
+    "message": "ইয়াত জাৰ্মান লিখনী পেষ্ট কৰক বা টাইপ কৰক..."
+  },
+  "outputPlaceholder": {
+    "message": "ৰূপান্তৰিত লিখনী ওলাব ইয়াত..."
+  },
+  "convertButton": {
+    "message": "ৰূপান্তৰ কৰক"
+  },
+  "copyButton": {
+    "message": "কপি"
+  },
+  "copiedButton": {
+    "message": "কপি কৰা হৈছে!"
+  },
+  "clearButton": {
+    "message": "স্পষ���ট কৰক"
+  },
+  "openSidePanelButton": {
+    "message": "চাইড পেনেলত খোলক"
+  },
+  "settingsTitle": {
+    "message": "ছেটিংছ"
+  },
+  "apiKeyLabel": {
+    "message": "এনথ্ৰপিক এপিআই চাবি"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "দেখাওক"
+  },
+  "hideKeyButton": {
+    "message": "লুকুৱাওক"
+  },
+  "saveKeyButton": {
+    "message": "চাবি সংৰক্ষণ কৰক"
+  },
+  "keySavedConfirm": {
+    "message": "কি সংৰক্ষণ কৰা হৈছে:"
+  },
+  "testKeyButton": {
+    "message": "পৰীক্ষা চাবি"
+  },
+  "testKeyValid": {
+    "message": "✓ বৈধ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ অবৈধ"
+  },
+  "testKeyTesting": {
+    "message": "পৰীক্ষা..."
+  },
+  "modelLabel": {
+    "message": "মডেল"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "স্বৰ তীব্ৰতা"
+  },
+  "toneStandard": {
+    "message": "মানক"
+  },
+  "tonePolished": {
+    "message": "পলিচ কৰা"
+  },
+  "toneStrictCorporate": {
+    "message": "কঠিন কৰ্পৰেট"
+  },
+  "noApiKeyWarning": {
+    "message": "কোনো API কি সংৰক্ষণ কৰা হোৱা নাই। অনুগ্ৰহ কৰি আপোনাৰ Anthropic API কি'টো"
+  },
+  "noApiKeyWarningLink": {
+    "message": "সংহতিসমূহ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ত দিয়ক এই লিখনী জাৰ্মান ভাষাত নহ'বও পাৰে। ফলাফলসমূহ ভুল হ'ব পাৰে।"
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "অবৈধ API কি'। অনুগ্ৰহ কৰি সংহতিসমূহত আপোনাৰ কি' পৰীক্ষা কৰক।"
+  },
+  "errorRateLimit": {
+    "message": "হাৰ সীমা পোৱা গৈছে। অনুগ্ৰহ কৰি অপেক্ষা কৰক আৰু পুনৰ চেষ্টা কৰক।"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API ত্ৰুটি। অনুগ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰক।"
+  },
+  "errorNetwork": {
+    "message": "নেটৱৰ্ক ত্ৰুটি। অনুগ্ৰহ কৰি আপোনাৰ সংযোগ পৰীক্ষা কৰক।"
+  },
+  "errorUnknown": {
+    "message": "এটা অপ্ৰত্যাশিত ভুল হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক ।"
+  },
+  "errorNoKey": {
+    "message": "কোনো API চাবি বিন্যাস কৰা হোৱা নাই । অনুগ্ৰহ কৰি আপোনাৰ কি' ছেটিংছত যোগ কৰক।"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "নিৰ্বাচন ৰূপান্তৰ কৰক → আনুষ্ঠানিক (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "নিৰ্বাচন ৰূপান্তৰ কৰক → অনানুষ্ঠানিক (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "ৰূপান্তৰ কৰক..."
+  },
+  "floatingReplaceButton": {
+    "message": "সলনি কৰক নিৰ্বাচন"
+  },
+  "floatingCopyButton": {
+    "message": "কপি"
+  },
+  "floatingCopiedButton": {
+    "message": "কপি কৰা হৈছে!"
+  },
+  "floatingDismissButton": {
+    "message": "বাতিল কৰক"
+  },
+  "floatingRetryButton": {
+    "message": "পুনৰ চেষ্টা"
+  },
+  "floatingErrorPrefix": {
+    "message": "ত্ৰুটি:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "এই পৃষ্ঠাৰ লিখনী সলনি কৰিব নোৱাৰি। অনুগ্ৰহ কৰি ইয়াৰ পৰিৱৰ্তে কপি কৰক।"
+  },
+  "historyTitle": {
+    "message": "ৰূপান্তৰ ইতিহাস"
+  },
+  "historyClearButton": {
+    "message": "ইতিহাস পৰিষ্কাৰ কৰক"
+  },
+  "historyRestoreButton": {
+    "message": "পুনৰুদ্ধাৰ কৰক"
+  },
+  "historyEmpty": {
+    "message": "এতিয়াও কোনো ৰূপান্তৰ হোৱা নাই।"
+  },
+  "historyModeLabel": {
+    "message": "অৱস্থা:"
+  },
+  "historyIntensityLabel": {
+    "message": "তীব্ৰতা:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "মানক"
+  },
+  "historyIntensityPolished": {
+    "message": "পলিচ কৰা"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "কঠিন কৰ্পৰেট"
+  },
+  "diffToggleButton": {
+    "message": "পাৰ্থক্য দেখুৱাওক"
+  },
+  "diffToggleButtonOff": {
+    "message": "পাৰ্থক্য লুকুৱাওক"
+  },
+  "diffInputLabel": {
+    "message": "মূল"
+  },
+  "diffOutputLabel": {
+    "message": "ৰূপান্তৰিত"
+  },
+  "ariaSettingsToggle": {
+    "message": "সংহতিসমূহ সলনি কৰক panel"
+  },
+  "ariaShowPassword": {
+    "message": "এপিআই কি দেখুৱাওক"
+  },
+  "ariaHidePassword": {
+    "message": "এপিআই কি লুকুৱাওক"
+  },
+  "ariaConvertButton": {
+    "message": "পাঠ্য ৰূপান্তৰ কৰক"
+  },
+  "ariaCopyOutput": {
+    "message": "আউটপুট ক্লিপবোৰ্ডলৈ কপি কৰক"
+  },
+  "ariaClearAll": {
+    "message": "ইনপুট আৰু আউটপুট পৰিষ্কাৰ কৰক"
+  },
+  "ariaOpenSidePanel": {
+    "message": "চাইড পেনেলত সম্পূৰ্ণ কাৰ্য্যস্থান খোলক"
+  },
+  "ariaDiffToggle": {
+    "message": "বিভাজন দৰ্শন টগল কৰক"
+  },
+  "ariaHistoryToggle": {
+    "message": "ইতিহাসলৈ পেনেল"
+  },
+  "keyStatusPresent": {
+    "message": "API কি সংৰক্ষণ কৰা হৈছে"
+  },
+  "keyStatusMissing": {
+    "message": "কোনো API কি সংৰক্ষণ কৰা হোৱা নাই"
+  },
+  "converting": {
+    "message": "ৰূপান্তৰ কৰা হৈছে..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

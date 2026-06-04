@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "E hoʻololi i ka kikokikona Kelemānia ma waena o ka papa inoa ʻike ʻole (Du) a me ka hoʻohana ʻana iā Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Hookomo"
+  },
+  "outputLabel": {
+    "message": "Hoʻopuka"
+  },
+  "inputPlaceholder": {
+    "message": "Hoʻopili a paʻi paha i ka kikokikona Kelemānia ma aneʻi…"
+  },
+  "outputPlaceholder": {
+    "message": "E hōʻike ʻia nā kikokikona i hoʻololi ʻia ma ʻaneʻi…"
+  },
+  "convertButton": {
+    "message": "Hoohuli"
+  },
+  "copyButton": {
+    "message": "kope"
+  },
+  "copiedButton": {
+    "message": "Kope ʻia!"
+  },
+  "clearButton": {
+    "message": "Akaka"
+  },
+  "openSidePanelButton": {
+    "message": "Wehe ma ka ʻaoʻao Panel"
+  },
+  "settingsTitle": {
+    "message": "Nā hoʻonohonoho"
+  },
+  "apiKeyLabel": {
+    "message": "Kiʻi API Antropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-anu-…"
+  },
+  "showKeyButton": {
+    "message": "Hōʻike"
+  },
+  "hideKeyButton": {
+    "message": "Huna"
+  },
+  "saveKeyButton": {
+    "message": "Mālama Ki"
+  },
+  "keySavedConfirm": {
+    "message": "Ki i mālama ʻia:"
+  },
+  "testKeyButton": {
+    "message": "Ki hoao"
+  },
+  "testKeyValid": {
+    "message": "✓ Pono"
+  },
+  "testKeyInvalid": {
+    "message": "✗ He kūpono ʻole"
+  },
+  "testKeyTesting": {
+    "message": "Ke hoʻāʻo nei…"
+  },
+  "modelLabel": {
+    "message": "Hoʻohālike"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ʻO ka ikaika o ka leo"
+  },
+  "toneStandard": {
+    "message": "Kūlana"
+  },
+  "tonePolished": {
+    "message": "Hoʻomaʻamaʻa ʻia"
+  },
+  "toneStrictCorporate": {
+    "message": "Hui Oolea"
+  },
+  "noApiKeyWarning": {
+    "message": "ʻAʻohe kī API i mālama ʻia. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Nā hoʻonohonoho"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ʻAʻole paha kēia kikokikona ma Kelemānia. "
+  },
+  "charactersCount": {
+    "message": "$ helu $ hua",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kiʻi API hewa ʻole. "
+  },
+  "errorRateLimit": {
+    "message": "Loaʻa ka palena uku. "
+  },
+  "errorApiServer": {
+    "message": "Kuʻia API Antropik. "
+  },
+  "errorNetwork": {
+    "message": "Kuwaho pūnaewele. "
+  },
+  "errorUnknown": {
+    "message": "Ua hiki mai kekahi hewa i manaʻo ʻole ʻia. "
+  },
+  "errorNoKey": {
+    "message": "ʻAʻohe kī API i hoʻonohonoho ʻia. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "E hoʻololi i ke koho → kūlana (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "E hoʻohuli i ke koho → ʻike ʻole (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Ke hoʻololi nei…"
+  },
+  "floatingReplaceButton": {
+    "message": "Hoʻololi i ke koho"
+  },
+  "floatingCopyButton": {
+    "message": "kope"
+  },
+  "floatingCopiedButton": {
+    "message": "Kope ʻia!"
+  },
+  "floatingDismissButton": {
+    "message": "Hoʻokuʻu"
+  },
+  "floatingRetryButton": {
+    "message": "E hoao hou"
+  },
+  "floatingErrorPrefix": {
+    "message": "Kuʻia:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ʻAʻole hiki ke pani i ke kikokikona ma kēia ʻaoʻao. "
+  },
+  "historyTitle": {
+    "message": "Moolelo Hoohuli"
+  },
+  "historyClearButton": {
+    "message": "Holoi moʻolelo"
+  },
+  "historyRestoreButton": {
+    "message": "Hoʻihoʻi"
+  },
+  "historyEmpty": {
+    "message": "ʻAʻohe hoʻololi i kēia manawa."
+  },
+  "historyModeLabel": {
+    "message": "ʻano:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ka ikaika:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Kūlana"
+  },
+  "historyIntensityPolished": {
+    "message": "Hoʻomaʻamaʻa ʻia"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Hui Oolea"
+  },
+  "diffToggleButton": {
+    "message": "Hōʻike ʻokoʻa"
+  },
+  "diffToggleButtonOff": {
+    "message": "Hūnā ʻokoʻa"
+  },
+  "diffInputLabel": {
+    "message": "Kumu"
+  },
+  "diffOutputLabel": {
+    "message": "Hoohuliia"
+  },
+  "ariaSettingsToggle": {
+    "message": "E hoʻololi i ka papa hoʻonohonoho"
+  },
+  "ariaShowPassword": {
+    "message": "Hōʻike i ke kī API"
+  },
+  "ariaHidePassword": {
+    "message": "Hūnā API kī"
+  },
+  "ariaConvertButton": {
+    "message": "E hoʻohuli i ka kikokikona"
+  },
+  "ariaCopyOutput": {
+    "message": "E kope i ka mea hoʻopuka i ka papaʻili"
+  },
+  "ariaClearAll": {
+    "message": "Hoʻomaʻemaʻe i ka hoʻokomo a me ka puka"
+  },
+  "ariaOpenSidePanel": {
+    "message": "E wehe i ka lumi hana piha ma ka ʻaoʻao ʻaoʻao"
+  },
+  "ariaDiffToggle": {
+    "message": "Hoʻololi i ka ʻike ʻokoʻa"
+  },
+  "ariaHistoryToggle": {
+    "message": "E hoʻololi i ka panel mōʻaukala"
+  },
+  "keyStatusPresent": {
+    "message": "Mālama ʻia ke kī API"
+  },
+  "keyStatusMissing": {
+    "message": "ʻAʻohe kī API i mālama ʻia"
+  },
+  "converting": {
+    "message": "Ke hoʻololi nei…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Kahi hana"
+  }
+}

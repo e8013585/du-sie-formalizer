@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "အလွတ်သဘော (Du) နှင့် တရားဝင် (Sie) အကြား ဂျာမန်စာသားကို Claude AI သုံးပြီး မှတ်ပုံတင်ခြင်းသို့ ပြောင်းပါ။"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copyed!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Side Panel တွင်ဖွင့်ပါ"
+  },
+  "settingsTitle": {
+    "message": "ဆက်တင်များ"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API သော့"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ပြ"
+  },
+  "hideKeyButton": {
+    "message": "ဝှက်"
+  },
+  "saveKeyButton": {
+    "message": "သော့သိမ်းဆည်းရန်"
+  },
+  "keySavedConfirm": {
+    "message": "သော့သိမ်းဆည်းထားသည်-"
+  },
+  "testKeyButton": {
+    "message": "စမ်းသပ်ကီး"
+  },
+  "testKeyValid": {
+    "message": "✓ အကျုံးဝင်သည်"
+  },
+  "testKeyInvalid": {
+    "message": " မမှန်ကန်ပါ"
+  },
+  "testKeyTesting": {
+    "message": "စမ်းသပ်နေသည်…"
+  },
+  "modelLabel": {
+    "message": "မော်ဒယ်"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "API ကီးမသိမ်းဆည်းပါ။ ကျေးဇူးပြု၍ သင်၏ Anthropic API သော့ကို"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ဆက်တင်များ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ဤစာသားသည် ဂျာမန်ဘာသာစကားမဟုတ်နိုင်ပါ။ ရလဒ်များသည် မမှန်ကန်ပါ။"
+  },
+  "charactersCount": {
+    "message": "$count$ စာလုံးများ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "မမှန်ကန်သော API သော့။ ကျေးဇူးပြု၍ ဆက်တင်များထဲတွင် သင့်သော့ကို စစ်ဆေးပါ။"
+  },
+  "errorRateLimit": {
+    "message": "အဆင့်သတ်မှတ်မှုသို့ ရောက်ရှိသွားပါပြီ။ ကျေးဇူးပြု၍ စောင့်ပြီး ထပ်စမ်းကြည့်ပါ။"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API အမှား။ ကျေးဇူးပြု၍ နောက်မှ ထပ်ကြိုးစားပါ။"
+  },
+  "errorNetwork": {
+    "message": "ကွန်ရက် အမှားအယွင်း။ ကျေးဇူးပြု၍ သင့်ချိတ်ဆက်မှုကို စစ်ဆေးပါ။"
+  },
+  "errorUnknown": {
+    "message": "မမျှော်လင့်ထားသော အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်။ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ။"
+  },
+  "errorNoKey": {
+    "message": "API ကီးကို ပြင်ဆင်သတ်မှတ်ထားခြင်းမရှိပါ။ ကျေးဇူးပြု၍ ဆက်တင်များထဲတွင် သင့်သော့ကို ထည့်ပါ။"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ရွေးချယ်မှုသို့ ပြောင်းပါ → တရားဝင် (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ရွေးချယ်မှုသို့ ပြောင်းပါ → အလွတ်သဘော (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "မိတ္တူ"
+  },
+  "floatingCopiedButton": {
+    "message": "မိတ္တူကူးပြီးပါပြီ!"
+  },
+  "floatingDismissButton": {
+    "message": "ပိတ်ပါ"
+  },
+  "floatingRetryButton": {
+    "message": "ထပ်ကြိုးစားပါ"
+  },
+  "floatingErrorPrefix": {
+    "message": "အမှား-"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ဤစာမျက်နှာရှိ စာသားကို အစားထိုး၍မရပါ။ ၎င်းအစား ကျေးဇူးပြု၍ မိတ္တူကူးပါ။"
+  },
+  "historyTitle": {
+    "message": "ကူးပြောင်းမှုမှတ်တမ်း"
+  },
+  "historyClearButton": {
+    "message": "မှတ်တမ်းကိုရှင်းလင်း"
+  },
+  "historyRestoreButton": {
+    "message": "ပြန်လည်ရယူရန်"
+  },
+  "historyEmpty": {
+    "message": "ပြောင်းလဲခြင်းမရှိ��ေးပါ။"
+  },
+  "historyModeLabel": {
+    "message": "မုဒ်-"
+  },
+  "historyIntensityLabel": {
+    "message": "ပြင်းထန်မှု-"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "ပွတ်ဆွဲ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Diff ကိုပြပါ"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff ကို ဖျောက်"
+  },
+  "diffInputLabel": {
+    "message": "မူရင်း"
+  },
+  "diffOutputLabel": {
+    "message": "ပုံစံပြောင်းထားသည်"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "API ကီးကို ဝှက်ပါ"
+  },
+  "ariaConvertButton": {
+    "message": "စာသားကို ပြောင်းပါ"
+  },
+  "ariaCopyOutput": {
+    "message": "အထွက်ကို ကလစ်ဘုတ်သို့ မိတ္တူကူးပါ"
+  },
+  "ariaClearAll": {
+    "message": "အဝင်နှင့် အထွက်ကို ရှင်းပါ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "ဘေးဘောင်တွင် အလုပ်နေရာအပြည့်ဖွင့်ပါ"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": " မည်သည့် API သော့ကိုမျှ သ���မ်းဆည်းထားခြင်း မရှိပါ"
+  },
+  "converting": {
+    "message": "ကူးပြောင်းနေသည်…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ашиглан Германы текстийг албан бус (Du) болон албан ёсны (Sie) бүртгэлийн хооронд хөрвүүлэх."
+  },
+  "modeToggleDuToSie": {
+    "message": "Ду → Сие"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Ду"
+  },
+  "inputLabel": {
+    "message": "Оролт"
+  },
+  "outputLabel": {
+    "message": "Гаралт"
+  },
+  "inputPlaceholder": {
+    "message": "Герман хэл дээрх текстийг энд буулгах буюу бичнэ үү…"
+  },
+  "outputPlaceholder": {
+    "message": "Хөрвүүлсэн текст энд харагдах болно..."
+  },
+  "convertButton": {
+    "message": "Хөрвүүлэх"
+  },
+  "copyButton": {
+    "message": "Хуулбарлах"
+  },
+  "copiedButton": {
+    "message": "Хуулсан!"
+  },
+  "clearButton": {
+    "message": "Тодорхой"
+  },
+  "openSidePanelButton": {
+    "message": "Хажуугийн самбар дээр нээнэ үү"
+  },
+  "settingsTitle": {
+    "message": "Тохиргоо"
+  },
+  "apiKeyLabel": {
+    "message": "Антропик API түлхүүр"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ск-шоргоолж-…"
+  },
+  "showKeyButton": {
+    "message": "Үзүүлэх"
+  },
+  "hideKeyButton": {
+    "message": "Нуух"
+  },
+  "saveKeyButton": {
+    "message": "Түлхүүрийг хадгалах"
+  },
+  "keySavedConfirm": {
+    "message": "Түлхүүрийг хадгалсан:"
+  },
+  "testKeyButton": {
+    "message": "Туршилтын түлхүүр"
+  },
+  "testKeyValid": {
+    "message": "✓ Хүчинтэй"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Хүчингүй"
+  },
+  "testKeyTesting": {
+    "message": "Туршилт хийж байна..."
+  },
+  "modelLabel": {
+    "message": "Загвар"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Аяны эрч хүч"
+  },
+  "toneStandard": {
+    "message": "Стандарт"
+  },
+  "tonePolished": {
+    "message": "Өнгөлсөн"
+  },
+  "toneStrictCorporate": {
+    "message": "Хатуу корпорац"
+  },
+  "noApiKeyWarning": {
+    "message": "API түлхүүр хадгалагдаагүй. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Тохиргоо"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Энэ текст герман хэл дээр биш байж магадгүй. "
+  },
+  "charactersCount": {
+    "message": "$count$ тэмдэгт",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Хүчингүй API түлхүүр. "
+  },
+  "errorRateLimit": {
+    "message": "Үнийн хязгаарт хүрсэн. "
+  },
+  "errorApiServer": {
+    "message": "Anthropic API алдаа. "
+  },
+  "errorNetwork": {
+    "message": "Сүлжээний алдаа. "
+  },
+  "errorUnknown": {
+    "message": "Гэнэтийн алдаа гарлаа. "
+  },
+  "errorNoKey": {
+    "message": "API түлхүүрийг тохируулаагүй байна. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Сонголтыг хөрвүүлэх → албан ёсны (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Сонголтыг хөрвүүлэх → албан бус (Ду)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Хөрвүүлж байна..."
+  },
+  "floatingReplaceButton": {
+    "message": "Сонголтыг солих"
+  },
+  "floatingCopyButton": {
+    "message": "Хуулбарлах"
+  },
+  "floatingCopiedButton": {
+    "message": "Хуулсан!"
+  },
+  "floatingDismissButton": {
+    "message": "Хаах"
+  },
+  "floatingRetryButton": {
+    "message": "Дахин оролдоно уу"
+  },
+  "floatingErrorPrefix": {
+    "message": "Алдаа:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Энэ хуудсан дээрх текстийг орлуулах боломжгүй. "
+  },
+  "historyTitle": {
+    "message": "Хөрвүүлэлтийн түүх"
+  },
+  "historyClearButton": {
+    "message": "Түүхийг арилгах"
+  },
+  "historyRestoreButton": {
+    "message": "Сэргээх"
+  },
+  "historyEmpty": {
+    "message": "Одоогоор хөрвүүлээгүй байна."
+  },
+  "historyModeLabel": {
+    "message": "Горим:"
+  },
+  "historyIntensityLabel": {
+    "message": "Эрчим хүч:"
+  },
+  "historyModeDuToSie": {
+    "message": "Ду → Сие"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Ду"
+  },
+  "historyIntensityStandard": {
+    "message": "Стандарт"
+  },
+  "historyIntensityPolished": {
+    "message": "Өнгөлсөн"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Хатуу корпорац"
+  },
+  "diffToggleButton": {
+    "message": "Ялгааг харуулах"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ялгааг нуух"
+  },
+  "diffInputLabel": {
+    "message": "Жинхэнэ"
+  },
+  "diffOutputLabel": {
+    "message": "Хөрвүүлсэн"
+  },
+  "ariaSettingsToggle": {
+    "message": "Тохиргооны самбарыг сэлгэх"
+  },
+  "ariaShowPassword": {
+    "message": "API түлхүүрийг харуулах"
+  },
+  "ariaHidePassword": {
+    "message": "API түлхүүрийг нуух"
+  },
+  "ariaConvertButton": {
+    "message": "Текст хөрвүүлэх"
+  },
+  "ariaCopyOutput": {
+    "message": "Гаралтыг санах ой руу хуулах"
+  },
+  "ariaClearAll": {
+    "message": "Оролт, гаралтыг арилгах"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Хажуугийн самбарт бүрэн ажлын талбарыг нээнэ үү"
+  },
+  "ariaDiffToggle": {
+    "message": "Ялгааг харах/унтраах"
+  },
+  "ariaHistoryToggle": {
+    "message": "Түүхийн самбарыг асаах/унтраах"
+  },
+  "keyStatusPresent": {
+    "message": "API түлхүүр хадгалагдсан"
+  },
+  "keyStatusMissing": {
+    "message": "API түлхүүр хадгалагдаагүй"
+  },
+  "converting": {
+    "message": "Хөрвүүлж байна..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Ажлын талбар"
+  }
+}

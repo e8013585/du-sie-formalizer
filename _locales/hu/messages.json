@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertálja a német szöveget informális (Du) és formális (Sie) regiszter között Claude AI segítségével."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Bemenet"
+  },
+  "outputLabel": {
+    "message": "Kimenet"
+  },
+  "inputPlaceholder": {
+    "message": "Illesszen be vagy írjon be német szöveget ide…"
+  },
+  "outputPlaceholder": {
+    "message": "Itt fog megjelenni a konvertált szöveg…"
+  },
+  "convertButton": {
+    "message": "Megtérít"
+  },
+  "copyButton": {
+    "message": "Másolat"
+  },
+  "copiedButton": {
+    "message": "Másolva!"
+  },
+  "clearButton": {
+    "message": "Világos"
+  },
+  "openSidePanelButton": {
+    "message": "Megnyitás az oldalsó panelen"
+  },
+  "settingsTitle": {
+    "message": "Beállítások elemre"
+  },
+  "apiKeyLabel": {
+    "message": "Antropikus API kulcs"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Megmutat"
+  },
+  "hideKeyButton": {
+    "message": "Elrejt"
+  },
+  "saveKeyButton": {
+    "message": "Kulcs mentése"
+  },
+  "keySavedConfirm": {
+    "message": "Kulcs mentve:"
+  },
+  "testKeyButton": {
+    "message": "Tesztkulcs"
+  },
+  "testKeyValid": {
+    "message": "✓ Érvényes"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Érvénytelen"
+  },
+  "testKeyTesting": {
+    "message": "Tesztelés…"
+  },
+  "modelLabel": {
+    "message": "Modell"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Hang intenzitása"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Csiszolt"
+  },
+  "toneStrictCorporate": {
+    "message": "Szigorú vállalati"
+  },
+  "noApiKeyWarning": {
+    "message": "Nincs mentve API-kulcs. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Beállítások elemre"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Lehetséges, hogy ez a szöveg nem német nyelvű. "
+  },
+  "charactersCount": {
+    "message": "$count$ karakter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Érvénytelen API-kulcs. "
+  },
+  "errorRateLimit": {
+    "message": "Elérte a díjkorlátot. "
+  },
+  "errorApiServer": {
+    "message": "Antropikus API hiba. "
+  },
+  "errorNetwork": {
+    "message": "Hálózati hiba. "
+  },
+  "errorUnknown": {
+    "message": "Váratlan hiba történt. "
+  },
+  "errorNoKey": {
+    "message": "Nincs konfigurálva API-kulcs. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Kijelölés konvertálása → formális (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Kijelölés konvertálása → informális (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Konvertálás…"
+  },
+  "floatingReplaceButton": {
+    "message": "Cserélje ki a kijelölést"
+  },
+  "floatingCopyButton": {
+    "message": "Másolat"
+  },
+  "floatingCopiedButton": {
+    "message": "Másolva!"
+  },
+  "floatingDismissButton": {
+    "message": "Elvetés"
+  },
+  "floatingRetryButton": {
+    "message": "Próbálja újra"
+  },
+  "floatingErrorPrefix": {
+    "message": "Hiba:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ezen az oldalon nem lehet szöveget helyettesíteni. "
+  },
+  "historyTitle": {
+    "message": "Konverziós előzmények"
+  },
+  "historyClearButton": {
+    "message": "Törölje az előzményeket"
+  },
+  "historyRestoreButton": {
+    "message": "Visszaállítás"
+  },
+  "historyEmpty": {
+    "message": "Még nincsenek konverziók."
+  },
+  "historyModeLabel": {
+    "message": "Mód:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intenzitás:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Csiszolt"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Szigorú vállalati"
+  },
+  "diffToggleButton": {
+    "message": "Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff. elrejtése"
+  },
+  "diffInputLabel": {
+    "message": "Eredeti"
+  },
+  "diffOutputLabel": {
+    "message": "Megtérítve"
+  },
+  "ariaSettingsToggle": {
+    "message": "Váltás a beállítások panelen"
+  },
+  "ariaShowPassword": {
+    "message": "API-kulcs megjelenítése"
+  },
+  "ariaHidePassword": {
+    "message": "API-kulcs elrejtése"
+  },
+  "ariaConvertButton": {
+    "message": "Szöveg konvertálása"
+  },
+  "ariaCopyOutput": {
+    "message": "A kimenet másolása a vágólapra"
+  },
+  "ariaClearAll": {
+    "message": "Tiszta bemenet és kimenet"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Nyissa meg a teljes munkaterületet az oldalsó panelen"
+  },
+  "ariaDiffToggle": {
+    "message": "Diff nézet váltása"
+  },
+  "ariaHistoryToggle": {
+    "message": "Az előzmények panel váltása"
+  },
+  "keyStatusPresent": {
+    "message": "Az API kulcs mentve"
+  },
+  "keyStatusMissing": {
+    "message": "Nincs mentve API-kulcs"
+  },
+  "converting": {
+    "message": "Konvertálás…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie formalizer – munkaterület"
+  }
+}

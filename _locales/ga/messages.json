@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Tiontaigh an téacs Gearmáinise idir clár neamhfhoirmiúil (Du) agus foirmeálta (Sie) le Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ionchur"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Tiontaigh"
+  },
+  "copyButton": {
+    "message": "Cóipeáil"
+  },
+  "copiedButton": {
+    "message": "Cóipeáilte!"
+  },
+  "clearButton": {
+    "message": "Glan"
+  },
+  "openSidePanelButton": {
+    "message": "Oscail sa Taobhphainéal"
+  },
+  "settingsTitle": {
+    "message": "Socruithe"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Eochair"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Taispeáin"
+  },
+  "hideKeyButton": {
+    "message": "Folaigh"
+  },
+  "saveKeyButton": {
+    "message": "Sábháil an Eochair"
+  },
+  "keySavedConfirm": {
+    "message": "Sábháladh an eochair:"
+  },
+  "testKeyButton": {
+    "message": "Eochair Tástála"
+  },
+  "testKeyValid": {
+    "message": " ✓ Bailí"
+  },
+  "testKeyInvalid": {
+    "message": " ✓ Neamhbhailí"
+  },
+  "testKeyTesting": {
+    "message": "Tástáil…"
+  },
+  "modelLabel": {
+    "message": "Samhail"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Déine Ton"
+  },
+  "toneStandard": {
+    "message": "Caighdeánach"
+  },
+  "tonePolished": {
+    "message": " Snasta"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Níor sábháladh eochair API. Cuir isteach d'eochair API Anthropic sna"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Socruithe"
+  },
+  "mayNotBeGermanWarning": {
+    "message": " Seans nach bhfuil an téacs seo i nGearmáinis. Seans go bhfuil na torthaí míchruinn."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Eochair API neamhbhailí. Seiceáil d'eochair sna Socruithe."
+  },
+  "errorRateLimit": {
+    "message": "Sroichtear teorainn an ráta. Fan agus bain triail eile as."
+  },
+  "errorApiServer": {
+    "message": "Earráid API Anthropic. Bain triail eile as ar ball."
+  },
+  "errorNetwork": {
+    "message": "Earráid líonra. Seiceáil do cheangal."
+  },
+  "errorUnknown": {
+    "message": "Tharla earráid gan choinne. Bain triail eile as le do thoil."
+  },
+  "errorNoKey": {
+    "message": "Níl eochair API cumraithe. Cuir d'eochair sna Socruithe le do thoil."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Tiontaigh an roghnú → foirmiúil (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Tiontaigh an roghnúchán → neamhfhoirmiúil (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Cóipeáil"
+  },
+  "floatingCopiedButton": {
+    "message": "Cóipeáilte!"
+  },
+  "floatingDismissButton": {
+    "message": "Ruig"
+  },
+  "floatingRetryButton": {
+    "message": "Atriail"
+  },
+  "floatingErrorPrefix": {
+    "message": "Earráid:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ní féidir téacs a chur in ionad an leathanach seo. Déan cóip ina ionad sin."
+  },
+  "historyTitle": {
+    "message": "Stair Tiontaithe"
+  },
+  "historyClearButton": {
+    "message": "Glan an Stair"
+  },
+  "historyRestoreButton": {
+    "message": "Athchóirigh"
+  },
+  "historyEmpty": {
+    "message": "Níl aon tiontaithe fós."
+  },
+  "historyModeLabel": {
+    "message": "Mód:"
+  },
+  "historyIntensityLabel": {
+    "message": "Déine:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Caighdeánach"
+  },
+  "historyIntensityPolished": {
+    "message": " Snasta"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corparáideach"
+  },
+  "diffToggleButton": {
+    "message": "Taispeáin an Difríocht"
+  },
+  "diffToggleButtonOff": {
+    "message": "Folaigh Diff"
+  },
+  "diffInputLabel": {
+    "message": " Bunaidh"
+  },
+  "diffOutputLabel": {
+    "message": "Tiontaíodh socruithe"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Folaigh eochair API"
+  },
+  "ariaConvertButton": {
+    "message": "Tiontaigh an téacs"
+  },
+  "ariaCopyOutput": {
+    "message": "Cóipeáil an t-aschur chuig an ngearrthaisce"
+  },
+  "ariaClearAll": {
+    "message": "Glan ionchur agus aschur"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Oscail spás oibre iomlán sa phainéal taoibh"
+  },
+  "ariaDiffToggle": {
+    "message": "Scoránaigh an t-amharc diffr"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Níor sábháladh eochair API"
+  },
+  "converting": {
+    "message": "Tiontú…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

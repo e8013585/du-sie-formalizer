@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizador"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Alemán qillqat jaqukipaña informal (Du) ukat formal (Sie) registro ukanaka taypina Claude AI apnaqasa."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Salida"
+  },
+  "inputPlaceholder": {
+    "message": "Aka chiqan alemán qillqat qillqt’aña jan ukax qillqt’aña..."
+  },
+  "outputPlaceholder": {
+    "message": "Jichhax jaqukipat qillqataw uñstani akanxa..."
+  },
+  "convertButton": {
+    "message": "Jichhaxa"
+  },
+  "copyButton": {
+    "message": "Copiar"
+  },
+  "copiedButton": {
+    "message": "Copiata!"
+  },
+  "clearButton": {
+    "message": "Q’umachaña"
+  },
+  "openSidePanelButton": {
+    "message": "Panel lateral ukan jist’araña"
+  },
+  "settingsTitle": {
+    "message": "Askichawinaka"
+  },
+  "apiKeyLabel": {
+    "message": "API Antrópico Llave"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Uñacht’ayaña"
+  },
+  "hideKeyButton": {
+    "message": "Imantaña"
+  },
+  "saveKeyButton": {
+    "message": "Qhispiyaña Llave"
+  },
+  "keySavedConfirm": {
+    "message": "Llave imaña:"
+  },
+  "testKeyButton": {
+    "message": "Yant’aña Llave"
+  },
+  "testKeyValid": {
+    "message": "✓ Walikiwa"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Jan wali"
+  },
+  "testKeyTesting": {
+    "message": "Yant’awi..."
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensidad de tono"
+  },
+  "toneStandard": {
+    "message": "Estándar"
+  },
+  "tonePolished": {
+    "message": "Pulido"
+  },
+  "toneStrictCorporate": {
+    "message": "Estricto Corporativo"
+  },
+  "noApiKeyWarning": {
+    "message": "Janiw API llavex qhispiyatäkiti. Anthropic API llave ukarux"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Askichawinaka"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Aka qillqatanx janiw alemán arun utjkchiti. Ukax inas jan chiqapäkchiti."
+  },
+  "charactersCount": {
+    "message": "$count$ chimpunaka",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Jan wali API llave. Uñakipt’añatakix llave ukarux Configuración ukan uñakipt’añamawa."
+  },
+  "errorRateLimit": {
+    "message": "Límite de tarifa ukax puriwayxiwa. Suyt’añani ukat mayamp yant’añani."
+  },
+  "errorApiServer": {
+    "message": "Antropic API pantjasiwi. Qhipürux mayamp yant’añamawa."
+  },
+  "errorNetwork": {
+    "message": "Llika pantjasiwi. Uñakipt’añatakix conexión uñakipt’añamawa."
+  },
+  "errorUnknown": {
+    "message": "Mä jan suyt’at pantjasiw utjawayi. Mayampi yant’añani."
+  },
+  "errorNoKey": {
+    "message": "Janiw API llavex wakicht’atäkiti. Ukhamaraki, Configuración ukanxa llave ukarux yapxatañamawa."
+  },
+  "contextMenuRoot": {
+    "message": "Formalizador de Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Ajlliñ mayjt��ayaña → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Ajlliñ mayjt’ayaña → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalizador de Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Jichhax mayjt’ayaña..."
+  },
+  "floatingReplaceButton": {
+    "message": "Uñt’ayaña Ajlliwi"
+  },
+  "floatingCopyButton": {
+    "message": "Copiar"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiata!"
+  },
+  "floatingDismissButton": {
+    "message": "Janukuña"
+  },
+  "floatingRetryButton": {
+    "message": "Wasita yant’aña"
+  },
+  "floatingErrorPrefix": {
+    "message": "Pantjasiwi:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Janiw aka pankan qillqatanakax mayjt’ayañjamäkiti. Uka lantix copiaña."
+  },
+  "historyTitle": {
+    "message": "Jichhax mayjt’ayaña"
+  },
+  "historyClearButton": {
+    "message": "Q’umachaña Sarnaqäwi"
+  },
+  "historyRestoreButton": {
+    "message": "Kutt’ayaña"
+  },
+  "historyEmpty": {
+    "message": "Janiw kuna mayjt’äwinakas utjkiti."
+  },
+  "historyModeLabel": {
+    "message": "Modo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensidad:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estándar"
+  },
+  "historyIntensityPolished": {
+    "message": "Polido"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Estricto Corporativo"
+  },
+  "diffToggleButton": {
+    "message": "Uñacht’ayaña Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Imantaña Mayjt’awi"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Jichhax mayjt’ayata"
+  },
+  "ariaSettingsToggle": {
+    "message": "Askichawinak mayjt’ayaña panel"
+  },
+  "ariaShowPassword": {
+    "message": "API tecla uñacht’ayaña"
+  },
+  "ariaHidePassword": {
+    "message": "API tecla imantaña"
+  },
+  "ariaConvertButton": {
+    "message": "Qillqata jaqukipaña"
+  },
+  "ariaCopyOutput": {
+    "message": "Salida ukxa portapapeles ukar copiaña"
+  },
+  "ariaClearAll": {
+    "message": "Q’uma mantaña ukhamaraki mistuña"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Panel lateral ukan taqpach irnaqäw chiqa jist’araña"
+  },
+  "ariaDiffToggle": {
+    "message": "Mayjt’ayaña mayjt’ayaña"
+  },
+  "ariaHistoryToggle": {
+    "message": "Historia uñakipañataki panel"
+  },
+  "keyStatusPresent": {
+    "message": "API llavex qhispiyatawa"
+  },
+  "keyStatusMissing": {
+    "message": "Janiw API llavex qhispiyatäkiti"
+  },
+  "converting": {
+    "message": "Jichhax jaqukipaña..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizador – Irnaqañ chiqa"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "ꯗꯨ↔ꯁꯤ ꯐꯣꯔꯃꯦꯂꯥꯏꯖꯔ"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert German text between informal (Du) and formal (Sie) register using Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "ꯀꯅꯚꯥꯔꯠ ꯇꯧꯕꯥ"
+  },
+  "copyButton": {
+    "message": "ꯀꯣꯄꯤ"
+  },
+  "copiedButton": {
+    "message": "ꯀꯣꯄꯤ ꯇꯧꯈ꯭ꯔꯦ!"
+  },
+  "clearButton": {
+    "message": "ꯀ꯭ꯂꯤꯌꯔ"
+  },
+  "openSidePanelButton": {
+    "message": "ꯁꯥꯏꯗ ꯄꯦꯅꯦꯂꯗꯥ ꯍꯥꯡꯗꯣꯀꯎ"
+  },
+  "settingsTitle": {
+    "message": "ꯁꯦꯇꯤꯡꯁꯤꯡ"
+  },
+  "apiKeyLabel": {
+    "message": "ꯑꯦꯟꯊ꯭ꯔꯣꯄꯤꯛ ꯑꯦ.ꯄꯤ.ꯑꯥꯏ ꯀꯤ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": " ꯎꯠꯄꯥ"
+  },
+  "hideKeyButton": {
+    "message": "ꯂꯣꯠꯄꯥ"
+  },
+  "saveKeyButton": {
+    "message": "ꯁꯦꯚ ꯀꯤ"
+  },
+  "keySavedConfirm": {
+    "message": "ꯀꯤ ꯁꯦꯚ ꯇꯧꯕꯥ:"
+  },
+  "testKeyButton": {
+    "message": "ꯇꯦꯁ꯭ꯠ ꯀꯤ"
+  },
+  "testKeyValid": {
+    "message": "✓ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ ꯑꯁꯣꯌꯕꯥ"
+  },
+  "testKeyTesting": {
+    "message": "ꯇꯦꯁ꯭ꯇꯤꯡ ꯇꯧꯕꯥ..."
+  },
+  "modelLabel": {
+    "message": "ꯃꯣꯗꯦꯜ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ꯇꯣꯟ ꯏꯟꯇꯦꯟꯁꯤꯇꯤ"
+  },
+  "toneStandard": {
+    "message": "ꯁ꯭ꯇꯦꯟꯗꯔꯗ"
+  },
+  "tonePolished": {
+    "message": "ꯄꯣꯂꯤꯁ ꯇꯧꯔꯕꯥ"
+  },
+  "toneStrictCorporate": {
+    "message": "ꯑꯀꯅꯕꯥ ꯀꯣꯔꯄꯣꯔꯦꯠ"
+  },
+  "noApiKeyWarning": {
+    "message": "ꯑꯦ.ꯄꯤ.ꯑꯥꯏ.ꯒꯤ ꯀꯤ ꯑꯃꯠꯇꯥ ꯁꯦꯚ ꯇꯧꯈꯤꯗꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯅꯍꯥꯛꯀꯤ ꯑꯦꯟꯊ꯭ꯔꯣꯄꯤꯛ API ꯀꯤ ꯑꯗꯨ"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ꯁꯦꯇꯤꯡꯁ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ꯗꯥ ꯑꯦꯟꯇꯔ ꯇꯧꯕꯤꯌꯨ ꯇꯦꯛꯁ ꯑꯁꯤ ꯖꯔꯃꯅꯤꯗꯥ ꯑꯣꯏꯗꯕꯥ ꯌꯥꯏ꯫ ꯔꯤꯖꯜꯇꯁꯤꯡ ꯑꯁꯤ ꯑꯆꯨꯝꯕꯥ ꯑꯣꯏꯗꯕꯥ ꯌꯥꯏ꯫"
+  },
+  "charactersCount": {
+    "message": "$count$ ꯆꯦꯛꯔꯦꯇꯔꯁꯤꯡ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ꯑꯁꯣꯌꯕꯥ API ꯀꯤ. ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯁꯦꯇꯤꯡꯁꯤꯡꯗꯥ ꯅꯍꯥꯛꯀꯤ ꯀꯤ ꯑꯗꯨ ꯆꯦꯛ ꯇꯧꯕꯤꯌꯨ."
+  },
+  "errorRateLimit": {
+    "message": "ꯔꯦꯠ ꯂꯤꯃꯤꯠ ꯌꯧꯔꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯉꯥꯏꯕꯤꯌꯨ ꯑꯃꯁꯨꯡ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯍꯣꯠꯅꯕꯤꯌꯨ꯫"
+  },
+  "errorApiServer": {
+    "message": "ꯑꯦꯟꯊ꯭ꯔꯣꯄꯤꯛ ꯑꯦ.ꯄꯤ.ꯑꯥꯏ. ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯇꯨꯡꯗꯥ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯍꯣꯠꯅꯕꯤꯌꯨ꯫"
+  },
+  "errorNetwork": {
+    "message": "ꯅꯦꯇꯋꯥꯔꯛ ꯑꯦꯔꯥꯔ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯅꯍꯥꯛꯀꯤ ꯀꯅꯦꯛꯁꯟ ꯑꯗꯨ ꯆꯦꯛ ꯇꯧꯕꯤꯌꯨ."
+  },
+  "errorUnknown": {
+    "message": "ꯑꯄꯥꯝꯕꯥ ꯑꯁꯣꯌꯕꯥ ꯑꯃꯥ ꯊꯣꯀꯈ꯭ꯔꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯍꯣꯠꯅꯕꯤꯌꯨ꯫"
+  },
+  "errorNoKey": {
+    "message": "API ꯀꯤ ꯀꯅꯐꯤꯒꯔ ꯇꯧꯗꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯁꯦꯇꯤꯡꯁꯤꯡꯗꯥ ꯅꯍꯥꯛꯀꯤ ꯀꯤ ꯑꯗꯨ ꯍꯥꯄꯆꯤꯜꯂꯨ꯫"
+  },
+  "contextMenuRoot": {
+    "message": "ꯗꯨ↔ꯁꯤ ꯐꯣꯔꯃꯦꯂꯥꯏꯖꯔ"
+  },
+  "contextMenuToSie": {
+    "message": "ꯁꯦꯂꯦꯛꯁꯟ ꯑꯣꯟꯊꯣꯀꯄꯥ → ꯐꯣꯔꯃꯦꯜ (ꯁꯤꯏ)"
+  },
+  "contextMenuToDu": {
+    "message": "ꯁꯦꯂꯦꯛꯁꯟ ꯑꯣꯟꯊꯣꯀꯄꯥ → ꯏꯅꯐꯣꯔꯃꯦꯜ (ꯗꯨ)"
+  },
+  "floatingCardTitle": {
+    "message": "ꯗꯨ↔ꯁꯤ ꯐꯣꯔꯃꯦꯂꯥꯏꯖꯔ"
+  },
+  "floatingCardLoading": {
+    "message": "ꯀꯅꯚꯥꯔꯠ ꯇꯧꯕꯥ..."
+  },
+  "floatingReplaceButton": {
+    "message": "ꯃꯊꯧ ꯇꯥꯕꯥ꯫ ꯈꯅꯕꯒꯤ"
+  },
+  "floatingCopyButton": {
+    "message": "ꯀꯣꯄꯤ"
+  },
+  "floatingCopiedButton": {
+    "message": "ꯀꯣꯄꯤ ꯇꯧꯔꯦ!"
+  },
+  "floatingDismissButton": {
+    "message": "ꯗꯤꯁꯃꯤꯁ"
+  },
+  "floatingRetryButton": {
+    "message": "ꯑꯃꯨꯛꯀꯥ ꯍꯟꯅꯥ ꯍꯣꯠꯅꯧ"
+  },
+  "floatingErrorPrefix": {
+    "message": "ꯑꯁꯣꯌꯕꯥ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ꯄꯦꯖ ꯑꯁꯤꯗꯥ ꯌꯥꯑꯣꯔꯤꯕꯥ ꯇꯦꯛꯁ ꯑꯗꯨ ꯍꯣꯡꯗꯣꯀꯄꯥ ꯉꯃꯗꯦ꯫ ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯃꯗꯨꯒꯤ ꯃꯍꯨꯠꯇꯥ ꯀꯣꯄꯤ ꯇꯧꯕꯤꯌꯨ꯫"
+  },
+  "historyTitle": {
+    "message": "ꯀꯅꯕꯔꯁꯟ ꯍꯤꯁ꯭ꯇꯔꯤ"
+  },
+  "historyClearButton": {
+    "message": "ꯍꯤꯁ꯭ꯇꯔꯤ ꯁꯦꯡꯗꯣꯀꯎ"
+  },
+  "historyRestoreButton": {
+    "message": "ꯔꯤꯁ꯭ꯇꯣꯔ ꯇꯧꯔꯣ"
+  },
+  "historyEmpty": {
+    "message": "ꯍꯧꯖꯤꯛ ꯐꯥꯑꯣꯕꯥ ꯀꯅꯕꯔꯁꯟ ꯑꯃꯠꯇꯥ ꯂꯩꯇꯦ꯫"
+  },
+  "historyModeLabel": {
+    "message": "ꯃꯣꯗ:"
+  },
+  "historyIntensityLabel": {
+    "message": "ꯏꯟꯇꯦꯟꯁꯤꯇꯤ:"
+  },
+  "historyModeDuToSie": {
+    "message": "ꯗꯨ → ꯁꯤꯏ"
+  },
+  "historyModeSieToDu": {
+    "message": "ꯁꯤꯏ → ꯗꯨ"
+  },
+  "historyIntensityStandard": {
+    "message": "ꯁ꯭ꯇꯦꯟꯗꯔꯗ"
+  },
+  "historyIntensityPolished": {
+    "message": "ꯄꯣꯂꯤꯁ ꯇꯧꯔꯕꯥ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ꯑꯀꯅꯕꯥ ꯀꯣꯔꯄꯣꯔꯦꯠ"
+  },
+  "diffToggleButton": {
+    "message": "ꯗꯤꯐꯠ ꯎꯠꯄꯥ"
+  },
+  "diffToggleButtonOff": {
+    "message": "ꯗꯤꯐꯠ ꯂꯣꯠꯄꯥ"
+  },
+  "diffInputLabel": {
+    "message": "ꯑꯔꯤꯖꯤꯅꯦꯜ"
+  },
+  "diffOutputLabel": {
+    "message": "ꯀꯅꯚꯥꯔꯠ ꯇꯧꯔꯕꯥ"
+  },
+  "ariaSettingsToggle": {
+    "message": "ꯇꯣꯒꯜ ꯁꯦꯇꯤꯡꯁꯤꯡ꯫ panel"
+  },
+  "ariaShowPassword": {
+    "message": "ꯑꯦ.ꯄꯤ.ꯑꯥꯏ.ꯒꯤ ꯀꯤ ꯎꯠꯄꯥ"
+  },
+  "ariaHidePassword": {
+    "message": "Hide API key"
+  },
+  "ariaConvertButton": {
+    "message": "Convert text"
+  },
+  "ariaCopyOutput": {
+    "message": "Copy output to clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Clear input and output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "ꯑꯦꯄꯤꯑꯥꯏ ꯀꯤ ꯁꯦꯚ ꯇꯧꯔꯦ"
+  },
+  "keyStatusMissing": {
+    "message": "ꯑꯦꯄꯤꯑꯥꯏ ꯀꯤ ꯑꯃꯠꯇꯥ ꯁꯦꯚ ꯇꯧꯗꯦ"
+  },
+  "converting": {
+    "message": "ꯀꯅꯚꯥꯔꯠ ꯇꯧꯔꯤ..."
+  },
+  "sidePanelTitle": {
+    "message": "ꯗꯨ↔ꯁꯤ ꯐꯣꯔꯃꯦꯂꯥꯏꯖꯔ – ꯋꯥꯔꯀꯁ꯭ꯄꯦꯁ"
+  }
+}

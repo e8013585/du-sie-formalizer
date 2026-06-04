@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Kyuusa ebiwandiiko by’Olugirimaani wakati wa register etali ntongole (Du) n’entongole (Sie) ng’okozesa Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Okuyingiza"
+  },
+  "outputLabel": {
+    "message": "Okufulumya"
+  },
+  "inputPlaceholder": {
+    "message": "Teeka oba wandiika ebiwandiiko by’Olugirimaani wano..."
+  },
+  "outputPlaceholder": {
+    "message": "Ekiwandiiko ekikyusiddwa kijja kulabika wano..."
+  },
+  "convertButton": {
+    "message": "Kyuusa"
+  },
+  "copyButton": {
+    "message": "Koppa"
+  },
+  "copiedButton": {
+    "message": "Ekoppa!"
+  },
+  "clearButton": {
+    "message": "Okulongoosa"
+  },
+  "openSidePanelButton": {
+    "message": "Ggulawo mu Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Ensengeka"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ekisumuluzo"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Laga"
+  },
+  "hideKeyButton": {
+    "message": "Kweka"
+  },
+  "saveKeyButton": {
+    "message": "Ekisumuluzo ky’okutereka"
+  },
+  "keySavedConfirm": {
+    "message": "Ekisumuluzo kiterekeddwa:"
+  },
+  "testKeyButton": {
+    "message": "Ekisumuluzo ky’okugezesa"
+  },
+  "testKeyValid": {
+    "message": "✓ Kituufu"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Okugezesa okutali kutuufu"
+  },
+  "testKeyTesting": {
+    "message": "..."
+  },
+  "modelLabel": {
+    "message": "Omuze"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Obugumu bw’Eddoboozi"
+  },
+  "toneStandard": {
+    "message": "Omutindo"
+  },
+  "tonePolished": {
+    "message": "Okulongooseddwa"
+  },
+  "toneStrictCorporate": {
+    "message": "Ekitongole ekikakali"
+  },
+  "noApiKeyWarning": {
+    "message": "Tewali kisumuluzo kya API kiterekeddwa. Nsaba oyingize ekisumuluzo kyo ekya Anthropic API mu"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ensengeka"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ekiwandiiko kino kiyinza obutaba mu Lugirimaani. Ebivuddemu biyinza obutaba bituufu."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ekisumuluzo kya API ekitali kituufu. Nsaba okebere ekisumuluzo kyo mu Nteekateeka."
+  },
+  "errorRateLimit": {
+    "message": "Ekkomo ku muwendo lituuse. Nsaba olinde era ogezeeko nate."
+  },
+  "errorApiServer": {
+    "message": "Ensobi ya Anthropic API. Nsaba ogezeeko nate oluvannyuma."
+  },
+  "errorNetwork": {
+    "message": "Ensobi mu mutimbagano. Nsaba okebere omukago gwo."
+  },
+  "errorUnknown": {
+    "message": "Ensobi etasuubirwa yabaddewo. Nsaba ogezeeko nate."
+  },
+  "errorNoKey": {
+    "message": "Tewali kisumuluzo kya API kitegekeddwa. Nsaba osseeko ekisumuluzo kyo mu Nsengeka."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Kyusa okulonda → mu butongole (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Kyusa okulonda → okutali kwa mu butongole (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Okukyusa..."
+  },
+  "floatingReplaceButton": {
+    "message": "Okukyusa Okulonda"
+  },
+  "floatingCopyButton": {
+    "message": "Koppa"
+  },
+  "floatingCopiedButton": {
+    "message": "Kukoppa!"
+  },
+  "floatingDismissButton": {
+    "message": "Okugobye"
+  },
+  "floatingRetryButton": {
+    "message": "Ddamu okugezaako"
+  },
+  "floatingErrorPrefix": {
+    "message": "Ensobi:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Tekisobola kukyusa biwandiiko ku lupapula luno. Nsaba koppa mu kifo ky'ekyo."
+  },
+  "historyTitle": {
+    "message": "Ebyafaayo by'okukyusa"
+  },
+  "historyClearButton": {
+    "message": "Okulongoosa Ebyafaayo"
+  },
+  "historyRestoreButton": {
+    "message": "Ddamu"
+  },
+  "historyEmpty": {
+    "message": "Tewali kukyusa n'okutuusa kati."
+  },
+  "historyModeLabel": {
+    "message": "Engeri:"
+  },
+  "historyIntensityLabel": {
+    "message": "Obugumu:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Omutindo"
+  },
+  "historyIntensityPolished": {
+    "message": "Okulongooseddwa"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Ebitongole ebikakali"
+  },
+  "diffToggleButton": {
+    "message": "Laga Enjawulo"
+  },
+  "diffToggleButtonOff": {
+    "message": "Kweka Enjawulo"
+  },
+  "diffInputLabel": {
+    "message": "Entandikwa"
+  },
+  "diffOutputLabel": {
+    "message": "Ekyusiddwa"
+  },
+  "ariaSettingsToggle": {
+    "message": "Okukyusa ensengeka panel"
+  },
+  "ariaShowPassword": {
+    "message": "Laga ekisumuluzo kya API"
+  },
+  "ariaHidePassword": {
+    "message": "Kweka ekisumuluzo kya API"
+  },
+  "ariaConvertButton": {
+    "message": "Okukyusa ebiwandiiko"
+  },
+  "ariaCopyOutput": {
+    "message": "Koppa ebifulumizibwa mu clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Okulongoosa okuyingiza n'okufulumya"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Ggulawo ekifo ekijjuvu eky'okukoleramu mu kipande eky'ebbali"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Okukyusa ebyafaayo panel"
+  },
+  "keyStatusPresent": {
+    "message": "Ekisumuluzo kya API kiterekeddwa"
+  },
+  "keyStatusMissing": {
+    "message": "Tewali kisumuluzo kya API kiterekeddwa"
+  },
+  "converting": {
+    "message": "Okukyusa..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

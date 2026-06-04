@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "I-convert ang German nga teksto tali sa dili pormal (Du) ug pormal (Sie) nga rehistro gamit ang Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output text makita "
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "I-convert"
+  },
+  "copyButton": {
+    "message": "Kopya"
+  },
+  "copiedButton": {
+    "message": "Gikopya!"
+  },
+  "clearButton": {
+    "message": "I-clear"
+  },
+  "openSidePanelButton": {
+    "message": "Buksi sa Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Mga Setting"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Yawe"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Ipakita"
+  },
+  "hideKeyButton": {
+    "message": "Itago"
+  },
+  "saveKeyButton": {
+    "message": "I-save ang Yawe"
+  },
+  "keySavedConfirm": {
+    "message": "Yawe nga gitipigan:"
+  },
+  "testKeyButton": {
+    "message": "Sulay nga Yawe"
+  },
+  "testKeyValid": {
+    "message": "✓ Balido"
+  },
+  "testKeyInvalid": {
+    "message": " Dili balido"
+  },
+  "testKeyTesting": {
+    "message": "Pagsulay…"
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Walay API key nga gitipigan. Palihug isulod ang imong Anthropic API key sa"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Kini nga teksto mahimong dili sa German. Mahimong dili tukma ang mga resulta."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Invalid API key. Palihug susiha ang imong yawe sa Settings."
+  },
+  "errorRateLimit": {
+    "message": "Naabot ang limitasyon sa rate. Palihug paghulat ug pagsulay pag-usab."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. Palihug sulayi pag-usab unya."
+  },
+  "errorNetwork": {
+    "message": "Kasaypanan sa network. Palihug susiha ang imong koneksyon."
+  },
+  "errorUnknown": {
+    "message": "Usa ka wala damha nga sayup ang nahitabo. Palihug sulayi pag-usab."
+  },
+  "errorNoKey": {
+    "message": "Walay API key nga na-configure. Palihug idugang ang imong yawe sa Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopya"
+  },
+  "floatingCopiedButton": {
+    "message": "Gikopya!"
+  },
+  "floatingDismissButton": {
+    "message": "Isalikway"
+  },
+  "floatingRetryButton": {
+    "message": "Sulayi pag-usab"
+  },
+  "floatingErrorPrefix": {
+    "message": "Sayop:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Dili makapuli sa teksto niini nga panid. Palihog kopyaha hinuon."
+  },
+  "historyTitle": {
+    "message": "Kasaysayan sa Pagkakabig"
+  },
+  "historyClearButton": {
+    "message": "I-clear ang Kasaysayan"
+  },
+  "historyRestoreButton": {
+    "message": "Iuli"
+  },
+  "historyEmpty": {
+    "message": "Wala pa'y mga pagkakabig."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Pinasina"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Estrikto nga Korporasyon"
+  },
+  "diffToggleButton": {
+    "message": "Ipakita ang Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Itago ang Diff"
+  },
+  "diffInputLabel": {
+    "message": "Orihinal"
+  },
+  "diffOutputLabel": {
+    "message": "Gi-convert ang mga setting sa API"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Itago ang API key"
+  },
+  "ariaConvertButton": {
+    "message": "I-convert ang teksto"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopyahon ang output ngadto sa clipboard"
+  },
+  "ariaClearAll": {
+    "message": "I-clear ang input ug output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Abli ang tibuok workspace sa side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Walay natipig nga key sa API"
+  },
+  "converting": {
+    "message": "Pag-convert…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

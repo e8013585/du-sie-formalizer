@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Barruu Jarmanii galmee al-seerummaa (Du) fi idilee (Sie) gidduutti Claude AI fayyadamuun jijjiiri."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Galtee"
+  },
+  "outputLabel": {
+    "message": "Bu'aa"
+  },
+  "inputPlaceholder": {
+    "message": "Barruu Jarmanii asitti maxxansi ykn barreessi..."
+  },
+  "outputPlaceholder": {
+    "message": "Barreeffamni jijjiirame ni mul'ata asitti..."
+  },
+  "convertButton": {
+    "message": "Jijjiiri"
+  },
+  "copyButton": {
+    "message": "Koppii"
+  },
+  "copiedButton": {
+    "message": "Koppii godhame!"
+  },
+  "clearButton": {
+    "message": "Qulqulleessi"
+  },
+  "openSidePanelButton": {
+    "message": "Paaneliin Cinaa keessatti banaa"
+  },
+  "settingsTitle": {
+    "message": "Sajoo"
+  },
+  "apiKeyLabel": {
+    "message": "API Anthropic Furtuu"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Agarsiisi"
+  },
+  "hideKeyButton": {
+    "message": "Dhoksaa"
+  },
+  "saveKeyButton": {
+    "message": "Furtuu Qusadhu"
+  },
+  "keySavedConfirm": {
+    "message": "Furtuun qusatame:"
+  },
+  "testKeyButton": {
+    "message": "Furtuu Qormaataa"
+  },
+  "testKeyValid": {
+    "message": "✓ Sirrii"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Sirrii miti"
+  },
+  "testKeyTesting": {
+    "message": "Qormaata..."
+  },
+  "modelLabel": {
+    "message": "Moodeela"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Cimina Sagalee"
+  },
+  "toneStandard": {
+    "message": "Istaandardii"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Dhaabbata Cimaa"
+  },
+  "noApiKeyWarning": {
+    "message": "Furtuu API hin qusatamne. Maaloo furtuu API Anthropic kee"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Sajoo"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Barreeffamni kun afaan Jarmaniin ta'uu dhiisuu danda'a. Bu'aan sirrii ta'uu dhiisuu danda'a."
+  },
+  "charactersCount": {
+    "message": "$count$ arfiilee",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Furtuu API sirrii hin taane. Maaloo furtuu kee Sajoo keessatti ilaali."
+  },
+  "errorRateLimit": {
+    "message": "Daangaa sadarkaa irra ga'ameera. Mee eegaa irra deebi'aa yaalaa."
+  },
+  "errorApiServer": {
+    "message": "Dogongora API Anthropic. Mee booda irra deebi'ii yaali."
+  },
+  "errorNetwork": {
+    "message": "Dogongorri networkii. Mee walitti hidhamiinsa kee ilaali."
+  },
+  "errorUnknown": {
+    "message": "Dogongorri hin eegamne uumame. Maaloo irra deebi'ii yaali."
+  },
+  "errorNoKey": {
+    "message": "Furtuun API hin qindaa'e. Maaloo furtuu kee Sajoo keessatti dabali."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Filannoo jijjiiri → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Filannoo jijjiiri → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Jijjiiruu..."
+  },
+  "floatingReplaceButton": {
+    "message": "Bakka buusi Filannoo"
+  },
+  "floatingCopyButton": {
+    "message": "Warabii"
+  },
+  "floatingCopiedButton": {
+    "message": "Warraaqame!"
+  },
+  "floatingDismissButton": {
+    "message": "Haqa"
+  },
+  "floatingRetryButton": {
+    "message": "Irra deebi'ii yaali"
+  },
+  "floatingErrorPrefix": {
+    "message": "Dogongorri:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Barruu fuula kana irratti bakka buusuu hin danda'u. Maaloo bakka isaa waraabi."
+  },
+  "historyTitle": {
+    "message": "Seenaa Jijjiirraa"
+  },
+  "historyClearButton": {
+    "message": "Seenaa Qulqulleessi"
+  },
+  "historyRestoreButton": {
+    "message": "Deebisi"
+  },
+  "historyEmpty": {
+    "message": "Hanga ammaatti jijjiirraan hin jiru."
+  },
+  "historyModeLabel": {
+    "message": "Haala:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ciminna:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Istaandardii"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Dhaabbata Cimaa"
+  },
+  "diffToggleButton": {
+    "message": "Garaagarummaa Agarsiisi"
+  },
+  "diffToggleButtonOff": {
+    "message": "Garaagarummaa dhoksi"
+  },
+  "diffInputLabel": {
+    "message": "Jalqabaa"
+  },
+  "diffOutputLabel": {
+    "message": "Jijjiirame"
+  },
+  "ariaSettingsToggle": {
+    "message": "Qajeelfamoota jijjiiri paanaalii"
+  },
+  "ariaShowPassword": {
+    "message": "Furtuu API agarsiisi"
+  },
+  "ariaHidePassword": {
+    "message": "Furtuu API dhoksi"
+  },
+  "ariaConvertButton": {
+    "message": "Barruu jijjiiri"
+  },
+  "ariaCopyOutput": {
+    "message": "Bu'aa gara gabatee qixaatti waraabi"
+  },
+  "ariaClearAll": {
+    "message": "Galtee fi baasaa qulqulleessi"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Iddoo hojii guutuu paanaalii cinaa keessatti bani"
+  },
+  "ariaDiffToggle": {
+    "message": "Ilaalcha garaagarummaa jijjiiri"
+  },
+  "ariaHistoryToggle": {
+    "message": "Seenaa jijjiiruuf paanaalii"
+  },
+  "keyStatusPresent": {
+    "message": "Furtuun API qusatameera"
+  },
+  "keyStatusMissing": {
+    "message": "Furtuun API hin qusatamne"
+  },
+  "converting": {
+    "message": "Jijjiiramaa jira..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI භාවිතයෙන් ජර්මානු පෙළ අවිධිමත් (Du) සහ විධිමත් (Sie) ලියාපදිංචිය අතරට පරිවර්තනය කරන්න."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "පරිවර්තනය කළ පෙළ මෙහි දිස්වනු ඇත..."
+  },
+  "convertButton": {
+    "message": "පරිවර්තනය කරන්න"
+  },
+  "copyButton": {
+    "message": "පිටපත් කරන්න"
+  },
+  "copiedButton": {
+    "message": "පිටපත් කළා!"
+  },
+  "clearButton": {
+    "message": "පැහැදිලි කරන්න"
+  },
+  "openSidePanelButton": {
+    "message": "පැති පුවරුවේ විවෘත කරන්න"
+  },
+  "settingsTitle": {
+    "message": "සැකසීම්"
+  },
+  "apiKeyLabel": {
+    "message": " යතුර"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "පෙන්වන්න"
+  },
+  "hideKeyButton": {
+    "message": "සඟවන්න"
+  },
+  "saveKeyButton": {
+    "message": "යතුර සුරකින්න"
+  },
+  "keySavedConfirm": {
+    "message": "යතුර සුරකින ලදී:"
+  },
+  "testKeyButton": {
+    "message": "පරීක්ෂණ යතුර"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "පරීක්‍ෂා කරමින්..."
+  },
+  "modelLabel": {
+    "message": "ආකෘතිය"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "තාන තීව්‍රතාවය"
+  },
+  "toneStandard": {
+    "message": "සම්මත"
+  },
+  "tonePolished": {
+    "message": "ඔප දැමූ"
+  },
+  "toneStrictCorporate": {
+    "message": "දැඩි ආයතනික"
+  },
+  "noApiKeyWarning": {
+    "message": "API යතුර සුරැකී නැත. කරුණාකර ඔබගේ Anthropic API යතුර ඇතුළත් කරන්න"
+  },
+  "noApiKeyWarningLink": {
+    "message": "සැකසීම්"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "මෙම පෙළ ජර්මානු භාෂාවෙන් නොවිය හැක. ප්‍රතිඵල සාවද්‍ය විය හැක."
+  },
+  "charactersCount": {
+    "message": "$count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "අවලංගු API යතුර. කරුණාකර සැකසීම් තුළ ඔබේ යතුර පරීක්ෂා කරන්න."
+  },
+  "errorRateLimit": {
+    "message": "අනුපාත සීමාව ළඟා විය. කරුණාකර රැඳී සිට නැවත උත්සාහ කරන්න."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API දෝෂය. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
+  },
+  "errorNetwork": {
+    "message": "ජාල දෝෂයකි. කරුණාකර ඔබගේ සම්බන්ධතාවය පරීක්ෂා කරන්න."
+  },
+  "errorUnknown": {
+    "message": "අනපේක්ෂිත දෝෂයක් සිදු විය. කරුණාකර නැවත උත්සාහ කරන්න."
+  },
+  "errorNoKey": {
+    "message": "API යතුර වින්‍යාස කර නැත. කරුණාකර සැකසීම් තුළ ඔබේ යතුර එක් කරන්න."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "තෝරාගැනීම පරිවර්තනය කරන්න → විධිමත් (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "තෝරාගැනීම පරිවර්තනය කරන්න → අවිධිමත් (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie විධිමත් කරන්නා"
+  },
+  "floatingCardLoading": {
+    "message": "පරිවර්තනය කරමින්..."
+  },
+  "floatingReplaceButton": {
+    "message": "තේරීම ප්‍රතිස්ථාපනය කරන්න"
+  },
+  "floatingCopyButton": {
+    "message": "පිටපත් කරන්න"
+  },
+  "floatingCopiedButton": {
+    "message": "පිටපත් කරන ලදී!"
+  },
+  "floatingDismissButton": {
+    "message": "ඉවත් කරන්න"
+  },
+  "floatingRetryButton": {
+    "message": "නැවත උත්සාහ කරන්න"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "පරිවර්තන ඉතිහාසය"
+  },
+  "historyClearButton": {
+    "message": "ඉතිහාසය හිස් කරන්න"
+  },
+  "historyRestoreButton": {
+    "message": "ප්‍රතිසාධනය"
+  },
+  "historyEmpty": {
+    "message": "තවමත් පරිවර්තන නොමැත."
+  },
+  "historyModeLabel": {
+    "message": "ප්‍රකාරය:"
+  },
+  "historyIntensityLabel": {
+    "message": "තීව්‍රතාවය:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "සම්මත"
+  },
+  "historyIntensityPolished": {
+    "message": "ඔප දැමූ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "දැඩි සංස්ථාපිත"
+  },
+  "diffToggleButton": {
+    "message": "වෙනස පෙන්වන්න"
+  },
+  "diffToggleButtonOff": {
+    "message": "වෙනස සඟවන්න"
+  },
+  "diffInputLabel": {
+    "message": "මුල්"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API යතුර පෙන්වන්න"
+  },
+  "ariaHidePassword": {
+    "message": "API ��තුර සඟවන්න"
+  },
+  "ariaConvertButton": {
+    "message": "පෙළ පරිවර්තනය කරන්න"
+  },
+  "ariaCopyOutput": {
+    "message": "ප්‍රතිදානය ක්ලිප්බෝඩ් වෙත පිටපත් කරන්න"
+  },
+  "ariaClearAll": {
+    "message": "ආදානය සහ ප්‍රතිදානය හිස් කරන්න"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "ටොගල් ඉතිහාස පැනලය"
+  },
+  "keyStatusPresent": {
+    "message": "API යතුර සුරකින ලදී"
+  },
+  "keyStatusMissing": {
+    "message": "API යතුරක් සුරකින ලදී"
+  },
+  "converting": {
+    "message": "පරිවර්තනය වෙමින්..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

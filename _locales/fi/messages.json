@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Muunna saksankielinen teksti epävirallisen (Du) ja virallisen (Sie) rekisterin välillä käyttämällä Claude AI:tä."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Syöte"
+  },
+  "outputLabel": {
+    "message": "Lähtö"
+  },
+  "inputPlaceholder": {
+    "message": "Liitä tai kirjoita saksankielinen teksti tähän…"
+  },
+  "outputPlaceholder": {
+    "message": "Muunnettu teksti näkyy tässä…"
+  },
+  "convertButton": {
+    "message": "Muuntaa"
+  },
+  "copyButton": {
+    "message": "Kopioida"
+  },
+  "copiedButton": {
+    "message": "Kopioitu!"
+  },
+  "clearButton": {
+    "message": "Selkeä"
+  },
+  "openSidePanelButton": {
+    "message": "Avaa sivupaneelissa"
+  },
+  "settingsTitle": {
+    "message": "Asetukset"
+  },
+  "apiKeyLabel": {
+    "message": "Antrooppinen API-avain"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Show"
+  },
+  "hideKeyButton": {
+    "message": "Piilottaa"
+  },
+  "saveKeyButton": {
+    "message": "Tallenna avain"
+  },
+  "keySavedConfirm": {
+    "message": "Avain tallennettu:"
+  },
+  "testKeyButton": {
+    "message": "Testi avain"
+  },
+  "testKeyValid": {
+    "message": "✓ Voimassa"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Virheellinen"
+  },
+  "testKeyTesting": {
+    "message": "Testaus…"
+  },
+  "modelLabel": {
+    "message": "Malli"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Äänen voimakkuus"
+  },
+  "toneStandard": {
+    "message": "Vakio"
+  },
+  "tonePolished": {
+    "message": "Kiiltävä"
+  },
+  "toneStrictCorporate": {
+    "message": "Tiukka yritys"
+  },
+  "noApiKeyWarning": {
+    "message": "API-avainta ei ole tallennettu. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Asetukset"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Tämä teksti ei välttämättä ole saksaksi. "
+  },
+  "charactersCount": {
+    "message": "$count$ merkkiä",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Virheellinen API-avain. "
+  },
+  "errorRateLimit": {
+    "message": "Hintaraja saavutettu. "
+  },
+  "errorApiServer": {
+    "message": "Antrooppinen API-virhe. "
+  },
+  "errorNetwork": {
+    "message": "Verkkovirhe. "
+  },
+  "errorUnknown": {
+    "message": "Tapahtui odottamaton virhe. "
+  },
+  "errorNoKey": {
+    "message": "API-avainta ei ole määritetty. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Muunna valinta → muodollinen (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Muunna valinta → epävirallinen (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Muunnetaan…"
+  },
+  "floatingReplaceButton": {
+    "message": "Korvaa valinta"
+  },
+  "floatingCopyButton": {
+    "message": "Kopioida"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopioitu!"
+  },
+  "floatingDismissButton": {
+    "message": "Hylkää"
+  },
+  "floatingRetryButton": {
+    "message": "Yritä uudelleen"
+  },
+  "floatingErrorPrefix": {
+    "message": "Virhe:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Tämän sivun tekstiä ei voi korvata. "
+  },
+  "historyTitle": {
+    "message": "Tuloshistoria"
+  },
+  "historyClearButton": {
+    "message": "Tyhjennä historia"
+  },
+  "historyRestoreButton": {
+    "message": "Palauttaa"
+  },
+  "historyEmpty": {
+    "message": "Ei muunnoksia vielä."
+  },
+  "historyModeLabel": {
+    "message": "Tila:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensiteetti:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Vakio"
+  },
+  "historyIntensityPolished": {
+    "message": "Kiiltävä"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Tiukka yritys"
+  },
+  "diffToggleButton": {
+    "message": "Näytä ero"
+  },
+  "diffToggleButtonOff": {
+    "message": "Piilota ero"
+  },
+  "diffInputLabel": {
+    "message": "Alkuperäinen"
+  },
+  "diffOutputLabel": {
+    "message": "Muunnettu"
+  },
+  "ariaSettingsToggle": {
+    "message": "Vaihda asetuspaneelia"
+  },
+  "ariaShowPassword": {
+    "message": "Näytä API-avain"
+  },
+  "ariaHidePassword": {
+    "message": "Piilota API-avain"
+  },
+  "ariaConvertButton": {
+    "message": "Muunna tekstiä"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopioi tuloste leikepöydälle"
+  },
+  "ariaClearAll": {
+    "message": "Tyhjennä sisääntulo ja lähtö"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Avaa koko työtila sivupaneelissa"
+  },
+  "ariaDiffToggle": {
+    "message": "Vaihda eronäkymää"
+  },
+  "ariaHistoryToggle": {
+    "message": "Vaihda historiapaneeli"
+  },
+  "keyStatusPresent": {
+    "message": "API-avain on tallennettu"
+  },
+  "keyStatusMissing": {
+    "message": "API-avainta ei ole tallennettu"
+  },
+  "converting": {
+    "message": "Muunnetaan…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – työtila"
+  }
+}

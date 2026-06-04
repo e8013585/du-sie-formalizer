@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Embohasa jehaipyre alemán registro informal (Du) ha formal (Sie) apytépe ojeporúvo Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Eike"
+  },
+  "outputLabel": {
+    "message": "Osẽ"
+  },
+  "inputPlaceholder": {
+    "message": "Emboja térã ehai alemán jehaipyre ko’ápe..."
+  },
+  "outputPlaceholder": {
+    "message": "Ojehecháta jehaipyre oñembohasáva ko’ápe..."
+  },
+  "convertButton": {
+    "message": "Embohasa"
+  },
+  "copyButton": {
+    "message": "Embohasa"
+  },
+  "copiedButton": {
+    "message": "Ojekopia!"
+  },
+  "clearButton": {
+    "message": "Emopotĩ"
+  },
+  "openSidePanelButton": {
+    "message": "Eipe’a Panel Lateral-pe"
+  },
+  "settingsTitle": {
+    "message": "Ñemboheko"
+  },
+  "apiKeyLabel": {
+    "message": "API Antrópico Tecla"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Ehechauka"
+  },
+  "hideKeyButton": {
+    "message": "Oñomi"
+  },
+  "saveKeyButton": {
+    "message": "Ñeñongatu Tecla"
+  },
+  "keySavedConfirm": {
+    "message": "Tecla oñeñongatu:"
+  },
+  "testKeyButton": {
+    "message": "Tecla de prueba"
+  },
+  "testKeyValid": {
+    "message": "✓ Oĩva"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ndojejapóiva"
+  },
+  "testKeyTesting": {
+    "message": "Prueba..."
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tono Intensidad"
+  },
+  "toneStandard": {
+    "message": "Estándar"
+  },
+  "tonePolished": {
+    "message": "Ojepoli"
+  },
+  "toneStrictCorporate": {
+    "message": "Estricto Corporativo"
+  },
+  "noApiKeyWarning": {
+    "message": "Ndaipóri clave API oñeñongatúva. Emoinge ne ryru API Antropic"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ñemboheko"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "pe ko jehaipyre ikatu ndaha’éi alemán-pe. Umi mba’ekuaarã ikatu naiporãi."
+  },
+  "charactersCount": {
+    "message": "$count$ karameg̃ua",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API clave ndoikóiva. Ehecháke ne llave Ñembohekorãme."
+  },
+  "errorRateLimit": {
+    "message": "Ohupyty límite de tasa. Eha’arõ ha eñeha’�� jey."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API jejavy. Eñeha’ã jey upe rire."
+  },
+  "errorNetwork": {
+    "message": "Red jejavy. Ehecháke ne joaju."
+  },
+  "errorUnknown": {
+    "message": "Oiko peteĩ jejavy oñeha’arõ’ỹva. Eñeha’ã jey."
+  },
+  "errorNoKey": {
+    "message": "Ndaipóri API clave oñembohekopyréva. Emoĩ ne llave Ñembohekorãme."
+  },
+  "contextMenuRoot": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "contextMenuToSie": {
+    "message": "Embohasa jeporavo → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Embohasa jeporavo → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Formalizador Du↔Sie"
+  },
+  "floatingCardLoading": {
+    "message": "Embohasa..."
+  },
+  "floatingReplaceButton": {
+    "message": "Emyengovia Jeporavo"
+  },
+  "floatingCopyButton": {
+    "message": "Ojekopia"
+  },
+  "floatingCopiedButton": {
+    "message": "Ojekopia!"
+  },
+  "floatingDismissButton": {
+    "message": "Oñemboyke"
+  },
+  "floatingRetryButton": {
+    "message": "Eñeha’ã jey"
+  },
+  "floatingErrorPrefix": {
+    "message": "Ojejavy:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ndaikatúi oñemyengovia jehaipyre ko página-pe. Emboguejy hendaguépe."
+  },
+  "historyTitle": {
+    "message": "Ñembohape rembiasakue"
+  },
+  "historyClearButton": {
+    "message": "Emopotĩ tembiasakue"
+  },
+  "historyRestoreButton": {
+    "message": "Emoĩjey"
+  },
+  "historyEmpty": {
+    "message": "Ndaipóri gueteri ñemoambue."
+  },
+  "historyModeLabel": {
+    "message": "Modo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Imbarete:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Estándar"
+  },
+  "historyIntensityPolished": {
+    "message": "Ojepoli"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Estricto Corporativo"
+  },
+  "diffToggleButton": {
+    "message": "Ehechauka Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Oñomi Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Oñemoambue"
+  },
+  "ariaSettingsToggle": {
+    "message": "Oñemoambue ñemboheko panel"
+  },
+  "ariaShowPassword": {
+    "message": "Ehechauka API tecla"
+  },
+  "ariaHidePassword": {
+    "message": "Emokañy API tecla"
+  },
+  "ariaConvertButton": {
+    "message": "Embohasa jehaipyre"
+  },
+  "ariaCopyOutput": {
+    "message": "Ekopia osëva portapapeles-pe"
+  },
+  "ariaClearAll": {
+    "message": "Emopotĩ jeike ha osëva"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Eipeꞌa tembiapo renda tuichakue panel lateral-pe"
+  },
+  "ariaDiffToggle": {
+    "message": "Embohasa joavy jehechauka"
+  },
+  "ariaHistoryToggle": {
+    "message": "Oñemoambue hag̃ua tembiasakue panel"
+  },
+  "keyStatusPresent": {
+    "message": "API clave noñeñongatu"
+  },
+  "keyStatusMissing": {
+    "message": "Ndaipóri API clave noñongatúi"
+  },
+  "converting": {
+    "message": "Oñemoambue..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Mba’apoha renda"
+  }
+}

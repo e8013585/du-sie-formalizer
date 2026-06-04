@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ব্যবহার করে অনানুষ্ঠানিক (Du) এবং আনুষ্ঠানিক (Sie) রেজিস্টারের মধ্যে জার্মান টেক্সট রূপান্তর করুন।"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ইনপুট"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "রূপান্তরিত পাঠ্য এখানে প্রদর্শিত হবে…"
+  },
+  "convertButton": {
+    "message": "রূপান্তর করুন"
+  },
+  "copyButton": {
+    "message": "কপি করুন"
+  },
+  "copiedButton": {
+    "message": "কপি করা হয়েছে!"
+  },
+  "clearButton": {
+    "message": "সাফ করুন"
+  },
+  "openSidePanelButton": {
+    "message": "সাইড প্যানেলে খুলুন"
+  },
+  "settingsTitle": {
+    "message": "সেটিংস"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "দেখান"
+  },
+  "hideKeyButton": {
+    "message": "লুকান"
+  },
+  "saveKeyButton": {
+    "message": "কী সংরক্ষণ করুন"
+  },
+  "keySavedConfirm": {
+    "message": "কী সংরক্ষিত:"
+  },
+  "testKeyButton": {
+    "message": "টেস্ট কী"
+  },
+  "testKeyValid": {
+    "message": "✓> বৈধ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "পরী���্ষা…"
+  },
+  "modelLabel": {
+    "message": "মডেল"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "টোন তীব্রতা"
+  },
+  "toneStandard": {
+    "message": "মানক"
+  },
+  "tonePolished": {
+    "message": "পলিশ"
+  },
+  "toneStrictCorporate": {
+    "message": "কঠোর কর্পোরেট"
+  },
+  "noApiKeyWarning": {
+    "message": "কোন API কী সংরক্ষিত নেই৷ অনুগ্রহ করে আপনার Anthropic API কী লিখুন"
+  },
+  "noApiKeyWarningLink": {
+    "message": "সেটিংস"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "এই পাঠ্যটি জার্মান ভাষায় নাও হতে পারে৷ ফলাফলগুলি ভুল হতে পারে৷"
+  },
+  "charactersCount": {
+    "message": "$count$ অক্ষর",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "অবৈধ API কী৷ অনুগ্রহ করে সেটিংসে আপনার কী চেক করুন৷"
+  },
+  "errorRateLimit": {
+    "message": "রেট সীমা পৌঁছে গেছে৷ অনুগ্রহ করে অপেক্ষা করুন এবং আবার চেষ্টা করুন৷"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API ত্রুটি৷ অনুগ্রহ করে পরে আবার চেষ্টা করুন৷"
+  },
+  "errorNetwork": {
+    "message": "নেটওয়ার্ক ত্রুটি৷ অনুগ্রহ করে আপনার সংযোগ পরীক্ষা করুন৷"
+  },
+  "errorUnknown": {
+    "message": "একটি অপ্রত্যাশিত ত্রুটি ঘটেছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷"
+  },
+  "errorNoKey": {
+    "message": "No API key configured. Please add your key in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "কপি"
+  },
+  "floatingCopiedButton": {
+    "message": "কপি করা হয়েছে!"
+  },
+  "floatingDismissButton": {
+    "message": "খারিজ"
+  },
+  "floatingRetryButton": {
+    "message": "পুনরায় চেষ্টা করুন"
+  },
+  "floatingErrorPrefix": {
+    "message": "ত্রুটি:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "এই পৃষ্ঠায় পাঠ্য প্রতিস্থাপন করা যাবে না। অনুগ্রহ করে এর পরিবর্তে অনুলিপি করুন।"
+  },
+  "historyTitle": {
+    "message": "রূপান্তরের ইতিহাস"
+  },
+  "historyClearButton": {
+    "message": "ইতিহাস সাফ করুন"
+  },
+  "historyRestoreButton": {
+    "message": "পুনরুদ্ধার করুন"
+  },
+  "historyEmpty": {
+    "message": "এখনও কোন রূপান্তর নেই।"
+  },
+  "historyModeLabel": {
+    "message": "মোড:"
+  },
+  "historyIntensityLabel": {
+    "message": "তীব্রতা:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "স্ট্যান্ডার্ড"
+  },
+  "historyIntensityPolished": {
+    "message": "পলিশ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "কঠোর কর্পোরেট"
+  },
+  "diffToggleButton": {
+    "message": "ডিফ দেখান"
+  },
+  "diffToggleButtonOff": {
+    "message": "ডিফ লুকান"
+  },
+  "diffInputLabel": {
+    "message": "আসল"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "এপিআই কী দেখান"
+  },
+  "ariaHidePassword": {
+    "message": "এপিআই কী লুকান"
+  },
+  "ariaConvertButton": {
+    "message": "পাঠ্য রূপান্তর করুন"
+  },
+  "ariaCopyOutput": {
+    "message": "ক্লিপবোর্ডে আউটপুট অনুলিপি করুন"
+  },
+  "ariaClearAll": {
+    "message": "ইনপুট এবং আউটপুট সাফ করুন"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "ইতিহাস প্যানেল টগল করুন"
+  },
+  "keyStatusPresent": {
+    "message": "API কী সংরক্ষিত হয়েছে"
+  },
+  "keyStatusMissing": {
+    "message": "কোন API কী সংরক্ষিত নেই"
+  },
+  "converting": {
+    "message": "রূপান্তর করা হচ্ছে…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

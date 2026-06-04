@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Tahurihia nga kupu Tiamana i waenga i te rehita opaki (Du) me te rehita okawa (Sie) ma te whakamahi i a Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Tūuru"
+  },
+  "outputLabel": {
+    "message": "Tuhinga Tuhituhi"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Tahuri"
+  },
+  "copyButton": {
+    "message": "Tārua"
+  },
+  "copiedButton": {
+    "message": "Kua Tāruatia!"
+  },
+  "clearButton": {
+    "message": "Mukua"
+  },
+  "openSidePanelButton": {
+    "message": "Tuwhera ki te Paewhiri Taha"
+  },
+  "settingsTitle": {
+    "message": "Tautuhinga"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Kī"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Whakaatu"
+  },
+  "hideKeyButton": {
+    "message": "Huna"
+  },
+  "saveKeyButton": {
+    "message": "Tiaki Kī"
+  },
+  "keySavedConfirm": {
+    "message": "Kua tiakina:"
+  },
+  "testKeyButton": {
+    "message": "Kī Whakamātautau"
+  },
+  "testKeyValid": {
+    "message": "✓ Whaimana"
+  },
+  "testKeyInvalid": {
+    "message": " He muhu"
+  },
+  "testKeyTesting": {
+    "message": "Whakamātautau…"
+  },
+  "modelLabel": {
+    "message": "Tauira"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Te Kaha oro"
+  },
+  "toneStandard": {
+    "message": "Paerewa"
+  },
+  "tonePolished": {
+    "message": "Kua whakakorikoria"
+  },
+  "toneStrictCorporate": {
+    "message": "Tauira Rawa"
+  },
+  "noApiKeyWarning": {
+    "message": "Kaore he kii API i tiakina. Whakauruhia koa to matua API Anthropic ki roto"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Tautuhinga"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Kare pea tenei tuhinga i te reo Tiamana. He hē pea nga hua."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kī API muhu. Tena koa tirohia to taviri i roto i nga Tautuhinga."
+  },
+  "errorRateLimit": {
+    "message": "Kua tae te reiti. Tatari koa ka ngana ano."
+  },
+  "errorApiServer": {
+    "message": "Hapa API Anthropic. Me ngana ano i muri mai."
+  },
+  "errorNetwork": {
+    "message": "Hapa whatunga. Tena koa tirohia to hononga."
+  },
+  "errorUnknown": {
+    "message": "I puta he hapa ohorere. Ngana ano."
+  },
+  "errorNoKey": {
+    "message": "Karekau he matua API i whirihora. Tēnā tāpirihia tō kī ki Tautuhinga."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Tārua"
+  },
+  "floatingCopiedButton": {
+    "message": "Kua Tāruatia!"
+  },
+  "floatingDismissButton": {
+    "message": "Tukuhia"
+  },
+  "floatingRetryButton": {
+    "message": "Ngana Anō"
+  },
+  "floatingErrorPrefix": {
+    "message": "Hapa:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kāore e taea te whakakapi i ngā kupu o tēnei whārangi. Tena koa kapea."
+  },
+  "historyTitle": {
+    "message": "Hītori Tahuri"
+  },
+  "historyClearButton": {
+    "message": "Mukua te Hītori"
+  },
+  "historyRestoreButton": {
+    "message": "Whakaora"
+  },
+  "historyEmpty": {
+    "message": "Kaore ano he huringa."
+  },
+  "historyModeLabel": {
+    "message": "Aratau:"
+  },
+  "historyIntensityLabel": {
+    "message": "Te Kaha:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Paerewa"
+  },
+  "historyIntensityPolished": {
+    "message": "Kua Orohia"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Kaipoipoi Tino"
+  },
+  "diffToggleButton": {
+    "message": "Whakaatu Reretanga"
+  },
+  "diffToggleButtonOff": {
+    "message": "Huna Rereke"
+  },
+  "diffInputLabel": {
+    "message": "Tauturu"
+  },
+  "diffOutputLabel": {
+    "message": "Tautuhi Tautuhinga"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Hunahia te kī API"
+  },
+  "ariaConvertButton": {
+    "message": "Tahurihia te kupu"
+  },
+  "ariaCopyOutput": {
+    "message": "Tāruahia te putanga ki te papatopenga"
+  },
+  "ariaClearAll": {
+    "message": "Whakamamahia te whakauru me te whakaputanga"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Whakatuwherahia te mokowāmahi katoa ki te paewhiri taha"
+  },
+  "ariaDiffToggle": {
+    "message": "Takahurihia te tirohanga rereke"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Kāore he kī API i tiakina"
+  },
+  "converting": {
+    "message": "Kei te huri…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Mokowāmahi"
+  }
+}

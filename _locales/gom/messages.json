@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert German text between informal (Du) and formal (Sie) register using Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "रूपांतरित करचें"
+  },
+  "copyButton": {
+    "message": "प्रत"
+  },
+  "copiedButton": {
+    "message": "प्रत केलां!"
+  },
+  "clearButton": {
+    "message": "साफ करात"
+  },
+  "openSidePanelButton": {
+    "message": "बाजू पॅनेलांत उगडात"
+  },
+  "settingsTitle": {
+    "message": "मांडावळी"
+  },
+  "apiKeyLabel": {
+    "message": "मानव एपीआय की"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "दाखोवची"
+  },
+  "hideKeyButton": {
+    "message": "लिपोवची"
+  },
+  "saveKeyButton": {
+    "message": "की जतनाय घेवची"
+  },
+  "keySavedConfirm": {
+    "message": "की जतनाय घेतली:"
+  },
+  "testKeyButton": {
+    "message": "परीक्षण की"
+  },
+  "testKeyValid": {
+    "message": "✓ वैध"
+  },
+  "testKeyInvalid": {
+    "message": "✗ अवैध"
+  },
+  "testKeyTesting": {
+    "message": "चांचणी..."
+  },
+  "modelLabel": {
+    "message": "मॉडेल"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "टोन तीव्रता"
+  },
+  "toneStandard": {
+    "message": "मानक"
+  },
+  "tonePolished": {
+    "message": "पालिश केल्ली"
+  },
+  "toneStrictCorporate": {
+    "message": "कडक कॉर्पोरेट"
+  },
+  "noApiKeyWarning": {
+    "message": "एपीआय की जतनाय घेतिल्ली ना. उपकार करून तुमची Anthropic API की"
+  },
+  "noApiKeyWarningLink": {
+    "message": "मांडावळी"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "त घालात हो मजकूर जर्मन भाशेंत नासूं येता. परिणाम अचूक आसूं येतात."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "अवैध API की. उपकार करून तुमची की मांडावळींत तपासात."
+  },
+  "errorRateLimit": {
+    "message": "दर मर्यादा पावली. उपकार करून वाट पळयात आनी परतून यत्न करात."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API त्रुटी. उपकार करून फुडें परतून यत्न करात."
+  },
+  "errorNetwork": {
+    "message": "नेटवर्क त्रुटी. उपकार करून तुमचें जोडणी तपासात."
+  },
+  "errorUnknown": {
+    "message": "अनिश्चीत त्रुटी घडली. उपकार करून परतून यत्न करात."
+  },
+  "errorNoKey": {
+    "message": "एपीआय की संरचीत करूंक ना. उपकार करून तुमची की मांडावळींनी जोडात."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "निवड रुपांतरीत करचें → औपचारीक (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "निवड रुपांतर करचें → अनौपचारीक (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "रूपांतरित करचें..."
+  },
+  "floatingReplaceButton": {
+    "message": "बदला निवड"
+  },
+  "floatingCopyButton": {
+    "message": "प्रत"
+  },
+  "floatingCopiedButton": {
+    "message": "प्रतिलिपी केल्या!"
+  },
+  "floatingDismissButton": {
+    "message": "नाकार"
+  },
+  "floatingRetryButton": {
+    "message": "पुनः प्रयत्न करात"
+  },
+  "floatingErrorPrefix": {
+    "message": "त्रु��ी:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ह्या पानाचेर मजकूर बदलूंक मेळना. उपकार करून ताचे बदला प्रत करात."
+  },
+  "historyTitle": {
+    "message": "रूपांतरण इतिहास"
+  },
+  "historyClearButton": {
+    "message": "इतिहास निवळ करात"
+  },
+  "historyRestoreButton": {
+    "message": "पुनर्स्थापित करात"
+  },
+  "historyEmpty": {
+    "message": "अजुनूय रुपांतरां नात."
+  },
+  "historyModeLabel": {
+    "message": "मोड:"
+  },
+  "historyIntensityLabel": {
+    "message": "तीव्रता:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → दु"
+  },
+  "historyIntensityStandard": {
+    "message": "मानक"
+  },
+  "historyIntensityPolished": {
+    "message": "पालिश"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "कडक कॉर्पोरेट"
+  },
+  "diffToggleButton": {
+    "message": "भेद दाखोवचो"
+  },
+  "diffToggleButtonOff": {
+    "message": "भेद लिपोवचो"
+  },
+  "diffInputLabel": {
+    "message": "मूळ"
+  },
+  "diffOutputLabel": {
+    "message": "रूपांतरित"
+  },
+  "ariaSettingsToggle": {
+    "message": "सेटिंगां टॉगल panel"
+  },
+  "ariaShowPassword": {
+    "message": "एपीआय की दाखोवची"
+  },
+  "ariaHidePassword": {
+    "message": "एपीआय की लिपोवची"
+  },
+  "ariaConvertButton": {
+    "message": "मजकूर रुपांतरीत करची"
+  },
+  "ariaCopyOutput": {
+    "message": "उत्पादन क्लिपबोर्डाचेर कॉपी करचें"
+  },
+  "ariaClearAll": {
+    "message": "इनपुट आनी आउटपुट निवळ करचें"
+  },
+  "ariaOpenSidePanel": {
+    "message": "बाजू पॅनेलांत पुराय कार्यक्षेत्र उगडात"
+  },
+  "ariaDiffToggle": {
+    "message": "वेगळें दृश्य टॉगल करचें"
+  },
+  "ariaHistoryToggle": {
+    "message": "इतिहास इतिहास करपाक पॅनल"
+  },
+  "keyStatusPresent": {
+    "message": "API की जतनाय घेतल्या"
+  },
+  "keyStatusMissing": {
+    "message": "एपीआय की जतनाय घेतिल्ली ना"
+  },
+  "converting": {
+    "message": "रूपांतरित करप..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

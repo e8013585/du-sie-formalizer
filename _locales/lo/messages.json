@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "ປ່ຽນຂໍ້ຄວາມເຢຍລະມັນລະຫວ່າງການລົງທະບຽນທີ່ບໍ່ເປັນທາງການ (Du) ແລະຢ່າງເປັນທາງການ (Sie) ໂດຍໃຊ້ Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output text"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "ສຳເນົາ"
+  },
+  "copiedButton": {
+    "message": "ສຳເນົາແລ້ວ!"
+  },
+  "clearButton": {
+    "message": "ລຶບລ້າງ"
+  },
+  "openSidePanelButton": {
+    "message": "ເປີດໃນແຖບດ້ານຂ້າງ"
+  },
+  "settingsTitle": {
+    "message": "ການຕັ້ງຄ່າ"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API ກະແຈ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ສະແດງ"
+  },
+  "hideKeyButton": {
+    "message": "ເຊື່ອງ"
+  },
+  "saveKeyButton": {
+    "message": "ບັນທຶກກະແຈ"
+  },
+  "keySavedConfirm": {
+    "message": "ບັນທຶກກະແຈແລ້ວ:"
+  },
+  "testKeyButton": {
+    "message": "ກະແຈທົດສອບ"
+  },
+  "testKeyValid": {
+    "message": "✓ ຖືກຕ້ອງ"
+  },
+  "testKeyInvalid": {
+    "message": " ບໍ່ຖືກຕ້ອງ"
+  },
+  "testKeyTesting": {
+    "message": "ກຳລັງທົດສອບ…"
+  },
+  "modelLabel": {
+    "message": "ຕົວແບບ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ຄວາມເຂັ້ມສຽງ"
+  },
+  "toneStandard": {
+    "message": "ມາດຕະຖານ"
+  },
+  "tonePolished": {
+    "message": "ຂັດ"
+  },
+  "toneStrictCorporate": {
+    "message": "ບໍລິສັດທີ່ເຂັ້ມງວດ"
+  },
+  "noApiKeyWarning": {
+    "message": "ບໍ່ໄດ້ບັນທຶກລະຫັດ API. ກະລຸນາໃສ່ລະຫັດ Anthropic API ຂອງທ່ານໃນ"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ການຕັ້ງຄ່າ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ຂໍ້ຄວາມນີ້ອາດຈະບໍ່ເປັນພາສາເຢຍລະມັນ. ຜົນໄດ້ຮັບອາດຈະບໍ່ຖືກຕ້ອງ."
+  },
+  "charactersCount": {
+    "message": "$count$ ຕົວອັກສອນ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ລະຫັດ API ບໍ່ຖືກຕ້ອງ. ກະລຸນາກວດເບິ່ງກະແຈຂອງທ່ານໃນການຕັ້ງຄ່າ."
+  },
+  "errorRateLimit": {
+    "message": "ເຖິງຂີດຈຳກັດອັດຕາແລ້ວ. ກະລຸນາລໍຖ້າແລ້ວລອງໃໝ່."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ."
+  },
+  "errorNetwork": {
+    "message": "ເຄືອຂ່າຍຜິດພາດ. ກະລຸນາກວດເບິ່ງການເຊື່ອມຕໍ່ຂອງທ່ານ."
+  },
+  "errorUnknown": {
+    "message": "ເກີດຄວາມຜິດພາດທີ່ບໍ່ຄາດຄິດ. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ."
+  },
+  "errorNoKey": {
+    "message": "ບໍ່ມີລະຫັດ API ທີ່ຖືກຕັ້ງຄ່າ. ກະລຸນາເພີ່ມກະແຈຂອງທ່ານໃນການຕັ້ງຄ່າ."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ປ່ຽນການເລືອກ → ຢ່າງເປັນທາງການ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ປ່ຽນການເລືອກ → ບໍ່ເປັນທາງການ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "ສຳເນົາ"
+  },
+  "floatingCopiedButton": {
+    "message": "ສຳເນົາແລ້ວ!"
+  },
+  "floatingDismissButton": {
+    "message": "ປິດໄວ້"
+  },
+  "floatingRetryButton": {
+    "message": "ລອງໃໝ່"
+  },
+  "floatingErrorPrefix": {
+    "message": "ຜິດພາດ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ບໍ່ສາມາດປ່ຽນແທນຂໍ້ຄວາມໃນໜ້ານີ້ໄດ້. ກະລຸນາສຳເນົາແທນ."
+  },
+  "historyTitle": {
+    "message": "ປະຫວັດການແປງ"
+  },
+  "historyClearButton": {
+    "message": "ປະຫວັດການລຶບ"
+  },
+  "historyRestoreButton": {
+    "message": "ກູ້ຂໍ້ມູນ"
+  },
+  "historyEmpty": {
+    "message": "ບໍ່ມີການແປງເທື່ອ."
+  },
+  "historyModeLabel": {
+    "message": "ໂໝດ:"
+  },
+  "historyIntensityLabel": {
+    "message": "ຄວາມເຂັ້ມງວດ:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ມາດຕະຖານ"
+  },
+  "historyIntensityPolished": {
+    "message": "ຂັດ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ບໍລິສັດທີ່ເຂັ້ມງວດ"
+  },
+  "diffToggleButton": {
+    "message": "ສະແດງຄວາມແຕກຕ່າງ"
+  },
+  "diffToggleButtonOff": {
+    "message": "ເຊື່ອງຄວາມແຕກຕ່າງ"
+  },
+  "diffInputLabel": {
+    "message": "ຕົ້ນສະບັບ"
+  },
+  "diffOutputLabel": {
+    "message": "ປ່ຽນແລ້ວ"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "ເຊື່ອງລະຫັດ API"
+  },
+  "ariaConvertButton": {
+    "message": "ປ່ຽນຂໍ້ຄວາມ"
+  },
+  "ariaCopyOutput": {
+    "message": "ສຳເນົາຂໍ້ມູນອອກໃສ່ຄລິບບອດ"
+  },
+  "ariaClearAll": {
+    "message": "ລຶບການປ້ອນຂ��້ມູນ ແລະ ຂໍ້ມູນອອກ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "ເປີດພື້ນທີ່ເຮັດວຽກເຕັມທີ່ໃນແຜງດ້ານຂ້າງ"
+  },
+  "ariaDiffToggle": {
+    "message": "ປຸ່ມສະຫຼັບການເບິ່ງຄວາມແຕກຕ່າງ"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "ບໍ່ໄດ້ບັນທຶກລະຫັດ API"
+  },
+  "converting": {
+    "message": "ກຳລັງປ່ຽນ…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}
