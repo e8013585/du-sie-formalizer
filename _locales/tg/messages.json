@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Бо истифода аз Клод AI матни олмониро байни феҳристи ғайрирасмӣ (Du) ва расмӣ (Sie) табдил диҳед."
+  },
+  "modeToggleDuToSie": {
+    "message": "Ду → Си"
+  },
+  "modeToggleSieToDu": {
+    "message": "Си → Ду"
+  },
+  "inputLabel": {
+    "message": "Вуруд"
+  },
+  "outputLabel": {
+    "message": "Натиҷа"
+  },
+  "inputPlaceholder": {
+    "message": "Матни олмониро дар ин ҷо часбонед ё нависед…"
+  },
+  "outputPlaceholder": {
+    "message": "Матни табдилшуда дар ин ҷо пайдо мешавад…"
+  },
+  "convertButton": {
+    "message": "Табдил додан"
+  },
+  "copyButton": {
+    "message": "Нусхабардорӣ"
+  },
+  "copiedButton": {
+    "message": "Нусхабардорӣ!"
+  },
+  "clearButton": {
+    "message": "Тоза"
+  },
+  "openSidePanelButton": {
+    "message": "Дар панели паҳлӯ кушоед"
+  },
+  "settingsTitle": {
+    "message": "Танзимотҳо"
+  },
+  "apiKeyLabel": {
+    "message": "Калиди API Anthropic"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ск-мӯрча-…"
+  },
+  "showKeyButton": {
+    "message": "Намоиш"
+  },
+  "hideKeyButton": {
+    "message": "Пинҳон кардан"
+  },
+  "saveKeyButton": {
+    "message": "Калидро захира кунед"
+  },
+  "keySavedConfirm": {
+    "message": "Калиди захирашуда:"
+  },
+  "testKeyButton": {
+    "message": "Калиди санҷиш"
+  },
+  "testKeyValid": {
+    "message": "✓ Эътибор дорад"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Беэътибор"
+  },
+  "testKeyTesting": {
+    "message": "Санҷиш…"
+  },
+  "modelLabel": {
+    "message": "Модели"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Шиддати оҳанг"
+  },
+  "toneStandard": {
+    "message": "Стандарт"
+  },
+  "tonePolished": {
+    "message": "Сайёрдашуда"
+  },
+  "toneStrictCorporate": {
+    "message": "Корпоратсияи сахт"
+  },
+  "noApiKeyWarning": {
+    "message": "Ягон калиди API захира нашудааст. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Танзимотҳо"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ин матн метавонад бо забони олмонӣ набошад. "
+  },
+  "charactersCount": {
+    "message": "$count$ аломат",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Калиди API нодуруст. "
+  },
+  "errorRateLimit": {
+    "message": "Ба ҳадди меъёр расид. "
+  },
+  "errorApiServer": {
+    "message": "Хатои API Anthropic. "
+  },
+  "errorNetwork": {
+    "message": "Хатогии шабака. "
+  },
+  "errorUnknown": {
+    "message": "Хатогии ғайричашмдошт рӯй дод. "
+  },
+  "errorNoKey": {
+    "message": "Ягон калиди API танзим карда нашудааст. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Табдил додани интихоб → расмӣ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Табдил додани интихоб → ғайрирасмӣ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Табдил дода мешавад…"
+  },
+  "floatingReplaceButton": {
+    "message": "Интихобро иваз кунед"
+  },
+  "floatingCopyButton": {
+    "message": "Нусхабардорӣ"
+  },
+  "floatingCopiedButton": {
+    "message": "Нусхабардорӣ!"
+  },
+  "floatingDismissButton": {
+    "message": "Хориҷ кардан"
+  },
+  "floatingRetryButton": {
+    "message": "Аз нав кӯшиш кунед"
+  },
+  "floatingErrorPrefix": {
+    "message": "Хатогӣ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Матни ин саҳифаро иваз кардан мумкин нест. "
+  },
+  "historyTitle": {
+    "message": "Таърихи табдил"
+  },
+  "historyClearButton": {
+    "message": "Таърихро тоза кунед"
+  },
+  "historyRestoreButton": {
+    "message": "Барқарор кардан"
+  },
+  "historyEmpty": {
+    "message": "Ҳанӯз табдил нест."
+  },
+  "historyModeLabel": {
+    "message": "Режим:"
+  },
+  "historyIntensityLabel": {
+    "message": "Шиддат:"
+  },
+  "historyModeDuToSie": {
+    "message": "Ду → Си"
+  },
+  "historyModeSieToDu": {
+    "message": "Си → Ду"
+  },
+  "historyIntensityStandard": {
+    "message": "Стандарт"
+  },
+  "historyIntensityPolished": {
+    "message": "Сайёрдашуда"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Корпоратсияи сахт"
+  },
+  "diffToggleButton": {
+    "message": "Нишон додани фарқият"
+  },
+  "diffToggleButtonOff": {
+    "message": "Пинҳон кардани фарқият"
+  },
+  "diffInputLabel": {
+    "message": "Асли"
+  },
+  "diffOutputLabel": {
+    "message": "Табдил дода шудааст"
+  },
+  "ariaSettingsToggle": {
+    "message": "Панели танзимотро иваз кунед"
+  },
+  "ariaShowPassword": {
+    "message": "Нишон додани калиди API"
+  },
+  "ariaHidePassword": {
+    "message": "Калиди API-ро пинҳон кунед"
+  },
+  "ariaConvertButton": {
+    "message": "Табдил додани матн"
+  },
+  "ariaCopyOutput": {
+    "message": "Натиҷаро ба буфер нусхабардорӣ кунед"
+  },
+  "ariaClearAll": {
+    "message": "Ворид ва баромадро тоза кунед"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Фазои пурраи корро дар панели паҳлӯ кушоед"
+  },
+  "ariaDiffToggle": {
+    "message": "Намоиши фарқиятро иваз кунед"
+  },
+  "ariaHistoryToggle": {
+    "message": "Панели таърихро иваз кунед"
+  },
+  "keyStatusPresent": {
+    "message": "Калиди API захира карда шудааст"
+  },
+  "keyStatusMissing": {
+    "message": "Ягон калиди API захира нашудааст"
+  },
+  "converting": {
+    "message": "Табдил дода мешавад…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Фазои корӣ"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du←Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI를 사용하여 비공식(Du)과 공식(Sie) 레지스터 사이에서 독일어 텍스트를 변환합니다."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "입력"
+  },
+  "outputLabel": {
+    "message": "출력"
+  },
+  "inputPlaceholder": {
+    "message": "여기에 독일어 텍스트를 붙여넣거나 입력하세요..."
+  },
+  "outputPlaceholder": {
+    "message": "변환된 텍스트는 여기에 표시됩니다…"
+  },
+  "convertButton": {
+    "message": "변환"
+  },
+  "copyButton": {
+    "message": "복사"
+  },
+  "copiedButton": {
+    "message": "복사됨!"
+  },
+  "clearButton": {
+    "message": "지우기"
+  },
+  "openSidePanelButton": {
+    "message": "측면 패널에서 열기"
+  },
+  "settingsTitle": {
+    "message": "설정"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API 키"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "표시"
+  },
+  "hideKeyButton": {
+    "message": "숨기기"
+  },
+  "saveKeyButton": {
+    "message": "키 저장"
+  },
+  "keySavedConfirm": {
+    "message": "저장된 키:"
+  },
+  "testKeyButton": {
+    "message": "테스트 키"
+  },
+  "testKeyValid": {
+    "message": "✓ 유효"
+  },
+  "testKeyInvalid": {
+    "message": "✗ 유효하지 않음"
+  },
+  "testKeyTesting": {
+    "message": "테스트 중..."
+  },
+  "modelLabel": {
+    "message": "모델"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "톤 강도"
+  },
+  "toneStandard": {
+    "message": "표준"
+  },
+  "tonePolished": {
+    "message": "세련됨"
+  },
+  "toneStrictCorporate": {
+    "message": "엄격한 기업"
+  },
+  "noApiKeyWarning": {
+    "message": "API 키가 저장되지 않았습니다. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "설정"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "에 Anthropic API 키를 입력하세요. 이 텍스트는 독일어가 아닐 수 있습니다. 결과가 정확하지 않을 수 있습니다."
+  },
+  "charactersCount": {
+    "message": "$count$자",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API 키가 잘못되었습니다. 설정에서 키를 확인하세요."
+  },
+  "errorRateLimit": {
+    "message": "비율 제한에 도달했습니다. 잠시 기다렸다가 다시 시도해 주세요."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API 오류입니다. 나중에 다시 시도해 주세요."
+  },
+  "errorNetwork": {
+    "message": "네트워크 오류입니다. 연결을 확인하세요."
+  },
+  "errorUnknown": {
+    "message": "예기치 못한 오류가 발생했습니다. 다시 시도해 주세요."
+  },
+  "errorNoKey": {
+    "message": "API 키가 구성되지 않았습니다. 설정에서 키를 추가해주세요."
+  },
+  "contextMenuRoot": {
+    "message": "Du←Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "선택변환 → 격식(Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "선택변환 → 비공식(Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du←Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "변환 중..."
+  },
+  "floatingReplaceButton": {
+    "message": "바꾸기 선택"
+  },
+  "floatingCopyButton": {
+    "message": "복사"
+  },
+  "floatingCopiedButton": {
+    "message": "복사됨!"
+  },
+  "floatingDismissButton": {
+    "message": "닫기"
+  },
+  "floatingRetryButton": {
+    "message": "다시 시도"
+  },
+  "floatingErrorPrefix": {
+    "message": "오류:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "이 페이지의 텍스트를 바꿀 수 없습니다. 대신 복사하세요."
+  },
+  "historyTitle": {
+    "message": "변환 기록"
+  },
+  "historyClearButton": {
+    "message": "기록 지우기"
+  },
+  "historyRestoreButton": {
+    "message": "복원"
+  },
+  "historyEmpty": {
+    "message": "아직 변환이 없습니다."
+  },
+  "historyModeLabel": {
+    "message": "모드:"
+  },
+  "historyIntensityLabel": {
+    "message": "강도:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "표준"
+  },
+  "historyIntensityPolished": {
+    "message": "광택"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "차이 표시"
+  },
+  "diffToggleButtonOff": {
+    "message": "차이 숨기기"
+  },
+  "diffInputLabel": {
+    "message": "원본"
+  },
+  "diffOutputLabel": {
+    "message": "변환됨"
+  },
+  "ariaSettingsToggle": {
+    "message": "설정 전환 패널"
+  },
+  "ariaShowPassword": {
+    "message": "API 키 표시"
+  },
+  "ariaHidePassword": {
+    "message": "API 키 숨기기"
+  },
+  "ariaConvertButton": {
+    "message": "텍스트 변환"
+  },
+  "ariaCopyOutput": {
+    "message": "출력을 클립보드에 복사"
+  },
+  "ariaClearAll": {
+    "message": "입력 및 출력 지우기"
+  },
+  "ariaOpenSidePanel": {
+    "message": "측면 패널에서 전체 작업공간 열기"
+  },
+  "ariaDiffToggle": {
+    "message": "차이점 보기 전환"
+  },
+  "ariaHistoryToggle": {
+    "message": "기록 전환 패널"
+  },
+  "keyStatusPresent": {
+    "message": "API 키가 저장됨"
+  },
+  "keyStatusMissing": {
+    "message": "API 키가 저장되지 않음"
+  },
+  "converting": {
+    "message": "변환 중…"
+  },
+  "sidePanelTitle": {
+    "message": "Du←Sie Formalizer – Workspace"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Ду↔Сие Формализер"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Конвертујте немачки текст између неформалног (Ду) и формалног (Сие) регистра користећи Цлауде АИ."
+  },
+  "modeToggleDuToSie": {
+    "message": "Ду → Сие"
+  },
+  "modeToggleSieToDu": {
+    "message": "Сие → Ду"
+  },
+  "inputLabel": {
+    "message": "Инпут"
+  },
+  "outputLabel": {
+    "message": "Излаз"
+  },
+  "inputPlaceholder": {
+    "message": "Овде налепите или откуцајте немачки текст..."
+  },
+  "outputPlaceholder": {
+    "message": "Конвертовани текст ће се појавити овде..."
+  },
+  "convertButton": {
+    "message": "Цонверт"
+  },
+  "copyButton": {
+    "message": "Копирај"
+  },
+  "copiedButton": {
+    "message": "Копирано!"
+  },
+  "clearButton": {
+    "message": "Јасно"
+  },
+  "openSidePanelButton": {
+    "message": "Отворите у бочној табли"
+  },
+  "settingsTitle": {
+    "message": "Подешавања"
+  },
+  "apiKeyLabel": {
+    "message": "Антропски АПИ кључ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ск-мрав-…"
+  },
+  "showKeyButton": {
+    "message": "Схов"
+  },
+  "hideKeyButton": {
+    "message": "Сакриј се"
+  },
+  "saveKeyButton": {
+    "message": "Сачувај кључ"
+  },
+  "keySavedConfirm": {
+    "message": "Кључ сачуван:"
+  },
+  "testKeyButton": {
+    "message": "Тест Кеи"
+  },
+  "testKeyValid": {
+    "message": "✓ Важи"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Неважећи"
+  },
+  "testKeyTesting": {
+    "message": "Тестирање…"
+  },
+  "modelLabel": {
+    "message": "Модел"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Интензитет тона"
+  },
+  "toneStandard": {
+    "message": "Стандард"
+  },
+  "tonePolished": {
+    "message": "Полирано"
+  },
+  "toneStrictCorporate": {
+    "message": "Стрицт Цорпорате"
+  },
+  "noApiKeyWarning": {
+    "message": "Није сачуван АПИ кључ. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Подешавања"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Овај текст можда није на немачком. "
+  },
+  "charactersCount": {
+    "message": "$цоунт$ знакова",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Неважећи АПИ кључ. "
+  },
+  "errorRateLimit": {
+    "message": "Достигнуто је ограничење стопе. "
+  },
+  "errorApiServer": {
+    "message": "Антропска грешка АПИ-ја. "
+  },
+  "errorNetwork": {
+    "message": "Мрежна грешка. "
+  },
+  "errorUnknown": {
+    "message": "Дошло је до неочекиване грешке. "
+  },
+  "errorNoKey": {
+    "message": "Није конфигурисан АПИ кључ. "
+  },
+  "contextMenuRoot": {
+    "message": "Ду↔Сие Формализер"
+  },
+  "contextMenuToSie": {
+    "message": "Претвори избор → формално (Сие)"
+  },
+  "contextMenuToDu": {
+    "message": "Претвори избор → неформално (Ду)"
+  },
+  "floatingCardTitle": {
+    "message": "Ду↔Сие Формализер"
+  },
+  "floatingCardLoading": {
+    "message": "Конвертовање…"
+  },
+  "floatingReplaceButton": {
+    "message": "Замени избор"
+  },
+  "floatingCopyButton": {
+    "message": "Копирај"
+  },
+  "floatingCopiedButton": {
+    "message": "Копирано!"
+  },
+  "floatingDismissButton": {
+    "message": "Одбаци"
+  },
+  "floatingRetryButton": {
+    "message": "Покушајте поново"
+  },
+  "floatingErrorPrefix": {
+    "message": "Грешка:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Није могуће заменити текст на овој страници. "
+  },
+  "historyTitle": {
+    "message": "Историја конверзије"
+  },
+  "historyClearButton": {
+    "message": "Обриши историју"
+  },
+  "historyRestoreButton": {
+    "message": "Ресторе"
+  },
+  "historyEmpty": {
+    "message": "Још нема конверзија."
+  },
+  "historyModeLabel": {
+    "message": "Режим:"
+  },
+  "historyIntensityLabel": {
+    "message": "Интензитет:"
+  },
+  "historyModeDuToSie": {
+    "message": "Ду → Сие"
+  },
+  "historyModeSieToDu": {
+    "message": "Сие → Ду"
+  },
+  "historyIntensityStandard": {
+    "message": "Стандард"
+  },
+  "historyIntensityPolished": {
+    "message": "Полирано"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Стрицт Цорпорате"
+  },
+  "diffToggleButton": {
+    "message": "Схов Дифф"
+  },
+  "diffToggleButtonOff": {
+    "message": "Сакриј разлику"
+  },
+  "diffInputLabel": {
+    "message": "Оригинал"
+  },
+  "diffOutputLabel": {
+    "message": "Претворено"
+  },
+  "ariaSettingsToggle": {
+    "message": "Укључите таблу са подешавањима"
+  },
+  "ariaShowPassword": {
+    "message": "Прикажи АПИ кључ"
+  },
+  "ariaHidePassword": {
+    "message": "Сакриј АПИ кључ"
+  },
+  "ariaConvertButton": {
+    "message": "Претвори текст"
+  },
+  "ariaCopyOutput": {
+    "message": "Копирајте излаз у међуспремник"
+  },
+  "ariaClearAll": {
+    "message": "Очистите улаз и излаз"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Отворите цео радни простор у бочном панелу"
+  },
+  "ariaDiffToggle": {
+    "message": "Пребаци приказ разлике"
+  },
+  "ariaHistoryToggle": {
+    "message": "Укључите таблу историје"
+  },
+  "keyStatusPresent": {
+    "message": "АПИ кључ је сачуван"
+  },
+  "keyStatusMissing": {
+    "message": "Није сачуван АПИ кључ"
+  },
+  "converting": {
+    "message": "Конвертовање…"
+  },
+  "sidePanelTitle": {
+    "message": "Ду↔Сие Формализер – Радни простор"
+  }
+}

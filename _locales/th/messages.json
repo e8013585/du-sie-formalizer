@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sieformalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "แปลงข้อความภาษาเยอรมันระหว่างการลงทะเบียนแบบไม่เป็นทางการ (Du) และแบบทางการ (Sie) โดยใช้ Claude AI"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "อินพุต"
+  },
+  "outputLabel": {
+    "message": "เอาต์พุต"
+  },
+  "inputPlaceholder": {
+    "message": "วางหรือพิมพ์ข้อความภาษาเยอรมันที่นี่…"
+  },
+  "outputPlaceholder": {
+    "message": "ข้อความที่แปลงแล้วจะปรากฏขึ้น ที่นี่…"
+  },
+  "convertButton": {
+    "message": "แปลง"
+  },
+  "copyButton": {
+    "message": "คัดลอก"
+  },
+  "copiedButton": {
+    "message": "คัดลอกแล้ว!"
+  },
+  "clearButton": {
+    "message": "ล้าง"
+  },
+  "openSidePanelButton": {
+    "message": "เปิดในแผงด้านข้าง"
+  },
+  "settingsTitle": {
+    "message": "การตั้งค่า"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API คีย์"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "แสดง"
+  },
+  "hideKeyButton": {
+    "message": "ซ่อน"
+  },
+  "saveKeyButton": {
+    "message": "บันทึกคีย์"
+  },
+  "keySavedConfirm": {
+    "message": "คีย์ที่บันทึกไว้:"
+  },
+  "testKeyButton": {
+    "message": "คีย์ทดสอบ"
+  },
+  "testKeyValid": {
+    "message": "✓ ถูกต้อง"
+  },
+  "testKeyInvalid": {
+    "message": "✗ ไม่ถูกต้อง"
+  },
+  "testKeyTesting": {
+    "message": "กำลังทดสอบ…"
+  },
+  "modelLabel": {
+    "message": "โมเดล"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ความเข้มของเสียง"
+  },
+  "toneStandard": {
+    "message": "มาตรฐาน"
+  },
+  "tonePolished": {
+    "message": "ขัดเงา"
+  },
+  "toneStrictCorporate": {
+    "message": "องค์กรที่เข้มงวด"
+  },
+  "noApiKeyWarning": {
+    "message": "ไม่ได้บันทึกคีย์ API โปรดป้อนคีย์ Anthropic API ของคุณใน"
+  },
+  "noApiKeyWarningLink": {
+    "message": "การตั้งค่า"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ข้อความนี้อาจไม่ใช่ภาษาเยอรมัน ผลลัพธ์อาจไม่ถูกต้อง"
+  },
+  "charactersCount": {
+    "message": "อักขระ $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "คีย์ API ไม่ถูกต้อง โปรดตรวจสอบรหัสของคุณในการตั้งค่า"
+  },
+  "errorRateLimit": {
+    "message": "ถึงขีดจำกัดอัตราแล้ว โปรดรอและลองอีกครั้ง"
+  },
+  "errorApiServer": {
+    "message": "ข้อผิดพลาด Anthropic API โปรดลองอีกครั้งในภายหลัง"
+  },
+  "errorNetwork": {
+    "message": "ข้อผิดพลาดของเครือข่าย โปรดตรวจสอบการเชื่อมต่อของคุณ"
+  },
+  "errorUnknown": {
+    "message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้ง"
+  },
+  "errorNoKey": {
+    "message": "ไม่มีการกำหนดค่าคีย์ API โปรดเพิ่มรหัสของคุณในการตั้งค่า"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sieformalizer"
+  },
+  "contextMenuToSie": {
+    "message": "แปลงการเลือก → เป็นทางการ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "แปลงการเลือก → ไม่เป็นทางการ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sieformalizer"
+  },
+  "floatingCardLoading": {
+    "message": "กำลังแปลง..."
+  },
+  "floatingReplaceButton": {
+    "message": "แทนที่ การเลือก"
+  },
+  "floatingCopyButton": {
+    "message": "คัดลอก"
+  },
+  "floatingCopiedButton": {
+    "message": "คัดลอกแล้ว!"
+  },
+  "floatingDismissButton": {
+    "message": "ยกเลิก"
+  },
+  "floatingRetryButton": {
+    "message": "ลอง���ีกครั้ง"
+  },
+  "floatingErrorPrefix": {
+    "message": "ข้อผิดพลาด:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ไม่สามารถแทนที่ข้อความในหน้านี้ โปรดคัดลอกแทน"
+  },
+  "historyTitle": {
+    "message": "ประวัติ Conversion"
+  },
+  "historyClearButton": {
+    "message": "ล้างประวัติ"
+  },
+  "historyRestoreButton": {
+    "message": "กู้คืน"
+  },
+  "historyEmpty": {
+    "message": "ยังไม่มี Conversion"
+  },
+  "historyModeLabel": {
+    "message": "โหมด:"
+  },
+  "historyIntensityLabel": {
+    "message": "ความเข้ม:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "มาตรฐาน"
+  },
+  "historyIntensityPolished": {
+    "message": "ขัดเงา"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "องค์กรที่เข้มงวด"
+  },
+  "diffToggleButton": {
+    "message": "แสดงความแตกต่าง"
+  },
+  "diffToggleButtonOff": {
+    "message": "ซ่อนความแตกต่าง"
+  },
+  "diffInputLabel": {
+    "message": "ดั้งเดิม"
+  },
+  "diffOutputLabel": {
+    "message": "แปลงแล้ว"
+  },
+  "ariaSettingsToggle": {
+    "message": "แผงการตั้งค่าสลับ"
+  },
+  "ariaShowPassword": {
+    "message": "แสดง API คีย์"
+  },
+  "ariaHidePassword": {
+    "message": "ซ่อนคีย์ API"
+  },
+  "ariaConvertButton": {
+    "message": "แปลงข้อความ"
+  },
+  "ariaCopyOutput": {
+    "message": "คัดลอกเอาต์พุตไปยังคลิปบอร์ด"
+  },
+  "ariaClearAll": {
+    "message": "ล้างอินพุตและเอาต์พุต"
+  },
+  "ariaOpenSidePanel": {
+    "message": "เปิดพื้นที่ทำงานแบบเต็มในแผงด้านข้าง"
+  },
+  "ariaDiffToggle": {
+    "message": "สลับมุมมองต่าง"
+  },
+  "ariaHistoryToggle": {
+    "message": "แผงสลับประวัติ"
+  },
+  "keyStatusPresent": {
+    "message": "คีย์ API คือ บันทึกแล้ว"
+  },
+  "keyStatusMissing": {
+    "message": "ไม่มีคีย์ API ที่บันทึกไว้"
+  },
+  "converting": {
+    "message": "กำลังแปลง..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sieformalizer – พื้นที่ทำงาน"
+  }
+}

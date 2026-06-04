@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "המר טקסט גרמני בין רישום לא רשמי (Du) לרשמי (Sie) באמצעות קלוד AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "דו → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "קֶלֶט"
+  },
+  "outputLabel": {
+    "message": "תְפוּקָה"
+  },
+  "inputPlaceholder": {
+    "message": "הדבק או הקלד טקסט גרמני כאן..."
+  },
+  "outputPlaceholder": {
+    "message": "טקסט שהומר יופיע כאן..."
+  },
+  "convertButton": {
+    "message": "לְהַמִיר"
+  },
+  "copyButton": {
+    "message": "לְהַעְתִיק"
+  },
+  "copiedButton": {
+    "message": "מוּעֲתָק!"
+  },
+  "clearButton": {
+    "message": "בָּרוּר"
+  },
+  "openSidePanelButton": {
+    "message": "פתח בלוח הצד"
+  },
+  "settingsTitle": {
+    "message": "הגדרות"
+  },
+  "apiKeyLabel": {
+    "message": "מפתח API אנתרופי"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "לְהַצִיג"
+  },
+  "hideKeyButton": {
+    "message": "לְהַסתִיר"
+  },
+  "saveKeyButton": {
+    "message": "מפתח שמור"
+  },
+  "keySavedConfirm": {
+    "message": "המפתח נשמר:"
+  },
+  "testKeyButton": {
+    "message": "מפתח בדיקה"
+  },
+  "testKeyValid": {
+    "message": "✓ תקף"
+  },
+  "testKeyInvalid": {
+    "message": "✗ לא חוקי"
+  },
+  "testKeyTesting": {
+    "message": "בּוֹחֵן…"
+  },
+  "modelLabel": {
+    "message": "דֶגֶם"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "עוצמת הטון"
+  },
+  "toneStandard": {
+    "message": "תֶקֶן"
+  },
+  "tonePolished": {
+    "message": "מְלוּטָשׁ"
+  },
+  "toneStrictCorporate": {
+    "message": "תאגיד קפדני"
+  },
+  "noApiKeyWarning": {
+    "message": "לא נשמר מפתח API. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "הגדרות"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ייתכן שהטקסט הזה אינו בגרמנית. "
+  },
+  "charactersCount": {
+    "message": "$count$ תווים",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "מפתח API לא חוקי. "
+  },
+  "errorRateLimit": {
+    "message": "הגעת למגבלת התעריף. "
+  },
+  "errorApiServer": {
+    "message": "שגיאת API אנתרופית. "
+  },
+  "errorNetwork": {
+    "message": "שגיאת רשת. "
+  },
+  "errorUnknown": {
+    "message": "אירעה שגיאה בלתי צפויה. "
+  },
+  "errorNoKey": {
+    "message": "לא הוגדר מפתח API. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "המרת בחירה → פורמלית (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "המר בחירה → לא פורמלי (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "ממיר..."
+  },
+  "floatingReplaceButton": {
+    "message": "החלף בחירה"
+  },
+  "floatingCopyButton": {
+    "message": "לְהַעְתִיק"
+  },
+  "floatingCopiedButton": {
+    "message": "מוּעֲתָק!"
+  },
+  "floatingDismissButton": {
+    "message": "לְפַטֵר"
+  },
+  "floatingRetryButton": {
+    "message": "נסה שוב"
+  },
+  "floatingErrorPrefix": {
+    "message": "שְׁגִיאָה:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "לא ניתן להחליף טקסט בדף זה. "
+  },
+  "historyTitle": {
+    "message": "היסטוריית המרות"
+  },
+  "historyClearButton": {
+    "message": "נקה היסטוריה"
+  },
+  "historyRestoreButton": {
+    "message": "לְשַׁחְזֵר"
+  },
+  "historyEmpty": {
+    "message": "עדיין אין המרות."
+  },
+  "historyModeLabel": {
+    "message": "מצב:"
+  },
+  "historyIntensityLabel": {
+    "message": "עָצמָה:"
+  },
+  "historyModeDuToSie": {
+    "message": "דו → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "תֶקֶן"
+  },
+  "historyIntensityPolished": {
+    "message": "מְלוּטָשׁ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "תאגיד קפדני"
+  },
+  "diffToggleButton": {
+    "message": "הצג הבדל"
+  },
+  "diffToggleButtonOff": {
+    "message": "הסתר הבדל"
+  },
+  "diffInputLabel": {
+    "message": "מְקוֹרִי"
+  },
+  "diffOutputLabel": {
+    "message": "הומר"
+  },
+  "ariaSettingsToggle": {
+    "message": "החלף את חלונית ההגדרות"
+  },
+  "ariaShowPassword": {
+    "message": "הצג מפתח API"
+  },
+  "ariaHidePassword": {
+    "message": "הסתר מפתח API"
+  },
+  "ariaConvertButton": {
+    "message": "המר טקסט"
+  },
+  "ariaCopyOutput": {
+    "message": "העתק פלט ללוח"
+  },
+  "ariaClearAll": {
+    "message": "נקה קלט ופלט"
+  },
+  "ariaOpenSidePanel": {
+    "message": "פתח סביבת עבודה מלאה בלוח הצד"
+  },
+  "ariaDiffToggle": {
+    "message": "החלף את תצוגת הבדל"
+  },
+  "ariaHistoryToggle": {
+    "message": "החלף את חלונית ההיסטוריה"
+  },
+  "keyStatusPresent": {
+    "message": "מפתח API נשמר"
+  },
+  "keyStatusMissing": {
+    "message": "לא נשמר מפתח API"
+  },
+  "converting": {
+    "message": "ממיר..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – סביבת עבודה"
+  }
+}

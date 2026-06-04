@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "క్లాడ్ AIని ఉపయోగించి జర్మన్ టెక్స్ట్‌ని అనధికారిక (Du) మరియు ఫార్మల్ (Sie) రిజిస్టర్‌ల మధ్య మార్చండి."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "మార్పిడి చేసిన వచనం ఇక్కడ కనిపిస్తుంది…"
+  },
+  "convertButton": {
+    "message": "మార్చు"
+  },
+  "copyButton": {
+    "message": "కాపీ"
+  },
+  "copiedButton": {
+    "message": "కాపీ చేయబడింది!"
+  },
+  "clearButton": {
+    "message": "క్లియర్"
+  },
+  "openSidePanelButton": {
+    "message": "సైడ్ ప్యానెల్‌లో తెరవండి"
+  },
+  "settingsTitle": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "apiKeyLabel": {
+    "message": " కీ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "షో"
+  },
+  "hideKeyButton": {
+    "message": "దాచు"
+  },
+  "saveKeyButton": {
+    "message": "కీని సేవ్ చేయి"
+  },
+  "keySavedConfirm": {
+    "message": "కీ సేవ్ చేయబడింది:"
+  },
+  "testKeyButton": {
+    "message": "పరీక్ష కీ"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "పరీక్షిస్తోంది..."
+  },
+  "modelLabel": {
+    "message": "మోడల్"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "టోన్ ఇంటెన్సిటీ"
+  },
+  "toneStandard": {
+    "message": "స్టాండర్డ్"
+  },
+  "tonePolished": {
+    "message": "పాలిష్ చేయబడింది"
+  },
+  "toneStrictCorporate": {
+    "message": "స్ట్రిక్ట్ కార్పొరేట్"
+  },
+  "noApiKeyWarning": {
+    "message": "API కీ సేవ్ చేయబడలేదు. దయచేసి మీ ఆంత్రోపిక్ API కీని"
+  },
+  "noApiKeyWarningLink": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "లో నమోదు చేయండి ఈ వచనం జర్మన్‌లో ఉండకపోవచ్చు. ఫలితాలు తప్పుగా ఉండవచ్చు."
+  },
+  "charactersCount": {
+    "message": "$count$ అక్షరాలు",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "చెల్లని API కీ. దయచేసి సెట్టింగ్‌లలో మీ కీని తనిఖీ చేయండి."
+  },
+  "errorRateLimit": {
+    "message": "రేట్ పరిమితిని చేరుకున్నారు. దయచేసి వేచి ఉండి, మళ్లీ ప్రయత్నించండి."
+  },
+  "errorApiServer": {
+    "message": "ఆంత్రోపిక్ API లోపం. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి."
+  },
+  "errorNetwork": {
+    "message": "నెట్‌వర్క్ లోపం. దయచేసి మీ కనెక్షన్‌ని ���నిఖీ చేయండి."
+  },
+  "errorUnknown": {
+    "message": "ఒక ఊహించని లోపం సంభవించింది. దయచేసి మళ్లీ ప్రయత్నించండి."
+  },
+  "errorNoKey": {
+    "message": "API కీ ఏదీ కాన్ఫిగర్ చేయబడలేదు. దయచేసి సెట్టింగ్‌లలో మీ కీని జోడించండి."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ఎంపికను మార్చండి → అధికారిక (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ఎంపికను మార్చండి → అనధికారిక (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie ఫార్మలైజర్"
+  },
+  "floatingCardLoading": {
+    "message": "మార్పిడి చేస్తోంది..."
+  },
+  "floatingReplaceButton": {
+    "message": "ఎంపికను పునఃస్థాపించుము"
+  },
+  "floatingCopyButton": {
+    "message": "కాపీ"
+  },
+  "floatingCopiedButton": {
+    "message": "కాపీ చేయబడింది!"
+  },
+  "floatingDismissButton": {
+    "message": "తొలగించు"
+  },
+  "floatingRetryButton": {
+    "message": "మళ్లీ ప్రయత్నించండి"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "మార్పిడి చరిత్ర"
+  },
+  "historyClearButton": {
+    "message": "చరిత్రను క్లియర్ చేయండి"
+  },
+  "historyRestoreButton": {
+    "message": "పునరుద్ధరించండి"
+  },
+  "historyEmpty": {
+    "message": "ఇంకా మార్పిడులు లేవు."
+  },
+  "historyModeLabel": {
+    "message": "మోడ్:"
+  },
+  "historyIntensityLabel": {
+    "message": "తీవ్రత:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ప్రామాణిక"
+  },
+  "historyIntensityPolished": {
+    "message": "పాలిష్ చేయబడింది"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "కఠినమైన కార్పొరేట్"
+  },
+  "diffToggleButton": {
+    "message": "వ్యత్యాసాన్ని చూపు"
+  },
+  "diffToggleButtonOff": {
+    "message": "వ్యత్యాసాన్ని దాచిపెట్టు"
+  },
+  "diffInputLabel": {
+    "message": "అసలు"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API కీని చూపు"
+  },
+  "ariaHidePassword": {
+    "message": "API కీని దాచిపెట్టు"
+  },
+  "ariaConvertButton": {
+    "message": "టెక్స్ట్‌ని మార్చు"
+  },
+  "ariaCopyOutput": {
+    "message": "అవుట్‌పుట్‌ను క్లిప్‌బోర్డ్‌కి కాపీ చేయండి"
+  },
+  "ariaClearAll": {
+    "message": "ఇన్‌పుట్ మరియు అవుట్‌పుట్‌ను క్లియర్ చేయండి"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "టోగుల్ హిస్టరీ ప్యానెల్"
+  },
+  "keyStatusPresent": {
+    "message": "API కీ సేవ్ చేయబడింది"
+  },
+  "keyStatusMissing": {
+    "message": "API కీ సేవ్ చేయబడలేదు"
+  },
+  "converting": {
+    "message": "మార్పిడి చేస్తోంది..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

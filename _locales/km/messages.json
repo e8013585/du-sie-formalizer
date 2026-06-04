@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "បំប្លែងអត្ថបទអាល្លឺម៉ង់រវាងការចុះឈ្មោះក្រៅផ្លូវការ (Du) និងផ្លូវការ (Sie) ដោយប្រើ Claude AI ។"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "ស៊ី → ឌូ"
+  },
+  "inputLabel": {
+    "message": "បញ្ចូល"
+  },
+  "outputLabel": {
+    "message": "ទិន្នផល"
+  },
+  "inputPlaceholder": {
+    "message": "បិទភ្ជាប់ ឬវាយអត្ថបទអាល្លឺម៉ង់នៅទីនេះ..."
+  },
+  "outputPlaceholder": {
+    "message": "អត្ថបទដែលបានបំប្លែងនឹងបង្ហាញនៅទីនេះ…"
+  },
+  "convertButton": {
+    "message": "បម្លែង"
+  },
+  "copyButton": {
+    "message": "ចម្លង"
+  },
+  "copiedButton": {
+    "message": "ចម្លង!"
+  },
+  "clearButton": {
+    "message": "ច្បាស់"
+  },
+  "openSidePanelButton": {
+    "message": "បើកនៅក្នុងបន្ទះចំហៀង"
+  },
+  "settingsTitle": {
+    "message": "ការកំណត់"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "បង្ហាញ"
+  },
+  "hideKeyButton": {
+    "message": "លាក់"
+  },
+  "saveKeyButton": {
+    "message": "រក្សាទុកសោ"
+  },
+  "keySavedConfirm": {
+    "message": "បានរក្សាទុកសោ៖"
+  },
+  "testKeyButton": {
+    "message": "គន្លឹះសាកល្បង"
+  },
+  "testKeyValid": {
+    "message": "✓ មានសុពលភាព"
+  },
+  "testKeyInvalid": {
+    "message": "✗ មិនត្រឹមត្រូវ"
+  },
+  "testKeyTesting": {
+    "message": "ការធ្វើតេស្ត…"
+  },
+  "modelLabel": {
+    "message": "គំរូ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "អាំងតង់ស៊ីតេនៃសម្លេង"
+  },
+  "toneStandard": {
+    "message": "ស្តង់ដារ"
+  },
+  "tonePolished": {
+    "message": "ប៉ូឡូញ"
+  },
+  "toneStrictCorporate": {
+    "message": "សាជីវកម្មតឹងរ៉ឹង"
+  },
+  "noApiKeyWarning": {
+    "message": "គ្មានសោ API ត្រូវបានរក្សាទុកទេ។ "
+  },
+  "noApiKeyWarningLink": {
+    "message": "ការកំណត់"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "អត្ថបទនេះប្រហែលជាមិនមែនជាភាសាអាល្លឺម៉ង់ទេ។ "
+  },
+  "charactersCount": {
+    "message": "$count$ តួអក្សរ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "សោ API មិនត្រឹមត្រូវ។ "
+  },
+  "errorRateLimit": {
+    "message": "ឈានដល់ដែនកំណត់អត្រា។ "
+  },
+  "errorApiServer": {
+    "message": "កំហុស Anthropic API ។ "
+  },
+  "errorNetwork": {
+    "message": "កំហុសបណ្តាញ។ "
+  },
+  "errorUnknown": {
+    "message": "កំហុសដែលមិនបានរំពឹងទុកបានកើតឡើង។ "
+  },
+  "errorNoKey": {
+    "message": "មិនមានការកំណត់រចនាសម្ព័ន្ធសោ API ទេ។ "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "បំប្លែងការជ្រើសរើស → ផ្លូវការ (ស៊ី)"
+  },
+  "contextMenuToDu": {
+    "message": "បម្លែងការជ្រើសរើស → ក្រៅផ្លូវការ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "កំពុងបំប្លែង…"
+  },
+  "floatingReplaceButton": {
+    "message": "ជំនួសការជ្រើសរើស"
+  },
+  "floatingCopyButton": {
+    "message": "ចម្លង"
+  },
+  "floatingCopiedButton": {
+    "message": "ចម្លង!"
+  },
+  "floatingDismissButton": {
+    "message": "ច្រានចោល"
+  },
+  "floatingRetryButton": {
+    "message": "ព្យាយាមម្តងទៀត"
+  },
+  "floatingErrorPrefix": {
+    "message": "កំហុស៖"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "មិនអាចជំនួសអត្ថបទនៅលើទំព័រនេះបានទេ។ "
+  },
+  "historyTitle": {
+    "message": "ប្រវត្តិនៃការបំប្លែង"
+  },
+  "historyClearButton": {
+    "message": "ជម្រះប្រវត្តិ"
+  },
+  "historyRestoreButton": {
+    "message": "ស្តារ"
+  },
+  "historyEmpty": {
+    "message": "មិនទាន់មានការបំប្លែងទេ។"
+  },
+  "historyModeLabel": {
+    "message": "របៀប៖"
+  },
+  "historyIntensityLabel": {
+    "message": "អាំងតង់ស៊ីតេ៖"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "ស៊ី → ឌូ"
+  },
+  "historyIntensityStandard": {
+    "message": "ស្តង់ដារ"
+  },
+  "historyIntensityPolished": {
+    "message": "ប៉ូឡូញ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "សាជីវកម្មតឹងរ៉ឹង"
+  },
+  "diffToggleButton": {
+    "message": "បង្ហាញភាពខុសគ្នា"
+  },
+  "diffToggleButtonOff": {
+    "message": "លាក់ភាពខុសគ្នា"
+  },
+  "diffInputLabel": {
+    "message": "ដើម"
+  },
+  "diffOutputLabel": {
+    "message": "បំប្លែង"
+  },
+  "ariaSettingsToggle": {
+    "message": "បិទបើកផ្ទាំងការកំណត់"
+  },
+  "ariaShowPassword": {
+    "message": "បង្ហាញសោ API"
+  },
+  "ariaHidePassword": {
+    "message": "លាក់សោ API"
+  },
+  "ariaConvertButton": {
+    "message": "បម្លែងអត្ថបទ"
+  },
+  "ariaCopyOutput": {
+    "message": "ចម្លងលទ្ធផលទៅក្ដារតម្បៀតខ្ទាស់"
+  },
+  "ariaClearAll": {
+    "message": "ជម្រះការបញ្ចូល និងទិន្នផល"
+  },
+  "ariaOpenSidePanel": {
+    "message": "បើកកន្លែងធ្វើការពេញលេញនៅក្នុងបន្ទះចំហៀង"
+  },
+  "ariaDiffToggle": {
+    "message": "បិទ/បើក ទិដ្ឋភាពខុសគ្នា"
+  },
+  "ariaHistoryToggle": {
+    "message": "បិទបើកផ្ទាំងប្រវត្តិ"
+  },
+  "keyStatusPresent": {
+    "message": "សោ API ត្រូវបានរក្សាទុក"
+  },
+  "keyStatusMissing": {
+    "message": "គ្មានសោ API ត្រូវបានរក្សាទុកទេ។"
+  },
+  "converting": {
+    "message": "កំពុងបំប្លែង…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - កន្លែងធ្វើការ"
+  }
+}

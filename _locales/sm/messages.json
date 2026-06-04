@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Suia tusitusiga Siamani i le va o le resitalaina (Du) ma le aloaia (Sie) e fa'aaoga ai Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ulufale"
+  },
+  "outputLabel": {
+    "message": "Tuuina atu"
+  },
+  "inputPlaceholder": {
+    "message": "Fa'apipi'i pe lolomi le gagana Siamani iinei..."
+  },
+  "outputPlaceholder": {
+    "message": "O tusitusiga ua liua o le a fa'aalia iinei..."
+  },
+  "convertButton": {
+    "message": "Liliu mai"
+  },
+  "copyButton": {
+    "message": "Kopi"
+  },
+  "copiedButton": {
+    "message": "Kopi!"
+  },
+  "clearButton": {
+    "message": "manino"
+  },
+  "openSidePanelButton": {
+    "message": "Tatala ile Itu Itu"
+  },
+  "settingsTitle": {
+    "message": "Fa'atonu"
+  },
+  "apiKeyLabel": {
+    "message": "Antropi API Ki"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-loi-…"
+  },
+  "showKeyButton": {
+    "message": "Faaalia"
+  },
+  "hideKeyButton": {
+    "message": "Natia"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Ki fa'asaoina:"
+  },
+  "testKeyButton": {
+    "message": "Su'ega Ki"
+  },
+  "testKeyValid": {
+    "message": "✓ Fa'amaonia"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Le aoga"
+  },
+  "testKeyTesting": {
+    "message": "Su'ega..."
+  },
+  "modelLabel": {
+    "message": "Fa'ata'ita'iga"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Malosi o le leo"
+  },
+  "toneStandard": {
+    "message": "Tulaga"
+  },
+  "tonePolished": {
+    "message": "Faila"
+  },
+  "toneStrictCorporate": {
+    "message": "Malosi Autasi"
+  },
+  "noApiKeyWarning": {
+    "message": "Leai se ki API na sefe. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Fa'atonu"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "O lenei tusitusiga atonu e le o le gagana Siamani. "
+  },
+  "charactersCount": {
+    "message": "$count$ mataitusi",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Le aoga API ki. "
+  },
+  "errorRateLimit": {
+    "message": "Fa'atapula'a tau ua ausia. "
+  },
+  "errorApiServer": {
+    "message": "Sese API Antropik. "
+  },
+  "errorNetwork": {
+    "message": "Sese feso'otaiga. "
+  },
+  "errorUnknown": {
+    "message": "Na tupu se mea fa'afuase'i. "
+  },
+  "errorNoKey": {
+    "message": "Leai se ki API fa'atulagaina. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Su'e filifiliga → aloa'ia (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Fa'aliliu filifiliga → fa'alilolilo (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Fa'aliliuina..."
+  },
+  "floatingReplaceButton": {
+    "message": "Sui Filifiliga"
+  },
+  "floatingCopyButton": {
+    "message": "Kopi"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopi!"
+  },
+  "floatingDismissButton": {
+    "message": "Fa'ate'a"
+  },
+  "floatingRetryButton": {
+    "message": "Toe taumafai"
+  },
+  "floatingErrorPrefix": {
+    "message": "Sese:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "E le mafai ona suitulaga tusitusiga i luga o lenei itulau. "
+  },
+  "historyTitle": {
+    "message": "Talafaasolopito o le Liua"
+  },
+  "historyClearButton": {
+    "message": "manino Talafaasolopito"
+  },
+  "historyRestoreButton": {
+    "message": "Toe fa'afo'isia"
+  },
+  "historyEmpty": {
+    "message": "E leai ni suiga."
+  },
+  "historyModeLabel": {
+    "message": "Faiga:"
+  },
+  "historyIntensityLabel": {
+    "message": "Malosi:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Tulaga"
+  },
+  "historyIntensityPolished": {
+    "message": "Faila"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Malosi Autasi"
+  },
+  "diffToggleButton": {
+    "message": "Faaali ese"
+  },
+  "diffToggleButtonOff": {
+    "message": "Nana Eseese"
+  },
+  "diffInputLabel": {
+    "message": "Uluai"
+  },
+  "diffOutputLabel": {
+    "message": "Ua liua"
+  },
+  "ariaSettingsToggle": {
+    "message": "Togi le laulau fa'atulagaina"
+  },
+  "ariaShowPassword": {
+    "message": "Fa'aali ki API"
+  },
+  "ariaHidePassword": {
+    "message": "Natia API ki"
+  },
+  "ariaConvertButton": {
+    "message": "Su'e tusitusiga"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopi le mea e fai ile laupapa kilipa"
+  },
+  "ariaClearAll": {
+    "message": "Fa'amanino fa'aoga ma mea fa'atino"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Tatala le avanoa faigaluega atoa ile laulau pito"
+  },
+  "ariaDiffToggle": {
+    "message": "Kiliki le va'aiga eseese"
+  },
+  "ariaHistoryToggle": {
+    "message": "Togi le laulau o tala faasolopito"
+  },
+  "keyStatusPresent": {
+    "message": "API key ua sefe"
+  },
+  "keyStatusMissing": {
+    "message": "Leai se ki API na sefe"
+  },
+  "converting": {
+    "message": "Fa'aliliuina..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Avanoa faigaluega"
+  }
+}

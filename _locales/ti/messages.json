@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "ጽሑፍ ጀርመን ኣብ መንጎ ዘይወግዓዊ (Du)ን ወግዓዊ (Sie)ን መዝገብ ክላውድ AI ተጠቒምካ ምቕያር።"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "ኣእትዎ"
+  },
+  "outputLabel": {
+    "message": "ውጽኢት"
+  },
+  "inputPlaceholder": {
+    "message": "ጽሑፍ ጀርመን ኣብዚ ምልጣፍ ወይ ምጽሓፍ..."
+  },
+  "outputPlaceholder": {
+    "message": "ዝተቐየረ ጽሑፍ ክረአ እዩ። ኣብዚ..."
+  },
+  "convertButton": {
+    "message": "ቀይር"
+  },
+  "copyButton": {
+    "message": "ቅዳሕ"
+  },
+  "copiedButton": {
+    "message": "ቅዲሑ!"
+  },
+  "clearButton": {
+    "message": "ኣጽሪ"
+  },
+  "openSidePanelButton": {
+    "message": "ኣብ ጎናዊ ፓነል ክፈት"
+  },
+  "settingsTitle": {
+    "message": "ቅጥዕታት"
+  },
+  "apiKeyLabel": {
+    "message": "ኣንትሮፒክ ኤፒኣይ መፍትሕ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "ኣርእይ"
+  },
+  "hideKeyButton": {
+    "message": "ሕባእ"
+  },
+  "saveKeyButton": {
+    "message": "መፍትሕ ምዕቃብ"
+  },
+  "keySavedConfirm": {
+    "message": "መፍትሕ ተዓቂቡ:"
+  },
+  "testKeyButton": {
+    "message": "መፍትሕ ፈተና"
+  },
+  "testKeyValid": {
+    "message": "✓ ቅኑዕ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ ዘይሕጋዊ"
+  },
+  "testKeyTesting": {
+    "message": "ፈተነ..."
+  },
+  "modelLabel": {
+    "message": "ሞዴል"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ጽዓት ቃና"
+  },
+  "toneStandard": {
+    "message": "መደበኛ"
+  },
+  "tonePolished": {
+    "message": "ፖሊሽ"
+  },
+  "toneStrictCorporate": {
+    "message": "ጽኑዕ ትካል"
+  },
+  "noApiKeyWarning": {
+    "message": "ዝኾነ ኤፒኣይ መፍትሕ ኣይተቐመጠን። በጃኹም ኣብ"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ቅጥዕታት"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ኣንትሮፒክ ኤፒኣይ መፍትሕኩም ኣእትዉ እዚ ጽሑፍ ብቋንቋ ጀርመን ክኸውን ኣይክእልን እዩ። ውጽኢት ቅኑዕ ክኸውን ኣይክእልን እዩ።"
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ዘይሕጋዊ መፍትሕ ኤፒኣይ። በጃኻ ኣብ ቅጥዕታት መፍትሕካ ኣረጋግጽ።"
+  },
+  "errorRateLimit": {
+    "message": "ገደብ ደረጃ በጺሑ። በጃኹም ተጸበዩ እንደገና ፈትኑ።"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. በጃኻ ድሒርካ ደጊምካ ፈትን።"
+  },
+  "errorNetwork": {
+    "message": "ናይ መርበብ ስሕተት። በጃኹም ርክብኩም መርምሩ።"
+  },
+  "errorUnknown": {
+    "message": "ዘይተጸበኻዮ ጌጋ ኣጋጢሙ። በጃኻ እንደገና ፈትን።"
+  },
+  "errorNoKey": {
+    "message": "ዝኾነ ናይ ኤፒኣይ መፍትሕ ኣይ���ዋቕረን። በጃኹም መፍትሕኩም ኣብ ቅጥዕታት ወስኹሉ።"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ምምራጽ ምቕያር → ወግዓዊ (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ምምራጽ ምቕያር → ዘይወግዓዊ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "ምቕያር..."
+  },
+  "floatingReplaceButton": {
+    "message": "ምትካእ ምርጫ"
+  },
+  "floatingCopyButton": {
+    "message": "ቅዳሕ"
+  },
+  "floatingCopiedButton": {
+    "message": "ተቐዲሑ!"
+  },
+  "floatingDismissButton": {
+    "message": "ምእላይ"
+  },
+  "floatingRetryButton": {
+    "message": "ዳግማይ ፈትኖ"
+  },
+  "floatingErrorPrefix": {
+    "message": "ጌጋ:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "ኣብዚ ገጽ ዘሎ ጽሑፍ ክትክእ ኣይከኣልን። በጃኻ ኣብ ክንድኡ ቅዳሕ።"
+  },
+  "historyTitle": {
+    "message": "ታሪኽ ምቕያር"
+  },
+  "historyClearButton": {
+    "message": "ታሪኽ ኣጽርዮ"
+  },
+  "historyRestoreButton": {
+    "message": "ምምላስ"
+  },
+  "historyEmpty": {
+    "message": "ክሳብ ሕጂ ዝኾነ ምቕያር የለን።"
+  },
+  "historyModeLabel": {
+    "message": "ኣገባብ:"
+  },
+  "historyIntensityLabel": {
+    "message": "ጽዓት:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → ዱ"
+  },
+  "historyIntensityStandard": {
+    "message": "መደበኛ"
+  },
+  "historyIntensityPolished": {
+    "message": "ፖሊሽ"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ጽኑዕ ናይ ትካል"
+  },
+  "diffToggleButton": {
+    "message": "ፍልልይ ��ርኣይ"
+  },
+  "diffToggleButtonOff": {
+    "message": "ፍልልይ ምሕባእ"
+  },
+  "diffInputLabel": {
+    "message": "መበቆላዊ"
+  },
+  "diffOutputLabel": {
+    "message": "ዝተቐየረ"
+  },
+  "ariaSettingsToggle": {
+    "message": "ቅጥዕታት ምቕያር panel"
+  },
+  "ariaShowPassword": {
+    "message": "መፍትሕ ኤፒኣይ ኣርኢ"
+  },
+  "ariaHidePassword": {
+    "message": "መፍትሕ ኤፒኣይ ምሕባእ"
+  },
+  "ariaConvertButton": {
+    "message": "ጽሑፍ ምቕያር"
+  },
+  "ariaCopyOutput": {
+    "message": "ውጽኢት ናብ ቅንጥብጣብ ሰሌዳ ምቕዳሕ"
+  },
+  "ariaClearAll": {
+    "message": "ምእታውን ምውጻእን ኣጽርዮ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "ኣብ ጎድናዊ ፓነል ምሉእ ናይ ስራሕ ቦታ ክፈት"
+  },
+  "ariaDiffToggle": {
+    "message": "ፍልልይ ርእይቶ ምቕያር"
+  },
+  "ariaHistoryToggle": {
+    "message": "ታሪኽ ንምግጣም ፓነል"
+  },
+  "keyStatusPresent": {
+    "message": "መፍትሕ ኤፒኣይ ተዓቂቡ"
+  },
+  "keyStatusMissing": {
+    "message": "ዝኾነ መፍትሕ ኤፒኣይ ኣይተቐመጠ"
+  },
+  "converting": {
+    "message": "ምቕያር..."
+  },
+  "sidePanelTitle": {
+    "message": "ዱ↔ሲ ፎርማላይዘር – ቦታ ስራሕ"
+  }
+}

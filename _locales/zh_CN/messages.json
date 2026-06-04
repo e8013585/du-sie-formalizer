@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "使用 Claude AI 在非正式 (Du) 和正式 (Sie) 之间转换德语文本。"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "输入"
+  },
+  "outputLabel": {
+    "message": "输出"
+  },
+  "inputPlaceholder": {
+    "message": "在此处粘贴或输入德语文本..."
+  },
+  "outputPlaceholder": {
+    "message": "将显示转换后的文本此处..."
+  },
+  "convertButton": {
+    "message": "转换"
+  },
+  "copyButton": {
+    "message": "复制"
+  },
+  "copiedButton": {
+    "message": "已复制！"
+  },
+  "clearButton": {
+    "message": "清除"
+  },
+  "openSidePanelButton": {
+    "message": "在侧面板中打开"
+  },
+  "settingsTitle": {
+    "message": "设置"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API密钥"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "显示"
+  },
+  "hideKeyButton": {
+    "message": "隐藏"
+  },
+  "saveKeyButton": {
+    "message": "保存密钥"
+  },
+  "keySavedConfirm": {
+    "message": "已保存密钥："
+  },
+  "testKeyButton": {
+    "message": "测试密钥"
+  },
+  "testKeyValid": {
+    "message": "✓有效"
+  },
+  "testKeyInvalid": {
+    "message": "✗无效"
+  },
+  "testKeyTesting": {
+    "message": "测试…"
+  },
+  "modelLabel": {
+    "message": "模型"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "音调强度"
+  },
+  "toneStandard": {
+    "message": "标准"
+  },
+  "tonePolished": {
+    "message": "已抛光"
+  },
+  "toneStrictCorporate": {
+    "message": "严格公司"
+  },
+  "noApiKeyWarning": {
+    "message": "未保存API密钥。请在"
+  },
+  "noApiKeyWarningLink": {
+    "message": "设置"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "中输入您的 Anthropic API 密钥。此文本可能不是德语。结果可能不准确。"
+  },
+  "charactersCount": {
+    "message": "$count$ 个字符",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API 密钥无效。请在“设置”中检查您的密钥。"
+  },
+  "errorRateLimit": {
+    "message": "已达到速率限制。请等待并重试。"
+  },
+  "errorApiServer": {
+    "message": "人为 API 错误。 Please try again later."
+  },
+  "errorNetwork": {
+    "message": "Network error.请检查您的连接。"
+  },
+  "errorUnknown": {
+    "message": "发生意外错误。请重试。"
+  },
+  "errorNoKey": {
+    "message": "未配置 API 密钥。请在“设置”中添加您的密钥。"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "转换选择 → 正式 (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "转换选择 → 非正式 (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "正在转换..."
+  },
+  "floatingReplaceButton": {
+    "message": "替换选择"
+  },
+  "floatingCopyButton": {
+    "message": "复制"
+  },
+  "floatingCopiedButton": {
+    "message": "已复制！"
+  },
+  "floatingDismissButton": {
+    "message": "关闭"
+  },
+  "floatingRetryButton": {
+    "message": "重试"
+  },
+  "floatingErrorPrefix": {
+    "message": "错误："
+  },
+  "floatingReplaceUnavailable": {
+    "message": "无法替换此页面上的文本。请复制。"
+  },
+  "historyTitle": {
+    "message": "转化历史记录"
+  },
+  "historyClearButton": {
+    "message": "清除历史记录"
+  },
+  "historyRestoreButton": {
+    "message": "恢复"
+  },
+  "historyEmpty": {
+    "message": "尚无转化。"
+  },
+  "historyModeLabel": {
+    "message": "模式："
+  },
+  "historyIntensityLabel": {
+    "message": "强度："
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "标准"
+  },
+  "historyIntensityPolished": {
+    "message": "抛光"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "严格公司"
+  },
+  "diffToggleButton": {
+    "message": "显示差异"
+  },
+  "diffToggleButtonOff": {
+    "message": "隐藏差异"
+  },
+  "diffInputLabel": {
+    "message": "原始"
+  },
+  "diffOutputLabel": {
+    "message": "转换"
+  },
+  "ariaSettingsToggle": {
+    "message": "切换设置面板"
+  },
+  "ariaShowPassword": {
+    "message": "显示API 密钥"
+  },
+  "ariaHidePassword": {
+    "message": "隐藏 API 密钥"
+  },
+  "ariaConvertButton": {
+    "message": "转换文本"
+  },
+  "ariaCopyOutput": {
+    "message": "将输出复制到剪贴板"
+  },
+  "ariaClearAll": {
+    "message": "清除输入和输出"
+  },
+  "ariaOpenSidePanel": {
+    "message": "在侧面板中打开完整工作区"
+  },
+  "ariaDiffToggle": {
+    "message": "切换差异视图"
+  },
+  "ariaHistoryToggle": {
+    "message": "切换历史记录面��"
+  },
+  "keyStatusPresent": {
+    "message": "API 密钥已保存"
+  },
+  "keyStatusMissing": {
+    "message": "未保存 API 密钥"
+  },
+  "converting": {
+    "message": "正在转换..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – 工作区"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ஐப் பயன்படுத்தி முறைசாரா (Du) மற்றும் முறையான (Sie) பதிவிற்கு இடையே ஜெர்மன் உரையை மாற்றவும்."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "உள்ளீடு"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "மாற்றப்பட்ட உரை இங்கே தோன்றும்…"
+  },
+  "convertButton": {
+    "message": "மாற்று"
+  },
+  "copyButton": {
+    "message": "நகல்"
+  },
+  "copiedButton": {
+    "message": "நகலெடு!"
+  },
+  "clearButton": {
+    "message": "தெளிவு"
+  },
+  "openSidePanelButton": {
+    "message": "பக்க பேனலில் திற"
+  },
+  "settingsTitle": {
+    "message": "அமைப்புகள்"
+  },
+  "apiKeyLabel": {
+    "message": " விசை"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "காட்சி"
+  },
+  "hideKeyButton": {
+    "message": "மறை"
+  },
+  "saveKeyButton": {
+    "message": "விசையைச் சேமி"
+  },
+  "keySavedConfirm": {
+    "message": "விசை சேமிக்கப்பட்டது:"
+  },
+  "testKeyButton": {
+    "message": "சோதனை விசை"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "சோதனை…"
+  },
+  "modelLabel": {
+    "message": "மாடல்"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "டோன் தீவிரம்"
+  },
+  "toneStandard": {
+    "message": "தரநிலை"
+  },
+  "tonePolished": {
+    "message": "பாலிஷ் செய்யப்பட்டது"
+  },
+  "toneStrictCorporate": {
+    "message": "கடுமையான கார்ப்பரேட்"
+  },
+  "noApiKeyWarning": {
+    "message": "ஏபிஐ விசை சேமிக்கப்படவில்லை. உங்கள் Anthropic API விசையை"
+  },
+  "noApiKeyWarningLink": {
+    "message": "அமைப்புகளில் உள்ளிடவும்"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "இந்த உரை ஜெர்மன் மொழியில் இல்லாமல் இருக்கலாம். முடிவுகள் தவறாக இருக்கலாம்."
+  },
+  "charactersCount": {
+    "message": "$count$ எழுத்துகள்",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "தவறான API விசை. அமைப்புகளில் உங்கள் விசையைச் சரிபார்க்கவும்."
+  },
+  "errorRateLimit": {
+    "message": "விகித வரம்பை அடைந்துவிட்டது. காத்திருந்து மீண்டும் முயற்சிக்கவும்."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API பிழை. பிறகு முயற்சிக்கவும்."
+  },
+  "errorNetwork": {
+    "message": "நெட்வொர்க் பிழை. உங்கள் இணைப்பைச் சரிபார்க்கவும்."
+  },
+  "errorUnknown": {
+    "message": "எதிர்பாராத பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்."
+  },
+  "errorNoKey": {
+    "message": "API விசை எதுவும் உள்ளமைக்கப்படவில்லை. அமைப்புகளில் உங்கள் விசையைச் சேர்க்கவும்."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "தேர்வை மாற்று → முறையான (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "தேர்வை மாற்று → முறைசாரா (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie முறைப்படுத்த���பவர்"
+  },
+  "floatingCardLoading": {
+    "message": "மாற்றுகிறது..."
+  },
+  "floatingReplaceButton": {
+    "message": "தேர்வை மாற்றவும்"
+  },
+  "floatingCopyButton": {
+    "message": "நகல்"
+  },
+  "floatingCopiedButton": {
+    "message": "நகலெடுக்கப்பட்டது!"
+  },
+  "floatingDismissButton": {
+    "message": "நிராகரிப்பு"
+  },
+  "floatingRetryButton": {
+    "message": "மீண்டும் முயலவும்"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "மாற்ற வரலாறு"
+  },
+  "historyClearButton": {
+    "message": "வரலாற்றை அழி"
+  },
+  "historyRestoreButton": {
+    "message": "மீட்டமை"
+  },
+  "historyEmpty": {
+    "message": "இன்னும் எந்த மாற்றங்களும் இல்லை."
+  },
+  "historyModeLabel": {
+    "message": "முறை:"
+  },
+  "historyIntensityLabel": {
+    "message": "தீவிரம்:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "தரநிலை"
+  },
+  "historyIntensityPolished": {
+    "message": "பாலிஷ் செய்யப்பட்ட"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "கடுமையான கார்ப்பரேட்"
+  },
+  "diffToggleButton": {
+    "message": "வேறுபாட்டைக் காட்டு"
+  },
+  "diffToggleButtonOff": {
+    "message": "வேறுபாடுகளை மறை"
+  },
+  "diffInputLabel": {
+    "message": "அசல்"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API விசையைக் காட்டு"
+  },
+  "ariaHidePassword": {
+    "message": "API விசையை மறை"
+  },
+  "ariaConvertButton": {
+    "message": "உரையை மாற்று"
+  },
+  "ariaCopyOutput": {
+    "message": "வெளியீட்டை கிளிப்போர்டுக்கு நகலெடு"
+  },
+  "ariaClearAll": {
+    "message": "உள்ளீடு மற்றும் வெளியீட்டை அழி"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "மாற்று வரலாற்றுப் பேனலை"
+  },
+  "keyStatusPresent": {
+    "message": "API விசை சேமிக்கப்படவில்லை"
+  },
+  "keyStatusMissing": {
+    "message": "API விசை சேமிக்கப்படவில்லை"
+  },
+  "converting": {
+    "message": "மாற்றுகிறது..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

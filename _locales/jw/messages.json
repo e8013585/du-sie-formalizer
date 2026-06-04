@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Ngonversi teks Jerman antarane register informal (Du) lan formal (Sie) nggunakake Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Tempel utawa ketik teks Jerman ing kene…"
+  },
+  "outputPlaceholder": {
+    "message": "Teks sing diowahi bakal katon ing kene…"
+  },
+  "convertButton": {
+    "message": "Ngonversi"
+  },
+  "copyButton": {
+    "message": "Nyalin"
+  },
+  "copiedButton": {
+    "message": "Disalin!"
+  },
+  "clearButton": {
+    "message": "Cetha"
+  },
+  "openSidePanelButton": {
+    "message": "Bukak ing Panel sisih"
+  },
+  "settingsTitle": {
+    "message": "Setelan"
+  },
+  "apiKeyLabel": {
+    "message": "Kunci API Antropik"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Tampilake"
+  },
+  "hideKeyButton": {
+    "message": "Singidaken"
+  },
+  "saveKeyButton": {
+    "message": "Simpen Key"
+  },
+  "keySavedConfirm": {
+    "message": "Kunci disimpen:"
+  },
+  "testKeyButton": {
+    "message": "Kunci Tes"
+  },
+  "testKeyValid": {
+    "message": "✓ Sah"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ora sah"
+  },
+  "testKeyTesting": {
+    "message": "Tes…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensitas nada"
+  },
+  "toneStandard": {
+    "message": "Standar"
+  },
+  "tonePolished": {
+    "message": "polesan"
+  },
+  "toneStrictCorporate": {
+    "message": "Perusahaan sing ketat"
+  },
+  "noApiKeyWarning": {
+    "message": "Ora ana kunci API sing disimpen. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Setelan"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Teks iki bisa uga ora ana ing basa Jerman. "
+  },
+  "charactersCount": {
+    "message": "$count$ karakter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Kunci API ora valid. "
+  },
+  "errorRateLimit": {
+    "message": "watesan tarif wis tekan. "
+  },
+  "errorApiServer": {
+    "message": "kesalahan API antropik. "
+  },
+  "errorNetwork": {
+    "message": "Kesalahan jaringan. "
+  },
+  "errorUnknown": {
+    "message": "Ana kesalahan sing ora dikarepke. "
+  },
+  "errorNoKey": {
+    "message": "Ora ana tombol API sing dikonfigurasi. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Ngonversi pilihan → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konversi pilihan → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Ngonversi…"
+  },
+  "floatingReplaceButton": {
+    "message": "Ganti Pilihan"
+  },
+  "floatingCopyButton": {
+    "message": "Nyalin"
+  },
+  "floatingCopiedButton": {
+    "message": "Disalin!"
+  },
+  "floatingDismissButton": {
+    "message": "Ngilangi"
+  },
+  "floatingRetryButton": {
+    "message": "Coba maneh"
+  },
+  "floatingErrorPrefix": {
+    "message": "kesalahan:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ora bisa ngganti teks ing kaca iki. "
+  },
+  "historyTitle": {
+    "message": "Sajarah konversi"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Mulihake"
+  },
+  "historyEmpty": {
+    "message": "Durung ana konversi."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitas:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standar"
+  },
+  "historyIntensityPolished": {
+    "message": "polesan"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Perusahaan sing ketat"
+  },
+  "diffToggleButton": {
+    "message": "Tampilake Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Singidaken Diff"
+  },
+  "diffInputLabel": {
+    "message": "Asli"
+  },
+  "diffOutputLabel": {
+    "message": "Diowahi"
+  },
+  "ariaSettingsToggle": {
+    "message": "Ganti panel setelan"
+  },
+  "ariaShowPassword": {
+    "message": "Tampilake kunci API"
+  },
+  "ariaHidePassword": {
+    "message": "Singidaken kunci API"
+  },
+  "ariaConvertButton": {
+    "message": "Ngonversi teks"
+  },
+  "ariaCopyOutput": {
+    "message": "Salin output menyang clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Mbusak input lan output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Bukak ruang kerja lengkap ing panel sisih"
+  },
+  "ariaDiffToggle": {
+    "message": "Ngalih tampilan diff"
+  },
+  "ariaHistoryToggle": {
+    "message": "Ngalih panel riwayat"
+  },
+  "keyStatusPresent": {
+    "message": "Kunci API disimpen"
+  },
+  "keyStatusMissing": {
+    "message": "Ora ana kunci API sing disimpen"
+  },
+  "converting": {
+    "message": "Ngonversi…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Ruang kerja"
+  }
+}

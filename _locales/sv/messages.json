@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertera tysk text mellan informellt (Du) och formellt (Sie) register med Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Indata"
+  },
+  "outputLabel": {
+    "message": "Utmatning"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Konvertera"
+  },
+  "copyButton": {
+    "message": "Kopiera"
+  },
+  "copiedButton": {
+    "message": "Kopierat!"
+  },
+  "clearButton": {
+    "message": "Rensa"
+  },
+  "openSidePanelButton": {
+    "message": "Öppna i sidopanelen"
+  },
+  "settingsTitle": {
+    "message": "Inställningar"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Nyckel"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Visa"
+  },
+  "hideKeyButton": {
+    "message": "Dölj"
+  },
+  "saveKeyButton": {
+    "message": "Spara nyckel"
+  },
+  "keySavedConfirm": {
+    "message": "Nyckel sparad:"
+  },
+  "testKeyButton": {
+    "message": "Testnyckel"
+  },
+  "testKeyValid": {
+    "message": "✓ Giltig"
+  },
+  "testKeyInvalid": {
+    "message": " Ogiltig"
+  },
+  "testKeyTesting": {
+    "message": "Testning..."
+  },
+  "modelLabel": {
+    "message": "Modell"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tonintensitet"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polerad"
+  },
+  "toneStrictCorporate": {
+    "message": "Strikt företag"
+  },
+  "noApiKeyWarning": {
+    "message": "Ingen API-nyckel sparad. Ange din Anthropic API-nyckel i"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Inställningar"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Den här texten kanske inte är på tyska. Resultaten kan vara felaktiga."
+  },
+  "charactersCount": {
+    "message": "$count$ tecken",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ogiltig API-nyckel. Kontrollera din nyckel i Inställningar."
+  },
+  "errorRateLimit": {
+    "message": "Prisgränsen har nåtts. Vänta och försök igen."
+  },
+  "errorApiServer": {
+    "message": "Antropiskt API-fel. Försök igen senare."
+  },
+  "errorNetwork": {
+    "message": "Nätverksfel. Kontrollera din anslutning."
+  },
+  "errorUnknown": {
+    "message": "Ett oväntat fel inträffade. Försök igen."
+  },
+  "errorNoKey": {
+    "message": "Ingen API-nyckel har konfigurerats. Lägg till din nyckel i Inställningar."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konvertera urval → formellt (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvertera urval → informellt (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopiera"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopierat!"
+  },
+  "floatingDismissButton": {
+    "message": "Stäng"
+  },
+  "floatingRetryButton": {
+    "message": "Försök igen"
+  },
+  "floatingErrorPrefix": {
+    "message": "Fel:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kan inte ersätta text på den här sidan. Vänligen kopiera istället."
+  },
+  "historyTitle": {
+    "message": "Konverteringshistorik"
+  },
+  "historyClearButton": {
+    "message": "Rensa historik"
+  },
+  "historyRestoreButton": {
+    "message": "Återställ"
+  },
+  "historyEmpty": {
+    "message": "Inga konverteringar ännu."
+  },
+  "historyModeLabel": {
+    "message": "Läge:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitet:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polerad"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Visa skillnad"
+  },
+  "diffToggleButtonOff": {
+    "message": "Dölj skillnad"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Konverterad"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Dölj API-nyckel"
+  },
+  "ariaConvertButton": {
+    "message": "Konvertera text"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopiera utdata till urklipp"
+  },
+  "ariaClearAll": {
+    "message": "Rensa in- och utdata"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Öppna hela arbetsytan i sidopanelen"
+  },
+  "ariaDiffToggle": {
+    "message": "Växla skillnadsvy för tangenthistorik"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Ingen API-nyckel sparad"
+  },
+  "converting": {
+    "message": "Konverterar..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "I-convert ang German na text sa pagitan ng impormal (Du) at pormal (Sie) na rehistro gamit ang Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Lalabas ang Output text"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "I-convert"
+  },
+  "copyButton": {
+    "message": "Kopyahin"
+  },
+  "copiedButton": {
+    "message": "Kopya!"
+  },
+  "clearButton": {
+    "message": "I-clear"
+  },
+  "openSidePanelButton": {
+    "message": "Buksan sa Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Mga Setting"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Ipakita"
+  },
+  "hideKeyButton": {
+    "message": "Itago"
+  },
+  "saveKeyButton": {
+    "message": "I-save ang Key"
+  },
+  "keySavedConfirm": {
+    "message": "Na-save ang key:"
+  },
+  "testKeyButton": {
+    "message": "Susi sa Pagsubok"
+  },
+  "testKeyValid": {
+    "message": "✓ Wasto"
+  },
+  "testKeyInvalid": {
+    "message": " Di-wasto"
+  },
+  "testKeyTesting": {
+    "message": "Pagsubok..."
+  },
+  "modelLabel": {
+    "message": "Modelo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Walang API key na naka-save. Pakipasok ang iyong Anthropic API key sa"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Mga Setting"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Maaaring wala sa German ang text na ito. Maaaring hindi tumpak ang mga resulta."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Invalid na API key. Pakitingnan ang iyong key sa Mga Setting."
+  },
+  "errorRateLimit": {
+    "message": "Naabot na ang limitasyon sa rate. Mangyaring maghintay at subukang muli."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. Pakisubukang muli sa ibang pagkakataon."
+  },
+  "errorNetwork": {
+    "message": "Error sa network. Pakisuri ang iyong koneksyon."
+  },
+  "errorUnknown": {
+    "message": "May naganap na hindi inaasahang error. Pakisubukang muli."
+  },
+  "errorNoKey": {
+    "message": "Walang API key na na-configure. Pakidagdag ang iyong susi sa Mga Setting."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "I-convert ang seleksyon → pormal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "I-convert ang seleksyon → impormal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopyahin"
+  },
+  "floatingCopiedButton": {
+    "message": "Nakopya!"
+  },
+  "floatingDismissButton": {
+    "message": "I-dismiss"
+  },
+  "floatingRetryButton": {
+    "message": "Subukan muli"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Hindi mapalitan ang text sa pahinang ito. Pakikopya na lang."
+  },
+  "historyTitle": {
+    "message": "Kasaysayan ng Conversion"
+  },
+  "historyClearButton": {
+    "message": "I-clear ang Kasaysayan"
+  },
+  "historyRestoreButton": {
+    "message": "I-restore"
+  },
+  "historyEmpty": {
+    "message": "Wala pang mga conversion."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Karaniwan"
+  },
+  "historyIntensityPolished": {
+    "message": "Pinakintab"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Itago Diff"
+  },
+  "diffInputLabel": {
+    "message": "Orihinal"
+  },
+  "diffOutputLabel": {
+    "message": "Convert ang mga setting ng API"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Itago ang API key"
+  },
+  "ariaConvertButton": {
+    "message": "I-convert ang text"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopyahin ang output sa clipboard"
+  },
+  "ariaClearAll": {
+    "message": "I-clear ang input at output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Buksan ang buong workspace sa side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "I-toggle ang diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Walang API key na na-save"
+  },
+  "converting": {
+    "message": "Nagko-convert..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

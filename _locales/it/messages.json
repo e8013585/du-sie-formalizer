@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Converti il testo tedesco dal registro informale (Du) a quello formale (Sie) utilizzando Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Incolla o digita il testo tedesco qui…"
+  },
+  "outputPlaceholder": {
+    "message": "Apparirà il testo convertito qui..."
+  },
+  "convertButton": {
+    "message": "Converti"
+  },
+  "copyButton": {
+    "message": "Copia"
+  },
+  "copiedButton": {
+    "message": "Copiato!"
+  },
+  "clearButton": {
+    "message": "Cancella"
+  },
+  "openSidePanelButton": {
+    "message": "Apri nel pannello laterale"
+  },
+  "settingsTitle": {
+    "message": "Impostazioni"
+  },
+  "apiKeyLabel": {
+    "message": "API Anthropic Chiave"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Mostra"
+  },
+  "hideKeyButton": {
+    "message": "Nascondi"
+  },
+  "saveKeyButton": {
+    "message": "Salva chiave"
+  },
+  "keySavedConfirm": {
+    "message": "Chiave salvata:"
+  },
+  "testKeyButton": {
+    "message": "Test chiave"
+  },
+  "testKeyValid": {
+    "message": " ✓ Valida"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Non valido"
+  },
+  "testKeyTesting": {
+    "message": "Test…"
+  },
+  "modelLabel": {
+    "message": "Modello"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensità tono"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Perfezionato"
+  },
+  "toneStrictCorporate": {
+    "message": "Rigido Aziendale"
+  },
+  "noApiKeyWarning": {
+    "message": "Nessuna chiave API salvata. Inserisci la tua chiave API Anthropic in"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Impostazioni"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Questo testo potrebbe non essere in tedesco. I risultati potrebbero essere imprecisi."
+  },
+  "charactersCount": {
+    "message": "$count$ caratteri",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Chiave API non valida. Controlla la chiave nelle Impostazioni."
+  },
+  "errorRateLimit": {
+    "message": "Limite di tariffa raggiunto. Attendi e riprova."
+  },
+  "errorApiServer": {
+    "message": "Errore API Anthropic. Riprova più tardi."
+  },
+  "errorNetwork": {
+    "message": "Errore di rete. Controlla la connessione."
+  },
+  "errorUnknown": {
+    "message": "Si è verificato un errore imprevisto. Riprova."
+  },
+  "errorNoKey": {
+    "message": "Nessuna chiave API configurata. Aggiungi la tua chiave in Impostazioni."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Converti selezione → formale (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Converti selezione → informale (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Conversione in corso…"
+  },
+  "floatingReplaceButton": {
+    "message": "Sostituisci Selezione"
+  },
+  "floatingCopyButton": {
+    "message": "Copia"
+  },
+  "floatingCopiedButton": {
+    "message": "Copiato!"
+  },
+  "floatingDismissButton": {
+    "message": "Ignora"
+  },
+  "floatingRetryButton": {
+    "message": "Riprova"
+  },
+  "floatingErrorPrefix": {
+    "message": "Errore:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Impossibile sostituire il testo in questa pagina. Copialo."
+  },
+  "historyTitle": {
+    "message": "Cronologia conversioni"
+  },
+  "historyClearButton": {
+    "message": "Cancella cronologia"
+  },
+  "historyRestoreButton": {
+    "message": "Ripristina"
+  },
+  "historyEmpty": {
+    "message": "Ancora nessuna conversione."
+  },
+  "historyModeLabel": {
+    "message": "Modalità:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensità:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Perfezionato"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Rigido Aziendale"
+  },
+  "diffToggleButton": {
+    "message": "Mostra differenze"
+  },
+  "diffToggleButtonOff": {
+    "message": "Nascondi differenze"
+  },
+  "diffInputLabel": {
+    "message": "Originale"
+  },
+  "diffOutputLabel": {
+    "message": "Convertito"
+  },
+  "ariaSettingsToggle": {
+    "message": "Attiva/disattiva pannello impostazioni"
+  },
+  "ariaShowPassword": {
+    "message": "Mostra API key"
+  },
+  "ariaHidePassword": {
+    "message": "Nascondi chiave API"
+  },
+  "ariaConvertButton": {
+    "message": "Converti testo"
+  },
+  "ariaCopyOutput": {
+    "message": "Copia output negli appunti"
+  },
+  "ariaClearAll": {
+    "message": "Cancella input e output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Apri l'area di lavoro completa nel pannello laterale"
+  },
+  "ariaDiffToggle": {
+    "message": "Attiva/disattiva visualizzazione differenze"
+  },
+  "ariaHistoryToggle": {
+    "message": "Attiva/disattiva pannello cronologia"
+  },
+  "keyStatusPresent": {
+    "message": "La chiave API è salvata"
+  },
+  "keyStatusMissing": {
+    "message": "Nessuna chiave API salvata"
+  },
+  "converting": {
+    "message": "Conversione in corso…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Area di lavoro"
+  }
+}

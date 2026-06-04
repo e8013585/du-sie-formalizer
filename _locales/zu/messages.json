@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "I-Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Guqula umbhalo wesiJalimane phakathi kwerejista engakahleleki (Du) kanye nesemthethweni (Sie) usebenzisa i-Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Okokufaka"
+  },
+  "outputLabel": {
+    "message": "Okukhiphayo"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Guqula"
+  },
+  "copyButton": {
+    "message": "Kopisha"
+  },
+  "copiedButton": {
+    "message": "Kukopishiwe!"
+  },
+  "clearButton": {
+    "message": "Sula"
+  },
+  "openSidePanelButton": {
+    "message": "Vula Iphaneli Eseceleni"
+  },
+  "settingsTitle": {
+    "message": "Izilungiselelo"
+  },
+  "apiKeyLabel": {
+    "message": "I-Anthropic API Ukhiye"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Bonisa"
+  },
+  "hideKeyButton": {
+    "message": "Fihla"
+  },
+  "saveKeyButton": {
+    "message": "Londoloza Ukhiye"
+  },
+  "keySavedConfirm": {
+    "message": "Ukhiye ulondoloziwe:"
+  },
+  "testKeyButton": {
+    "message": "Ukhiye Wokuhlola"
+  },
+  "testKeyValid": {
+    "message": "✓ Ivumelekile"
+  },
+  "testKeyInvalid": {
+    "message": "◄ Okungavumelekile"
+  },
+  "testKeyTesting": {
+    "message": "Ukuhlola…"
+  },
+  "modelLabel": {
+    "message": "Imodeli"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ukuqina kwethoni"
+  },
+  "toneStandard": {
+    "message": "Okuvamile"
+  },
+  "tonePolished": {
+    "message": "Kupholishiwe"
+  },
+  "toneStrictCorporate": {
+    "message": "I-Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Awukho ukhiye we-API olondoloziwe. Sicela ufake ukhiye wakho we-Anthropic API ku"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Izilungiselelo"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Lo mbhalo ungase ungabi ngesiJalimane. Imiphumela ingase inganembile."
+  },
+  "charactersCount": {
+    "message": "izinhlamvu ze-$count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ukhiye we-API ongavumelekile. Sicela uhlole ukhiye wakho kokuthi Izilungiselelo."
+  },
+  "errorRateLimit": {
+    "message": "Umkhawulo wesilinganiso ufinyelelwe. Sicela ulinde bese uzama futhi."
+  },
+  "errorApiServer": {
+    "message": "Iphutha le-Anthropic API. Sicela uzame futhi ngemva kwesikhathi."
+  },
+  "errorNetwork": {
+    "message": "Iphutha lenethiwekhi. Sicela uhlole ukuxhumana kwakho."
+  },
+  "errorUnknown": {
+    "message": "Kuvele iphutha elingalindelekile. Sicela uzame futhi."
+  },
+  "errorNoKey": {
+    "message": "Awukho ukhiye we-API omisiwe. Sicela wengeze ukhiye wakho kuzilungiselelo."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Guqula okukhethiwe → okusemthethweni (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Guqula okukhethiwe → okungakahleleki (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopisha"
+  },
+  "floatingCopiedButton": {
+    "message": "Kukopishiwe!"
+  },
+  "floatingDismissButton": {
+    "message": "Cashisa"
+  },
+  "floatingRetryButton": {
+    "message": "Phinda uzame"
+  },
+  "floatingErrorPrefix": {
+    "message": "Iphutha:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ayikwazi ukufaka umbhalo kuleli khasi. Sicela ukopishe esikhundleni salokho."
+  },
+  "historyTitle": {
+    "message": "Umlando Wokuguqulwa"
+  },
+  "historyClearButton": {
+    "message": "Sula Umlando"
+  },
+  "historyRestoreButton": {
+    "message": "Buyisela"
+  },
+  "historyEmpty": {
+    "message": "Akukabikho ukuguqulwa okwamanje."
+  },
+  "historyModeLabel": {
+    "message": "Imodi:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ukuqina:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Okujwayelekile"
+  },
+  "historyIntensityPolished": {
+    "message": "Okuphucuziwe"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Inkampani Eqinile"
+  },
+  "diffToggleButton": {
+    "message": "Bonisa Ukwahlukana"
+  },
+  "diffToggleButtonOff": {
+    "message": "Fihla Ukwahlukana"
+  },
+  "diffInputLabel": {
+    "message": "Okwangempela"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Fihla ukhiye we-API"
+  },
+  "ariaConvertButton": {
+    "message": "Guqula umbhalo"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopishela okukhiphayo ebhodini lokunamathisela"
+  },
+  "ariaClearAll": {
+    "message": "Sula okokufaka nokukhiphayo"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Vula indawo yokusebenza egcwele kuphaneli eseceleni"
+  },
+  "ariaDiffToggle": {
+    "message": "Guqula ukubuka kwe-diff"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Awukho ukhiye we-API olondoloziwe"
+  },
+  "converting": {
+    "message": "Iyaguqula…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Indawo yokusebenza"
+  }
+}

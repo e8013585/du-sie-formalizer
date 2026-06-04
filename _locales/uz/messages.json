@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Klod AI yordamida nemis matnini norasmiy (Du) va rasmiy (Sie) registrlariga aylantiring."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Kirish"
+  },
+  "outputLabel": {
+    "message": "Chiqish"
+  },
+  "inputPlaceholder": {
+    "message": "Nemischa matnni shu yerga qo‘ying yoki yozing…"
+  },
+  "outputPlaceholder": {
+    "message": "Oʻzgartirilgan matn shu yerda paydo boʻladi…"
+  },
+  "convertButton": {
+    "message": "Konvertatsiya qilish"
+  },
+  "copyButton": {
+    "message": "Nusxalash"
+  },
+  "copiedButton": {
+    "message": "Ko‘chirildi!"
+  },
+  "clearButton": {
+    "message": "Tozalash"
+  },
+  "openSidePanelButton": {
+    "message": "Yon panelda oching"
+  },
+  "settingsTitle": {
+    "message": "Sozlamalar"
+  },
+  "apiKeyLabel": {
+    "message": "Antropik API kaliti"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-chumoli-…"
+  },
+  "showKeyButton": {
+    "message": "Ko'rsatish"
+  },
+  "hideKeyButton": {
+    "message": "Yashirish"
+  },
+  "saveKeyButton": {
+    "message": "Kalitni saqlash"
+  },
+  "keySavedConfirm": {
+    "message": "Kalit saqlandi:"
+  },
+  "testKeyButton": {
+    "message": "Sinov kaliti"
+  },
+  "testKeyValid": {
+    "message": "✓ Yaroqli"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Yaroqsiz"
+  },
+  "testKeyTesting": {
+    "message": "Sinov qilinmoqda…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ohang intensivligi"
+  },
+  "toneStandard": {
+    "message": "Standart"
+  },
+  "tonePolished": {
+    "message": "Jilolangan"
+  },
+  "toneStrictCorporate": {
+    "message": "Qattiq korporativ"
+  },
+  "noApiKeyWarning": {
+    "message": "Hech qanday API kaliti saqlanmadi. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Sozlamalar"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Bu matn nemis tilida bo'lmasligi mumkin. "
+  },
+  "charactersCount": {
+    "message": "$count$ belgilar",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API kaliti yaroqsiz. "
+  },
+  "errorRateLimit": {
+    "message": "Tarif limitiga yetdi. "
+  },
+  "errorApiServer": {
+    "message": "Antropik API xatosi. "
+  },
+  "errorNetwork": {
+    "message": "Tarmoq xatosi. "
+  },
+  "errorUnknown": {
+    "message": "Kutilmagan xatolik yuz berdi. "
+  },
+  "errorNoKey": {
+    "message": "Hech qanday API kaliti sozlanmagan. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Tanlovni aylantirish → rasmiy (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Tanlovni aylantirish → norasmiy (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Oʻzgartirilmoqda…"
+  },
+  "floatingReplaceButton": {
+    "message": "Tanlovni almashtirish"
+  },
+  "floatingCopyButton": {
+    "message": "Nusxalash"
+  },
+  "floatingCopiedButton": {
+    "message": "Ko‘chirildi!"
+  },
+  "floatingDismissButton": {
+    "message": "Rad etish"
+  },
+  "floatingRetryButton": {
+    "message": "Qayta urinish"
+  },
+  "floatingErrorPrefix": {
+    "message": "Xato:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ushbu sahifadagi matnni almashtirib bo'lmaydi. "
+  },
+  "historyTitle": {
+    "message": "Konvertatsiya tarixi"
+  },
+  "historyClearButton": {
+    "message": "Tarixni tozalash"
+  },
+  "historyRestoreButton": {
+    "message": "Qayta tiklash"
+  },
+  "historyEmpty": {
+    "message": "Hozircha konvertatsiya qilinmagan."
+  },
+  "historyModeLabel": {
+    "message": "Rejim:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensivlik:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standart"
+  },
+  "historyIntensityPolished": {
+    "message": "Jilolangan"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Qattiq korporativ"
+  },
+  "diffToggleButton": {
+    "message": "Farqni ko'rsatish"
+  },
+  "diffToggleButtonOff": {
+    "message": "Farqni yashirish"
+  },
+  "diffInputLabel": {
+    "message": "Asl"
+  },
+  "diffOutputLabel": {
+    "message": "O'zgartirilgan"
+  },
+  "ariaSettingsToggle": {
+    "message": "Sozlamalar panelini almashtirish"
+  },
+  "ariaShowPassword": {
+    "message": "API kalitini ko'rsatish"
+  },
+  "ariaHidePassword": {
+    "message": "API kalitini yashirish"
+  },
+  "ariaConvertButton": {
+    "message": "Matnni aylantirish"
+  },
+  "ariaCopyOutput": {
+    "message": "Chiqishni vaqtinchalik xotiraga nusxalash"
+  },
+  "ariaClearAll": {
+    "message": "Kirish va chiqishni tozalang"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Yon panelda to'liq ish maydonini oching"
+  },
+  "ariaDiffToggle": {
+    "message": "Farq koʻrinishini oʻzgartirish"
+  },
+  "ariaHistoryToggle": {
+    "message": "Tarix panelini almashtirish"
+  },
+  "keyStatusPresent": {
+    "message": "API kaliti saqlanadi"
+  },
+  "keyStatusMissing": {
+    "message": "Hech qanday API kaliti saqlanmadi"
+  },
+  "converting": {
+    "message": "Oʻzgartirilmoqda…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Ish maydoni"
+  }
+}

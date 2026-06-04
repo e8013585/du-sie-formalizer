@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Shandura zvinyorwa zveGerman pakati pezvisina kurongwa (Du) uye zviri pamutemo (Sie) rejista uchishandisa Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Nama kana kunyora zvinyorwa zveGerman pano…"
+  },
+  "outputPlaceholder": {
+    "message": "Mavara akashandurwa achaonekwa pano..."
+  },
+  "convertButton": {
+    "message": "Shandura"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Kopirwa!"
+  },
+  "clearButton": {
+    "message": "Pachena"
+  },
+  "openSidePanelButton": {
+    "message": "Vhura muSide Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Kiyi"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Show"
+  },
+  "hideKeyButton": {
+    "message": "Hide"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Kiyi yachengetwa:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ Inoshanda"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Haina basa"
+  },
+  "testKeyTesting": {
+    "message": "Kuedza..."
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Toni Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Yakanatswa"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Hapana kiyi yeAPI yachengetwa. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ichi chinyorwa chinogona kunge chisiri muGerman. "
+  },
+  "charactersCount": {
+    "message": "$ count$ mavara",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API kiyi isiriyo. "
+  },
+  "errorRateLimit": {
+    "message": "Rate limit yasvika. "
+  },
+  "errorApiServer": {
+    "message": "Anthropic API kukanganisa. "
+  },
+  "errorNetwork": {
+    "message": "Network kukanganisa. "
+  },
+  "errorUnknown": {
+    "message": "Paitika chikanganiso chisingatarisirwi. "
+  },
+  "errorNoKey": {
+    "message": "Hapana kiyi yeAPI yakagadziriswa. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Shandura sarudzo → zviri pamutemo (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Shandura sarudzo → zvisina kurongwa (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Kushandura..."
+  },
+  "floatingReplaceButton": {
+    "message": "Tsiva Sarudzo"
+  },
+  "floatingCopyButton": {
+    "message": "Copy"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopirwa!"
+  },
+  "floatingDismissButton": {
+    "message": "Dzinga"
+  },
+  "floatingRetryButton": {
+    "message": "Edza zvakare"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Hatikwanise kutsiva mavara papeji ino. "
+  },
+  "historyTitle": {
+    "message": "Conversion History"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Dzorera"
+  },
+  "historyEmpty": {
+    "message": "Hapasati pava nekushandurwa."
+  },
+  "historyModeLabel": {
+    "message": "Modhi:"
+  },
+  "historyIntensityLabel": {
+    "message": "Kusimba:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Yakanatswa"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Hide Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Yakashandurwa"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Ratidza kiyi yeAPI"
+  },
+  "ariaHidePassword": {
+    "message": "Viga kiyi yeAPI"
+  },
+  "ariaConvertButton": {
+    "message": "Shandura zvinyorwa"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopira zvakabuda kune clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Zvakajeka kuisa uye kubuda"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Vhura nzvimbo yekushanda yakazara mudivi repaneru"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API kiyi yachengetwa"
+  },
+  "keyStatusMissing": {
+    "message": "Hapana kiyi yeAPI yachengetwa"
+  },
+  "converting": {
+    "message": "Kushandura..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Nzvimbo yekushanda"
+  }
+}

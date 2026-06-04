@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Kirasimisha"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Badilisha maandishi ya Kijerumani kati ya sajili isiyo rasmi (Du) na rasmi (Sie) kwa kutumia Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Ingizo"
+  },
+  "outputLabel": {
+    "message": "Pato"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Geuza"
+  },
+  "copyButton": {
+    "message": "Nakili"
+  },
+  "copiedButton": {
+    "message": "Imenakili!"
+  },
+  "clearButton": {
+    "message": "Futa"
+  },
+  "openSidePanelButton": {
+    "message": "Fungua katika Paneli ya Upande"
+  },
+  "settingsTitle": {
+    "message": "Mipangilio"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Ufunguo"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Onyesha"
+  },
+  "hideKeyButton": {
+    "message": "Ficha"
+  },
+  "saveKeyButton": {
+    "message": "Hifadhi Ufunguo"
+  },
+  "keySavedConfirm": {
+    "message": "Ufunguo umehifadhiwa:"
+  },
+  "testKeyButton": {
+    "message": "Ufunguo wa Jaribio"
+  },
+  "testKeyValid": {
+    "message": "✓ Imetumika"
+  },
+  "testKeyInvalid": {
+    "message": "◄ Batili"
+  },
+  "testKeyTesting": {
+    "message": "Jaribio…"
+  },
+  "modelLabel": {
+    "message": "Muundo"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ukali wa Toni"
+  },
+  "toneStandard": {
+    "message": "Kawaida"
+  },
+  "tonePolished": {
+    "message": "Iliyong'olewa"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Hakuna ufunguo wa API uliohifadhiwa. Tafadhali weka ufunguo wako wa Anthropic API katika"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Mipangilio"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Maandishi haya huenda yasiwe katika Kijerumani. Huenda matokeo yasiwe sahihi."
+  },
+  "charactersCount": {
+    "message": "herufi $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ufunguo batili wa API. Tafadhali angalia ufunguo wako katika Mipangilio."
+  },
+  "errorRateLimit": {
+    "message": "Kikomo cha kiwango kimefikiwa. Tafadhali subiri na ujaribu tena."
+  },
+  "errorApiServer": {
+    "message": "Hitilafu ya Anthropic API. Tafadhali jaribu tena baadaye."
+  },
+  "errorNetwork": {
+    "message": "Hitilafu ya mtandao. Tafadhali angalia muunganisho wako."
+  },
+  "errorUnknown": {
+    "message": "Hitilafu isiyotarajiwa imetokea. Tafadhali jaribu tena."
+  },
+  "errorNoKey": {
+    "message": "Hakuna ufunguo wa API uliosanidiwa. Tafadhali ongeza ufunguo wako katika Mipangilio."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Geuza uteuzi → rasmi (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Badilisha uteuzi → isiyo rasmi (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": ""
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Nakili"
+  },
+  "floatingCopiedButton": {
+    "message": "Imenakiliwa!"
+  },
+  "floatingDismissButton": {
+    "message": "Ondoa"
+  },
+  "floatingRetryButton": {
+    "message": "Jaribu tena"
+  },
+  "floatingErrorPrefix": {
+    "message": "Hitilafu:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Haiwezi kubadilisha maandishi kwenye ukurasa huu. Tafadhali nakili badala yake."
+  },
+  "historyTitle": {
+    "message": "Historia ya Ubadilishaji"
+  },
+  "historyClearButton": {
+    "message": "Futa Historia"
+  },
+  "historyRestoreButton": {
+    "message": "Rejesha"
+  },
+  "historyEmpty": {
+    "message": "Bado hakuna ubadilishaji."
+  },
+  "historyModeLabel": {
+    "message": "Njia:"
+  },
+  "historyIntensityLabel": {
+    "message": "Uzito:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Kawaida"
+  },
+  "historyIntensityPolished": {
+    "message": "Iliyong'arishwa"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Onyesha Tofauti"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ficha Tofauti"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Ficha ufunguo wa API"
+  },
+  "ariaConvertButton": {
+    "message": "Geuza maandishi"
+  },
+  "ariaCopyOutput": {
+    "message": "Nakili towe kwenye ubao wa kunakili"
+  },
+  "ariaClearAll": {
+    "message": "Futa ingizo na pato"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Fungua nafasi kamili ya kazi kwenye kisanduku cha pembeni"
+  },
+  "ariaDiffToggle": {
+    "message": "Geuza mwonekano wa tofauti"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Hakuna ufunguo wa API uliohifadhiwa"
+  },
+  "converting": {
+    "message": "Inabadilisha…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

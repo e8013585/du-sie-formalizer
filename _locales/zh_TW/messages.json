@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "使用 Claude AI 在非正式 (Du) 和正式 (Sie) 之間轉換德語文字。 "
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "輸入"
+  },
+  "outputLabel": {
+    "message": "輸出"
+  },
+  "inputPlaceholder": {
+    "message": "在此處貼上或輸入德語文字..."
+  },
+  "outputPlaceholder": {
+    "message": "將顯示轉換後的文字..."
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copied!"
+  },
+  "clearButton": {
+    "message": "清除"
+  },
+  "openSidePanelButton": {
+    "message": "在側邊面板中開啟"
+  },
+  "settingsTitle": {
+    "message": "設定"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API金鑰"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "顯示"
+  },
+  "hideKeyButton": {
+    "message": "隱藏"
+  },
+  "saveKeyButton": {
+    "message": "儲存金鑰"
+  },
+  "keySavedConfirm": {
+    "message": "已儲存金鑰："
+  },
+  "testKeyButton": {
+    "message": "測試金鑰"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗無效"
+  },
+  "testKeyTesting": {
+    "message": "測試…"
+  },
+  "modelLabel": {
+    "message": "模型"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "音調強度"
+  },
+  "toneStandard": {
+    "message": "標準"
+  },
+  "tonePolished": {
+    "message": "已拋光"
+  },
+  "toneStrictCorporate": {
+    "message": "嚴格公司"
+  },
+  "noApiKeyWarning": {
+    "message": "No API key saved. Please enter your Anthropic API key in"
+  },
+  "noApiKeyWarningLink": {
+    "message": "設定"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "中輸入您的 Anthropic API 金鑰。此文字可能不是德語。結果可能不準確。 "
+  },
+  "charactersCount": {
+    "message": "$count$ 個字元",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API 金鑰無效。請在「設定」中檢查您的密鑰。 "
+  },
+  "errorRateLimit": {
+    "message": "已達到速率限制。請等待並重試。 "
+  },
+  "errorApiServer": {
+    "message": "人為 API 錯誤。請稍後重試。 "
+  },
+  "errorNetwork": {
+    "message": "網路錯誤。請檢查您的連線。 "
+  },
+  "errorUnknown": {
+    "message": "發生意外錯誤。請重試。 "
+  },
+  "errorNoKey": {
+    "message": "未配置 API 金鑰。請在“設定”中新增您的密鑰。 "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "轉換選擇 → 正式 (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "轉換選擇 → 非正式 (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "正在轉換..."
+  },
+  "floatingReplaceButton": {
+    "message": "取代選擇"
+  },
+  "floatingCopyButton": {
+    "message": "複製"
+  },
+  "floatingCopiedButton": {
+    "message": "已複製！ "
+  },
+  "floatingDismissButton": {
+    "message": "關閉"
+  },
+  "floatingRetryButton": {
+    "message": "重試"
+  },
+  "floatingErrorPrefix": {
+    "message": "錯誤："
+  },
+  "floatingReplaceUnavailable": {
+    "message": "無法取代此頁面上的文字。請複製。 "
+  },
+  "historyTitle": {
+    "message": "轉換歷史記錄"
+  },
+  "historyClearButton": {
+    "message": "清除歷史記錄"
+  },
+  "historyRestoreButton": {
+    "message": "恢復"
+  },
+  "historyEmpty": {
+    "message": "尚無轉換。 "
+  },
+  "historyModeLabel": {
+    "message": "模式："
+  },
+  "historyIntensityLabel": {
+    "message": "強度："
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "標準"
+  },
+  "historyIntensityPolished": {
+    "message": "拋光"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "嚴格公司"
+  },
+  "diffToggleButton": {
+    "message": "顯示差異"
+  },
+  "diffToggleButtonOff": {
+    "message": "隱藏差異"
+  },
+  "diffInputLabel": {
+    "message": "原始"
+  },
+  "diffOutputLabel": {
+    "message": "轉換"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "隱藏 API 金鑰"
+  },
+  "ariaConvertButton": {
+    "message": "轉換文字"
+  },
+  "ariaCopyOutput": {
+    "message": "將輸出複製到剪貼簿"
+  },
+  "ariaClearAll": {
+    "message": "清除輸入與輸出"
+  },
+  "ariaOpenSidePanel": {
+    "message": "在側邊面板中開啟完整工作區"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "未儲存 API 金鑰"
+  },
+  "converting": {
+    "message": "正在轉換..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – 工作區"
+  }
+}

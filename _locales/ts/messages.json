@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Hundzuluxa tsalwa ra Xijarimani exikarhi ka rhijisitara leri nga riki ra xivumbeko (Du) na ra xivumbeko (Sie) hi ku tirhisa Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Nnghenisa"
+  },
+  "outputLabel": {
+    "message": "Ku humesa"
+  },
+  "inputPlaceholder": {
+    "message": "Namarheta kumbe ku thayipa tsalwa ra Xijarimani laha..."
+  },
+  "outputPlaceholder": {
+    "message": "Tsalwa leri hundzuriweke ri ta humelela laha..."
+  },
+  "convertButton": {
+    "message": "Hundzuluxa"
+  },
+  "copyButton": {
+    "message": "Kopi"
+  },
+  "copiedButton": {
+    "message": "Ku kopiwile!"
+  },
+  "clearButton": {
+    "message": "Swi basisa"
+  },
+  "openSidePanelButton": {
+    "message": "Pfula eka Phaneli ya le Matlhelo"
+  },
+  "settingsTitle": {
+    "message": "Swiyimiso"
+  },
+  "apiKeyLabel": {
+    "message": "API ya Anthropic Xilotlelo"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Kombisa"
+  },
+  "hideKeyButton": {
+    "message": "Fihla"
+  },
+  "saveKeyButton": {
+    "message": "Hlayisa Xilotlelo"
+  },
+  "keySavedConfirm": {
+    "message": "Xilotlelo xi hlayisiwile:"
+  },
+  "testKeyButton": {
+    "message": "Xilotlelo xa Xikambelo"
+  },
+  "testKeyValid": {
+    "message": "✓ Xi tirha"
+  },
+  "testKeyInvalid": {
+    "message": "✗ A swi tirhi"
+  },
+  "testKeyTesting": {
+    "message": "Ku kamberiwa..."
+  },
+  "modelLabel": {
+    "message": "Modeli"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ntiyiso wa Thoni"
+  },
+  "toneStandard": {
+    "message": "Xiyimo xa le henhla"
+  },
+  "tonePolished": {
+    "message": "Xi pholishiwile"
+  },
+  "toneStrictCorporate": {
+    "message": "Xikambelo xo tika"
+  },
+  "noApiKeyWarning": {
+    "message": "Ku hava xilotlelo xa API lexi hlayisiweke. Hi kombela u nghenisa xilotlelo xa wena xa Anthropic API eka"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Swiyimiso"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Tsalwa leri ri nga ha va ri nga ri hi Xijarimani. Mimbuyelo yi nga ha va yi nga ri ntiyiso."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Xilotlelo xa API lexi nga tirhiki. Hi kombela u languta xilotlelo xa wena eka Switirhisiwa."
+  },
+  "errorRateLimit": {
+    "message": "Xipimelo xa mpimo xi fikeleriwile. Hi kombela u yima u ringeta nakambe."
+  },
+  "errorApiServer": {
+    "message": "Xihoxo xa Anthropic API. Hi kombela u ringeta nakambe endzhaku."
+  },
+  "errorNetwork": {
+    "message": "Xihoxo xa netiweke. Hi kombela u kambela vuhlanganisi bya wena."
+  },
+  "errorUnknown": {
+    "message": "Ku humelerile xihoxo lexi nga languteriwangiki. Hi kombela u ringeta nakambe."
+  },
+  "errorNoKey": {
+    "message": "Ku hava xilotlelo xa API lexi hleriweke. Hi kombela u engetela xilotlelo xa wena eka Switirhisiwa."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Hundzuluxa nhlawulo → xivumbeko xa xivumbeko (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Hundzula ku hlawula → loku nga riki ka xivumbeko (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Ku hundzula..."
+  },
+  "floatingReplaceButton": {
+    "message": "Ku siva Nhlawulo"
+  },
+  "floatingCopyButton": {
+    "message": "Kopi"
+  },
+  "floatingCopiedButton": {
+    "message": "Ku kopiwile!"
+  },
+  "floatingDismissButton": {
+    "message": "Ku hlongoriwa"
+  },
+  "floatingRetryButton": {
+    "message": "Ringeta nakambe"
+  },
+  "floatingErrorPrefix": {
+    "message": "Xihoxo:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "A swi koteki ku siva tsalwa eka tluka leri. Hi kombela u kopa ematshan’wini ya sweswo."
+  },
+  "historyTitle": {
+    "message": "Matimu ya ku Hundzula"
+  },
+  "historyClearButton": {
+    "message": "Susa Matimu"
+  },
+  "historyRestoreButton": {
+    "message": "Vuyisela"
+  },
+  "historyEmpty": {
+    "message": "A ku na ku hundzuka ku fikela sweswi."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Ntirho:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Xiyimo xa le henhla"
+  },
+  "historyIntensityPolished": {
+    "message": "Xi pholishiwile"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Xikambelo xo tika"
+  },
+  "diffToggleButton": {
+    "message": "Kombisa Ku Hambana"
+  },
+  "diffToggleButtonOff": {
+    "message": "Fihla Ku Hambana"
+  },
+  "diffInputLabel": {
+    "message": "Xiyimo xa masungulo"
+  },
+  "diffOutputLabel": {
+    "message": "Xi hundzuriwile"
+  },
+  "ariaSettingsToggle": {
+    "message": "Ku cinca swiyimiso phanele"
+  },
+  "ariaShowPassword": {
+    "message": "Kombisa xilotlelo xa API"
+  },
+  "ariaHidePassword": {
+    "message": "Fihla xilotlelo xa API"
+  },
+  "ariaConvertButton": {
+    "message": "Hundzuluxa tsalwa"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopa vuhumelerisi eka clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Susa ku nghenisa na ku humesa"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Pfula ndhawu yo tirhela leyi heleleke eka phanele ya le tlhelo"
+  },
+  "ariaDiffToggle": {
+    "message": "Ku cinca xivono xo hambana"
+  },
+  "ariaHistoryToggle": {
+    "message": "Ku cinca matimu phanele"
+  },
+  "keyStatusPresent": {
+    "message": "Xilotlelo xa API xi hlayisiwile"
+  },
+  "keyStatusMissing": {
+    "message": "Ku hava xilotlelo xa API lexi hlayisiweke"
+  },
+  "converting": {
+    "message": "Ku hundzuluxa..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Ndhawu yo tirhela eka yona"
+  }
+}

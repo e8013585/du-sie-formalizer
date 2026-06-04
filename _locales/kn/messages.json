@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI ಬಳಸಿಕೊಂಡು ಅನೌಪಚಾರಿಕ (ಡು) ಮತ್ತು ಔಪಚಾರಿಕ (Sie) ರಿಜಿಸ್ಟರ್ ನಡುವೆ ಜರ್ಮನ್ ಪಠ್ಯವನ್ನು ಪರಿವರ್ತಿಸಿ."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "ಪರಿವರ್ತಿತ ಪಠ್ಯವು ಇಲ್ಲಿ ಗೋಚರಿಸುತ್ತದೆ..."
+  },
+  "convertButton": {
+    "message": "ಪರಿವರ್ತಿಸಿ"
+  },
+  "copyButton": {
+    "message": "ನಕಲಿಸಿ"
+  },
+  "copiedButton": {
+    "message": "ನಕಲು ಮಾಡಲಾಗಿದೆ!"
+  },
+  "clearButton": {
+    "message": "ತೆರವುಗೊಳಿಸಿ"
+  },
+  "openSidePanelButton": {
+    "message": "ಸೈಡ್ ಪ್ಯಾನೆಲ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "settingsTitle": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "apiKeyLabel": {
+    "message": "A ಕೀ"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ಶೋ"
+  },
+  "hideKeyButton": {
+    "message": "ಮರೆಮಾಡು"
+  },
+  "saveKeyButton": {
+    "message": "ಕೀಲಿಯನ್ನು ಉಳಿಸಿ"
+  },
+  "keySavedConfirm": {
+    "message": "ಕೀಲಿಯನ್ನು ಉಳಿಸಲಾಗಿದೆ:"
+  },
+  "testKeyButton": {
+    "message": "ಪರೀಕ್ಷಾ ಕೀ"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ಪರೀಕ್ಷೆ…"
+  },
+  "modelLabel": {
+    "message": "ಮಾದರಿ"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ಟೋನ್ ತೀವ್ರತೆ"
+  },
+  "toneStandard": {
+    "message": "ಸ್ಟ್ಯಾಂಡರ್ಡ್"
+  },
+  "tonePolished": {
+    "message": "ಪಾಲಿಶ್ ಮಾಡಲಾಗಿದೆ"
+  },
+  "toneStrictCorporate": {
+    "message": "ಕಟ್ಟುನಿಟ್ಟಾದ ಕಾರ್ಪೊರೇಟ್"
+  },
+  "noApiKeyWarning": {
+    "message": "ಯಾವುದೇ API ಕೀ ಉಳಿಸಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ Anthropic API ಕೀಯನ್ನು"
+  },
+  "noApiKeyWarningLink": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನಮೂದಿಸಿ"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ಈ ಪಠ್ಯವು ಜರ್ಮನ್‌ನಲ್ಲಿ ಇಲ್ಲದಿರಬಹುದು. ಫಲಿತಾಂಶಗಳು ತಪ್ಪಾಗಿರಬಹುದು."
+  },
+  "charactersCount": {
+    "message": "$count$ ಅಕ್ಷರ��ಳು",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "ಅಮಾನ್ಯ API ಕೀ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಕೀಯನ್ನು ಪರಿಶೀಲಿಸಿ."
+  },
+  "errorRateLimit": {
+    "message": "ದರ ಮಿತಿಯನ್ನು ತಲುಪಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API ದೋಷ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "errorNetwork": {
+    "message": "ನೆಟ್‌ವರ್ಕ್ ದೋಷ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸ��ಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ."
+  },
+  "errorUnknown": {
+    "message": "ಅನಿರೀಕ್ಷಿತ ದೋಷ ಸಂಭವಿಸಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "errorNoKey": {
+    "message": "ಯಾವುದೇ API ಕೀಯನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಲಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕೀಲಿಯನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸೇರಿಸಿ."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "ಆಯ್ಕೆಯನ್ನು ಪರಿವರ್ತಿಸಿ → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "ಆಯ್ಕೆಯನ್ನು ಪರಿವರ್ತಿಸಿ → ಅನೌಪಚಾರಿಕ (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie ಔಪಚಾರಿಕಗೊಳಿಸುವಿಕೆ"
+  },
+  "floatingCardLoading": {
+    "message": "ಪರಿವರ್ತಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "floatingReplaceButton": {
+    "message": "ಆಯ್ಕೆಯನ್ನು ಬದಲಾಯಿಸಿ"
+  },
+  "floatingCopyButton": {
+    "message": "ನಕಲು"
+  },
+  "floatingCopiedButton": {
+    "message": "ನಕಲು ಮಾಡಲಾಗಿದೆ!"
+  },
+  "floatingDismissButton": {
+    "message": "ವಜಾಗೊಳಿಸು"
+  },
+  "floatingRetryButton": {
+    "message": "ಮರುಪ್ರಯತ್ನಿಸಿ"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "ಪರಿವರ್ತನೆ ಇತಿಹಾಸ"
+  },
+  "historyClearButton": {
+    "message": "ಇತಿಹಾಸವನ್ನು ತೆರವುಗೊಳಿಸಿ"
+  },
+  "historyRestoreButton": {
+    "message": "ಮರುಸ್ಥಾಪಿಸು"
+  },
+  "historyEmpty": {
+    "message": "ಇನ್ನೂ ��ಾವುದೇ ಪರಿವರ್ತನೆಗಳಿಲ್ಲ."
+  },
+  "historyModeLabel": {
+    "message": "ಮೋಡ್:"
+  },
+  "historyIntensityLabel": {
+    "message": "ತೀವ್ರತೆ:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "ಸ್ಟ್ಯಾಂಡರ್ಡ್"
+  },
+  "historyIntensityPolished": {
+    "message": "ಪಾಲಿಶ್ಡ್"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "ಕಟ್ಟುನಿಟ್ಟಾದ ಕಾರ್ಪೊರೇಟ್"
+  },
+  "diffToggleButton": {
+    "message": "ಡಿಫ್ ಅನ್ನು ತೋರಿಸು"
+  },
+  "diffToggleButtonOff": {
+    "message": "ಡಿಫ್ ಅನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "diffInputLabel": {
+    "message": "ಮೂಲ"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API ಕೀಲಿಯನ್ನು ತೋರಿಸು"
+  },
+  "ariaHidePassword": {
+    "message": "API ಕೀಲಿಯನ್ನು ಮರೆಮಾಡಿ"
+  },
+  "ariaConvertButton": {
+    "message": "ಪಠ್ಯವನ್ನು ಪರಿವರ್ತಿಸಿ"
+  },
+  "ariaCopyOutput": {
+    "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಔಟ್‌ಪುಟ್ ಅನ್ನು ನಕಲಿಸಿ"
+  },
+  "ariaClearAll": {
+    "message": "ಇನ್‌ಪುಟ್ ಮತ್ತು ಔಟ್‌ಪುಟ್ ಅನ್ನು ತೆರವುಗೊಳಿಸಿ"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "ಇತಿಹಾಸ ಫಲಕವನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "keyStatusPresent": {
+    "message": "API ಕೀಯನ್ನು ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "keyStatusMissing": {
+    "message": "ಯಾವುದೇ API ಕೀಯನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ"
+  },
+  "converting": {
+    "message": "ಪರಿವರ್ತಿಸಲಾಗುತ್ತಿದೆ..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

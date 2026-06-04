@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Nivîsara Almanî di navbera qeyda nefermî (Du) û fermî (Sie) de bi karanîna Claude AI-ê veguherînin."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Beyan"
+  },
+  "outputLabel": {
+    "message": "Karûabr"
+  },
+  "inputPlaceholder": {
+    "message": "Li vir nivîsa almanî binivîsin an binivîsin…"
+  },
+  "outputPlaceholder": {
+    "message": "Nivîsa guhertî dê li vir xuya bibe…"
+  },
+  "convertButton": {
+    "message": "Gûhertin"
+  },
+  "copyButton": {
+    "message": "Kopî"
+  },
+  "copiedButton": {
+    "message": "Kopî kirin!"
+  },
+  "clearButton": {
+    "message": "Zelal"
+  },
+  "openSidePanelButton": {
+    "message": "Di Panela Aliyê de vekin"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Mifteya API-ya Antropîk"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Rêdan"
+  },
+  "hideKeyButton": {
+    "message": "Veşartin"
+  },
+  "saveKeyButton": {
+    "message": "Save Key"
+  },
+  "keySavedConfirm": {
+    "message": "Mifteya xilas bû:"
+  },
+  "testKeyButton": {
+    "message": "Mifteya Testê"
+  },
+  "testKeyValid": {
+    "message": "✓ Derbasdar"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Nederbasdar"
+  },
+  "testKeyTesting": {
+    "message": "Ceribandin…"
+  },
+  "modelLabel": {
+    "message": "Cins"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Zêdebûna Tone"
+  },
+  "toneStandard": {
+    "message": "Rêzan"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "No key API xilas. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Dibe ku ev nivîs ne bi Almanî be. "
+  },
+  "charactersCount": {
+    "message": "$count$ tîpan",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Mifteya API ya nederbasdar. "
+  },
+  "errorRateLimit": {
+    "message": "Sînorê Rêjeyê gihîştiye. "
+  },
+  "errorApiServer": {
+    "message": "Çewtiya API-ya Antropîk. "
+  },
+  "errorNetwork": {
+    "message": "Çewtiya torê. "
+  },
+  "errorUnknown": {
+    "message": "Çewtiyeke neçaverêkirî derket. "
+  },
+  "errorNoKey": {
+    "message": "No mifteya API-ê nehatiye mîheng kirin. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Hilbijartinê veguherîne → fermî (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Vebijêrk veguherîne → nefermî (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Veguherandin…"
+  },
+  "floatingReplaceButton": {
+    "message": "Biguherîne Hilbijartinê"
+  },
+  "floatingCopyButton": {
+    "message": "Kopî"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopî kirin!"
+  },
+  "floatingDismissButton": {
+    "message": "Berdan"
+  },
+  "floatingRetryButton": {
+    "message": "Ji nû ve biceribîne"
+  },
+  "floatingErrorPrefix": {
+    "message": "Şaşî:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Li ser vê rûpelê nivîsar nayê guhertin. "
+  },
+  "historyTitle": {
+    "message": "Dîroka Veguherînê"
+  },
+  "historyClearButton": {
+    "message": "Dîrokê Paqij bike"
+  },
+  "historyRestoreButton": {
+    "message": "Nûvdekirin"
+  },
+  "historyEmpty": {
+    "message": "Hîn veguhertin tune."
+  },
+  "historyModeLabel": {
+    "message": "Awa:"
+  },
+  "historyIntensityLabel": {
+    "message": "Zexmî:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Rêzan"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Cûdahî nîşan bide"
+  },
+  "diffToggleButtonOff": {
+    "message": "Cûdahî veşêre"
+  },
+  "diffInputLabel": {
+    "message": "Eslî"
+  },
+  "diffOutputLabel": {
+    "message": "Veguherandin"
+  },
+  "ariaSettingsToggle": {
+    "message": "Panela mîhengan biguherîne"
+  },
+  "ariaShowPassword": {
+    "message": "Bişkojka API-ê nîşan bide"
+  },
+  "ariaHidePassword": {
+    "message": "Bişkojka API veşêre"
+  },
+  "ariaConvertButton": {
+    "message": "Veguhertina nivîsê"
+  },
+  "ariaCopyOutput": {
+    "message": "Derketinê li clipboardê kopî bikin"
+  },
+  "ariaClearAll": {
+    "message": "Ketin û derketinê paqij bikin"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Di panelê de cîhê xebatê yê tevahî vekin"
+  },
+  "ariaDiffToggle": {
+    "message": "Dîtina cudahiyê biguherîne"
+  },
+  "ariaHistoryToggle": {
+    "message": "Panela dîrokê biguherîne"
+  },
+  "keyStatusPresent": {
+    "message": "Mifteya API-ê tê tomar kirin"
+  },
+  "keyStatusMissing": {
+    "message": "No key API xilas"
+  },
+  "converting": {
+    "message": "Veguherandin…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Cihê xebatê"
+  }
+}

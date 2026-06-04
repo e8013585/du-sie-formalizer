@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Beddel qoraalka Jarmalka inta u dhaxaysa diiwaanka aan rasmiga ahayn (Du) iyo kan rasmiga ah (Sie) adiga oo isticmaalaya Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Beddeli"
+  },
+  "copyButton": {
+    "message": "Koobiy"
+  },
+  "copiedButton": {
+    "message": "Koobiyeeyay!"
+  },
+  "clearButton": {
+    "message": "Nadiifi"
+  },
+  "openSidePanelButton": {
+    "message": "ku fur qaybta dhinaca"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Furaha"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Show"
+  },
+  "hideKeyButton": {
+    "message": "Qari"
+  },
+  "saveKeyButton": {
+    "message": "Keydi furaha"
+  },
+  "keySavedConfirm": {
+    "message": "Furaha waa la keydiyay: "
+  },
+  "testKeyButton": {
+    "message": "Furaha Imtixaanka"
+  },
+  "testKeyValid": {
+    "message": "✓ Saxeexay"
+  },
+  "testKeyInvalid": {
+    "message": "◾ Aan ansax ahayn"
+  },
+  "testKeyTesting": {
+    "message": "Tijaabada…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Awoodda Codka"
+  },
+  "toneStandard": {
+    "message": "Heerka"
+  },
+  "tonePolished": {
+    "message": "La daabacay"
+  },
+  "toneStrictCorporate": {
+    "message": "Shirkad Adag"
+  },
+  "noApiKeyWarning": {
+    "message": "Ma jiro API key oo la keydiyay. Fadlan geli furaha API-ga Anthropic gudaha"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "This text may not be in German. Results may be inaccurate."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Invalid API key. Please check your key in Settings."
+  },
+  "errorRateLimit": {
+    "message": "Qiimaha xadka ayaa la gaarey. Fadlan sug oo mar kale isku day."
+  },
+  "errorApiServer": {
+    "message": "Cillad API Anthropic. Fadlan isku day mar kale hadhow."
+  },
+  "errorNetwork": {
+    "message": "Ciladka shabakada Fadlan hubi xidhiidhkaaga."
+  },
+  "errorUnknown": {
+    "message": "Cil lama filaan ah ayaa dhacay. Fadlan isku day mar kale."
+  },
+  "errorNoKey": {
+    "message": "No API key configured. Please add your key in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Koobi"
+  },
+  "floatingCopiedButton": {
+    "message": "Copied!"
+  },
+  "floatingDismissButton": {
+    "message": "Dismiss"
+  },
+  "floatingRetryButton": {
+    "message": "Retry"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "Conversion History"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Restore"
+  },
+  "historyEmpty": {
+    "message": "No conversions yet."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Tirray"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Shirkad Adag"
+  },
+  "diffToggleButton": {
+    "message": "Muuji Kala Duwanaanshaha"
+  },
+  "diffToggleButtonOff": {
+    "message": "Qari Kala Duwanaanshaha"
+  },
+  "diffInputLabel": {
+    "message": "Asal ahaan"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Qari furaha API"
+  },
+  "ariaConvertButton": {
+    "message": "Beddeli qoraalka"
+  },
+  "ariaCopyOutput": {
+    "message": "Koobi soo saarida kilibboard"
+  },
+  "ariaClearAll": {
+    "message": "Nadiifi galinta iyo soo saarida"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Fur buuxda oo goobta shaqada ee dhinaca dhinac"
+  },
+  "ariaDiffToggle": {
+    "message": "Beddel qoraalka kala duwan"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Ma jiro furaha API la kaydiyay"
+  },
+  "converting": {
+    "message": "Beddelida…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

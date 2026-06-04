@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert téks Jerman antara informal (Du) jeung formal (Sie) register maké Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output text"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Salin"
+  },
+  "copiedButton": {
+    "message": "Disalin!"
+  },
+  "clearButton": {
+    "message": "Hapus"
+  },
+  "openSidePanelButton": {
+    "message": "Buka dina Panel Samping"
+  },
+  "settingsTitle": {
+    "message": "Setélan"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Konci"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Témbongkeun"
+  },
+  "hideKeyButton": {
+    "message": "Sumputkeun"
+  },
+  "saveKeyButton": {
+    "message": "Konci Simpen"
+  },
+  "keySavedConfirm": {
+    "message": "Konci disimpen:"
+  },
+  "testKeyButton": {
+    "message": "Konci Tés"
+  },
+  "testKeyValid": {
+    "message": "✓ Sah"
+  },
+  "testKeyInvalid": {
+    "message": " Teu valid"
+  },
+  "testKeyTesting": {
+    "message": "Uji coba..."
+  },
+  "modelLabel": {
+    "message": "Modél"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Inténsitas Nada"
+  },
+  "toneStandard": {
+    "message": "Standar"
+  },
+  "tonePolished": {
+    "message": "Dipoles"
+  },
+  "toneStrictCorporate": {
+    "message": "Perusahaan Strict"
+  },
+  "noApiKeyWarning": {
+    "message": "Teu aya konci API anu disimpen. Mangga lebetkeun konci API Anthropic anjeun dina"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Setélan"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Téks ieu meureun lain dina basa Jerman. Hasilna meureun teu akurat."
+  },
+  "charactersCount": {
+    "message": "$count$ characters",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Konci API teu valid. Punten parios konci anjeun dina Setélan."
+  },
+  "errorRateLimit": {
+    "message": "Watesan laju ngahontal. Mangga antosan teras cobian deui."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API error. Mangga cobian deui engké."
+  },
+  "errorNetwork": {
+    "message": "Kasalahan jaringan. Mangga parios sambungan anjeun."
+  },
+  "errorUnknown": {
+    "message": "Aya kasalahan anu teu disangka-sangka. Mangga cobian deui."
+  },
+  "errorNoKey": {
+    "message": "Teu aya konci API anu dikonpigurasikeun. Punten tambahkeun konci anjeun dina Setélan."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Salin"
+  },
+  "floatingCopiedButton": {
+    "message": "Disalin!"
+  },
+  "floatingDismissButton": {
+    "message": "Buang"
+  },
+  "floatingRetryButton": {
+    "message": "Coba deui"
+  },
+  "floatingErrorPrefix": {
+    "message": "Kasalahan:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Teu bisa ngaganti téks dina kaca ieu. Mangga tiron."
+  },
+  "historyTitle": {
+    "message": "Riwayat Konversi"
+  },
+  "historyClearButton": {
+    "message": "Hapus Sajarah"
+  },
+  "historyRestoreButton": {
+    "message": "Pulihkeun"
+  },
+  "historyEmpty": {
+    "message": "Teu aya konversi."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Inténsitas:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standar"
+  },
+  "historyIntensityPolished": {
+    "message": "Dipoles"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Perusahaan Ketat"
+  },
+  "diffToggleButton": {
+    "message": "Témbongkeun Béda"
+  },
+  "diffToggleButtonOff": {
+    "message": "Sumputkeun Béda"
+  },
+  "diffInputLabel": {
+    "message": "Asli"
+  },
+  "diffOutputLabel": {
+    "message": "Setélan API"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Sumputkeun konci API"
+  },
+  "ariaConvertButton": {
+    "message": "Convert téks"
+  },
+  "ariaCopyOutput": {
+    "message": "Salin kaluaran ka clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Hapus input jeung output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Buka workspace pinuh dina panel samping"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Teu aya konci API anu disimpen"
+  },
+  "converting": {
+    "message": "Ngarobah…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

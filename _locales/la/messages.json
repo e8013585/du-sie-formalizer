@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convertere textum germanicum inter informal (Du) et formalem (Sie) subcriptio utens Claudius AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Crustulum vel typus textus germanici hic…"
+  },
+  "outputPlaceholder": {
+    "message": "Conversus textus hic apparebit…"
+  },
+  "convertButton": {
+    "message": "Convertere"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Exscriptus!"
+  },
+  "clearButton": {
+    "message": "Patet"
+  },
+  "openSidePanelButton": {
+    "message": "Aperi in Parte Panel"
+  },
+  "settingsTitle": {
+    "message": "Occasus"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Ostendere"
+  },
+  "hideKeyButton": {
+    "message": "Celare"
+  },
+  "saveKeyButton": {
+    "message": "Servare Key"
+  },
+  "keySavedConfirm": {
+    "message": "Clavis servata est:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "Valid"
+  },
+  "testKeyInvalid": {
+    "message": "Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testis…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "sono magnitudo"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "polita"
+  },
+  "toneStrictCorporate": {
+    "message": "Strictioris Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Nulla API clavis servavit. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Occasus"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Hic locus germanice esse non potest. "
+  },
+  "charactersCount": {
+    "message": "$ Numerare $ characteribus",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Invalida API clavis. "
+  },
+  "errorRateLimit": {
+    "message": "Terminus rate perventum est. "
+  },
+  "errorApiServer": {
+    "message": "Error anthropicus API. "
+  },
+  "errorNetwork": {
+    "message": "Retis error. "
+  },
+  "errorUnknown": {
+    "message": "Error inopinatus occurrit. "
+  },
+  "errorNoKey": {
+    "message": "Nulla API key felis. "
+  },
+  "contextMenuRoot": {
+    "message": "Du Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Conversus lectio → formalis (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Conversus lectio → informal (Du C.)"
+  },
+  "floatingCardTitle": {
+    "message": "Du Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Convertere…"
+  },
+  "floatingReplaceButton": {
+    "message": "Reponere Electio"
+  },
+  "floatingCopyButton": {
+    "message": "Copy"
+  },
+  "floatingCopiedButton": {
+    "message": "Exscriptus!"
+  },
+  "floatingDismissButton": {
+    "message": "Dimitte"
+  },
+  "floatingRetryButton": {
+    "message": "Retry"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Textum in hac pagina reponere non possunt. "
+  },
+  "historyTitle": {
+    "message": "Conversio Historia"
+  },
+  "historyClearButton": {
+    "message": "Serena Historia"
+  },
+  "historyRestoreButton": {
+    "message": "Restituere"
+  },
+  "historyEmpty": {
+    "message": "No adhuc conversiones."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitas:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "polita"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strictioris Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Ostendere Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Celare Diff"
+  },
+  "diffInputLabel": {
+    "message": "Originale"
+  },
+  "diffOutputLabel": {
+    "message": "conversus"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle occasus panel"
+  },
+  "ariaShowPassword": {
+    "message": "Ostende API key"
+  },
+  "ariaHidePassword": {
+    "message": "Celare API key"
+  },
+  "ariaConvertButton": {
+    "message": "Convertere text"
+  },
+  "ariaCopyOutput": {
+    "message": "Effingo output ut clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Patet initus et output"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle visum diss"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle historia tabula"
+  },
+  "keyStatusPresent": {
+    "message": "API clavis est salvus"
+  },
+  "keyStatusMissing": {
+    "message": "Non API clavis salvus erit"
+  },
+  "converting": {
+    "message": "Convertere…"
+  },
+  "sidePanelTitle": {
+    "message": "Du Sie Formalizer - Workspace"
+  }
+}

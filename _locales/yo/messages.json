@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Ṣe iyipada ọrọ German laarin alaye (Du) ati iforukọsilẹ (Sie) ni lilo Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Iṣawọle"
+  },
+  "outputLabel": {
+    "message": "Abajade"
+  },
+  "inputPlaceholder": {
+    "message": "Lẹẹmọ tabi tẹ ọrọ Germani si ibi…"
+  },
+  "outputPlaceholder": {
+    "message": "Ọrọ ti o yipada yoo han nibi…"
+  },
+  "convertButton": {
+    "message": "Yipada"
+  },
+  "copyButton": {
+    "message": "Daakọ"
+  },
+  "copiedButton": {
+    "message": "Ti daakọ!"
+  },
+  "clearButton": {
+    "message": "Ko o"
+  },
+  "openSidePanelButton": {
+    "message": "Ṣii ni Igbimọ ẹgbẹ"
+  },
+  "settingsTitle": {
+    "message": "Eto"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Ṣe afihan"
+  },
+  "hideKeyButton": {
+    "message": "Tọju"
+  },
+  "saveKeyButton": {
+    "message": "Fi Bọtini pamọ"
+  },
+  "keySavedConfirm": {
+    "message": "Ti fipamọ bọtini:"
+  },
+  "testKeyButton": {
+    "message": "Kokoro Idanwo"
+  },
+  "testKeyValid": {
+    "message": "✓ Wulo"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ko wulo"
+  },
+  "testKeyTesting": {
+    "message": "Idanwo…"
+  },
+  "modelLabel": {
+    "message": "Awoṣe"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ohun orin kikankikan"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Didan"
+  },
+  "toneStrictCorporate": {
+    "message": "Ti o muna Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Ko si bọtini API ti o fipamọ. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Eto"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ọrọ yii le ma wa ni Jẹmánì. "
+  },
+  "charactersCount": {
+    "message": "$count$ ohun kikọ",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Bọtini API ti ko tọ. "
+  },
+  "errorRateLimit": {
+    "message": "Iwọn opin ti de. "
+  },
+  "errorApiServer": {
+    "message": "Aṣiṣe API Anthropic. "
+  },
+  "errorNetwork": {
+    "message": "Aṣiṣe nẹtiwọki. "
+  },
+  "errorUnknown": {
+    "message": "Aṣiṣe airotẹlẹ waye. "
+  },
+  "errorNoKey": {
+    "message": "Ko si bọtini API ti a tunto. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Yipada yiyan → lodo (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Yipada yiyan → aijẹ deede (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "N yi pada…"
+  },
+  "floatingReplaceButton": {
+    "message": "Rọpo Aṣayan"
+  },
+  "floatingCopyButton": {
+    "message": "Daakọ"
+  },
+  "floatingCopiedButton": {
+    "message": "Ti daakọ!"
+  },
+  "floatingDismissButton": {
+    "message": "Yọọ kuro"
+  },
+  "floatingRetryButton": {
+    "message": "Tun gbiyanju"
+  },
+  "floatingErrorPrefix": {
+    "message": "Asise:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ko le paarọ ọrọ lori oju-iwe yii. "
+  },
+  "historyTitle": {
+    "message": "Ìtàn Ìyípadà"
+  },
+  "historyClearButton": {
+    "message": "Ko itan-akọọlẹ kuro"
+  },
+  "historyRestoreButton": {
+    "message": "Mu pada"
+  },
+  "historyEmpty": {
+    "message": "Ko si awọn iyipada sibẹsibẹ."
+  },
+  "historyModeLabel": {
+    "message": "Ipo:"
+  },
+  "historyIntensityLabel": {
+    "message": "Kikunra:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Didan"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Ti o muna Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Ṣe afihan Iyatọ"
+  },
+  "diffToggleButtonOff": {
+    "message": "Tọju Iyatọ"
+  },
+  "diffInputLabel": {
+    "message": "Atilẹba"
+  },
+  "diffOutputLabel": {
+    "message": "Yipada"
+  },
+  "ariaSettingsToggle": {
+    "message": "Yi nronu eto pada"
+  },
+  "ariaShowPassword": {
+    "message": "Ṣafihan bọtini API"
+  },
+  "ariaHidePassword": {
+    "message": "Tọju bọtini API"
+  },
+  "ariaConvertButton": {
+    "message": "Yi ọrọ pada"
+  },
+  "ariaCopyOutput": {
+    "message": "Daakọ iṣẹjade si agekuru agekuru"
+  },
+  "ariaClearAll": {
+    "message": "Ko titẹ sii ati iṣẹjade kuro"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Ṣii aaye iṣẹ ni kikun ni ẹgbẹ ẹgbẹ"
+  },
+  "ariaDiffToggle": {
+    "message": "Yipada wiwo iyatọ"
+  },
+  "ariaHistoryToggle": {
+    "message": "Yi egbe itan pada"
+  },
+  "keyStatusPresent": {
+    "message": "Bọtini API ti wa ni ipamọ"
+  },
+  "keyStatusMissing": {
+    "message": "Ko si bọtini API ti o fipamọ"
+  },
+  "converting": {
+    "message": "N yi pada…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

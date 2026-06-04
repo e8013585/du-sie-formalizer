@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konverto tekstin gjerman midis regjistrit informal (Du) dhe formal (Sie) duke përdorur Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Teksti i konvertuar do të shfaqet këtu…"
+  },
+  "convertButton": {
+    "message": "Konverto"
+  },
+  "copyButton": {
+    "message": "Kopjo"
+  },
+  "copiedButton": {
+    "message": "Kopjo!"
+  },
+  "clearButton": {
+    "message": "Pastro"
+  },
+  "openSidePanelButton": {
+    "message": "Hap në panelin anësor"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Shfaq"
+  },
+  "hideKeyButton": {
+    "message": "Fshihe"
+  },
+  "saveKeyButton": {
+    "message": "Ruaj çelësin"
+  },
+  "keySavedConfirm": {
+    "message": "Çelësi u ruajt:"
+  },
+  "testKeyButton": {
+    "message": "Çelësi i testit"
+  },
+  "testKeyValid": {
+    "message": "✓ I vlefshëm"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testimi…"
+  },
+  "modelLabel": {
+    "message": "Modeli"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Intensiteti i tonit"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "I lustruar"
+  },
+  "toneStrictCorporate": {
+    "message": "Rrept i korporatës"
+  },
+  "noApiKeyWarning": {
+    "message": "Nuk është ruajtur asnjë çelës API. Fut çelësin tënd Antropic API te"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Cilësimet"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Ky tekst mund të mos jetë në gjermanisht. Rezultatet mund të jenë të pasakta."
+  },
+  "charactersCount": {
+    "message": "$count$ karaktere",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Çelësi i pavlefshëm API. Ju lutemi, kontrolloni çelësin tuaj te \"Cilësimet\"."
+  },
+  "errorRateLimit": {
+    "message": "U arrit kufiri i tarifës. Prit dhe provo sërish."
+  },
+  "errorApiServer": {
+    "message": "Gabim Anthropic API. Provo sërish më vonë."
+  },
+  "errorNetwork": {
+    "message": "Gabim rrjeti. Ju lutemi kontrolloni lidhjen tuaj."
+  },
+  "errorUnknown": {
+    "message": "Ndodhi një gabim i papritur. Provo sërish."
+  },
+  "errorNoKey": {
+    "message": "Nuk është konfiguruar asnjë çelës API. Ju lutemi shtoni çelësin tuaj te \"Cilësimet\"."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Zgjedhja e konvertimit → formale (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konverto përzgjedhjen → joformale (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizuesi"
+  },
+  "floatingCardLoading": {
+    "message": "Po konvertohet…"
+  },
+  "floatingReplaceButton": {
+    "message": "Zëvendëso përzgjedhjen"
+  },
+  "floatingCopyButton": {
+    "message": "Kopjo"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopjo!"
+  },
+  "floatingDismissButton": {
+    "message": "Hiqo"
+  },
+  "floatingRetryButton": {
+    "message": "Riprovo"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "Historiku i Konvertimeve"
+  },
+  "historyClearButton": {
+    "message": "Pastro historinë"
+  },
+  "historyRestoreButton": {
+    "message": "Rivendos"
+  },
+  "historyEmpty": {
+    "message": "Akoma nuk ka konvertime."
+  },
+  "historyModeLabel": {
+    "message": "Modaliteti:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "I lustruar"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Rreptë e korporatës"
+  },
+  "diffToggleButton": {
+    "message": "Shfaq dallimin"
+  },
+  "diffToggleButtonOff": {
+    "message": "Fshih dallimin"
+  },
+  "diffInputLabel": {
+    "message": "cilësimet origjinale"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Fshih tastin API"
+  },
+  "ariaConvertButton": {
+    "message": "Konverto tekstin"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopjo daljen në kujtesën e fragmenteve"
+  },
+  "ariaClearAll": {
+    "message": "Pastro hyrjen dhe daljen"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Hap hapësirën e plotë të punës në panelin anësor"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "Çelësi API është ruajtur"
+  },
+  "keyStatusMissing": {
+    "message": "Nuk është ruajtur asnjë çelës API"
+  },
+  "converting": {
+    "message": "Po konvertohet…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Chuyển đổi văn bản tiếng Đức giữa thanh ghi thông thường (Du) và chính thức (Sie) bằng Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Đầu vào"
+  },
+  "outputLabel": {
+    "message": "Đầu ra"
+  },
+  "inputPlaceholder": {
+    "message": "Dán hoặc nhập văn bản tiếng Đức vào đây…"
+  },
+  "outputPlaceholder": {
+    "message": "Văn bản đã chuyển đổi sẽ xuất hiện tại đây…"
+  },
+  "convertButton": {
+    "message": "Chuyển đổi"
+  },
+  "copyButton": {
+    "message": "Sao chép"
+  },
+  "copiedButton": {
+    "message": "Đã sao chép!"
+  },
+  "clearButton": {
+    "message": "Xóa"
+  },
+  "openSidePanelButton": {
+    "message": "Mở trong Bảng điều khiển bên"
+  },
+  "settingsTitle": {
+    "message": "Cài đặt"
+  },
+  "apiKeyLabel": {
+    "message": "API Anthropic Khóa"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Hiển thị"
+  },
+  "hideKeyButton": {
+    "message": "Ẩn"
+  },
+  "saveKeyButton": {
+    "message": "Lưu khóa"
+  },
+  "keySavedConfirm": {
+    "message": "Khóa đã lưu:"
+  },
+  "testKeyButton": {
+    "message": "Khóa kiểm tra"
+  },
+  "testKeyValid": {
+    "message": " ✓ Hợp lệ"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Không hợp lệ"
+  },
+  "testKeyTesting": {
+    "message": "Đang kiểm tra…"
+  },
+  "modelLabel": {
+    "message": "Mẫu"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Cường độ âm"
+  },
+  "toneStandard": {
+    "message": "Tiêu chuẩn"
+  },
+  "tonePolished": {
+    "message": "Được đánh bóng"
+  },
+  "toneStrictCorporate": {
+    "message": "Công ty nghiêm ngặt"
+  },
+  "noApiKeyWarning": {
+    "message": "Không lưu khóa API. Vui lòng nhập khóa API Anthropic của bạn trong"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Cài đặt"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Văn bản này có thể không phải bằng tiếng Đức. Kết quả có thể không chính xác."
+  },
+  "charactersCount": {
+    "message": "$count$ ký tự",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Khóa API không hợp lệ. Vui lòng kiểm tra khóa của bạn trong Cài đặt."
+  },
+  "errorRateLimit": {
+    "message": "Đã đạt đến giới hạn tốc độ. Vui lòng đợi và thử lại."
+  },
+  "errorApiServer": {
+    "message": "Lỗi API Anthropic. Vui lòng thử lại sau."
+  },
+  "errorNetwork": {
+    "message": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn."
+  },
+  "errorUnknown": {
+    "message": "Đã xảy ra lỗi không mong muốn. Vui lòng thử lại."
+  },
+  "errorNoKey": {
+    "message": "Chưa định cấu hình khóa API nào. Vui lòng thêm khóa của bạn trong Cài đặt."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Chuyển đổi lựa chọn → chính thức (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Chuyển đổi lựa chọn → không chính thức (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Chuyển đổi…"
+  },
+  "floatingReplaceButton": {
+    "message": "Thay thế Lựa chọn"
+  },
+  "floatingCopyButton": {
+    "message": "Sao chép"
+  },
+  "floatingCopiedButton": {
+    "message": "Đã sao chép!"
+  },
+  "floatingDismissButton": {
+    "message": "Bỏ qua"
+  },
+  "floatingRetryButton": {
+    "message": "Thử lại"
+  },
+  "floatingErrorPrefix": {
+    "message": "Lỗi:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Không thể thay thế văn bản trên trang này. Thay vào đó, vui lòng sao chép."
+  },
+  "historyTitle": {
+    "message": "Lịch sử chuyển đổi"
+  },
+  "historyClearButton": {
+    "message": "Xóa lịch sử"
+  },
+  "historyRestoreButton": {
+    "message": "Khôi phục"
+  },
+  "historyEmpty": {
+    "message": "Chưa có chuyển đổi nào."
+  },
+  "historyModeLabel": {
+    "message": "Chế độ:"
+  },
+  "historyIntensityLabel": {
+    "message": "Cường độ:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Tiêu chuẩn"
+  },
+  "historyIntensityPolished": {
+    "message": "Được đánh bóng"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Công ty nghiêm ngặt"
+  },
+  "diffToggleButton": {
+    "message": "Hiển thị khác biệt"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ẩn khác biệt"
+  },
+  "diffInputLabel": {
+    "message": "Bản gốc"
+  },
+  "diffOutputLabel": {
+    "message": "Đã chuyển đổi"
+  },
+  "ariaSettingsToggle": {
+    "message": "Chuyển đổi bảng cài đặt"
+  },
+  "ariaShowPassword": {
+    "message": "Hiển thị API key"
+  },
+  "ariaHidePassword": {
+    "message": "Ẩn khóa API"
+  },
+  "ariaConvertButton": {
+    "message": "Chuyển đổi văn bản"
+  },
+  "ariaCopyOutput": {
+    "message": "Sao chép đầu ra vào khay nhớ tạm"
+  },
+  "ariaClearAll": {
+    "message": "Xóa đầu vào và đầu ra"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Mở toàn bộ không gian làm việc trong bảng điều khiển bên"
+  },
+  "ariaDiffToggle": {
+    "message": "Chuyển đổi chế độ xem khác biệt"
+  },
+  "ariaHistoryToggle": {
+    "message": "Chuyển đổi bảng lịch sử"
+  },
+  "keyStatusPresent": {
+    "message": "Khóa API được lưu"
+  },
+  "keyStatusMissing": {
+    "message": "Không có API đã lưu khóa"
+  },
+  "converting": {
+    "message": "Đang chuyển đổi…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Không gian làm việc"
+  }
+}

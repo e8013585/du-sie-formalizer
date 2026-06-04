@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Fetolela mongolo oa Sejeremane lipakeng tsa ngoliso e sa reroang (Du) le e hlophisitsoeng (Sie) u sebelisa Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Kenyeletso"
+  },
+  "outputLabel": {
+    "message": "Sephetho"
+  },
+  "inputPlaceholder": {
+    "message": "Beha kapa u ngole mongolo oa Sejeremane mona..."
+  },
+  "outputPlaceholder": {
+    "message": "Mongolo o fetotsoeng o tla hlaha mona..."
+  },
+  "convertButton": {
+    "message": "Fetolela"
+  },
+  "copyButton": {
+    "message": "Kopitsa"
+  },
+  "copiedButton": {
+    "message": "E qopisitsoe!"
+  },
+  "clearButton": {
+    "message": "Hlakileng"
+  },
+  "openSidePanelButton": {
+    "message": "Bula ka lehlakoreng la Panel"
+  },
+  "settingsTitle": {
+    "message": "Litlhophiso"
+  },
+  "apiKeyLabel": {
+    "message": "Senotlolo sa Anthropic API"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Bontsha"
+  },
+  "hideKeyButton": {
+    "message": "Ipate"
+  },
+  "saveKeyButton": {
+    "message": "Boloka Senotlolo"
+  },
+  "keySavedConfirm": {
+    "message": "Senotlolo se bolokiloe:"
+  },
+  "testKeyButton": {
+    "message": "Senotlolo sa Teko"
+  },
+  "testKeyValid": {
+    "message": "✓ E nepahetse"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Ha e sebetse"
+  },
+  "testKeyTesting": {
+    "message": "E etsa liteko..."
+  },
+  "modelLabel": {
+    "message": "Mohlala"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Matla a Molumo"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "E bentšitsoe"
+  },
+  "toneStrictCorporate": {
+    "message": "Khamphani e thata"
+  },
+  "noApiKeyWarning": {
+    "message": "Ha ho senotlolo sa API se bolokiloeng. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Litlhophiso"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Mongolo ona o kanna oa se be ka Sejeremane. "
+  },
+  "charactersCount": {
+    "message": "Litlhaku tsa $count$",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Senotlolo sa API se fosahetseng. "
+  },
+  "errorRateLimit": {
+    "message": "Reite e fihletsoe. "
+  },
+  "errorApiServer": {
+    "message": "Phoso ea Anthropic API. "
+  },
+  "errorNetwork": {
+    "message": "Phoso ea marang-rang. "
+  },
+  "errorUnknown": {
+    "message": "Ho etsahetse phoso e neng e sa lebelloa. "
+  },
+  "errorNoKey": {
+    "message": "Ha ho senotlolo sa API se lokiselitsoeng. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Fetolela khetho → ea semmuso (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Fetolela khetho → e sa reroang (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "E ea fetolela..."
+  },
+  "floatingReplaceButton": {
+    "message": "Fetola Khetho"
+  },
+  "floatingCopyButton": {
+    "message": "Kopitsa"
+  },
+  "floatingCopiedButton": {
+    "message": "E qopisitsoe!"
+  },
+  "floatingDismissButton": {
+    "message": "Hlakola"
+  },
+  "floatingRetryButton": {
+    "message": "Leka hape"
+  },
+  "floatingErrorPrefix": {
+    "message": "Phoso:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Ha e khone ho fetola mongolo leqepheng lena. "
+  },
+  "historyTitle": {
+    "message": "Nalane ea Phetoho"
+  },
+  "historyClearButton": {
+    "message": "Hlakola Nalane"
+  },
+  "historyRestoreButton": {
+    "message": "Khutlisa"
+  },
+  "historyEmpty": {
+    "message": "Ha ho na liphetoho hajoale."
+  },
+  "historyModeLabel": {
+    "message": "Mokhoa:"
+  },
+  "historyIntensityLabel": {
+    "message": "Matla:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "E bentšitsoe"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Khamphani e thata"
+  },
+  "diffToggleButton": {
+    "message": "Bontša Phapang"
+  },
+  "diffToggleButtonOff": {
+    "message": "Pata Phapang"
+  },
+  "diffInputLabel": {
+    "message": "Ea mantlha"
+  },
+  "diffOutputLabel": {
+    "message": "E sokolohile"
+  },
+  "ariaSettingsToggle": {
+    "message": "Fetolela phanele ea li-setting"
+  },
+  "ariaShowPassword": {
+    "message": "Hlahisa senotlolo sa API"
+  },
+  "ariaHidePassword": {
+    "message": "Pata senotlolo sa API"
+  },
+  "ariaConvertButton": {
+    "message": "Fetolela mongolo"
+  },
+  "ariaCopyOutput": {
+    "message": "Kopitsa tlhahiso ho clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Hlakola tlhahiso le tlhahiso"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Bula sebaka sa mosebetsi se felletseng ka phanele e ka lehlakoreng"
+  },
+  "ariaDiffToggle": {
+    "message": "Fetolela pono e fapaneng"
+  },
+  "ariaHistoryToggle": {
+    "message": "Fetolela phanele ea nalane"
+  },
+  "keyStatusPresent": {
+    "message": "Senotlolo sa API se bolokiloe"
+  },
+  "keyStatusMissing": {
+    "message": "Ha ho senotlolo sa API se bolokiloeng"
+  },
+  "converting": {
+    "message": "E ea fetolela..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - Sebaka sa ho sebetsa"
+  }
+}

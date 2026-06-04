@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Клод AI көмегімен неміс мәтінін бейресми (Du) және ресми (Sie) регистрлері арасында түрлендіріңіз."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Енгізу"
+  },
+  "outputLabel": {
+    "message": "Шығару"
+  },
+  "inputPlaceholder": {
+    "message": "Неміс мәтінін осы жерге қойыңыз немесе теріңіз…"
+  },
+  "outputPlaceholder": {
+    "message": "Түрлендірілген мәтін осы жерде пайда болады…"
+  },
+  "convertButton": {
+    "message": "Түрлендіру"
+  },
+  "copyButton": {
+    "message": "Көшіру"
+  },
+  "copiedButton": {
+    "message": "Көшірілген!"
+  },
+  "clearButton": {
+    "message": "Таза"
+  },
+  "openSidePanelButton": {
+    "message": "Бүйірлік тақтада ашыңыз"
+  },
+  "settingsTitle": {
+    "message": "Параметрлер"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API кілті"
+  },
+  "apiKeyPlaceholder": {
+    "message": "ск-құмырсқа-…"
+  },
+  "showKeyButton": {
+    "message": "Көрсету"
+  },
+  "hideKeyButton": {
+    "message": "Жасыру"
+  },
+  "saveKeyButton": {
+    "message": "Кілтті сақтау"
+  },
+  "keySavedConfirm": {
+    "message": "Кілт сақталды:"
+  },
+  "testKeyButton": {
+    "message": "Сынақ кілті"
+  },
+  "testKeyValid": {
+    "message": "✓ Жарамды"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Жарамсыз"
+  },
+  "testKeyTesting": {
+    "message": "Сынақталуда…"
+  },
+  "modelLabel": {
+    "message": "Үлгі"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Тонның қарқындылығы"
+  },
+  "toneStandard": {
+    "message": "Стандартты"
+  },
+  "tonePolished": {
+    "message": "Жылтыратылған"
+  },
+  "toneStrictCorporate": {
+    "message": "Қатаң корпоративтік"
+  },
+  "noApiKeyWarning": {
+    "message": "API кілті сақталмады. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "Параметрлер"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Бұл мәтін неміс тілінде болмауы мүмкін. "
+  },
+  "charactersCount": {
+    "message": "$count$ таңба",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Жарамсыз API кілті. "
+  },
+  "errorRateLimit": {
+    "message": "Тариф шегіне жетті. "
+  },
+  "errorApiServer": {
+    "message": "Anthropic API қатесі. "
+  },
+  "errorNetwork": {
+    "message": "Желі қатесі. "
+  },
+  "errorUnknown": {
+    "message": "Күтпеген қате орын алды. "
+  },
+  "errorNoKey": {
+    "message": "API кілті конфигурацияланбаған. "
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Таңдауды түрлендіру → ресми (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Таңдауды түрлендіру → бейресми (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Түрлендіруде…"
+  },
+  "floatingReplaceButton": {
+    "message": "Таңдауды ауыстыру"
+  },
+  "floatingCopyButton": {
+    "message": "Көшіру"
+  },
+  "floatingCopiedButton": {
+    "message": "Көшірілген!"
+  },
+  "floatingDismissButton": {
+    "message": "Босату"
+  },
+  "floatingRetryButton": {
+    "message": "Қайталап көріңіз"
+  },
+  "floatingErrorPrefix": {
+    "message": "Қате:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Бұл беттегі мәтінді ауыстыру мүмкін емес. "
+  },
+  "historyTitle": {
+    "message": "Түрлендіру тарихы"
+  },
+  "historyClearButton": {
+    "message": "Тарихты тазалау"
+  },
+  "historyRestoreButton": {
+    "message": "Қалпына келтіру"
+  },
+  "historyEmpty": {
+    "message": "Әзірге түрлендірулер жоқ."
+  },
+  "historyModeLabel": {
+    "message": "Режим:"
+  },
+  "historyIntensityLabel": {
+    "message": "Қарқындылығы:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Стандартты"
+  },
+  "historyIntensityPolished": {
+    "message": "Жылтыратылған"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Қатаң корпоративтік"
+  },
+  "diffToggleButton": {
+    "message": "Айырмашылықты көрсету"
+  },
+  "diffToggleButtonOff": {
+    "message": "Айырмашылықты жасыру"
+  },
+  "diffInputLabel": {
+    "message": "Түпнұсқа"
+  },
+  "diffOutputLabel": {
+    "message": "Түрлендірілген"
+  },
+  "ariaSettingsToggle": {
+    "message": "Параметрлер тақтасын ауыстыру"
+  },
+  "ariaShowPassword": {
+    "message": "API кілтін көрсету"
+  },
+  "ariaHidePassword": {
+    "message": "API кілтін жасыру"
+  },
+  "ariaConvertButton": {
+    "message": "Мәтінді түрлендіру"
+  },
+  "ariaCopyOutput": {
+    "message": "Шығаруды алмасу буферіне көшіріңіз"
+  },
+  "ariaClearAll": {
+    "message": "Кіріс пен шығысты тазалау"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Бүйірлік панельде толық жұмыс кеңістігін ашыңыз"
+  },
+  "ariaDiffToggle": {
+    "message": "Айырмашылық көрінісін ауыстыру"
+  },
+  "ariaHistoryToggle": {
+    "message": "Тарих тақтасын ауыстыру"
+  },
+  "keyStatusPresent": {
+    "message": "API кілті сақталады"
+  },
+  "keyStatusMissing": {
+    "message": "API кілті сақталмады"
+  },
+  "converting": {
+    "message": "Түрлендіруде…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Жұмыс кеңістігі"
+  }
+}

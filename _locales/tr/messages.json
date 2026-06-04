@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Biçimlendirici"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI kullanarak Almanca metni resmi olmayan (Du) ve resmi (Sie) kayıt arasında dönüştürün."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Giriş"
+  },
+  "outputLabel": {
+    "message": "Çıktı"
+  },
+  "inputPlaceholder": {
+    "message": "Almanca metni buraya yapıştırın veya yazın…"
+  },
+  "outputPlaceholder": {
+    "message": "Dönüştürülen metin görünecektir burada…"
+  },
+  "convertButton": {
+    "message": "Dönüştür"
+  },
+  "copyButton": {
+    "message": "Kopyala"
+  },
+  "copiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "clearButton": {
+    "message": "Temizle"
+  },
+  "openSidePanelButton": {
+    "message": "Yan Panelde Aç"
+  },
+  "settingsTitle": {
+    "message": "Ayarlar"
+  },
+  "apiKeyLabel": {
+    "message": "Antropik API Anahtar"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Göster"
+  },
+  "hideKeyButton": {
+    "message": "Gizle"
+  },
+  "saveKeyButton": {
+    "message": "Anahtarı Kaydet"
+  },
+  "keySavedConfirm": {
+    "message": "Anahtar kaydedildi:"
+  },
+  "testKeyButton": {
+    "message": "Test Anahtarı"
+  },
+  "testKeyValid": {
+    "message": "✓ Geçerli"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Geçersiz"
+  },
+  "testKeyTesting": {
+    "message": "Test ediliyor…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Ton Yoğunluğu"
+  },
+  "toneStandard": {
+    "message": "Standart"
+  },
+  "tonePolished": {
+    "message": "Cilalı"
+  },
+  "toneStrictCorporate": {
+    "message": "Katı Kurumsal"
+  },
+  "noApiKeyWarning": {
+    "message": "Hiçbir API anahtarı kaydedilmedi. Lütfen Antropik API anahtarınızı"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Ayarlar"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "'a girin. Bu metin Almanca olmayabilir. Sonuçlar hatalı olabilir."
+  },
+  "charactersCount": {
+    "message": "$count$ karakter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Geçersiz API anahtarı. Lütfen anahtarınızı Ayarlar'dan kontrol edin."
+  },
+  "errorRateLimit": {
+    "message": "Hız sınırına ulaşıldı. Lütfen bekleyin ve tekrar deneyin."
+  },
+  "errorApiServer": {
+    "message": "Antropik API hatası. Lütfen daha sonra tekrar deneyin."
+  },
+  "errorNetwork": {
+    "message": "Ağ hatası. Lütfen bağlantınızı kontrol edin."
+  },
+  "errorUnknown": {
+    "message": "Beklenmedik bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "errorNoKey": {
+    "message": "Yapılandırılan API anahtarı yok. Lütfen anahtarınızı Ayarlar'a ekleyin."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Biçimlendirici"
+  },
+  "contextMenuToSie": {
+    "message": "Seçimi dönüştür → resmi (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Seçimi dönüştür → resmi olmayan (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Biçimlendirici"
+  },
+  "floatingCardLoading": {
+    "message": "Dönüştürüyor…"
+  },
+  "floatingReplaceButton": {
+    "message": "Değiştir Seçim"
+  },
+  "floatingCopyButton": {
+    "message": "Kopyala"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopyalandı!"
+  },
+  "floatingDismissButton": {
+    "message": "Kapat"
+  },
+  "floatingRetryButton": {
+    "message": "Yeniden dene"
+  },
+  "floatingErrorPrefix": {
+    "message": "Hata:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Bu sayfadaki metin değiştirilemiyor. Lütfen bunun yerine kopyalayın."
+  },
+  "historyTitle": {
+    "message": "Dönüşüm Geçmişi"
+  },
+  "historyClearButton": {
+    "message": "Geçmişi Temizle"
+  },
+  "historyRestoreButton": {
+    "message": "Geri Yükle"
+  },
+  "historyEmpty": {
+    "message": "Henüz dönüşüm yok."
+  },
+  "historyModeLabel": {
+    "message": "Mod:"
+  },
+  "historyIntensityLabel": {
+    "message": "Yoğunluk:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standart"
+  },
+  "historyIntensityPolished": {
+    "message": "Gösterişli"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Katı Kurumsal"
+  },
+  "diffToggleButton": {
+    "message": "Farkı Göster"
+  },
+  "diffToggleButtonOff": {
+    "message": "Farkı Gizle"
+  },
+  "diffInputLabel": {
+    "message": "Orijinal"
+  },
+  "diffOutputLabel": {
+    "message": "Dönüştürülmüş"
+  },
+  "ariaSettingsToggle": {
+    "message": "Ayarlar panelini değiştir"
+  },
+  "ariaShowPassword": {
+    "message": "API'yi göster tuşu"
+  },
+  "ariaHidePassword": {
+    "message": "API anahtarını gizle"
+  },
+  "ariaConvertButton": {
+    "message": "Metni dönüştür"
+  },
+  "ariaCopyOutput": {
+    "message": "Çıktıyı panoya kopyala"
+  },
+  "ariaClearAll": {
+    "message": "Girdi ve çıkışı temizle"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Yan panelde tüm çalışma alanını aç"
+  },
+  "ariaDiffToggle": {
+    "message": "Fark görünümünü değiştir"
+  },
+  "ariaHistoryToggle": {
+    "message": "Geçmiş panelini değiştir"
+  },
+  "keyStatusPresent": {
+    "message": "API anahtarı kaydedildi"
+  },
+  "keyStatusMissing": {
+    "message": "Hiçbir API anahtarı kaydedilmedi"
+  },
+  "converting": {
+    "message": "Dönüştürülüyor…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Biçimlendirici – Çalışma Alanı"
+  }
+}

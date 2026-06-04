@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Konvertéiert Däitsch Text tëscht informellen (Du) a formelle (Sie) Register mat Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": ""
+  },
+  "convertButton": {
+    "message": "Konvertéieren"
+  },
+  "copyButton": {
+    "message": "Kopie"
+  },
+  "copiedButton": {
+    "message": "Kopieert!"
+  },
+  "clearButton": {
+    "message": "Kläeren"
+  },
+  "openSidePanelButton": {
+    "message": "Open am Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Astellunge"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Schlëssel"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "Show"
+  },
+  "hideKeyButton": {
+    "message": "Verstoppen"
+  },
+  "saveKeyButton": {
+    "message": "Schlëssel späicheren"
+  },
+  "keySavedConfirm": {
+    "message": "Schlëssel gespäichert:"
+  },
+  "testKeyButton": {
+    "message": "Testschlëssel"
+  },
+  "testKeyValid": {
+    "message": "✓ Gëlteg"
+  },
+  "testKeyInvalid": {
+    "message": " Ongëlteg"
+  },
+  "testKeyTesting": {
+    "message": "Test…"
+  },
+  "modelLabel": {
+    "message": "Modell"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tounintensitéit"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Poléiert"
+  },
+  "toneStrictCorporate": {
+    "message": "Strikt Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "Keen API-Schlëssel gespäichert. Gitt w.e.g. Ären Anthropic API Schlëssel an"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Astellungen"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Den Text ass vläicht net op Däitsch. D'Resultater kënnen ongenau sinn."
+  },
+  "charactersCount": {
+    "message": "$count$ Zeechen",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Ongülteg API Schlëssel. Kuckt w.e.g. Äre Schlëssel an Astellungen."
+  },
+  "errorRateLimit": {
+    "message": "Tauxlimit erreecht. Waart w.e.g. a probéiert nach eng Kéier."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API Feeler. Probéiert w.e.g. méi spéit nach eng Kéier."
+  },
+  "errorNetwork": {
+    "message": "Netzwierkfehler. Kontrolléiert w.e.g. Är Verbindung."
+  },
+  "errorUnknown": {
+    "message": "En onerwaarte Feeler ass geschitt. Probéiert w.e.g. nach eng Kéier."
+  },
+  "errorNoKey": {
+    "message": "Keen API-Schlëssel konfiguréiert. Füügt w.e.g. Äre Schlëssel an d'Astellungen derbäi."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Konvertéieren Auswiel → formell (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Konvertéiert Selektioun → informell (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "Kopie"
+  },
+  "floatingCopiedButton": {
+    "message": "Kopieert!"
+  },
+  "floatingDismissButton": {
+    "message": "Entloossen"
+  },
+  "floatingRetryButton": {
+    "message": "Erëm probéieren"
+  },
+  "floatingErrorPrefix": {
+    "message": "Feeler:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Kann den Text op dëser Säit net ersetzen. Kopéiert w.e.g. amplaz."
+  },
+  "historyTitle": {
+    "message": "Conversion History"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Restauréieren"
+  },
+  "historyEmpty": {
+    "message": "Nach keng Konversiounen."
+  },
+  "historyModeLabel": {
+    "message": "Modus:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensitéit:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polished"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "diffToggleButton": {
+    "message": "Diff weisen"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff verstoppen"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Konvertéiert"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "API-Schlëssel verstoppen"
+  },
+  "ariaConvertButton": {
+    "message": "Text konvertéieren"
+  },
+  "ariaCopyOutput": {
+    "message": "Output kopéieren op de Clipboard"
+  },
+  "ariaClearAll": {
+    "message": "Input an Ausgang läschen"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Opmaache voll Aarbechtsberäich am Säitepanel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle Diff View ass"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "Keen API-Schlëssel gespäichert"
+  },
+  "converting": {
+    "message": "Konvertéieren..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

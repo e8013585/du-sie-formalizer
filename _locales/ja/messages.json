@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie フォーマライザー"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Claude AI を使用して、ドイツ語テキストを非公式 (Du) 登録と正式 (Sie) 登録の間で変換します。"
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "入力"
+  },
+  "outputLabel": {
+    "message": "出力"
+  },
+  "inputPlaceholder": {
+    "message": "ここにドイツ語テキストを貼り付けるか入力します…"
+  },
+  "outputPlaceholder": {
+    "message": "変換されたテキストここに表示されます…"
+  },
+  "convertButton": {
+    "message": "変換"
+  },
+  "copyButton": {
+    "message": "コピー"
+  },
+  "copiedButton": {
+    "message": "コピーしました!"
+  },
+  "clearButton": {
+    "message": "クリア"
+  },
+  "openSidePanelButton": {
+    "message": "サイド パネルで開く"
+  },
+  "settingsTitle": {
+    "message": "設定"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic APIキー"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "表示"
+  },
+  "hideKeyButton": {
+    "message": "非表示"
+  },
+  "saveKeyButton": {
+    "message": "キーを保存"
+  },
+  "keySavedConfirm": {
+    "message": "保存されたキー:"
+  },
+  "testKeyButton": {
+    "message": "テスト キー"
+  },
+  "testKeyValid": {
+    "message": "✓ 有効"
+  },
+  "testKeyInvalid": {
+    "message": "✗無効"
+  },
+  "testKeyTesting": {
+    "message": "テスト中…"
+  },
+  "modelLabel": {
+    "message": "モデル"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "トーン強度"
+  },
+  "toneStandard": {
+    "message": "標準"
+  },
+  "tonePolished": {
+    "message": "研磨"
+  },
+  "toneStrictCorporate": {
+    "message": "厳格企業"
+  },
+  "noApiKeyWarning": {
+    "message": "API キーが保存されていません。 Anthropic API キーを"
+  },
+  "noApiKeyWarningLink": {
+    "message": "設定"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "に入力してください。このテキストはドイツ語ではない可能性があります。結果は不正確である可能性があります。"
+  },
+  "charactersCount": {
+    "message": "$count$ 文字",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "API キーが無効です。設定でキーを確認してください。"
+  },
+  "errorRateLimit": {
+    "message": "レート制限に達しました。待ってからもう一度お試しください。"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API エラー。後でもう一度試してください。"
+  },
+  "errorNetwork": {
+    "message": "ネットワーク エラー。接続を確認してください。"
+  },
+  "errorUnknown": {
+    "message": "予期しないエラーが発生しました。もう一度お試しください。"
+  },
+  "errorNoKey": {
+    "message": "API キーが設定されていません。設定にキーを追加してください。"
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie フォーマライザー"
+  },
+  "contextMenuToSie": {
+    "message": "選択項目を変換 → 公式 (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "選択項目を変換 → 非公式 (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie フォーマライザー"
+  },
+  "floatingCardLoading": {
+    "message": "変換中…"
+  },
+  "floatingReplaceButton": {
+    "message": "置換選択"
+  },
+  "floatingCopyButton": {
+    "message": "コピー"
+  },
+  "floatingCopiedButton": {
+    "message": "コピーしました!"
+  },
+  "floatingDismissButton": {
+    "message": "破棄"
+  },
+  "floatingRetryButton": {
+    "message": "再試行"
+  },
+  "floatingErrorPrefix": {
+    "message": "エラー:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "このページのテキストは置換できません。代わりにコピーしてください。"
+  },
+  "historyTitle": {
+    "message": "変換履歴"
+  },
+  "historyClearButton": {
+    "message": "履歴をクリア"
+  },
+  "historyRestoreButton": {
+    "message": "復元"
+  },
+  "historyEmpty": {
+    "message": "変換はまだありません。"
+  },
+  "historyModeLabel": {
+    "message": "モード:"
+  },
+  "historyIntensityLabel": {
+    "message": "強度:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "標準"
+  },
+  "historyIntensityPolished": {
+    "message": "洗練"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "厳格企業"
+  },
+  "diffToggleButton": {
+    "message": "差分を表示"
+  },
+  "diffToggleButtonOff": {
+    "message": "差分を隠す"
+  },
+  "diffInputLabel": {
+    "message": "オリジナル"
+  },
+  "diffOutputLabel": {
+    "message": "変換済み"
+  },
+  "ariaSettingsToggle": {
+    "message": "設定パネルの切り替え"
+  },
+  "ariaShowPassword": {
+    "message": "表示API キー"
+  },
+  "ariaHidePassword": {
+    "message": "API キーを非表示にする"
+  },
+  "ariaConvertButton": {
+    "message": "テキストを変換"
+  },
+  "ariaCopyOutput": {
+    "message": "出力をクリップボードにコピー"
+  },
+  "ariaClearAll": {
+    "message": "入力と出力をクリア"
+  },
+  "ariaOpenSidePanel": {
+    "message": "サイド パネルでワークスペース全体を開く"
+  },
+  "ariaDiffToggle": {
+    "message": "差分表示を切り替え"
+  },
+  "ariaHistoryToggle": {
+    "message": "履歴を切り替えパネル"
+  },
+  "keyStatusPresent": {
+    "message": "API キーは保存されています"
+  },
+  "keyStatusMissing": {
+    "message": "API キーは保存されていません"
+  },
+  "converting": {
+    "message": "変換中…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie フォーマライザー – ワークスペース"
+  }
+}

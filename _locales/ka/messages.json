@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "კონვერტირება გერმანული ტექსტი არაფორმალურ (Du) და ფორმალურ (Sie) რეგისტრაციას შორის Claude AI-ის გამოყენებით."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "შეყვანის"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "კონვერტირებული ტექსტი გამოჩნდება აქ…"
+  },
+  "convertButton": {
+    "message": "კონვერტაცია"
+  },
+  "copyButton": {
+    "message": "კოპირება"
+  },
+  "copiedButton": {
+    "message": "კოპირებულია!"
+  },
+  "clearButton": {
+    "message": "გასუფთავება"
+  },
+  "openSidePanelButton": {
+    "message": "გახსნა გვერდითა პანელში"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "ჩვენება"
+  },
+  "hideKeyButton": {
+    "message": "დამალვა"
+  },
+  "saveKeyButton": {
+    "message": "გასაღების შენახვა"
+  },
+  "keySavedConfirm": {
+    "message": "გასაღები შენახულია:"
+  },
+  "testKeyButton": {
+    "message": "სატესტო გასაღები"
+  },
+  "testKeyValid": {
+    "message": "✓ მოქმედებს"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ტესტირება…"
+  },
+  "modelLabel": {
+    "message": "მოდელი"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ტონის ინტენსივობა"
+  },
+  "toneStandard": {
+    "message": "სტანდარტული"
+  },
+  "tonePolished": {
+    "message": "გაპრიალებული"
+  },
+  "toneStrictCorporate": {
+    "message": "მკაცრი კორპორატიული"
+  },
+  "noApiKeyWarning": {
+    "message": "API გასაღები შენახული არ არის. გთხოვთ, შეიყვანოთ თქვენი Anthropic API გასაღები"
+  },
+  "noApiKeyWarningLink": {
+    "message": "პარამეტრებში"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ეს ტექსტი შეიძლება არ იყოს გერმანულად. შედეგები შეიძლება იყოს არაზუსტი."
+  },
+  "charactersCount": {
+    "message": "$count$ სიმბოლო",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "არასწორი API გასაღები. გთხოვთ, შეამოწმოთ თქვენი გასაღები პარამეტრებში."
+  },
+  "errorRateLimit": {
+    "message": "შეფასების ლიმიტი მიღწეულია. გთხოვთ, დაელოდოთ და სცადოთ ხელახლა."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API შეცდომა. გთხოვთ, სცადოთ მოგვიანებით."
+  },
+  "errorNetwork": {
+    "message": "ქსელის შეცდომა. გთხოვთ, შეამოწმოთ თქვენი კავშირი."
+  },
+  "errorUnknown": {
+    "message": "მოხდა მოულოდნელი შეცდომა. გთხოვთ, სცადოთ ხელახლა."
+  },
+  "errorNoKey": {
+    "message": "API გასაღები არ არის კონფიგურირებული. გთხოვთ, დაამატოთ თქვენი გასაღები პარამეტრებში."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert შერჩევა → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert არჩევანი → არაფორმალური (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie ფორმალიზატორი"
+  },
+  "floatingCardLoading": {
+    "message": "კონვერტაცია…"
+  },
+  "floatingReplaceButton": {
+    "message": "შეცვალეთ მონიშვნა"
+  },
+  "floatingCopyButton": {
+    "message": "კოპირება"
+  },
+  "floatingCopiedButton": {
+    "message": "კოპირებულია!"
+  },
+  "floatingDismissButton": {
+    "message": "უარი"
+  },
+  "floatingRetryButton": {
+    "message": "ხელახლა სცადეთ"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "კონვერტაციის ისტორია"
+  },
+  "historyClearButton": {
+    "message": "ისტორიის გასუფთავება"
+  },
+  "historyRestoreButton": {
+    "message": "აღდგენა"
+  },
+  "historyEmpty": {
+    "message": "ჯერ კონვერტაცია არ არის."
+  },
+  "historyModeLabel": {
+    "message": "რეჟიმი:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "სტანდარტული"
+  },
+  "historyIntensityPolished": {
+    "message": "გაპრიალებული"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "მკაცრი კორპორატიული"
+  },
+  "diffToggleButton": {
+    "message": "სხვაობის ჩვენება"
+  },
+  "diffToggleButtonOff": {
+    "message": "განსხვავების დამალვა"
+  },
+  "diffInputLabel": {
+    "message": "ორიგინალი"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "API კლავიშის დამალვა"
+  },
+  "ariaConvertButton": {
+    "message": "ტექსტის კონვერტაცია"
+  },
+  "ariaCopyOutput": {
+    "message": "გაცვლის ბუფერში კოპირება"
+  },
+  "ariaClearAll": {
+    "message": "შეყვანისა და გამომავალის გასუფთავება"
+  },
+  "ariaOpenSidePanel": {
+    "message": "სრული სამუშაო სივრცის გახსნა გვერდითა პანელში"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API გასაღები შენახულია"
+  },
+  "keyStatusMissing": {
+    "message": "API გასაღები არ არის შენახული"
+  },
+  "converting": {
+    "message": "კონვერტაცია…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}

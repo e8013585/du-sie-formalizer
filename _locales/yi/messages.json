@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "דו↔סיע פאָרמאַליזער"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "גער דייַטש טעקסט צווישן ינפאָרמאַל (Du) און פאָרמאַל (Sie) רעגיסטרירן מיט Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "דו → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → דו"
+  },
+  "inputLabel": {
+    "message": "אַרייַנשרייַב"
+  },
+  "outputLabel": {
+    "message": "רעזולטאַט"
+  },
+  "inputPlaceholder": {
+    "message": "פּאַפּ אָדער טיפּ דייַטש טעקסט דאָ ..."
+  },
+  "outputPlaceholder": {
+    "message": "קאָנווערטעד טעקסט וועט דערשייַנען דאָ ..."
+  },
+  "convertButton": {
+    "message": "קאָנווערט"
+  },
+  "copyButton": {
+    "message": "קאָפּי"
+  },
+  "copiedButton": {
+    "message": "קאַפּיד!"
+  },
+  "clearButton": {
+    "message": "קלאָר"
+  },
+  "openSidePanelButton": {
+    "message": "עפֿענען אין סייד פּאַנעל"
+  },
+  "settingsTitle": {
+    "message": "סעטטינגס"
+  },
+  "apiKeyLabel": {
+    "message": "אַנטהראָפּיק אַפּי שליסל"
+  },
+  "apiKeyPlaceholder": {
+    "message": "סק-אַנט-…"
+  },
+  "showKeyButton": {
+    "message": "ווייַזן"
+  },
+  "hideKeyButton": {
+    "message": "באַהאַלטן"
+  },
+  "saveKeyButton": {
+    "message": "היט שליסל"
+  },
+  "keySavedConfirm": {
+    "message": "שליסל געראטעוועט:"
+  },
+  "testKeyButton": {
+    "message": "טעסט שליסל"
+  },
+  "testKeyValid": {
+    "message": "✓ גילטיק"
+  },
+  "testKeyInvalid": {
+    "message": "✗ פאַרקריפּלט"
+  },
+  "testKeyTesting": {
+    "message": "טעסטינג…"
+  },
+  "modelLabel": {
+    "message": "מאָדעל"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "טאָן ינטענסיטי"
+  },
+  "toneStandard": {
+    "message": "נאָרמאַל"
+  },
+  "tonePolished": {
+    "message": "פּאַלישט"
+  },
+  "toneStrictCorporate": {
+    "message": "שטרענג פֿירמע"
+  },
+  "noApiKeyWarning": {
+    "message": "קיין אַפּי שליסל געראטעוועט. "
+  },
+  "noApiKeyWarningLink": {
+    "message": "סעטטינגס"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "דער טעקסט קען נישט זיין אין דייַטש. "
+  },
+  "charactersCount": {
+    "message": "$count$ אותיות",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "אומגילטיגע API שליסל. "
+  },
+  "errorRateLimit": {
+    "message": "קורס שיעור ריטשט. "
+  },
+  "errorApiServer": {
+    "message": "אַנטהראָפּיק אַפּי טעות. "
+  },
+  "errorNetwork": {
+    "message": "נעץ טעות. "
+  },
+  "errorUnknown": {
+    "message": "אן אומגעריכט טעות איז פארגעקומען. "
+  },
+  "errorNoKey": {
+    "message": "קיין אַפּי שליסל קאַנפיגיערד. "
+  },
+  "contextMenuRoot": {
+    "message": "דו↔סיע פאָרמאַליזער"
+  },
+  "contextMenuToSie": {
+    "message": "גער סעלעקציע → פאָרמאַל (סיע)"
+  },
+  "contextMenuToDu": {
+    "message": "גער סעלעקציע → ינפאָרמאַל (דו)"
+  },
+  "floatingCardTitle": {
+    "message": "דו↔סיע פאָרמאַליזער"
+  },
+  "floatingCardLoading": {
+    "message": "קאַנווערטינג…"
+  },
+  "floatingReplaceButton": {
+    "message": "פאַרבייַטן סעלעקציע"
+  },
+  "floatingCopyButton": {
+    "message": "קאָפּי"
+  },
+  "floatingCopiedButton": {
+    "message": "קאַפּיד!"
+  },
+  "floatingDismissButton": {
+    "message": "אָפּזאָגן"
+  },
+  "floatingRetryButton": {
+    "message": "פרובירט ווידער"
+  },
+  "floatingErrorPrefix": {
+    "message": "טעות:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "קענען ניט פאַרבייַטן טעקסט אויף דעם בלאַט. "
+  },
+  "historyTitle": {
+    "message": "קאַנווערזשאַן געשיכטע"
+  },
+  "historyClearButton": {
+    "message": "קלאָר געשיכטע"
+  },
+  "historyRestoreButton": {
+    "message": "ריסטאָר"
+  },
+  "historyEmpty": {
+    "message": "קיין קאַנווערזשאַנז נאָך."
+  },
+  "historyModeLabel": {
+    "message": "מאָדע:"
+  },
+  "historyIntensityLabel": {
+    "message": "ינטענסיטי:"
+  },
+  "historyModeDuToSie": {
+    "message": "דו → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → דו"
+  },
+  "historyIntensityStandard": {
+    "message": "נאָרמאַל"
+  },
+  "historyIntensityPolished": {
+    "message": "פּאַלישט"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "שטרענג פֿירמע"
+  },
+  "diffToggleButton": {
+    "message": "ווייַזן דיפ"
+  },
+  "diffToggleButtonOff": {
+    "message": "באַהאַלטן דיפ"
+  },
+  "diffInputLabel": {
+    "message": "אָריגינעל"
+  },
+  "diffOutputLabel": {
+    "message": "קאָנווערטעד"
+  },
+  "ariaSettingsToggle": {
+    "message": "באַשטימען סעטטינגס טאַפליע"
+  },
+  "ariaShowPassword": {
+    "message": "ווייַזן אַפּי שליסל"
+  },
+  "ariaHidePassword": {
+    "message": "באַהאַלטן אַפּי שליסל"
+  },
+  "ariaConvertButton": {
+    "message": "גער טעקסט"
+  },
+  "ariaCopyOutput": {
+    "message": "קאָפּי רעזולטאַט צו קליפּבאָרד"
+  },
+  "ariaClearAll": {
+    "message": "קלאָר אַרייַנשרייַב און רעזולטאַט"
+  },
+  "ariaOpenSidePanel": {
+    "message": "עפֿענען פול וואָרקספּאַסע אין זייַט טאַפליע"
+  },
+  "ariaDiffToggle": {
+    "message": "באַשטימען די חילוק מיינונג"
+  },
+  "ariaHistoryToggle": {
+    "message": "באַשטימען געשיכטע טאַפליע"
+  },
+  "keyStatusPresent": {
+    "message": "אַפּי שליסל איז געראטעוועט"
+  },
+  "keyStatusMissing": {
+    "message": "קיין אַפּי שליסל געראטעוועט"
+  },
+  "converting": {
+    "message": "קאַנווערטינג…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer - וואָרקספּאַסע"
+  }
+}

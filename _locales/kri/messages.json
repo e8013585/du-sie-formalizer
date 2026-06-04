@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Kɔnvɔyt Jaman tɛks bitwin infɔmal (Du) ɛn fɔmal (Sie) rɛjista yuz Klɔd AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Autput"
+  },
+  "inputPlaceholder": {
+    "message": "Paste ɔ tayp Jaman tɛks ya..."
+  },
+  "outputPlaceholder": {
+    "message": "Kɔnvɔyt tɛks go apia ya..."
+  },
+  "convertButton": {
+    "message": "Kɔnvɔyt"
+  },
+  "copyButton": {
+    "message": "Kɔpi"
+  },
+  "copiedButton": {
+    "message": "Kɔpi!"
+  },
+  "clearButton": {
+    "message": "Klia"
+  },
+  "openSidePanelButton": {
+    "message": "Opin insay Sayd Panɛl"
+  },
+  "settingsTitle": {
+    "message": "Sɛtin"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropik API Ki"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-..."
+  },
+  "showKeyButton": {
+    "message": "Sho"
+  },
+  "hideKeyButton": {
+    "message": "Ayd"
+  },
+  "saveKeyButton": {
+    "message": "Sev Ki"
+  },
+  "keySavedConfirm": {
+    "message": "Ki we dɛn sev:"
+  },
+  "testKeyButton": {
+    "message": "Tɛst Ki"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Tɛst..."
+  },
+  "modelLabel": {
+    "message": "Mɔdel"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tɔn Intɛnsity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polish"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Kɔpɔt"
+  },
+  "noApiKeyWarning": {
+    "message": "Nɔ API ki nɔ sev. Duya, ɛnta yu Anthropic API ki insay"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Sɛtin"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "Dis tɛks nɔ kin de insay Jaman. Di rizɔlt kin nɔ kɔrɛkt."
+  },
+  "charactersCount": {
+    "message": "$count$ karakta",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "Invalid API key. Duya chɛk yu ki na Sɛtin."
+  },
+  "errorRateLimit": {
+    "message": "Rɛt limit dɔn rich. Duya wet ɛn tray bak."
+  },
+  "errorApiServer": {
+    "message": "Anthropic API mistek. Duya tray bak leta."
+  },
+  "errorNetwork": {
+    "message": "Nɛtwɔk mistek. Duya chɛk yu kɔnɛkshɔn."
+  },
+  "errorUnknown": {
+    "message": "Wan mistek we yu nɔ bin de ɛkspɛkt apin. Duya tray bak."
+  },
+  "errorNoKey": {
+    "message": "No API ki nɔ kɔnfigyut. Duya ad yu ki na Sɛtin."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Fɔmalayza"
+  },
+  "contextMenuToSie": {
+    "message": "Kɔnvɔyt sɛlɛkshɔn → fɔmal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Kɔnvɔyt sɛlɛkshɔn → infɔmal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Fɔmalayza"
+  },
+  "floatingCardLoading": {
+    "message": "Kɔnvɔyt..."
+  },
+  "floatingReplaceButton": {
+    "message": "Riples Selekshɔn"
+  },
+  "floatingCopyButton": {
+    "message": "Kɔpi"
+  },
+  "floatingCopiedButton": {
+    "message": "Kɔpi!"
+  },
+  "floatingDismissButton": {
+    "message": "Dismis"
+  },
+  "floatingRetryButton": {
+    "message": "Raytray"
+  },
+  "floatingErrorPrefix": {
+    "message": "Erɔd:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Nɔ ebul fɔ riples tɛks na dis pej. Duya kɔpi insted."
+  },
+  "historyTitle": {
+    "message": "Kɔnvɔshɔn Istri"
+  },
+  "historyClearButton": {
+    "message": "Klia Istri"
+  },
+  "historyRestoreButton": {
+    "message": "Rɛstɔrɔ"
+  },
+  "historyEmpty": {
+    "message": "Nɔ kɔnvɔshɔn yet."
+  },
+  "historyModeLabel": {
+    "message": "Mɔd:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intɛnsity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "Standard"
+  },
+  "historyIntensityPolished": {
+    "message": "Polish"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "Strict Kɔpɔt"
+  },
+  "diffToggleButton": {
+    "message": "Sho Difrɛns"
+  },
+  "diffToggleButtonOff": {
+    "message": "Ayd Difrɛns"
+  },
+  "diffInputLabel": {
+    "message": "Ɔrijinal"
+  },
+  "diffOutputLabel": {
+    "message": "Kɔnvɔyt"
+  },
+  "ariaSettingsToggle": {
+    "message": "Tɔgl sɛtin dɛn panɛl"
+  },
+  "ariaShowPassword": {
+    "message": "Sho API ki"
+  },
+  "ariaHidePassword": {
+    "message": "Ayd API ki"
+  },
+  "ariaConvertButton": {
+    "message": "Kɔnvɔyt tɛks"
+  },
+  "ariaCopyOutput": {
+    "message": "Kɔpi ɔtput to klipbɔd"
+  },
+  "ariaClearAll": {
+    "message": "Klia input ɛn ɔtput"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Opin ful wokples na sayd panɛl"
+  },
+  "ariaDiffToggle": {
+    "message": "Tɔgl difrɛn we fɔ si"
+  },
+  "ariaHistoryToggle": {
+    "message": "Fɔ mek istri panɛl"
+  },
+  "keyStatusPresent": {
+    "message": "API ki dɔn sev"
+  },
+  "keyStatusMissing": {
+    "message": "No API ki nɔ sev"
+  },
+  "converting": {
+    "message": "Kɔnvɔyt..."
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Fɔmalayza – Wokspɛs"
+  }
+}

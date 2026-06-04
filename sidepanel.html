@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Du↔Sie Formalizer – Workspace</title>
+  <link rel="stylesheet" href="sidepanel.css" />
+</head>
+<body>
+
+  <header class="sp-header">
+    <div class="sp-header-left">
+      <span class="sp-logo" aria-hidden="true">Du↔Sie</span>
+      <span class="sp-title" id="spTitle"></span>
+    </div>
+    <div class="sp-header-right">
+      <button class="sp-icon-btn" id="spSettingsToggle" type="button"></button>
+    </div>
+  </header>
+
+  <section class="sp-settings-panel" id="spSettingsPanel" hidden>
+    <div class="sp-settings-inner">
+      <div class="sp-field-group">
+        <label class="sp-field-label" id="spApiKeyLabel" for="spApiKeyInput"></label>
+        <div class="sp-key-row">
+          <div class="sp-key-wrapper">
+            <input type="password" id="spApiKeyInput" class="sp-text-input sp-key-input"
+                   autocomplete="off" spellcheck="false" />
+            <button class="sp-show-hide" id="spShowHideKey" type="button"></button>
+          </div>
+          <span class="sp-key-badge" id="spKeyBadge"></span>
+        </div>
+        <div class="sp-key-actions">
+          <button class="sp-btn sp-btn-secondary sp-btn-sm" id="spSaveKeyBtn" type="button"></button>
+          <button class="sp-btn sp-btn-secondary sp-btn-sm" id="spTestKeyBtn" type="button"></button>
+          <span class="sp-test-result" id="spTestResult" aria-live="polite"></span>
+        </div>
+        <div class="sp-key-confirm" id="spKeyConfirm" aria-live="polite"></div>
+      </div>
+      <div class="sp-field-group">
+        <label class="sp-field-label" id="spModelLabel"></label>
+        <div class="sp-model-display" id="spModelDisplay"></div>
+      </div>
+      <div class="sp-field-group">
+        <label class="sp-field-label" id="spToneLabel" for="spToneSelect"></label>
+        <select class="sp-select" id="spToneSelect">
+          <option value="standard"        id="spOptStandard"></option>
+          <option value="polished"        id="spOptPolished"></option>
+          <option value="strict_corporate" id="spOptStrictCorporate"></option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <div class="sp-controls-bar">
+    <div class="sp-mode-toggle" role="group" id="spModeGroup">
+      <button class="sp-mode-btn sp-mode-du"  id="spModeDuToSie" type="button" data-mode="du_to_sie"></button>
+      <button class="sp-mode-btn sp-mode-sie" id="spModeSieToDu" type="button" data-mode="sie_to_du"></button>
+    </div>
+    <div class="sp-controls-right">
+      <button class="sp-btn sp-btn-secondary sp-btn-sm" id="spDiffToggle" type="button"></button>
+    </div>
+  </div>
+
+  <div class="sp-warning sp-warning-key" id="spNoKeyWarning" hidden role="alert">
+    <span aria-hidden="true">⚠</span>
+    <span id="spNoKeyWarningText"></span>
+    <button class="sp-warning-link" id="spNoKeyWarningLink" type="button"></button>
+  </div>
+  <div class="sp-warning sp-warning-info" id="spNotGermanWarning" hidden role="alert">
+    <span aria-hidden="true">ℹ</span>
+    <span id="spNotGermanWarningText"></span>
+  </div>
+
+  <div class="sp-workspace" id="spWorkspace">
+
+    <div class="sp-pane sp-pane-input">
+      <div class="sp-pane-header">
+        <label class="sp-field-label" id="spInputLabel" for="spInputTextarea"></label>
+        <span class="sp-char-count" id="spInputCharCount"></span>
+      </div>
+      <textarea
+        id="spInputTextarea"
+        class="sp-textarea sp-input-textarea"
+        spellcheck="false"
+        autocomplete="off"
+        dir="ltr"
+      ></textarea>
+    </div>
+
+    <div class="sp-convert-row">
+      <button class="sp-btn sp-btn-primary sp-btn-convert" id="spConvertBtn" type="button" disabled></button>
+    </div>
+
+    <div class="sp-pane sp-pane-output" id="spOutputPane">
+      <div class="sp-pane-header">
+        <label class="sp-field-label" id="spOutputLabel" for="spOutputTextarea"></label>
+        <span class="sp-char-count" id="spOutputCharCount"></span>
+      </div>
+      <textarea
+        id="spOutputTextarea"
+        class="sp-textarea sp-output-textarea"
+        readonly
+        spellcheck="false"
+        autocomplete="off"
+        dir="ltr"
+      ></textarea>
+      <div id="spDiffView" class="sp-diff-view" hidden>
+        <div class="sp-diff-col">
+          <div class="sp-diff-col-label" id="spDiffInputLabel"></div>
+          <div class="sp-diff-content" id="spDiffInput"></div>
+        </div>
+        <div class="sp-diff-col">
+          <div class="sp-diff-col-label" id="spDiffOutputLabel"></div>
+          <div class="sp-diff-content" id="spDiffOutput"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sp-output-actions">
+      <button class="sp-btn sp-btn-secondary sp-btn-sm" id="spCopyBtn" type="button"></button>
+      <button class="sp-btn sp-btn-secondary sp-btn-sm" id="spClearBtn" type="button"></button>
+    </div>
+
+  </div>
+
+  <div class="sp-history-section" id="spHistorySection">
+    <div class="sp-history-header" id="spHistoryToggle" role="button" tabindex="0">
+      <span class="sp-history-title" id="spHistoryTitle"></span>
+      <div class="sp-history-header-right">
+        <button class="sp-btn sp-btn-secondary sp-btn-xs" id="spHistoryClearBtn" type="button"></button>
+        <span class="sp-history-chevron" id="spHistoryChevron" aria-hidden="true">▾</span>
+      </div>
+    </div>
+    <div class="sp-history-list" id="spHistoryList" hidden></div>
+  </div>
+
+  <script src="api.js"></script>
+  <script src="sidepanel.js"></script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Du↔Sie Formalizer</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="app-header-left">
+      <span class="app-logo" aria-hidden="true">Du↔Sie</span>
+      <span class="app-title" id="headerTitle"></span>
+    </div>
+    <button class="icon-btn settings-toggle" id="settingsToggle" type="button">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round"
+           stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="3"/>
+        <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33
+                 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33
+                 l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4
+                 h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06
+                 A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51
+                 a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9
+                 a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+      </svg>
+    </button>
+  </header>
+
+  <section class="settings-panel" id="settingsPanel" aria-label="" hidden>
+    <div class="settings-inner">
+
+      <div class="field-group">
+        <label class="field-label" id="apiKeyLabel" for="apiKeyInput"></label>
+        <div class="key-input-row">
+          <div class="key-input-wrapper">
+            <input
+              type="password"
+              id="apiKeyInput"
+              class="text-input key-input"
+              autocomplete="off"
+              spellcheck="false"
+            />
+            <button class="icon-btn show-hide-btn" id="showHideKey" type="button"></button>
+          </div>
+          <span class="key-status-badge" id="keyStatusBadge" aria-live="polite"></span>
+        </div>
+        <div class="key-actions-row">
+          <button class="btn btn-secondary btn-sm" id="saveKeyBtn" type="button"></button>
+          <button class="btn btn-secondary btn-sm" id="testKeyBtn" type="button"></button>
+          <span class="test-key-result" id="testKeyResult" aria-live="polite"></span>
+        </div>
+        <div class="key-saved-confirm" id="keySavedConfirm" aria-live="polite"></div>
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" id="modelLabel"></label>
+        <div class="model-display" id="modelDisplay"></div>
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" id="toneIntensityLabel" for="toneIntensitySelect"></label>
+        <select class="select-input" id="toneIntensitySelect">
+          <option value="standard" id="optStandard"></option>
+          <option value="polished" id="optPolished"></option>
+          <option value="strict_corporate" id="optStrictCorporate"></option>
+        </select>
+      </div>
+
+    </div>
+  </section>
+
+  <main class="popup-main">
+
+    <div class="mode-toggle-wrapper" role="group" id="modeToggleGroup">
+      <button class="mode-btn mode-du" id="modeDuToSie" type="button" data-mode="du_to_sie"></button>
+      <button class="mode-btn mode-sie" id="modeSieToDu" type="button" data-mode="sie_to_du"></button>
+    </div>
+
+    <div class="warning-banner" id="noKeyWarning" hidden role="alert">
+      <span class="warning-icon" aria-hidden="true">⚠</span>
+      <span id="noKeyWarningText"></span>
+      <button class="warning-link" id="noKeyWarningLink" type="button"></button>
+    </div>
+
+    <div class="warning-banner warning-banner--info" id="notGermanWarning" hidden role="alert">
+      <span class="warning-icon" aria-hidden="true">ℹ</span>
+      <span id="notGermanWarningText"></span>
+    </div>
+
+    <div class="field-group">
+      <div class="textarea-header">
+        <label class="field-label" id="inputLabel" for="inputTextarea"></label>
+        <span class="char-count" id="inputCharCount"></span>
+      </div>
+      <textarea
+        id="inputTextarea"
+        class="textarea"
+        rows="6"
+        spellcheck="false"
+        autocomplete="off"
+        dir="ltr"
+      ></textarea>
+    </div>
+
+    <button class="btn btn-primary btn-convert" id="convertBtn" type="button" disabled></button>
+
+    <div class="field-group">
+      <div class="textarea-header">
+        <label class="field-label" id="outputLabel" for="outputTextarea"></label>
+        <span class="char-count" id="outputCharCount"></span>
+      </div>
+      <textarea
+        id="outputTextarea"
+        class="textarea"
+        rows="6"
+        readonly
+        spellcheck="false"
+        autocomplete="off"
+        dir="ltr"
+      ></textarea>
+    </div>
+
+    <div class="output-actions">
+      <button class="btn btn-secondary btn-sm" id="copyBtn" type="button"></button>
+      <button class="btn btn-secondary btn-sm" id="clearBtn" type="button"></button>
+      <button class="btn btn-secondary btn-sm" id="openSidePanelBtn" type="button"></button>
+    </div>
+
+  </main>
+
+  <script src="api.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

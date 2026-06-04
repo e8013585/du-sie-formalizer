@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": " Du↔Sie Formalizer "
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": " Nemes tekstini Klod AI ulanyp, resmi däl (Du) we resmi (Sie) registriň arasynda öwüriň. "
+  },
+  "modeToggleDuToSie": {
+    "message": " Du → Sie "
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": " Öwürmek "
+  },
+  "copyButton": {
+    "message": " Göçüriň "
+  },
+  "copiedButton": {
+    "message": " Göçürildi! "
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Open in Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": " sk-ant-… "
+  },
+  "showKeyButton": {
+    "message": " Görkeziň "
+  },
+  "hideKeyButton": {
+    "message": " Gizläň "
+  },
+  "saveKeyButton": {
+    "message": " Açary ýatda saklaň "
+  },
+  "keySavedConfirm": {
+    "message": "Key saved:"
+  },
+  "testKeyButton": {
+    "message": "Test Key"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "Testing…"
+  },
+  "modelLabel": {
+    "message": "Model"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "Tone Intensity"
+  },
+  "toneStandard": {
+    "message": "Standard"
+  },
+  "tonePolished": {
+    "message": "Polished"
+  },
+  "toneStrictCorporate": {
+    "message": "Strict Corporate"
+  },
+  "noApiKeyWarning": {
+    "message": "No API key saved. Please enter your Anthropic API key in"
+  },
+  "noApiKeyWarningLink": {
+    "message": " Sazlamalar "
+  },
+  "mayNotBeGermanWarning": {
+    "message": " giriziň, bu tekst nemes dilinde bolmazlygy mümkin. Netijeler nädogry bolup biler. "
+  },
+  "charactersCount": {
+    "message": "$count$ nyşanlar",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": " Nädogry API açary. Sazlamalarda açaryňyzy barlaň. "
+  },
+  "errorRateLimit": {
+    "message": " Bahanyň çägi ýetdi. Garaşyň we gaýtadan synanyşyň. "
+  },
+  "errorApiServer": {
+    "message": " Antropiki API ýalňyşlygy. Soňra gaýtadan synanyşmagyňyzy haýyş edýäris. "
+  },
+  "errorNetwork": {
+    "message": " Ulgam ýalňyşlygy. Baglanyşygyňyzy barlaň. "
+  },
+  "errorUnknown": {
+    "message": " Garaşylmadyk ýalňyşlyk ýüze çykdy. Gaýtadan synanyşmagyňyzy haýyş edýäris. "
+  },
+  "errorNoKey": {
+    "message": "No API key configured. Please add your key in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": " Göçüriň "
+  },
+  "floatingCopiedButton": {
+    "message": " Göçürildi! "
+  },
+  "floatingDismissButton": {
+    "message": " Işden çykaryň "
+  },
+  "floatingRetryButton": {
+    "message": "Retry"
+  },
+  "floatingErrorPrefix": {
+    "message": "Error:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "Cannot replace text on this page. Please copy instead."
+  },
+  "historyTitle": {
+    "message": "Conversion History"
+  },
+  "historyClearButton": {
+    "message": "Clear History"
+  },
+  "historyRestoreButton": {
+    "message": "Restore"
+  },
+  "historyEmpty": {
+    "message": "No conversions yet."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": " Standart "
+  },
+  "historyIntensityPolished": {
+    "message": " Polatly "
+  },
+  "historyIntensityStrictCorporate": {
+    "message": " Gaty korporatiw "
+  },
+  "diffToggleButton": {
+    "message": "Show Diff"
+  },
+  "diffToggleButtonOff": {
+    "message": "Hide Diff"
+  },
+  "diffInputLabel": {
+    "message": "Original"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "Show API key"
+  },
+  "ariaHidePassword": {
+    "message": "Hide API key"
+  },
+  "ariaConvertButton": {
+    "message": " Teksti öwürmek "
+  },
+  "ariaCopyOutput": {
+    "message": " Çykyşy gysga paneli göçüriň "
+  },
+  "ariaClearAll": {
+    "message": " Giriş we çykaryşy arassalamak "
+  },
+  "ariaOpenSidePanel": {
+    "message": " gapdal panelde doly iş ýerini açyň "
+  },
+  "ariaDiffToggle": {
+    "message": " Tapawut tapawudyny açyň "
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "No API key saved"
+  },
+  "converting": {
+    "message": " Öwürmek ... "
+  },
+  "sidePanelTitle": {
+    "message": " Du↔Sie Formalizer - Iş meýdany "
+  }
+}

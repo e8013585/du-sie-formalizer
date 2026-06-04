@@ -1,0 +1,250 @@
+{
+  "extensionName": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "extensionShortName": {
+    "message": "Du↔Sie"
+  },
+  "extensionDescription": {
+    "message": "Convert German text between informal (Du) and formal (Sie) register using Claude AI."
+  },
+  "modeToggleDuToSie": {
+    "message": "Du → Sie"
+  },
+  "modeToggleSieToDu": {
+    "message": "Sie → Du"
+  },
+  "inputLabel": {
+    "message": "Input"
+  },
+  "outputLabel": {
+    "message": "Output"
+  },
+  "inputPlaceholder": {
+    "message": "Paste or type German text here…"
+  },
+  "outputPlaceholder": {
+    "message": "Converted text will appear here…"
+  },
+  "convertButton": {
+    "message": "Convert"
+  },
+  "copyButton": {
+    "message": "Copy"
+  },
+  "copiedButton": {
+    "message": "Copied!"
+  },
+  "clearButton": {
+    "message": "Clear"
+  },
+  "openSidePanelButton": {
+    "message": "Open in Side Panel"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "apiKeyLabel": {
+    "message": "Anthropic API Key"
+  },
+  "apiKeyPlaceholder": {
+    "message": "sk-ant-…"
+  },
+  "showKeyButton": {
+    "message": "دکھائیں"
+  },
+  "hideKeyButton": {
+    "message": "چھپائیں"
+  },
+  "saveKeyButton": {
+    "message": "کلید محفوظ کریں"
+  },
+  "keySavedConfirm": {
+    "message": "کلید محفوظ کی گئی:"
+  },
+  "testKeyButton": {
+    "message": "ٹیسٹ کلید"
+  },
+  "testKeyValid": {
+    "message": "✓ Valid"
+  },
+  "testKeyInvalid": {
+    "message": "✗ Invalid"
+  },
+  "testKeyTesting": {
+    "message": "ٹیسٹنگ…"
+  },
+  "modelLabel": {
+    "message": "ماڈل"
+  },
+  "modelValue": {
+    "message": "claude-sonnet-4-20250514"
+  },
+  "toneIntensityLabel": {
+    "message": "ٹون کی شدت"
+  },
+  "toneStandard": {
+    "message": "معیاری"
+  },
+  "tonePolished": {
+    "message": "پالش"
+  },
+  "toneStrictCorporate": {
+    "message": "سخت کارپوریٹ"
+  },
+  "noApiKeyWarning": {
+    "message": "کوئی API کلید محفوظ نہیں ہے۔ براہ کرم اپنی Anthropic API کلید"
+  },
+  "noApiKeyWarningLink": {
+    "message": "Settings"
+  },
+  "mayNotBeGermanWarning": {
+    "message": "ہو سکتا ہے یہ متن جرمن میں نہ ہو۔ نتائج غلط ہو سکتے ہیں۔"
+  },
+  "charactersCount": {
+    "message": "$count$ حروف",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "errorInvalidKey": {
+    "message": "غلط API کلید۔ براہ کرم سیٹنگز میں اپنی کلید چیک کریں۔"
+  },
+  "errorRateLimit": {
+    "message": "ریٹ کی حد پوری ہوگئی۔ براہ کرم انتظار کریں اور دوبارہ کوشش کریں۔"
+  },
+  "errorApiServer": {
+    "message": "Anthropic API کی خرابی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔"
+  },
+  "errorNetwork": {
+    "message": "نیٹ ورک کی خرابی۔ براہ کرم اپنا کنکشن چیک کریں۔"
+  },
+  "errorUnknown": {
+    "message": "ایک غیر متوقع خرابی پیش آگئی۔ براہ کرم دوبارہ کوشش کریں۔"
+  },
+  "errorNoKey": {
+    "message": "No API key configured. Please add your key in Settings."
+  },
+  "contextMenuRoot": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "contextMenuToSie": {
+    "message": "Convert selection → formal (Sie)"
+  },
+  "contextMenuToDu": {
+    "message": "Convert selection → informal (Du)"
+  },
+  "floatingCardTitle": {
+    "message": "Du↔Sie Formalizer"
+  },
+  "floatingCardLoading": {
+    "message": "Converting…"
+  },
+  "floatingReplaceButton": {
+    "message": "Replace Selection"
+  },
+  "floatingCopyButton": {
+    "message": "کاپی"
+  },
+  "floatingCopiedButton": {
+    "message": "کاپی کیا گیا!"
+  },
+  "floatingDismissButton": {
+    "message": "برخاست کریں"
+  },
+  "floatingRetryButton": {
+    "message": "دوبارہ کوشش کریں"
+  },
+  "floatingErrorPrefix": {
+    "message": "خرابی:"
+  },
+  "floatingReplaceUnavailable": {
+    "message": "اس صفحہ پر متن کو تبدیل نہیں کیا جاسکتا۔ براہ کرم اس کے بجائے کاپی کریں۔"
+  },
+  "historyTitle": {
+    "message": "تبادلوں کی سرگزشت"
+  },
+  "historyClearButton": {
+    "message": "ہسٹری صاف کریں"
+  },
+  "historyRestoreButton": {
+    "message": "بحال کریں"
+  },
+  "historyEmpty": {
+    "message": "No conversions yet."
+  },
+  "historyModeLabel": {
+    "message": "Mode:"
+  },
+  "historyIntensityLabel": {
+    "message": "Intensity:"
+  },
+  "historyModeDuToSie": {
+    "message": "Du → Sie"
+  },
+  "historyModeSieToDu": {
+    "message": "Sie → Du"
+  },
+  "historyIntensityStandard": {
+    "message": "معیاری"
+  },
+  "historyIntensityPolished": {
+    "message": "پالش"
+  },
+  "historyIntensityStrictCorporate": {
+    "message": "سخت کارپوریٹ"
+  },
+  "diffToggleButton": {
+    "message": "Diff دکھائیں"
+  },
+  "diffToggleButtonOff": {
+    "message": "Diff کو چھپائیں"
+  },
+  "diffInputLabel": {
+    "message": "اصل"
+  },
+  "diffOutputLabel": {
+    "message": "Converted"
+  },
+  "ariaSettingsToggle": {
+    "message": "Toggle settings panel"
+  },
+  "ariaShowPassword": {
+    "message": "API کلید دکھائیں"
+  },
+  "ariaHidePassword": {
+    "message": "API کلید کو چھپائیں"
+  },
+  "ariaConvertButton": {
+    "message": "متن کو تبدیل کریں"
+  },
+  "ariaCopyOutput": {
+    "message": "آؤٹ پٹ کو کلپ بورڈ میں کاپی کریں"
+  },
+  "ariaClearAll": {
+    "message": "ان پٹ اور آؤٹ پٹ کو صاف کریں"
+  },
+  "ariaOpenSidePanel": {
+    "message": "Open full workspace in side panel"
+  },
+  "ariaDiffToggle": {
+    "message": "Toggle diff view"
+  },
+  "ariaHistoryToggle": {
+    "message": "Toggle history panel"
+  },
+  "keyStatusPresent": {
+    "message": "API key is saved"
+  },
+  "keyStatusMissing": {
+    "message": "No API key saved"
+  },
+  "converting": {
+    "message": "Converting…"
+  },
+  "sidePanelTitle": {
+    "message": "Du↔Sie Formalizer – Workspace"
+  }
+}
